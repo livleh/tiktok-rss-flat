@@ -1,4 +1,4 @@
-![TikTok RSS Logo](https://tiktokrss.conoroneill.com/favicon-32x32.png)
+![TikTok RSS Logo](https://tiktokrss.conoroneill.com/favicon-32x32.png) 
 # TikTok RSS Using GitHub Actions
 
 Generate usable RSS feeds from TikTok using GitHub Actions and GitHub Pages.
