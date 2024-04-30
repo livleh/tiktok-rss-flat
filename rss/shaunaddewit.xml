@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shaunaddewit</id>
-  <title>shaunaddewit TikTok</title>
+  <title>shaunaddewit</title>
   <updated>2024-04-09T09:20:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
   </author>
-  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://www.tiktok.com/@shaunaddewit" rel="alternate"/>
   <link href="https://livleh.github.io/tiktok-rss-flat/rss/shaunaddewit.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
