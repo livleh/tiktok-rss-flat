@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-04-29T22:50:50+00:00</updated>
+  <updated>2024-04-30T22:54:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7360463274242002218</id>
-    <title>Brothers Dating?  #fyp #brothers #couple </title>
-    <updated>2024-04-21T23:16:56+00:00</updated>
-    <content>Brothers Dating?  #fyp #brothers #couple </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7360463274242002218"/>
-    <published>2024-04-21T23:16:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7360821753784012078</id>
     <title>His Husband Didn’t Want To Come. Washington DC May 17th I am at the Lincoln Theater  #fyp #foryou #husband </title>
@@ -83,6 +75,14 @@
     <content>It’s complicated. Washington DC May 17th I’ll be at the Lincoln Theater xoxo #dc #fyp #foryou </content>
     <link href="https://tiktok.com/@jessicakirson/video/7363425250865974574"/>
     <published>2024-04-29T22:50:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7363797375644667178</id>
+    <title>It wasn’t the first time.  #fyp #foryou </title>
+    <updated>2024-04-30T22:54:56+00:00</updated>
+    <content>It wasn’t the first time.  #fyp #foryou </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7363797375644667178"/>
+    <published>2024-04-30T22:54:56+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7357385455811267883</id>
