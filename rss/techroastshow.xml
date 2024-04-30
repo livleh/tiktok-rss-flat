@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://www.tiktok.com/@techroastshow</id>
+  <title>techroastshow TikTok</title>
+  <updated>2024-04-29T22:28:56+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://tiktokrss.conoroneill.com/rss/techroastshow.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
+  <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7362198646240349486</id>
+    <title>the trolley problem IRL 🏃‍♂️🚂 #tech #softwareengineer #startup #founder #boston #publictransit #comedy #startuplife #techroastshow</title>
+    <updated>2024-04-26T15:31:23+00:00</updated>
+    <content>the trolley problem IRL 🏃‍♂️🚂 #tech #softwareengineer #startup #founder #boston #publictransit #comedy #startuplife #techroastshow</content>
+    <link href="https://tiktok.com/@techroastshow/video/7362198646240349486"/>
+    <published>2024-04-26T15:31:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7362256203268787487</id>
+    <title>Test with @Sauce Labs instead #techie #softwareengineer #siliconvalley #sanfrancisco #bayarea #comedy #funny #developerlife #programmerlife </title>
+    <updated>2024-04-26T19:16:01+00:00</updated>
+    <content>Test with @Sauce Labs instead #techie #softwareengineer #siliconvalley #sanfrancisco #bayarea #comedy #funny #developerlife #programmerlife </content>
+    <link href="https://tiktok.com/@techroastshow/video/7362256203268787487"/>
+    <published>2024-04-26T19:16:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7362524246372863275</id>
+    <title>fold it so small that people forget you have one  #tech #softwareengineer #startup #founder #crowdwork #standupcomedy #comedy #startuplife #techroastshow </title>
+    <updated>2024-04-27T12:35:17+00:00</updated>
+    <content>fold it so small that people forget you have one  #tech #softwareengineer #startup #founder #crowdwork #standupcomedy #comedy #startuplife #techroastshow </content>
+    <link href="https://tiktok.com/@techroastshow/video/7362524246372863275"/>
+    <published>2024-04-27T12:35:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7362640097377930538</id>
+    <title>they’re always looking for someone to blame  #techie #softwareengineer #siliconvalley #sanfrancisco #bayarea #comedy #funny #developerlife #programmerlife</title>
+    <updated>2024-04-27T20:04:20+00:00</updated>
+    <content>they’re always looking for someone to blame  #techie #softwareengineer #siliconvalley #sanfrancisco #bayarea #comedy #funny #developerlife #programmerlife</content>
+    <link href="https://tiktok.com/@techroastshow/video/7362640097377930538"/>
+    <published>2024-04-27T20:04:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7362943672830168362</id>
+    <title>RIP 😔 #tech #softwareengineer #startup #founder #crowdwork #standupcomedy #comedy #startuplife #techroastshow </title>
+    <updated>2024-04-28T15:42:16+00:00</updated>
+    <content>RIP 😔 #tech #softwareengineer #startup #founder #crowdwork #standupcomedy #comedy #startuplife #techroastshow </content>
+    <link href="https://tiktok.com/@techroastshow/video/7362943672830168362"/>
+    <published>2024-04-28T15:42:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7363353272524000555</id>
+    <title>👶 #tech #softwareengineer #startup #founder #crowdwork #standupcomedy #comedy #startuplife #techroastshow </title>
+    <updated>2024-04-29T18:11:37+00:00</updated>
+    <content>👶 #tech #softwareengineer #startup #founder #crowdwork #standupcomedy #comedy #startuplife #techroastshow </content>
+    <link href="https://tiktok.com/@techroastshow/video/7363353272524000555"/>
+    <published>2024-04-29T18:11:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7363419225412668703</id>
+    <title>He wants to invest in you #techbro #techie #softwareengineer #siliconvalley #seattle #sanfrancisco #bayarea #engineeringlife #comedy #coachella</title>
+    <updated>2024-04-29T22:28:56+00:00</updated>
+    <content>He wants to invest in you #techbro #techie #softwareengineer #siliconvalley #seattle #sanfrancisco #bayarea #engineeringlife #comedy #coachella</content>
+    <link href="https://tiktok.com/@techroastshow/video/7363419225412668703"/>
+    <published>2024-04-29T22:28:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
+    <title>FIRE #techbro #techie #softwareengineer #siliconvalley #seattle #sanfrancisco #bayarea #engineeringlife #comedy #character #fyp</title>
+    <updated>2022-02-11T05:54:36+00:00</updated>
+    <content>FIRE #techbro #techie #softwareengineer #siliconvalley #seattle #sanfrancisco #bayarea #engineeringlife #comedy #character #fyp</content>
+    <link href="https://tiktok.com/@techroastshow/video/7063326581816773934"/>
+    <published>2022-02-11T05:54:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7114790525496053035</id>
+    <title>Fresh blood ✨ #techbro #techie #softwareengineer #siliconvalley #seattle #sanfrancisco #bayarea #engineeringlife #comedy #techtok #funny #fypシ゚viral</title>
+    <updated>2022-06-29T22:21:00+00:00</updated>
+    <content>Fresh blood ✨ #techbro #techie #softwareengineer #siliconvalley #seattle #sanfrancisco #bayarea #engineeringlife #comedy #techtok #funny #fypシ゚viral</content>
+    <link href="https://tiktok.com/@techroastshow/video/7114790525496053035"/>
+    <published>2022-06-29T22:21:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7299845315950021931</id>
+    <title>Micro Polo loves flexing the size of his boat #startuplife #microsoft #adobe #sailing #softwareengineer #techbro #crowdwork #funny </title>
+    <updated>2023-11-10T14:48:14+00:00</updated>
+    <content>Micro Polo loves flexing the size of his boat #startuplife #microsoft #adobe #sailing #softwareengineer #techbro #crowdwork #funny </content>
+    <link href="https://tiktok.com/@techroastshow/video/7299845315950021931"/>
+    <published>2023-11-10T14:48:14+00:00</published>
+  </entry>
+</feed>
