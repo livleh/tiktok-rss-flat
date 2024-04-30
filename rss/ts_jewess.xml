@@ -8,9 +8,9 @@
     <email>conor@conoroneill.com</email>
   </author>
   <link href="http://tiktok.com" rel="alternate"/>
-  <link href="https://tiktokrss.conoroneill.com/rss/ts_jewess.xml" rel="self"/>
+  <link href="https://livleh.github.io/tiktok-rss-flat/rss/ts_jewess.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
+  <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ts_jewess</subtitle>
   <entry>
     <id>https://tiktok.com/@ts_jewess/video/7275901522406378795</id>
