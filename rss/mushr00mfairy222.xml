@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222 TikTok</title>
-  <updated>2024-04-29T16:48:34+00:00</updated>
+  <updated>2024-04-30T10:10:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7362898282059664672</id>
-    <title>hard to get rid of?! 😀😭</title>
-    <updated>2024-04-28T12:45:54+00:00</updated>
-    <content>hard to get rid of?! 😀😭</content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7362898282059664672"/>
-    <published>2024-04-28T12:45:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7362899611238845729</id>
     <title>it is and im dy!ng 😭😍</title>
@@ -67,6 +59,14 @@
     <content>notes app core and why</content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7363331910615059744"/>
     <published>2024-04-29T16:48:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7363600427503357217</id>
+    <title>this challenge was so funny 😭😭 @Abi☀️ p2 coming soon! #challenge </title>
+    <updated>2024-04-30T10:10:39+00:00</updated>
+    <content>this challenge was so funny 😭😭 @Abi☀️ p2 coming soon! #challenge </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7363600427503357217"/>
+    <published>2024-04-30T10:10:39+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
