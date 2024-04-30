@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://www.tiktok.com/@nyaravt</id>
+  <title>nyaravt TikTok</title>
+  <updated>2024-04-29T13:00:00+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://livleh.github.io/tiktok-rss-flat/rss/nyaravt.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
+  <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7359930966544043297</id>
+    <title>BIOLOGICAL SX ISN'T REAL?? #vtuber</title>
+    <updated>2024-04-20T12:53:55+00:00</updated>
+    <content>BIOLOGICAL SX ISN'T REAL?? #vtuber</content>
+    <link href="https://tiktok.com/@nyaravt/video/7359930966544043297"/>
+    <published>2024-04-20T12:53:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7360046770006560032</id>
+    <title>DETERMINING PRONOUNS OF STRANGERS #vtuber</title>
+    <updated>2024-04-21T13:00:00+00:00</updated>
+    <content>DETERMINING PRONOUNS OF STRANGERS #vtuber</content>
+    <link href="https://tiktok.com/@nyaravt/video/7360046770006560032"/>
+    <published>2024-04-21T13:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7360059521865125153</id>
+    <title>COMPARING VOICES IS CRINGE #vtuber</title>
+    <updated>2024-04-22T13:00:00+00:00</updated>
+    <content>COMPARING VOICES IS CRINGE #vtuber</content>
+    <link href="https://tiktok.com/@nyaravt/video/7360059521865125153"/>
+    <published>2024-04-22T13:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7361045851608747296</id>
+    <title>COLLARED BY YOUR MOM #vtuber</title>
+    <updated>2024-04-23T12:59:03+00:00</updated>
+    <content>COLLARED BY YOUR MOM #vtuber</content>
+    <link href="https://tiktok.com/@nyaravt/video/7361045851608747296"/>
+    <published>2024-04-23T12:59:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7361046303473749280</id>
+    <title>CLOSETED TRANS GIRL GIVES PARENTS NETFLIX ACCESS #vtuber</title>
+    <updated>2024-04-24T13:00:00+00:00</updated>
+    <content>CLOSETED TRANS GIRL GIVES PARENTS NETFLIX ACCESS #vtuber</content>
+    <link href="https://tiktok.com/@nyaravt/video/7361046303473749280"/>
+    <published>2024-04-24T13:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7361052266863824161</id>
+    <title>EVERYTHING IS A SOCIAL CONSTRUCT #vtuber</title>
+    <updated>2024-04-25T13:00:00+00:00</updated>
+    <content>EVERYTHING IS A SOCIAL CONSTRUCT #vtuber</content>
+    <link href="https://tiktok.com/@nyaravt/video/7361052266863824161"/>
+    <published>2024-04-25T13:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7362156098528234785</id>
+    <title>MY TWITCH VIEWERS ARE MISSING?? #vtuber</title>
+    <updated>2024-04-26T12:48:46+00:00</updated>
+    <content>MY TWITCH VIEWERS ARE MISSING?? #vtuber</content>
+    <link href="https://tiktok.com/@nyaravt/video/7362156098528234785"/>
+    <published>2024-04-26T12:48:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7362159499127377185</id>
+    <title>TURNING MINDLESSNESS INTO BRANDING #vtuber</title>
+    <updated>2024-04-27T13:00:00+00:00</updated>
+    <content>TURNING MINDLESSNESS INTO BRANDING #vtuber</content>
+    <link href="https://tiktok.com/@nyaravt/video/7362159499127377185"/>
+    <published>2024-04-27T13:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7362661569563495712</id>
+    <title>THIS LEGO PIECE IS MY FAVORITE (32557) #vtuber</title>
+    <updated>2024-04-28T13:00:00+00:00</updated>
+    <content>THIS LEGO PIECE IS MY FAVORITE (32557) #vtuber</content>
+    <link href="https://tiktok.com/@nyaravt/video/7362661569563495712"/>
+    <published>2024-04-28T13:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7362887041484475681</id>
+    <title>ASTARION IS AWFUL #vtuber #baldursgate3</title>
+    <updated>2024-04-29T13:00:00+00:00</updated>
+    <content>ASTARION IS AWFUL #vtuber #baldursgate3</content>
+    <link href="https://tiktok.com/@nyaravt/video/7362887041484475681"/>
+    <published>2024-04-29T13:00:00+00:00</published>
+  </entry>
+</feed>
