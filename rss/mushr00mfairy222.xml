@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-04-30T10:10:39+00:00</updated>
+  <updated>2024-04-30T13:43:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7362899611238845729</id>
-    <title>it is and im dy!ng 😭😍</title>
-    <updated>2024-04-28T12:51:02+00:00</updated>
-    <content>it is and im dy!ng 😭😍</content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7362899611238845729"/>
-    <published>2024-04-28T12:51:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7362917223201017120</id>
     <title>ok my wife?? </title>
@@ -67,6 +59,14 @@
     <content>this challenge was so funny 😭😭 @Abi☀️ p2 coming soon! #challenge #dunkingheadchallenge </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7363600427503357217"/>
     <published>2024-04-30T10:10:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7363655198977396001</id>
+    <title>(part 2) head dunking challenge @Abi☀️ #challenge #headdunkchallenge </title>
+    <updated>2024-04-30T13:43:07+00:00</updated>
+    <content>(part 2) head dunking challenge @Abi☀️ #challenge #headdunkchallenge </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7363655198977396001"/>
+    <published>2024-04-30T13:43:07+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
