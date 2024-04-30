@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-04-30T13:43:07+00:00</updated>
+  <updated>2024-04-30T14:33:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7362917223201017120</id>
-    <title>ok my wife?? </title>
-    <updated>2024-04-28T13:59:24+00:00</updated>
-    <content>ok my wife?? </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7362917223201017120"/>
-    <published>2024-04-28T13:59:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7363131365648289056</id>
     <title>is it cheating? #wlw #putafingerdown </title>
@@ -67,6 +59,14 @@
     <content>(part 2) head dunking challenge @Abi☀️ #challenge #headdunkchallenge </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7363655198977396001"/>
     <published>2024-04-30T13:43:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7363668254939778336</id>
+    <title>uk is depressing 😭😭 SO happy i dont live there #uk #british #england</title>
+    <updated>2024-04-30T14:33:49+00:00</updated>
+    <content>uk is depressing 😭😭 SO happy i dont live there #uk #british #england</content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7363668254939778336"/>
+    <published>2024-04-30T14:33:49+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
