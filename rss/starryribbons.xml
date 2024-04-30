@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@starryribbons</id>
   <title>starryribbons</title>
-  <updated>2024-04-29T17:25:34+00:00</updated>
+  <updated>2024-04-30T21:45:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from starryribbons</subtitle>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7361845453580815648</id>
-    <title>i‘m sooo tired i need to sleep 12 hours asap #coquettecore #digitaldiary #wlw #lesbiantiktoks #chappellroan #femlesbian #taylorswifttok #folklore </title>
-    <updated>2024-04-25T16:40:24+00:00</updated>
-    <content>i‘m sooo tired i need to sleep 12 hours asap #coquettecore #digitaldiary #wlw #lesbiantiktoks #chappellroan #femlesbian #taylorswifttok #folklore </content>
-    <link href="https://tiktok.com/@starryribbons/video/7361845453580815648"/>
-    <published>2024-04-25T16:40:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7362222667757374753</id>
     <title>espresso song of the summer btw #coquettecore #digitaldiary #wlw #sabrinacarpenter #lesbiansoftiktok #femlesbian #taylorswifttok </title>
@@ -83,6 +75,14 @@
     <content>oh pretty boyyy #coquettecore #digitaldiary #sapphic #tvgirl #ribbons #femlesbian #makeup #girlhood  </content>
     <link href="https://tiktok.com/@starryribbons/video/7363341441784941856"/>
     <published>2024-04-29T17:25:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7363779545708645664</id>
+    <title>i wont judge you for liking actors or formula1 IM WORSE BY A LOT 😭 #coquettecore #digitaldiary #sapphic #kpop #taylorswifttok #zerobaseone #straykids #fangirl #girlhood #ao3 #marauders</title>
+    <updated>2024-04-30T21:45:38+00:00</updated>
+    <content>i wont judge you for liking actors or formula1 IM WORSE BY A LOT 😭 #coquettecore #digitaldiary #sapphic #kpop #taylorswifttok #zerobaseone #straykids #fangirl #girlhood #ao3 #marauders</content>
+    <link href="https://tiktok.com/@starryribbons/video/7363779545708645664"/>
+    <published>2024-04-30T21:45:38+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7285761406664854817</id>
