@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt TikTok</title>
-  <updated>2024-04-29T13:00:00+00:00</updated>
+  <updated>2024-04-30T13:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7359930966544043297</id>
-    <title>BIOLOGICAL SX ISN'T REAL?? #vtuber</title>
-    <updated>2024-04-20T12:53:55+00:00</updated>
-    <content>BIOLOGICAL SX ISN'T REAL?? #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7359930966544043297"/>
-    <published>2024-04-20T12:53:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7360046770006560032</id>
     <title>DETERMINING PRONOUNS OF STRANGERS #vtuber</title>
@@ -91,5 +83,13 @@
     <content>ASTARION IS AWFUL #vtuber #baldursgate3</content>
     <link href="https://tiktok.com/@nyaravt/video/7362887041484475681"/>
     <published>2024-04-29T13:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7362887636719013153</id>
+    <title>TRANS FEMS WANT ONE THING #vtuber</title>
+    <updated>2024-04-30T13:00:00+00:00</updated>
+    <content>TRANS FEMS WANT ONE THING #vtuber</content>
+    <link href="https://tiktok.com/@nyaravt/video/7362887636719013153"/>
+    <published>2024-04-30T13:00:00+00:00</published>
   </entry>
 </feed>
