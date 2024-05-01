@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-04-30T05:04:48+00:00</updated>
+  <updated>2024-05-01T06:10:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7361315774977330465</id>
-    <title>Will ich das überhaupt wissen? Ist das vielleicht Wissen, das durch die Bücherverbrennung verloren gegangen ist? Mach ich mir zu viele Gedanken darüber? 🤔 #transgendergermany #trans #transgirl </title>
-    <updated>2024-04-24T06:25:09+00:00</updated>
-    <content>Will ich das überhaupt wissen? Ist das vielleicht Wissen, das durch die Bücherverbrennung verloren gegangen ist? Mach ich mir zu viele Gedanken darüber? 🤔 #transgendergermany #trans #transgirl </content>
-    <link href="https://tiktok.com/@tandarok/video/7361315774977330465"/>
-    <published>2024-04-24T06:25:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7361691754933898528</id>
     <title>Ich spiele zurzeit mit @Nina zusammen #ittakestwo 🥰 #twitchclips #twitchgermany </title>
@@ -67,6 +59,14 @@
     <content>Polyamorie ist das, was IHR daraus macht. #twitchclips #twitchgermany #polyamory #beziehung </content>
     <link href="https://tiktok.com/@tandarok/video/7363521545941159200"/>
     <published>2024-04-30T05:04:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7363909656210591009</id>
+    <title>Die Eifersucht ist nicht das Problem, sondern der Umgang damit #beziehung #polyamory #eifersucht #offenebeziehung #nonmonogamy </title>
+    <updated>2024-05-01T06:10:32+00:00</updated>
+    <content>Die Eifersucht ist nicht das Problem, sondern der Umgang damit #beziehung #polyamory #eifersucht #offenebeziehung #nonmonogamy </content>
+    <link href="https://tiktok.com/@tandarok/video/7363909656210591009"/>
+    <published>2024-05-01T06:10:32+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
