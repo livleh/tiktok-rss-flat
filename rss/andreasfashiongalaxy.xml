@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@andreasfashiongalaxy</id>
   <title>andreasfashiongalaxy</title>
-  <updated>2024-04-26T21:18:40+00:00</updated>
+  <updated>2024-05-01T19:59:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from andreasfashiongalaxy</subtitle>
-  <entry>
-    <id>https://tiktok.com/@andreasfashiongalaxy/video/7346321315214675232</id>
-    <title>A brunch outfit for a broochie brunch #letsgetdressed </title>
-    <updated>2024-03-14T20:38:50+00:00</updated>
-    <content>A brunch outfit for a broochie brunch #letsgetdressed </content>
-    <link href="https://tiktok.com/@andreasfashiongalaxy/video/7346321315214675232"/>
-    <published>2024-03-14T20:38:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@andreasfashiongalaxy/video/7348184780439112992</id>
     <title>Vote on this mesh maxi skirt #letsgetdressed </title>
@@ -91,5 +83,13 @@
     <content>Creating a Cinderella ball gown outfit #letsgetdressed </content>
     <link href="https://tiktok.com/@andreasfashiongalaxy/video/7362288254105685280"/>
     <published>2024-04-26T21:18:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@andreasfashiongalaxy/video/7364123362894843169</id>
+    <title>How to wear your midi skirt all year round in every season #letsgetdressed </title>
+    <updated>2024-05-01T19:59:48+00:00</updated>
+    <content>How to wear your midi skirt all year round in every season #letsgetdressed </content>
+    <link href="https://tiktok.com/@andreasfashiongalaxy/video/7364123362894843169"/>
+    <published>2024-05-01T19:59:48+00:00</published>
   </entry>
 </feed>
