@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-04-30T22:49:09+00:00</updated>
+  <updated>2024-05-01T18:20:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7362524246372863275</id>
-    <title>fold it so small that people forget you have one  #tech #softwareengineer #startup #founder #crowdwork #standupcomedy #comedy #startuplife #techroastshow </title>
-    <updated>2024-04-27T12:35:17+00:00</updated>
-    <content>fold it so small that people forget you have one  #tech #softwareengineer #startup #founder #crowdwork #standupcomedy #comedy #startuplife #techroastshow </content>
-    <link href="https://tiktok.com/@techroastshow/video/7362524246372863275"/>
-    <published>2024-04-27T12:35:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7362640097377930538</id>
     <title>they’re always looking for someone to blame  #techie #softwareengineer #siliconvalley #sanfrancisco #bayarea #comedy #funny #developerlife #programmerlife</title>
@@ -67,6 +59,14 @@
     <content>he is practicing his soft skills  #techie #softwareengineer #siliconvalley #sanfrancisco #bayarea #comedy #funny #developerlife #programmerlife</content>
     <link href="https://tiktok.com/@techroastshow/video/7363795898746359083"/>
     <published>2024-04-30T22:49:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7364097626523880750</id>
+    <title>at least he’s used to only needing 15 seconds of time  #techie #softwareengineer #microsoft #seattle #programmerlife #roastbattle #darkhumor #techroastshow</title>
+    <updated>2024-05-01T18:20:07+00:00</updated>
+    <content>at least he’s used to only needing 15 seconds of time  #techie #softwareengineer #microsoft #seattle #programmerlife #roastbattle #darkhumor #techroastshow</content>
+    <link href="https://tiktok.com/@techroastshow/video/7364097626523880750"/>
+    <published>2024-05-01T18:20:07+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>

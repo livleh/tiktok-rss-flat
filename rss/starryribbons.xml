@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@starryribbons</id>
   <title>starryribbons</title>
-  <updated>2024-04-30T21:45:38+00:00</updated>
+  <updated>2024-05-01T18:24:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from starryribbons</subtitle>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7362222667757374753</id>
-    <title>espresso song of the summer btw #coquettecore #digitaldiary #wlw #sabrinacarpenter #lesbiansoftiktok #femlesbian #taylorswifttok </title>
-    <updated>2024-04-26T17:04:11+00:00</updated>
-    <content>espresso song of the summer btw #coquettecore #digitaldiary #wlw #sabrinacarpenter #lesbiansoftiktok #femlesbian #taylorswifttok </content>
-    <link href="https://tiktok.com/@starryribbons/video/7362222667757374753"/>
-    <published>2024-04-26T17:04:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7362222796992236832</id>
     <title>45 minutes of overthinking everday #coquettecore #digitaldiary #wlw #thetorturedpoetsdepartment #thoughtdaughter #real </title>
@@ -83,6 +75,14 @@
     <content>i wont judge you for liking actors or formula1 IM WORSE BY A LOT 😭 #coquettecore #digitaldiary #sapphic #kpop #taylorswifttok #zerobaseone #straykids #fangirl #girlhood #ao3 #marauders</content>
     <link href="https://tiktok.com/@starryribbons/video/7363779545708645664"/>
     <published>2024-04-30T21:45:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7364098713385536801</id>
+    <title>now never is the time to remember and reflect ‼️ #coquettecore #digitaldiary #bts #2018core #mentalhealthmatters #btsedit #hyyh #loveyourselftear </title>
+    <updated>2024-05-01T18:24:10+00:00</updated>
+    <content>now never is the time to remember and reflect ‼️ #coquettecore #digitaldiary #bts #2018core #mentalhealthmatters #btsedit #hyyh #loveyourselftear </content>
+    <link href="https://tiktok.com/@starryribbons/video/7364098713385536801"/>
+    <published>2024-05-01T18:24:10+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7285761406664854817</id>
