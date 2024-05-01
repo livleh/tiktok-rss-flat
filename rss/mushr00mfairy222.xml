@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-05-01T03:06:40+00:00</updated>
+  <updated>2024-05-01T16:08:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7363308980787072289</id>
-    <title>pintrest &lt;3</title>
-    <updated>2024-04-29T15:19:40+00:00</updated>
-    <content>pintrest &lt;3</content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7363308980787072289"/>
-    <published>2024-04-29T15:19:40+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7363310708374670625</id>
-    <title>@Taylor Swift is my wife btw #taylorswift #swiftie </title>
-    <updated>2024-04-29T15:26:19+00:00</updated>
-    <content>@Taylor Swift is my wife btw #taylorswift #swiftie </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7363310708374670625"/>
-    <published>2024-04-29T15:26:19+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7363331910615059744</id>
-    <title>notes app core and why</title>
-    <updated>2024-04-29T16:48:34+00:00</updated>
-    <content>notes app core and why</content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7363331910615059744"/>
-    <published>2024-04-29T16:48:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7363600427503357217</id>
     <title>this challenge was so funny 😭😭 @Abi☀️ p2 coming soon! #challenge #dunkingheadchallenge </title>
@@ -67,6 +43,30 @@
     <content>i didnt almost fall 😭🤭 #ootd #pinkhair </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7363861989350804768"/>
     <published>2024-05-01T03:06:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7364052263347735841</id>
+    <title>it always gets better!! #mh #mentalhealth #recovery </title>
+    <updated>2024-05-01T15:23:55+00:00</updated>
+    <content>it always gets better!! #mh #mentalhealth #recovery </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7364052263347735841"/>
+    <published>2024-05-01T15:23:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7364062282382429472</id>
+    <title>they kicked me out bc they said i was beyond help as a child 😭 #camhs #mh #mentalhealth </title>
+    <updated>2024-05-01T16:02:48+00:00</updated>
+    <content>they kicked me out bc they said i was beyond help as a child 😭 #camhs #mh #mentalhealth </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7364062282382429472"/>
+    <published>2024-05-01T16:02:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7364063673142218016</id>
+    <title>least it makes me funny tho #mh #mentalhealth </title>
+    <updated>2024-05-01T16:08:11+00:00</updated>
+    <content>least it makes me funny tho #mh #mentalhealth </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7364063673142218016"/>
+    <published>2024-05-01T16:08:11+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
