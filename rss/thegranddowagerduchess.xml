@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@thegranddowagerduchess</id>
   <title>thegranddowagerduchess</title>
-  <updated>2024-04-29T02:59:58+00:00</updated>
+  <updated>2024-05-01T00:06:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from thegranddowagerduchess</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thegranddowagerduchess/video/7362186972967865630</id>
-    <title>#CapCut </title>
-    <updated>2024-04-26T14:48:20+00:00</updated>
-    <content>#CapCut </content>
-    <link href="https://tiktok.com/@thegranddowagerduchess/video/7362186972967865630"/>
-    <published>2024-04-26T14:48:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thegranddowagerduchess/video/7362627280058748191</id>
     <title>Replying to @Jasper Stewart Jordan </title>
@@ -67,6 +59,14 @@
     <content>#fyp #foryoupage </content>
     <link href="https://tiktok.com/@thegranddowagerduchess/video/7363118042055789854"/>
     <published>2024-04-29T02:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thegranddowagerduchess/video/7363815385398840606</id>
+    <title>#fyp #queertiktok #dragqueensoftiktok </title>
+    <updated>2024-05-01T00:06:09+00:00</updated>
+    <content>#fyp #queertiktok #dragqueensoftiktok </content>
+    <link href="https://tiktok.com/@thegranddowagerduchess/video/7363815385398840606"/>
+    <published>2024-05-01T00:06:09+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@thegranddowagerduchess/video/7349976585157545246</id>
