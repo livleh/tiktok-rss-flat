@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-04-30T22:54:56+00:00</updated>
+  <updated>2024-05-01T22:18:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7360821753784012078</id>
-    <title>His Husband Didn’t Want To Come. Washington DC May 17th I am at the Lincoln Theater  #fyp #foryou #husband </title>
-    <updated>2024-04-22T22:28:15+00:00</updated>
-    <content>His Husband Didn’t Want To Come. Washington DC May 17th I am at the Lincoln Theater  #fyp #foryou #husband </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7360821753784012078"/>
-    <published>2024-04-22T22:28:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7361195625448213806</id>
     <title>I love my fans 😂 #unhinged #fyp #foryou </title>
@@ -83,6 +75,14 @@
     <content>It wasn’t the first time.  #fyp #foryou </content>
     <link href="https://tiktok.com/@jessicakirson/video/7363797375644667178"/>
     <published>2024-04-30T22:54:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7364159017461108010</id>
+    <title>Goat talk 🐐 #goat #foryou #fyp </title>
+    <updated>2024-05-01T22:18:15+00:00</updated>
+    <content>Goat talk 🐐 #goat #foryou #fyp </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7364159017461108010"/>
+    <published>2024-05-01T22:18:15+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7357385455811267883</id>
