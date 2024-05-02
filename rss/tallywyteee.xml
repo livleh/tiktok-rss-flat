@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tallywyteee</id>
   <title>tallywyteee</title>
-  <updated>2024-05-01T20:30:33+00:00</updated>
+  <updated>2024-05-02T21:12:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tallywyteee</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tallywyteee/video/7361130210965703979</id>
-    <title>What kind of Asian are you? 😅</title>
-    <updated>2024-04-23T18:24:58+00:00</updated>
-    <content>What kind of Asian are you? 😅</content>
-    <link href="https://tiktok.com/@tallywyteee/video/7361130210965703979"/>
-    <published>2024-04-23T18:24:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7361547492644752683</id>
     <title>What would you do if I called you hot? 😅‼️ </title>
@@ -83,6 +75,14 @@
     <content>Are you naughty like me? 😎👍🏻</content>
     <link href="https://tiktok.com/@tallywyteee/video/7364131251336367406"/>
     <published>2024-05-01T20:30:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tallywyteee/video/7364513059676638506</id>
+    <title>You tryna be my big boy? 🤤🙏🏻</title>
+    <updated>2024-05-02T21:12:07+00:00</updated>
+    <content>You tryna be my big boy? 🤤🙏🏻</content>
+    <link href="https://tiktok.com/@tallywyteee/video/7364513059676638506"/>
+    <published>2024-05-02T21:12:07+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7261699619762048298</id>
