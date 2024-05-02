@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-05-02T13:42:13+00:00</updated>
+  <updated>2024-05-02T21:44:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7363353272524000555</id>
-    <title>👶 #tech #softwareengineer #startup #founder #crowdwork #standupcomedy #comedy #startuplife #techroastshow </title>
-    <updated>2024-04-29T18:11:37+00:00</updated>
-    <content>👶 #tech #softwareengineer #startup #founder #crowdwork #standupcomedy #comedy #startuplife #techroastshow </content>
-    <link href="https://tiktok.com/@techroastshow/video/7363353272524000555"/>
-    <published>2024-04-29T18:11:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7363419225412668703</id>
     <title>He wants to invest in you #techbro #techie #softwareengineer #siliconvalley #seattle #sanfrancisco #bayarea #engineeringlife #comedy #coachella</title>
@@ -67,6 +59,14 @@
     <content>🥗🤖  #tech #softwareengineer #startup #founder #crowdwork #standupcomedy #comedy #startuplife #techroastshow</content>
     <link href="https://tiktok.com/@techroastshow/video/7364397053910306090"/>
     <published>2024-05-02T13:42:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7364521426197466410</id>
+    <title>he’s the hero we need  #techie #softwareengineer #siliconvalley #sanfrancisco #bayarea #comedy #funny #developerlife #programmerlife </title>
+    <updated>2024-05-02T21:44:34+00:00</updated>
+    <content>he’s the hero we need  #techie #softwareengineer #siliconvalley #sanfrancisco #bayarea #comedy #funny #developerlife #programmerlife </content>
+    <link href="https://tiktok.com/@techroastshow/video/7364521426197466410"/>
+    <published>2024-05-02T21:44:34+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
