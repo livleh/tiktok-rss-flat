@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-05-02T11:38:37+00:00</updated>
+  <updated>2024-05-02T16:22:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7361139409200352558</id>
-    <title>The perfect Carmel weekend itinerary! 🍷 🐟 🐑 🌊 ☕️ 🍝 I love looking at all the cute fairytale houses in Carmel, but I also adore wine tasting down there. 🍷 The Santa Lucia Highlands AVA next door makes some amazing Pinot Noirs (plus Chards and French Styles</title>
-    <updated>2024-04-23T19:00:36+00:00</updated>
-    <content>The perfect Carmel weekend itinerary! 🍷 🐟 🐑 🌊 ☕️ 🍝 I love looking at all the cute fairytale houses in Carmel, but I also adore wine tasting down there. 🍷 The Santa Lucia Highlands AVA next door makes some amazing Pinot Noirs (plus Chards and French Styles</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7361139409200352558"/>
-    <published>2024-04-23T19:00:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7361556982462942507</id>
     <title>There’s a hidden wine region in California 🤫 🍷 that you need to know about!! Santa Lucia Highlands AVA @slhwine makes some of the best Pinot Noir in the state (along with really great Chardonnay and French styles ?) but I’m a Pinot girlie. It’s often over</title>
@@ -67,6 +59,14 @@
     <content>I'm in Europe for a month, here's what I wore in Amsterdam today 🌷🇳🇱 (curvy size 12/14!) Last day in Amsterdam we walked all over, saw the Anne Frank house and did a canal tour! I wore this cozy sweater and skirt in the morning but tbd changed in the even</content>
     <link href="https://tiktok.com/@whimsysoul/video/7364365184753995054"/>
     <published>2024-05-02T11:38:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7364438391984835883</id>
+    <title>see you in Holland this summer? 🫣🇳🇱 #amsterdam #travel #holland #whimsysoul #iamsterdam #restaurant #waterfront #dining #netherlands #amsterdamfood #amsterdamrestaurant </title>
+    <updated>2024-05-02T16:22:27+00:00</updated>
+    <content>see you in Holland this summer? 🫣🇳🇱 #amsterdam #travel #holland #whimsysoul #iamsterdam #restaurant #waterfront #dining #netherlands #amsterdamfood #amsterdamrestaurant </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7364438391984835883"/>
+    <published>2024-05-02T16:22:27+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
