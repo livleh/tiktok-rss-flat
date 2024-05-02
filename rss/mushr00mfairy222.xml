@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-05-01T16:08:11+00:00</updated>
+  <updated>2024-05-02T11:12:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7363600427503357217</id>
-    <title>this challenge was so funny 😭😭 @Abi☀️ p2 coming soon! #challenge #dunkingheadchallenge </title>
-    <updated>2024-04-30T10:10:39+00:00</updated>
-    <content>this challenge was so funny 😭😭 @Abi☀️ p2 coming soon! #challenge #dunkingheadchallenge </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7363600427503357217"/>
-    <published>2024-04-30T10:10:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7363655198977396001</id>
-    <title>(part 2) head dunking challenge @Abi☀️ #challenge #headdunkchallenge </title>
-    <updated>2024-04-30T13:43:07+00:00</updated>
-    <content>(part 2) head dunking challenge @Abi☀️ #challenge #headdunkchallenge </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7363655198977396001"/>
-    <published>2024-04-30T13:43:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7363668254939778336</id>
     <title>uk is depressing 😭😭 SO happy i dont live there #uk #british #england</title>
@@ -67,6 +51,22 @@
     <content>least it makes me funny tho #mh #mentalhealth </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7364063673142218016"/>
     <published>2024-05-01T16:08:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7364353987820244256</id>
+    <title>like i have something to say every second that cant wait 😭 #yapper </title>
+    <updated>2024-05-02T10:54:54+00:00</updated>
+    <content>like i have something to say every second that cant wait 😭 #yapper </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7364353987820244256"/>
+    <published>2024-05-02T10:54:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7364358502455774497</id>
+    <title>he may being u happiness (or drain the bank) #sonnyangel #sonnyangels #unboxing </title>
+    <updated>2024-05-02T11:12:18+00:00</updated>
+    <content>he may being u happiness (or drain the bank) #sonnyangel #sonnyangels #unboxing </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7364358502455774497"/>
+    <published>2024-05-02T11:12:18+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
