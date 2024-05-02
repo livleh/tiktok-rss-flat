@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-05-01T13:03:30+00:00</updated>
+  <updated>2024-05-02T11:38:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7360459642482330922</id>
-    <title>morning coffee 🤝 cute sheep 🐑 .  Almost captioned this as "Baa Ram Ewe" but idk if Gen Z will get that reference 🤣 Carmel Mission Ranch Restaurant has been a fave of mine for years. It has the best view in Carmel overlooking green pastures with sheep graz</title>
-    <updated>2024-04-21T23:02:58+00:00</updated>
-    <content>morning coffee 🤝 cute sheep 🐑 .  Almost captioned this as "Baa Ram Ewe" but idk if Gen Z will get that reference 🤣 Carmel Mission Ranch Restaurant has been a fave of mine for years. It has the best view in Carmel overlooking green pastures with sheep graz</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7360459642482330922"/>
-    <published>2024-04-21T23:02:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7361139409200352558</id>
     <title>The perfect Carmel weekend itinerary! 🍷 🐟 🐑 🌊 ☕️ 🍝 I love looking at all the cute fairytale houses in Carmel, but I also adore wine tasting down there. 🍷 The Santa Lucia Highlands AVA next door makes some amazing Pinot Noirs (plus Chards and French Styles</title>
@@ -67,6 +59,14 @@
     <content>the BEST way to view Dutch tulips 🌷👇 It's our first time to Amsterdam and we happen to be visiting during the famous Dutch tulip season!! Getting out of the city to see the tulip fields isn't the easiest but I found an amazing tour you need to know about!</content>
     <link href="https://tiktok.com/@whimsysoul/video/7364016019876154666"/>
     <published>2024-05-01T13:03:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7364365184753995054</id>
+    <title>I'm in Europe for a month, here's what I wore in Amsterdam today 🌷🇳🇱 (curvy size 12/14!) Last day in Amsterdam we walked all over, saw the Anne Frank house and did a canal tour! I wore this cozy sweater and skirt in the morning but tbd changed in the even</title>
+    <updated>2024-05-02T11:38:37+00:00</updated>
+    <content>I'm in Europe for a month, here's what I wore in Amsterdam today 🌷🇳🇱 (curvy size 12/14!) Last day in Amsterdam we walked all over, saw the Anne Frank house and did a canal tour! I wore this cozy sweater and skirt in the morning but tbd changed in the even</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7364365184753995054"/>
+    <published>2024-05-02T11:38:37+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
