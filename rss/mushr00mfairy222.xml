@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-05-03T05:31:48+00:00</updated>
+  <updated>2024-05-03T07:38:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7364358502455774497</id>
-    <title>he may being u happiness (or drain the bank) #sonnyangel #sonnyangels #unboxing </title>
-    <updated>2024-05-02T11:12:18+00:00</updated>
-    <content>he may being u happiness (or drain the bank) #sonnyangel #sonnyangels #unboxing </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7364358502455774497"/>
-    <published>2024-05-02T11:12:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7364386474738879777</id>
     <title>autism things #autism #adhd #neurodivergent </title>
@@ -67,6 +59,14 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7364641769759313184"/>
     <published>2024-05-03T05:31:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7364674569489157409</id>
+    <title>a cinematic masterpiece #jellycat #sabrinacarpenter @userrouxx </title>
+    <updated>2024-05-03T07:38:55+00:00</updated>
+    <content>a cinematic masterpiece #jellycat #sabrinacarpenter @userrouxx </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7364674569489157409"/>
+    <published>2024-05-03T07:38:55+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
