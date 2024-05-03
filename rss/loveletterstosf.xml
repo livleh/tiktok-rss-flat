@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2024-05-02T04:39:50+00:00</updated>
+  <updated>2024-05-02T23:24:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from loveletterstosf</subtitle>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7359010300198243626</id>
-    <title>grateful to call this city home 💕 #sf #myfavoriteplace #sanfrancisco #lovelettertosf #sflife #sfliving #california #sfbayarea </title>
-    <updated>2024-04-18T01:18:45+00:00</updated>
-    <content>grateful to call this city home 💕 #sf #myfavoriteplace #sanfrancisco #lovelettertosf #sflife #sfliving #california #sfbayarea </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7359010300198243626"/>
-    <published>2024-04-18T01:18:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7359061450020719914</id>
     <title>blue hour #sf #sfskyline </title>
@@ -91,5 +83,13 @@
     <content>tunnel vision #sf #ggbridge #presidio #fortpoint </content>
     <link href="https://tiktok.com/@loveletterstosf/video/7364257305568873770"/>
     <published>2024-05-02T04:39:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7364547032780164398</id>
+    <title>happy may !! drop any other fun #sfevents happening in the comments 💐 #thisweekendinsf #sftok #thingstodoinsf #sanfrancisco #sflocals #sfmovies #outdoormovie #ferrybuilding </title>
+    <updated>2024-05-02T23:24:28+00:00</updated>
+    <content>happy may !! drop any other fun #sfevents happening in the comments 💐 #thisweekendinsf #sftok #thingstodoinsf #sanfrancisco #sflocals #sfmovies #outdoormovie #ferrybuilding </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7364547032780164398"/>
+    <published>2024-05-02T23:24:28+00:00</published>
   </entry>
 </feed>
