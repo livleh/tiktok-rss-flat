@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-05-02T13:00:00+00:00</updated>
+  <updated>2024-05-03T05:21:55.120294+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,84 +12,4 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7361045851608747296</id>
-    <title>COLLARED BY YOUR MOM #vtuber</title>
-    <updated>2024-04-23T12:59:03+00:00</updated>
-    <content>COLLARED BY YOUR MOM #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7361045851608747296"/>
-    <published>2024-04-23T12:59:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7361046303473749280</id>
-    <title>CLOSETED TRANS GIRL GIVES PARENTS NETFLIX ACCESS #vtuber</title>
-    <updated>2024-04-24T13:00:00+00:00</updated>
-    <content>CLOSETED TRANS GIRL GIVES PARENTS NETFLIX ACCESS #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7361046303473749280"/>
-    <published>2024-04-24T13:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7361052266863824161</id>
-    <title>EVERYTHING IS A SOCIAL CONSTRUCT #vtuber</title>
-    <updated>2024-04-25T13:00:00+00:00</updated>
-    <content>EVERYTHING IS A SOCIAL CONSTRUCT #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7361052266863824161"/>
-    <published>2024-04-25T13:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7362156098528234785</id>
-    <title>MY TWITCH VIEWERS ARE MISSING?? #vtuber</title>
-    <updated>2024-04-26T12:48:46+00:00</updated>
-    <content>MY TWITCH VIEWERS ARE MISSING?? #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7362156098528234785"/>
-    <published>2024-04-26T12:48:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7362159499127377185</id>
-    <title>TURNING MINDLESSNESS INTO BRANDING #vtuber</title>
-    <updated>2024-04-27T13:00:00+00:00</updated>
-    <content>TURNING MINDLESSNESS INTO BRANDING #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7362159499127377185"/>
-    <published>2024-04-27T13:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7362661569563495712</id>
-    <title>THIS LEGO PIECE IS MY FAVORITE (32557) #vtuber</title>
-    <updated>2024-04-28T13:00:00+00:00</updated>
-    <content>THIS LEGO PIECE IS MY FAVORITE (32557) #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7362661569563495712"/>
-    <published>2024-04-28T13:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7362887041484475681</id>
-    <title>ASTARION IS AWFUL #vtuber #baldursgate3</title>
-    <updated>2024-04-29T13:00:00+00:00</updated>
-    <content>ASTARION IS AWFUL #vtuber #baldursgate3</content>
-    <link href="https://tiktok.com/@nyaravt/video/7362887041484475681"/>
-    <published>2024-04-29T13:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7362887636719013153</id>
-    <title>TRANS FEMS WANT ONE THING #vtuber</title>
-    <updated>2024-04-30T13:00:00+00:00</updated>
-    <content>TRANS FEMS WANT ONE THING #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7362887636719013153"/>
-    <published>2024-04-30T13:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7362887540044533025</id>
-    <title>MEN DON'T UNDERSTAND COMPLIMENTS #vtuber</title>
-    <updated>2024-05-01T13:00:00+00:00</updated>
-    <content>MEN DON'T UNDERSTAND COMPLIMENTS #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7362887540044533025"/>
-    <published>2024-05-01T13:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7362888602746899745</id>
-    <title>WHEN PARENTS DISCOVER MY CONTENT #vtuber</title>
-    <updated>2024-05-02T13:00:00+00:00</updated>
-    <content>WHEN PARENTS DISCOVER MY CONTENT #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7362888602746899745"/>
-    <published>2024-05-02T13:00:00+00:00</published>
-  </entry>
 </feed>
