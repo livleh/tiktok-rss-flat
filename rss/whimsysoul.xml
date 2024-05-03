@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-05-03T10:05:40+00:00</updated>
+  <updated>2024-05-03T19:23:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7362179670609038634</id>
-    <title>Day 1 curvy girl outfits in Europe! Just landed in Amsterdam this morning ✈️ changed out of my sweatpants at the airport and into this comfy casual outfit for exploring the city while we wait until we can check in to our hotel.  Wearing @Rothy’s flats (lo</title>
-    <updated>2024-04-26T14:17:37+00:00</updated>
-    <content>Day 1 curvy girl outfits in Europe! Just landed in Amsterdam this morning ✈️ changed out of my sweatpants at the airport and into this comfy casual outfit for exploring the city while we wait until we can check in to our hotel.  Wearing @Rothy’s flats (lo</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7362179670609038634"/>
-    <published>2024-04-26T14:17:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7362421701897948462</id>
     <title>First time in Amsterdam itinerary for day 1! Walked 7 miles today which didn't feel the best on my jet lagged body but this city is too cute 🇳🇱🌷🧡 #amsterdam #netherlands #amsterdamcity #amsterdamguide #redlightdistrict🚨🚨🚨 #cats #amsterdamfood #willtravelf</title>
@@ -67,6 +59,14 @@
     <content>Do you agree? I'm an American who loves Eurovision- these are my top 5 picks for 2024! #eurovision #eurovision2024 #malmö #europapa #whimsysoul #eurovisionsongcontest </content>
     <link href="https://tiktok.com/@whimsysoul/video/7364712221974252843"/>
     <published>2024-05-03T10:05:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7364855995643923758</id>
+    <title>I love Danish grocery stores 😭 they're obsessed with rhubarb as much as i am #denmark #danish #dansk #netto #copenhagen #copenhagentiktok #denmark🇩🇰 #kobenhavn #groceryshopping #whimsysoul #rhubarb </title>
+    <updated>2024-05-03T19:23:00+00:00</updated>
+    <content>I love Danish grocery stores 😭 they're obsessed with rhubarb as much as i am #denmark #danish #dansk #netto #copenhagen #copenhagentiktok #denmark🇩🇰 #kobenhavn #groceryshopping #whimsysoul #rhubarb </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7364855995643923758"/>
+    <published>2024-05-03T19:23:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
