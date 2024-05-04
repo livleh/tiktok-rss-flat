@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-05-04T08:59:35+00:00</updated>
+  <updated>2024-05-04T12:13:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7362421701897948462</id>
-    <title>First time in Amsterdam itinerary for day 1! Walked 7 miles today which didn't feel the best on my jet lagged body but this city is too cute 🇳🇱🌷🧡 #amsterdam #netherlands #amsterdamcity #amsterdamguide #redlightdistrict🚨🚨🚨 #cats #amsterdamfood #willtravelf</title>
-    <updated>2024-04-27T05:57:14+00:00</updated>
-    <content>First time in Amsterdam itinerary for day 1! Walked 7 miles today which didn't feel the best on my jet lagged body but this city is too cute 🇳🇱🌷🧡 #amsterdam #netherlands #amsterdamcity #amsterdamguide #redlightdistrict🚨🚨🚨 #cats #amsterdamfood #willtravelf</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7362421701897948462"/>
-    <published>2024-04-27T05:57:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7363018630398758187</id>
     <title>Amsterdam I have questions about the eggs 🥚 but loved seeing all the different things in your grocery stores! 🧡🥕 #amsterdam #amsterdam🇳🇱 #amsterdamcity #grocerystore #netherlands #holland #dutch #whimsysoul #albertheijn #iamsterdam </title>
@@ -67,6 +59,14 @@
     <content>Nobody in my country knows about Eurovision but I'm obsessed 😝 what's your favorite song this year? #eurovision #eurovison2024 #eurovisionsongcontest </content>
     <link href="https://tiktok.com/@whimsysoul/video/7365066236478098730"/>
     <published>2024-05-04T08:59:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7365116437020658986</id>
+    <title>Help us kind Dansk folk 🙏 #mikkeller #dansk #denmark #copenhagen </title>
+    <updated>2024-05-04T12:13:39+00:00</updated>
+    <content>Help us kind Dansk folk 🙏 #mikkeller #dansk #denmark #copenhagen </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7365116437020658986"/>
+    <published>2024-05-04T12:13:39+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
