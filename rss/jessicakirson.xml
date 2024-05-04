@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-05-02T23:07:45+00:00</updated>
+  <updated>2024-05-04T13:59:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7361923589416832298</id>
-    <title>New Generation Gay Couple 😂 #fyp #foryou #gay </title>
-    <updated>2024-04-25T21:43:52+00:00</updated>
-    <content>New Generation Gay Couple 😂 #fyp #foryou #gay </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7361923589416832298"/>
-    <published>2024-04-25T21:43:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7362300359882100010</id>
     <title>Fanning himself like he’s in church  #fyp #church #foryou </title>
@@ -83,6 +75,14 @@
     <content>ID’d for 🚬 #fyp #foryou </content>
     <link href="https://tiktok.com/@jessicakirson/video/7364542865160031534"/>
     <published>2024-05-02T23:07:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7365143784885374254</id>
+    <title>Group Homes and Bunk Beds  #fyp #foryou </title>
+    <updated>2024-05-04T13:59:49+00:00</updated>
+    <content>Group Homes and Bunk Beds  #fyp #foryou </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7365143784885374254"/>
+    <published>2024-05-04T13:59:49+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7357385455811267883</id>
