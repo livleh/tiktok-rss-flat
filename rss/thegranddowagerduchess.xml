@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@thegranddowagerduchess</id>
   <title>thegranddowagerduchess</title>
-  <updated>2024-05-04T04:05:36+00:00</updated>
+  <updated>2024-05-05T17:20:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from thegranddowagerduchess</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thegranddowagerduchess/video/7363090136227155231</id>
-    <title>#fyp </title>
-    <updated>2024-04-29T01:11:22+00:00</updated>
-    <content>#fyp </content>
-    <link href="https://tiktok.com/@thegranddowagerduchess/video/7363090136227155231"/>
-    <published>2024-04-29T01:11:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thegranddowagerduchess/video/7363092764524924190</id>
     <title>#fyp #queertiktok #dragqueensoftiktok #fashion #highfashiontiktok #couture #queertiktok#foryoupage #fiberoptics #fiberopticdress #light </title>
@@ -67,6 +59,14 @@
     <content>#fyp he was in his 20s ill leave it at that!</content>
     <link href="https://tiktok.com/@thegranddowagerduchess/video/7364990282842066206"/>
     <published>2024-05-04T04:05:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thegranddowagerduchess/video/7365566242217921823</id>
+    <title>#fyp #queertiktok #transwomen </title>
+    <updated>2024-05-05T17:20:33+00:00</updated>
+    <content>#fyp #queertiktok #transwomen </content>
+    <link href="https://tiktok.com/@thegranddowagerduchess/video/7365566242217921823"/>
+    <published>2024-05-05T17:20:33+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@thegranddowagerduchess/video/7349976585157545246</id>
