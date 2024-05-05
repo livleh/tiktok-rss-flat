@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-05-05T13:00:00+00:00</updated>
+  <updated>2024-05-04T13:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7361052266863824161</id>
+    <title>EVERYTHING IS A SOCIAL CONSTRUCT #vtuber</title>
+    <updated>2024-04-25T13:00:00+00:00</updated>
+    <content>EVERYTHING IS A SOCIAL CONSTRUCT #vtuber</content>
+    <link href="https://tiktok.com/@nyaravt/video/7361052266863824161"/>
+    <published>2024-04-25T13:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7362156098528234785</id>
     <title>MY TWITCH VIEWERS ARE MISSING?? #vtuber</title>
@@ -83,13 +91,5 @@
     <content>WHY DO YOU PAINT YOUR NAILS?? #vtuber</content>
     <link href="https://tiktok.com/@nyaravt/video/7364758226052713761"/>
     <published>2024-05-04T13:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7365153640438451488</id>
-    <title>WHY IS CHOKING SO HOT?? #vtuber</title>
-    <updated>2024-05-05T13:00:00+00:00</updated>
-    <content>WHY IS CHOKING SO HOT?? #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7365153640438451488"/>
-    <published>2024-05-05T13:00:00+00:00</published>
   </entry>
 </feed>
