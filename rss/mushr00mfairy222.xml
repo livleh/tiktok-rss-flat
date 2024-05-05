@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-05-05T04:15:20+00:00</updated>
+  <updated>2024-05-05T04:35:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7364641769759313184</id>
-    <title>No Title</title>
-    <updated>2024-05-03T05:31:48+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7364641769759313184"/>
-    <published>2024-05-03T05:31:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7364674569489157409</id>
     <title>a cinematic masterpiece #jellycat #sabrinacarpenter @userrouxx </title>
@@ -67,6 +59,14 @@
     <content>like guys only i should me scared of me 😭 #mh #mentalhealth #Horrify </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7365364077901712673"/>
     <published>2024-05-05T04:15:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7365369278977019168</id>
+    <title>grwm for a party!! #grwm #pinkhair </title>
+    <updated>2024-05-05T04:35:17+00:00</updated>
+    <content>grwm for a party!! #grwm #pinkhair </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7365369278977019168"/>
+    <published>2024-05-05T04:35:17+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
