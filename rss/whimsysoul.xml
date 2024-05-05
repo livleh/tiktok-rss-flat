@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-05-04T12:13:39+00:00</updated>
+  <updated>2024-05-05T19:21:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7363018630398758187</id>
-    <title>Amsterdam I have questions about the eggs 🥚 but loved seeing all the different things in your grocery stores! 🧡🥕 #amsterdam #amsterdam🇳🇱 #amsterdamcity #grocerystore #netherlands #holland #dutch #whimsysoul #albertheijn #iamsterdam </title>
-    <updated>2024-04-28T20:33:09+00:00</updated>
-    <content>Amsterdam I have questions about the eggs 🥚 but loved seeing all the different things in your grocery stores! 🧡🥕 #amsterdam #amsterdam🇳🇱 #amsterdamcity #grocerystore #netherlands #holland #dutch #whimsysoul #albertheijn #iamsterdam </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7363018630398758187"/>
-    <published>2024-04-28T20:33:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7364016019876154666</id>
     <title>the BEST way to view Dutch tulips 🌷👇 It's our first time to Amsterdam and we happen to be visiting during the famous Dutch tulip season!! Getting out of the city to see the tulip fields isn't the easiest but I found an amazing tour you need to know about!</title>
@@ -67,6 +59,14 @@
     <content>Help us kind Dansk folk 🙏 #mikkeller #dansk #denmark #copenhagen </content>
     <link href="https://tiktok.com/@whimsysoul/video/7365116437020658986"/>
     <published>2024-05-04T12:13:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7365597873683156267</id>
+    <title>chronically dehydrated here #europe #thedroughtwastheveryworst #water #european #whimsysoul </title>
+    <updated>2024-05-05T19:21:45+00:00</updated>
+    <content>chronically dehydrated here #europe #thedroughtwastheveryworst #water #european #whimsysoul </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7365597873683156267"/>
+    <published>2024-05-05T19:21:45+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
