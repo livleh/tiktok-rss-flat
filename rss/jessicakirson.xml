@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-05-05T14:22:03+00:00</updated>
+  <updated>2024-05-05T22:52:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7362300359882100010</id>
-    <title>Fanning himself like he’s in church  #fyp #church #foryou </title>
-    <updated>2024-04-26T22:05:54+00:00</updated>
-    <content>Fanning himself like he’s in church  #fyp #church #foryou </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7362300359882100010"/>
-    <published>2024-04-26T22:05:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7362549590408596778</id>
     <title>Guess what’s in her bag. Watch til the end 😂</title>
@@ -91,5 +83,13 @@
     <content>Like and comment for the algorithm thing so everyone can see this. I have a lot of new dates that are on sale now. </content>
     <link href="https://tiktok.com/@jessicakirson/video/7365520613777231146"/>
     <published>2024-05-05T14:22:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7365652169585970474</id>
+    <title>It’s because I’m filled with fear #foryou #foryoupage </title>
+    <updated>2024-05-05T22:52:29+00:00</updated>
+    <content>It’s because I’m filled with fear #foryou #foryoupage </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7365652169585970474"/>
+    <published>2024-05-05T22:52:29+00:00</published>
   </entry>
 </feed>
