@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-05-04T06:45:17+00:00</updated>
+  <updated>2024-05-05T07:40:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7362812751170915617</id>
-    <title>Oops 🫠 #single #relationship </title>
-    <updated>2024-04-28T07:14:08+00:00</updated>
-    <content>Oops 🫠 #single #relationship </content>
-    <link href="https://tiktok.com/@tandarok/video/7362812751170915617"/>
-    <published>2024-04-28T07:14:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7363521545941159200</id>
     <title>Polyamorie ist das, was IHR daraus macht. #twitchclips #twitchgermany #polyamory #beziehung </title>
@@ -67,6 +59,14 @@
     <content>🖤 #coloranalysis #fitcheck #outfit </content>
     <link href="https://tiktok.com/@tandarok/video/7365031817549860128"/>
     <published>2024-05-04T06:45:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7365416959145512224</id>
+    <title>#stitch mit @amelia 💌  #transgendergermany #transgirl #trans </title>
+    <updated>2024-05-05T07:40:08+00:00</updated>
+    <content>#stitch mit @amelia 💌  #transgendergermany #transgirl #trans </content>
+    <link href="https://tiktok.com/@tandarok/video/7365416959145512224"/>
+    <published>2024-05-05T07:40:08+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
