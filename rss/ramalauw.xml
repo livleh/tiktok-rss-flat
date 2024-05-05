@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ramalauw</id>
   <title>ramalauw</title>
-  <updated>2024-05-04T16:39:29+00:00</updated>
+  <updated>2024-05-05T15:20:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ramalauw</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ramalauw/video/7354806643650989345</id>
-    <title>Good food does heal all wounds 🥰</title>
-    <updated>2024-04-06T17:26:11+00:00</updated>
-    <content>Good food does heal all wounds 🥰</content>
-    <link href="https://tiktok.com/@ramalauw/video/7354806643650989345"/>
-    <published>2024-04-06T17:26:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7360332976955165984</id>
     <title>To all of you who are struggling with mental health issues, hope this helps ☺️</title>
@@ -67,6 +59,14 @@
     <content>I’m a work of art 🥹</content>
     <link href="https://tiktok.com/@ramalauw/video/7365184990335880481"/>
     <published>2024-05-04T16:39:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ramalauw/video/7365535633055550753</id>
+    <title>I be fighting for my life during the double cleanse 😵‍💫</title>
+    <updated>2024-05-05T15:20:10+00:00</updated>
+    <content>I be fighting for my life during the double cleanse 😵‍💫</content>
+    <link href="https://tiktok.com/@ramalauw/video/7365535633055550753"/>
+    <published>2024-05-05T15:20:10+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7270903343638187297</id>
