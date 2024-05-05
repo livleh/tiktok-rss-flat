@@ -13,14 +13,6 @@
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tallywyteee</subtitle>
   <entry>
-    <id>https://tiktok.com/@tallywyteee/video/7362264168130530606</id>
-    <title>How would you have reacted? 😂</title>
-    <updated>2024-04-26T19:45:32+00:00</updated>
-    <content>How would you have reacted? 😂</content>
-    <link href="https://tiktok.com/@tallywyteee/video/7362264168130530606"/>
-    <published>2024-04-26T19:45:32+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@tallywyteee/video/7362638796929682731</id>
     <title>Would you give me a kiss? 😝💋 (In a sus way)</title>
     <updated>2024-04-27T19:59:09+00:00</updated>
@@ -91,5 +83,13 @@
     <content>What is homie talking about? 😂</content>
     <link href="https://tiktok.com/@tallywyteee/video/7261699619762048298"/>
     <published>2023-07-30T19:43:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tallywyteee/video/7249546748375371050</id>
+    <title>How would you have reacted? 💀</title>
+    <updated>2023-06-28T01:44:06+00:00</updated>
+    <content>How would you have reacted? 💀</content>
+    <link href="https://tiktok.com/@tallywyteee/video/7249546748375371050"/>
+    <published>2023-06-28T01:44:06+00:00</published>
   </entry>
 </feed>
