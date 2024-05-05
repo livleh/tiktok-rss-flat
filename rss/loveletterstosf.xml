@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2024-05-02T23:24:28+00:00</updated>
+  <updated>2024-05-05T00:55:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from loveletterstosf</subtitle>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7359061450020719914</id>
-    <title>blue hour #sf #sfskyline </title>
-    <updated>2024-04-18T04:37:08+00:00</updated>
-    <content>blue hour #sf #sfskyline </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7359061450020719914"/>
-    <published>2024-04-18T04:37:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7359361325174246698</id>
     <title>no 420 on hippie hill this yr but here are some other events happening in sf #thisweekendinsf #sftok #thingstodoinsf #sfevents #sanfrancisco #sfliving </title>
@@ -91,5 +83,13 @@
     <content>happy may !! drop any other fun #sfevents happening in the comments 💐 #thisweekendinsf #sftok #thingstodoinsf #sanfrancisco #sflocals #sfmovies #outdoormovie #ferrybuilding </content>
     <link href="https://tiktok.com/@loveletterstosf/video/7364547032780164398"/>
     <published>2024-05-02T23:24:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7365312722017291563</id>
+    <title>summer of outside starts now!! check out an upcoming Ferry Flicks at the Fort Point Beer Garden - Fridays in May at sundown! This season is dedicated to iconic films about birthdays – a nod to Fort Point’s 10 Year Anniversary celebration this year. #thing</title>
+    <updated>2024-05-05T00:55:12+00:00</updated>
+    <content>summer of outside starts now!! check out an upcoming Ferry Flicks at the Fort Point Beer Garden - Fridays in May at sundown! This season is dedicated to iconic films about birthdays – a nod to Fort Point’s 10 Year Anniversary celebration this year. #thing</content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7365312722017291563"/>
+    <published>2024-05-05T00:55:12+00:00</published>
   </entry>
 </feed>
