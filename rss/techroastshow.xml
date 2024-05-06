@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-05-06T13:12:29+00:00</updated>
+  <updated>2024-05-06T20:31:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7364521426197466410</id>
-    <title>he’s the hero we need  #techie #softwareengineer #siliconvalley #sanfrancisco #bayarea #comedy #funny #developerlife #programmerlife </title>
-    <updated>2024-05-02T21:44:34+00:00</updated>
-    <content>he’s the hero we need  #techie #softwareengineer #siliconvalley #sanfrancisco #bayarea #comedy #funny #developerlife #programmerlife </content>
-    <link href="https://tiktok.com/@techroastshow/video/7364521426197466410"/>
-    <published>2024-05-02T21:44:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7364782837448461610</id>
     <title>sorry gold diggers, we don’t have his @  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</title>
@@ -67,6 +59,14 @@
     <content>more like PerfectWreck  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</content>
     <link href="https://tiktok.com/@techroastshow/video/7365873711188086059"/>
     <published>2024-05-06T13:12:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7365986871475703082</id>
+    <title>please hire him at once #techie #softwareengineer #siliconvalley #sanfrancisco #bayarea #comedy #funny #developerlife #programmerlife </title>
+    <updated>2024-05-06T20:31:15+00:00</updated>
+    <content>please hire him at once #techie #softwareengineer #siliconvalley #sanfrancisco #bayarea #comedy #funny #developerlife #programmerlife </content>
+    <link href="https://tiktok.com/@techroastshow/video/7365986871475703082"/>
+    <published>2024-05-06T20:31:15+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
