@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2024-05-05T00:55:12+00:00</updated>
+  <updated>2024-05-05T23:19:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from loveletterstosf</subtitle>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7359361325174246698</id>
-    <title>no 420 on hippie hill this yr but here are some other events happening in sf #thisweekendinsf #sftok #thingstodoinsf #sfevents #sanfrancisco #sfliving </title>
-    <updated>2024-04-19T00:00:48+00:00</updated>
-    <content>no 420 on hippie hill this yr but here are some other events happening in sf #thisweekendinsf #sftok #thingstodoinsf #sfevents #sanfrancisco #sfliving </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7359361325174246698"/>
-    <published>2024-04-19T00:00:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7359760047603240234</id>
     <title>I don’t share too many personal tings on here because this account isn’t really about me but rather my experiences in SF (and ofc love for the city!!) Since SF has always been a part of our love story, thought I would share this and also explain why I’ve </title>
@@ -91,5 +83,13 @@
     <content>summer of outside starts now!! check out an upcoming Ferry Flicks at the Fort Point Beer Garden - Fridays in May at sundown! This season is dedicated to iconic films about birthdays – a nod to Fort Point’s 10 Year Anniversary celebration this year. #thing</content>
     <link href="https://tiktok.com/@loveletterstosf/video/7365312722017291563"/>
     <published>2024-05-05T00:55:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7365659142196907310</id>
+    <title>smelly? yes.. cute and playful? also yes 🦭📍 @PIER 39 #sf #sealion #seals #thingstodoinsf #visitingsf #sftok #marinelife #pier39 </title>
+    <updated>2024-05-05T23:19:30+00:00</updated>
+    <content>smelly? yes.. cute and playful? also yes 🦭📍 @PIER 39 #sf #sealion #seals #thingstodoinsf #visitingsf #sftok #marinelife #pier39 </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7365659142196907310"/>
+    <published>2024-05-05T23:19:30+00:00</published>
   </entry>
 </feed>
