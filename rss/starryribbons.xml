@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@starryribbons</id>
   <title>starryribbons</title>
-  <updated>2024-05-03T20:46:15+00:00</updated>
+  <updated>2024-05-06T19:24:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from starryribbons</subtitle>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7362963568293055776</id>
-    <title>like NOT my HOUSE ‼️ #coquettecore #digitaldiary #wlw #fangirl #girlhood #roomaesthetic #kpop #taylorswift #swiftietok #sapphic </title>
-    <updated>2024-04-28T16:59:13+00:00</updated>
-    <content>like NOT my HOUSE ‼️ #coquettecore #digitaldiary #wlw #fangirl #girlhood #roomaesthetic #kpop #taylorswift #swiftietok #sapphic </content>
-    <link href="https://tiktok.com/@starryribbons/video/7362963568293055776"/>
-    <published>2024-04-28T16:59:13+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7362969389248957729</id>
-    <title>this MIGHT be too niche 😭 #coquettecore #digitaldiary #sapphic #lovergirl #kpop #femlesbian #journaling #booktok </title>
-    <updated>2024-04-28T17:21:49+00:00</updated>
-    <content>this MIGHT be too niche 😭 #coquettecore #digitaldiary #sapphic #lovergirl #kpop #femlesbian #journaling #booktok </content>
-    <link href="https://tiktok.com/@starryribbons/video/7362969389248957729"/>
-    <published>2024-04-28T17:21:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7363340958169156896</id>
     <title>social anxiety disorder makes everything seem like the end of the world but I promise its really not! #coquettecore #digitaldiary #mentalhealthmatters #socialanxietydisorder #actuallyautistic #gad #wlw </title>
@@ -83,6 +67,22 @@
     <content>wdym pookie #coquettecore #digitaldiary #straykids #kpop #kimseungmin #photocards #wlw #bestfriendcore </content>
     <link href="https://tiktok.com/@starryribbons/video/7364877497416109345"/>
     <published>2024-05-03T20:46:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7365969209437801760</id>
+    <title>“theres no lov-“ WRONG ‼️ i know love is real bc i love SOOOoooOoo much #coquettecore #digitaldiary #taylorswifttok #lesbiansoftiktok #wlw #sapphic #kpop #femmelesbian #studioghibli </title>
+    <updated>2024-05-06T19:22:38+00:00</updated>
+    <content>“theres no lov-“ WRONG ‼️ i know love is real bc i love SOOOoooOoo much #coquettecore #digitaldiary #taylorswifttok #lesbiansoftiktok #wlw #sapphic #kpop #femmelesbian #studioghibli </content>
+    <link href="https://tiktok.com/@starryribbons/video/7365969209437801760"/>
+    <published>2024-05-06T19:22:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7365969783340223776</id>
+    <title>al of the circus animal references in waolom #coquettecore #digitaldiary #taylorswifttok #wlw #thetorturedpoetsdepartment #waolom #mirrorball </title>
+    <updated>2024-05-06T19:24:51+00:00</updated>
+    <content>al of the circus animal references in waolom #coquettecore #digitaldiary #taylorswifttok #wlw #thetorturedpoetsdepartment #waolom #mirrorball </content>
+    <link href="https://tiktok.com/@starryribbons/video/7365969783340223776"/>
+    <published>2024-05-06T19:24:51+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7285761406664854817</id>
