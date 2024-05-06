@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-05-02T18:00:37+00:00</updated>
+  <updated>2024-05-06T17:57:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7358522943724358944</id>
-    <title>nothing is fate and this is not a sign to do anything dont worry </title>
-    <updated>2024-04-16T17:47:18+00:00</updated>
-    <content>nothing is fate and this is not a sign to do anything dont worry </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7358522943724358944"/>
-    <published>2024-04-16T17:47:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7358896705972079904</id>
     <title>when i asked if it was suitable from birth, i actually meant the book. gonsee wesley’s viideo for a full unboxing! </title>
@@ -91,5 +83,13 @@
     <content>Replying to @TaborTwins the true nature of my diabolical plan. thanks to everyone who called, it was a lot of fun i did it for 3 hours </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7364463732359056673"/>
     <published>2024-05-02T18:00:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7365947307013066016</id>
+    <title>thank for watching</title>
+    <updated>2024-05-06T17:57:40+00:00</updated>
+    <content>thank for watching</content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7365947307013066016"/>
+    <published>2024-05-06T17:57:40+00:00</published>
   </entry>
 </feed>
