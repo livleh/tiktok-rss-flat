@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@thegranddowagerduchess</id>
   <title>thegranddowagerduchess</title>
-  <updated>2024-05-05T17:20:33+00:00</updated>
+  <updated>2024-05-07T13:31:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from thegranddowagerduchess</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thegranddowagerduchess/video/7363092764524924190</id>
-    <title>#fyp #queertiktok #dragqueensoftiktok #fashion #highfashiontiktok #couture #queertiktok#foryoupage #fiberoptics #fiberopticdress #light </title>
-    <updated>2024-04-29T01:21:42+00:00</updated>
-    <content>#fyp #queertiktok #dragqueensoftiktok #fashion #highfashiontiktok #couture #queertiktok#foryoupage #fiberoptics #fiberopticdress #light </content>
-    <link href="https://tiktok.com/@thegranddowagerduchess/video/7363092764524924190"/>
-    <published>2024-04-29T01:21:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thegranddowagerduchess/video/7363118042055789854</id>
     <title>#fyp #foryoupage </title>
@@ -67,6 +59,14 @@
     <content>#fyp #queertiktok #transwomen </content>
     <link href="https://tiktok.com/@thegranddowagerduchess/video/7365566242217921823"/>
     <published>2024-05-05T17:20:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thegranddowagerduchess/video/7366249804319427871</id>
+    <title>#fyp #queertiktok #transwomen #dragqueensoftiktok #highfashiontiktok #performance </title>
+    <updated>2024-05-07T13:31:35+00:00</updated>
+    <content>#fyp #queertiktok #transwomen #dragqueensoftiktok #highfashiontiktok #performance </content>
+    <link href="https://tiktok.com/@thegranddowagerduchess/video/7366249804319427871"/>
+    <published>2024-05-07T13:31:35+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@thegranddowagerduchess/video/7349976585157545246</id>
