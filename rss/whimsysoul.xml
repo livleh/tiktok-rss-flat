@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-05-06T19:13:30+00:00</updated>
+  <updated>2024-05-07T15:15:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7364365184753995054</id>
-    <title>I'm in Europe for a month, here's what I wore in Amsterdam today 🌷🇳🇱 (curvy size 12/14!) Last day in Amsterdam we walked all over, saw the Anne Frank house and did a canal tour! I wore this cozy sweater and skirt in the morning but tbd changed in the even</title>
-    <updated>2024-05-02T11:38:37+00:00</updated>
-    <content>I'm in Europe for a month, here's what I wore in Amsterdam today 🌷🇳🇱 (curvy size 12/14!) Last day in Amsterdam we walked all over, saw the Anne Frank house and did a canal tour! I wore this cozy sweater and skirt in the morning but tbd changed in the even</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7364365184753995054"/>
-    <published>2024-05-02T11:38:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7364647687867747626</id>
     <title>cool things to do in Amsterdam on your first visit 👇 🌷 see the Dutch tulips (if you're visiting during their ~6 week window of bloom!) we did an airbnb experience tour and loved it!  🍪 Try Stroopwafel, either get a pack at a store or go to a local street </title>
@@ -67,6 +59,14 @@
     <content>curvy girl sundresses 🤝 Copenhagen botanical gardens.  Wearing my fave dress of the season by @anthropologie + my go to travel purse by @ardencove  #ootd #curvy #copenhagen #curvyfashion #curvystyle #curvyconfidence #whimsysoul #size12 #size14 #copenhagen</content>
     <link href="https://tiktok.com/@whimsysoul/video/7365966815261969706"/>
     <published>2024-05-06T19:13:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7366276496312356142</id>
+    <title>so many unexpected sets!!! NGL finland's set was 10000x better than i could have imagined. Who else is watching tonight!? #eurovision #eurovision2024 #eurovisionsongcontest </title>
+    <updated>2024-05-07T15:15:19+00:00</updated>
+    <content>so many unexpected sets!!! NGL finland's set was 10000x better than i could have imagined. Who else is watching tonight!? #eurovision #eurovision2024 #eurovisionsongcontest </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7366276496312356142"/>
+    <published>2024-05-07T15:15:19+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
