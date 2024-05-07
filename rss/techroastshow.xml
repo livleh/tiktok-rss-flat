@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-05-07T13:47:02+00:00</updated>
+  <updated>2024-05-07T20:53:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7365140982762900779</id>
-    <title>he’s flatlining 🏃‍♂️ #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</title>
-    <updated>2024-05-04T13:48:51+00:00</updated>
-    <content>he’s flatlining 🏃‍♂️ #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</content>
-    <link href="https://tiktok.com/@techroastshow/video/7365140982762900779"/>
-    <published>2024-05-04T13:48:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7365273789535374634</id>
     <title>every engineer’s dream #techie #softwareengineer #siliconvalley #sanfrancisco #bayarea #comedy #funny #developerlife #programmerlife</title>
@@ -67,6 +59,14 @@
     <content>neither is touched by a human  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</content>
     <link href="https://tiktok.com/@techroastshow/video/7366253783623683374"/>
     <published>2024-05-07T13:47:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7366363561309916459</id>
+    <title>see you never  #techie #softwareengineer #newyork #nyc #manhattan #comedy #funny #developerlife #programmerlife </title>
+    <updated>2024-05-07T20:53:04+00:00</updated>
+    <content>see you never  #techie #softwareengineer #newyork #nyc #manhattan #comedy #funny #developerlife #programmerlife </content>
+    <link href="https://tiktok.com/@techroastshow/video/7366363561309916459"/>
+    <published>2024-05-07T20:53:04+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>

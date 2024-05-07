@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@thegranddowagerduchess</id>
   <title>thegranddowagerduchess</title>
-  <updated>2024-05-07T18:07:59+00:00</updated>
+  <updated>2024-05-07T20:41:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from thegranddowagerduchess</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thegranddowagerduchess/video/7363815385398840606</id>
-    <title>#fyp #queertiktok #dragqueensoftiktok </title>
-    <updated>2024-05-01T00:06:09+00:00</updated>
-    <content>#fyp #queertiktok #dragqueensoftiktok </content>
-    <link href="https://tiktok.com/@thegranddowagerduchess/video/7363815385398840606"/>
-    <published>2024-05-01T00:06:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thegranddowagerduchess/video/7364144178688757023</id>
     <title>#fyp #queertiktok #dragqueensoftiktok #foryoupage #highfashiontiktok #transwomen </title>
@@ -67,6 +59,14 @@
     <content>#fyp #foryoupage #drag </content>
     <link href="https://tiktok.com/@thegranddowagerduchess/video/7366320536361635103"/>
     <published>2024-05-07T18:07:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thegranddowagerduchess/video/7366360037461118239</id>
+    <title>#fyp #foryoupage #hamilton #theater #theatertiktok #theaterkid #cosplay #dragqueen #queertiktok </title>
+    <updated>2024-05-07T20:41:03+00:00</updated>
+    <content>#fyp #foryoupage #hamilton #theater #theatertiktok #theaterkid #cosplay #dragqueen #queertiktok </content>
+    <link href="https://tiktok.com/@thegranddowagerduchess/video/7366360037461118239"/>
+    <published>2024-05-07T20:41:03+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@thegranddowagerduchess/video/7349976585157545246</id>
