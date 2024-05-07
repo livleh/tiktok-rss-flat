@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-05-07T15:59:16+00:00</updated>
+  <updated>2024-05-07T19:07:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7364647687867747626</id>
-    <title>cool things to do in Amsterdam on your first visit 👇 🌷 see the Dutch tulips (if you're visiting during their ~6 week window of bloom!) we did an airbnb experience tour and loved it!  🍪 Try Stroopwafel, either get a pack at a store or go to a local street </title>
-    <updated>2024-05-03T05:55:03+00:00</updated>
-    <content>cool things to do in Amsterdam on your first visit 👇 🌷 see the Dutch tulips (if you're visiting during their ~6 week window of bloom!) we did an airbnb experience tour and loved it!  🍪 Try Stroopwafel, either get a pack at a store or go to a local street </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7364647687867747626"/>
-    <published>2024-05-03T05:55:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7364855995643923758</id>
     <title>I love Danish grocery stores 😭 they're obsessed with rhubarb as much as i am #denmark #danish #dansk #netto #copenhagen #copenhagentiktok #denmark🇩🇰 #kobenhavn #groceryshopping #whimsysoul #rhubarb </title>
@@ -67,6 +59,14 @@
     <content>Finland was so unexpected 😳 who else is watching tonight!? #eurovision #eurovision2024 #eurovisionsongcontest </content>
     <link href="https://tiktok.com/@whimsysoul/video/7366287817070103851"/>
     <published>2024-05-07T15:59:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7366336406278524203</id>
+    <title>Replying to @Idk11 I went to Eurovision!! Today we saw Semi Final 1 afternoon preview and OMG this year is so good!! We met up with my pal Olivia and started off by taking the train from Copenhagen to Malmö, Sweden and checked out the Village first before</title>
+    <updated>2024-05-07T19:07:51+00:00</updated>
+    <content>Replying to @Idk11 I went to Eurovision!! Today we saw Semi Final 1 afternoon preview and OMG this year is so good!! We met up with my pal Olivia and started off by taking the train from Copenhagen to Malmö, Sweden and checked out the Village first before</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7366336406278524203"/>
+    <published>2024-05-07T19:07:51+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
