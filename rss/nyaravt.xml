@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-05-06T13:00:00+00:00</updated>
+  <updated>2024-05-07T13:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7362159499127377185</id>
-    <title>TURNING MINDLESSNESS INTO BRANDING #vtuber</title>
-    <updated>2024-04-27T13:00:00+00:00</updated>
-    <content>TURNING MINDLESSNESS INTO BRANDING #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7362159499127377185"/>
-    <published>2024-04-27T13:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7362661569563495712</id>
     <title>THIS LEGO PIECE IS MY FAVORITE (32557) #vtuber</title>
@@ -91,5 +83,13 @@
     <content>CUTTING OFF YOUR FAMILY #vtuber</content>
     <link href="https://tiktok.com/@nyaravt/video/7365154661986258208"/>
     <published>2024-05-06T13:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7365154190018104609</id>
+    <title>NOT LETTING KIDS BE KIDS #vtuber</title>
+    <updated>2024-05-07T13:00:00+00:00</updated>
+    <content>NOT LETTING KIDS BE KIDS #vtuber</content>
+    <link href="https://tiktok.com/@nyaravt/video/7365154190018104609"/>
+    <published>2024-05-07T13:00:00+00:00</published>
   </entry>
 </feed>
