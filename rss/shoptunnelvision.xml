@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shoptunnelvision</id>
   <title>shoptunnelvision</title>
-  <updated>2024-05-07T18:22:39+00:00</updated>
+  <updated>2024-05-07T22:18:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shoptunnelvision</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shoptunnelvision/video/7356710256988163374</id>
-    <title>No Title</title>
-    <updated>2024-04-11T20:33:26+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@shoptunnelvision/video/7356710256988163374"/>
-    <published>2024-04-11T20:33:26+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@shoptunnelvision/video/7357043968162549035</id>
-    <title>No Title</title>
-    <updated>2024-04-12T18:08:28+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@shoptunnelvision/video/7357043968162549035"/>
-    <published>2024-04-12T18:08:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shoptunnelvision/video/7359322531666431275</id>
     <title>No Title</title>
@@ -91,5 +75,21 @@
     <content>A year of tunnel vision jewelry — $120, one new jewelry item every month, uniquely designed just for this program! Online now!  </content>
     <link href="https://tiktok.com/@shoptunnelvision/video/7366324771501526314"/>
     <published>2024-05-07T18:22:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shoptunnelvision/video/7366373291856235822</id>
+    <title>Replying to @fuckbobchapek </title>
+    <updated>2024-05-07T21:30:44+00:00</updated>
+    <content>Replying to @fuckbobchapek </content>
+    <link href="https://tiktok.com/@shoptunnelvision/video/7366373291856235822"/>
+    <published>2024-05-07T21:30:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shoptunnelvision/video/7366385685487570218</id>
+    <title>Replying to @user9973839691966 </title>
+    <updated>2024-05-07T22:18:54+00:00</updated>
+    <content>Replying to @user9973839691966 </content>
+    <link href="https://tiktok.com/@shoptunnelvision/video/7366385685487570218"/>
+    <published>2024-05-07T22:18:54+00:00</published>
   </entry>
 </feed>
