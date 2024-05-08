@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tallywyteee</id>
   <title>tallywyteee</title>
-  <updated>2024-05-06T21:32:08+00:00</updated>
+  <updated>2024-05-08T20:42:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tallywyteee</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tallywyteee/video/7363031986790763819</id>
-    <title>Hello! 👋🏻😄 (you would troll me so hard if you commented something sus instead of the usual reply of “hello” back) </title>
-    <updated>2024-04-28T21:24:59+00:00</updated>
-    <content>Hello! 👋🏻😄 (you would troll me so hard if you commented something sus instead of the usual reply of “hello” back) </content>
-    <link href="https://tiktok.com/@tallywyteee/video/7363031986790763819"/>
-    <published>2024-04-28T21:24:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7363056239535721770</id>
     <title>(This tattoo project lowkey took 24 hours total. Thank you so much to Ulises Indio 😎🙏🏻)</title>
@@ -75,6 +67,14 @@
     <content>What counrty are you frim? 😎</content>
     <link href="https://tiktok.com/@tallywyteee/video/7366002548345539886"/>
     <published>2024-05-06T21:32:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tallywyteee/video/7366731827077188910</id>
+    <title>Are you gæ? 😝💙</title>
+    <updated>2024-05-08T20:42:04+00:00</updated>
+    <content>Are you gæ? 😝💙</content>
+    <link href="https://tiktok.com/@tallywyteee/video/7366731827077188910"/>
+    <published>2024-05-08T20:42:04+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7261699619762048298</id>
