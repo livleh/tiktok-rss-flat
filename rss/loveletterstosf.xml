@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2024-05-05T23:19:30+00:00</updated>
+  <updated>2024-05-08T01:32:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from loveletterstosf</subtitle>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7359760047603240234</id>
-    <title>I don’t share too many personal tings on here because this account isn’t really about me but rather my experiences in SF (and ofc love for the city!!) Since SF has always been a part of our love story, thought I would share this and also explain why I’ve </title>
-    <updated>2024-04-20T01:48:09+00:00</updated>
-    <content>I don’t share too many personal tings on here because this account isn’t really about me but rather my experiences in SF (and ofc love for the city!!) Since SF has always been a part of our love story, thought I would share this and also explain why I’ve </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7359760047603240234"/>
-    <published>2024-04-20T01:48:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7360700520996130094</id>
     <title>palace of fine arts glow✨ #sf #palaceoffinearts #sfspring #sfsunset </title>
@@ -91,5 +83,13 @@
     <content>smelly? yes.. cute and playful? also yes 🦭📍 @PIER 39 #sf #sealion #seals #thingstodoinsf #visitingsf #sftok #marinelife #pier39 </content>
     <link href="https://tiktok.com/@loveletterstosf/video/7365659142196907310"/>
     <published>2024-05-05T23:19:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7366435657373437230</id>
+    <title>J line 🤍 #dolorespark #sf #sfmuni #sfmta  </title>
+    <updated>2024-05-08T01:32:47+00:00</updated>
+    <content>J line 🤍 #dolorespark #sf #sfmuni #sfmta  </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7366435657373437230"/>
+    <published>2024-05-08T01:32:47+00:00</published>
   </entry>
 </feed>
