@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-05-08T20:25:22+00:00</updated>
+  <updated>2024-05-07T23:05:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7362937715089739050</id>
+    <title>Washington DC! Friday May 17th I have added a show! Saturday is sold out but some tickets are still available for May 17th xoxo #washingtondc #dc </title>
+    <updated>2024-04-28T15:19:04+00:00</updated>
+    <content>Washington DC! Friday May 17th I have added a show! Saturday is sold out but some tickets are still available for May 17th xoxo #washingtondc #dc </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7362937715089739050"/>
+    <published>2024-04-28T15:19:04+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7363037054923459883</id>
     <title>I love how honest he was xoxo  #depresion #fyp </title>
@@ -75,14 +83,6 @@
     <content>I thought he was 🤷 #gaytiktok #🏳️‍🌈 #lgbt </content>
     <link href="https://tiktok.com/@jessicakirson/video/7366397635437038894"/>
     <published>2024-05-07T23:05:13+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7366727395035942187</id>
-    <title>She Moves Amputated Limbs 😳 #hospital #foryou </title>
-    <updated>2024-05-08T20:25:22+00:00</updated>
-    <content>She Moves Amputated Limbs 😳 #hospital #foryou </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7366727395035942187"/>
-    <published>2024-05-08T20:25:22+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7365520613777231146</id>
