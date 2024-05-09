@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-05-08T18:10:44+00:00</updated>
+  <updated>2024-05-09T18:32:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7360007032449092896</id>
-    <title>happy 420. please praise god responsibly </title>
-    <updated>2024-04-20T17:46:21+00:00</updated>
-    <content>happy 420. please praise god responsibly </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7360007032449092896"/>
-    <published>2024-04-20T17:46:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7360377988933881121</id>
     <title>the hack green secret nuclear bunker which apparently had nothing to do with @Hank Green </title>
@@ -91,5 +83,13 @@
     <content>i wont be posting videos for 2 or 3 days because oy vey surprised me with a little holiday!!!! thank you oy vey</content>
     <link href="https://tiktok.com/@zoebreadtok/video/7366692853768113440"/>
     <published>2024-05-08T18:10:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7367069569703316768</id>
+    <title>thank you for the best holiday oy vey!!! </title>
+    <updated>2024-05-09T18:32:35+00:00</updated>
+    <content>thank you for the best holiday oy vey!!! </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7367069569703316768"/>
+    <published>2024-05-09T18:32:35+00:00</published>
   </entry>
 </feed>

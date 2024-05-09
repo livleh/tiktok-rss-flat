@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@sssmalltea</id>
   <title>sssmalltea</title>
-  <updated>2024-04-23T18:37:32+00:00</updated>
+  <updated>2024-05-09T18:41:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from sssmalltea</subtitle>
-  <entry>
-    <id>https://tiktok.com/@sssmalltea/video/7340378425254759722</id>
-    <title>mom compliments &gt; #trans #lgbt #queer #fyp </title>
-    <updated>2024-02-27T20:17:28+00:00</updated>
-    <content>mom compliments &gt; #trans #lgbt #queer #fyp </content>
-    <link href="https://tiktok.com/@sssmalltea/video/7340378425254759722"/>
-    <published>2024-02-27T20:17:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@sssmalltea/video/7341815696931835179</id>
     <title>Resident Evil Village is going well #trans #lgbt #queer #fyp </title>
@@ -75,6 +67,14 @@
     <content>I did NOT like Jurassic World Dominion #trans #lgbt #jurassicpark #fyp </content>
     <link href="https://tiktok.com/@sssmalltea/video/7361133464898342186"/>
     <published>2024-04-23T18:37:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sssmalltea/video/7367071928131013931</id>
+    <title>Thinking is the enemy #trans #twitch #darksouls #fyp </title>
+    <updated>2024-05-09T18:41:46+00:00</updated>
+    <content>Thinking is the enemy #trans #twitch #darksouls #fyp </content>
+    <link href="https://tiktok.com/@sssmalltea/video/7367071928131013931"/>
+    <published>2024-05-09T18:41:46+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@sssmalltea/video/7238298305275514158</id>
