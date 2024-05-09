@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-05-08T13:22:41+00:00</updated>
+  <updated>2024-05-09T01:39:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7366445821744712993</id>
-    <title>bare minimum looked special when its rare 😭 #bareminimum </title>
-    <updated>2024-05-08T02:13:15+00:00</updated>
-    <content>bare minimum looked special when its rare 😭 #bareminimum </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7366445821744712993"/>
-    <published>2024-05-08T02:13:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7366492552146455841</id>
     <title>@userrouxx us</title>
@@ -67,6 +59,14 @@
     <content>guys she loves me i swear  @userrouxx  </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7366618619645545760"/>
     <published>2024-05-08T13:22:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7366808485691952416</id>
+    <title>does anyone have a mop for this drip @userrouxx #ootd </title>
+    <updated>2024-05-09T01:39:34+00:00</updated>
+    <content>does anyone have a mop for this drip @userrouxx #ootd </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7366808485691952416"/>
+    <published>2024-05-09T01:39:34+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
