@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2024-05-08T01:32:47+00:00</updated>
+  <updated>2024-05-09T03:40:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from loveletterstosf</subtitle>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7360700520996130094</id>
-    <title>palace of fine arts glow✨ #sf #palaceoffinearts #sfspring #sfsunset </title>
-    <updated>2024-04-22T14:37:59+00:00</updated>
-    <content>palace of fine arts glow✨ #sf #palaceoffinearts #sfspring #sfsunset </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7360700520996130094"/>
-    <published>2024-04-22T14:37:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7361242868234718506</id>
     <title>PSA for SF chocolate (and s’mores) lovers, the Craft Chocolate Experience is this weekend 🍫 and @Dandelion Chocolate is making a GIANT (7x7ft) s’mores!! Use ‘Loveletters10’ for 10% off your 🎟️  #sfevents #thingstodoinsf #sffoodies #sfsweets #sfchocolate #</title>
@@ -91,5 +83,13 @@
     <content>J line 🤍 #dolorespark #sf #sfmuni #sfmta  </content>
     <link href="https://tiktok.com/@loveletterstosf/video/7366435657373437230"/>
     <published>2024-05-08T01:32:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7366839716391521578</id>
+    <title>that magic🫶✨ #sf </title>
+    <updated>2024-05-09T03:40:50+00:00</updated>
+    <content>that magic🫶✨ #sf </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7366839716391521578"/>
+    <published>2024-05-09T03:40:50+00:00</published>
   </entry>
 </feed>
