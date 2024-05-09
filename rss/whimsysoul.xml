@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-05-08T13:20:21+00:00</updated>
+  <updated>2024-05-09T16:07:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7365116437020658986</id>
-    <title>Help us kind Dansk folk 🙏 #mikkeller #dansk #denmark #copenhagen </title>
-    <updated>2024-05-04T12:13:39+00:00</updated>
-    <content>Help us kind Dansk folk 🙏 #mikkeller #dansk #denmark #copenhagen </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7365116437020658986"/>
-    <published>2024-05-04T12:13:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7365597873683156267</id>
-    <title>chronically dehydrated here #europe #thedroughtwastheveryworst #water #european #whimsysoul </title>
-    <updated>2024-05-05T19:21:45+00:00</updated>
-    <content>chronically dehydrated here #europe #thedroughtwastheveryworst #water #european #whimsysoul </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7365597873683156267"/>
-    <published>2024-05-05T19:21:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7365966815261969706</id>
     <title>curvy girl sundresses 🤝 Copenhagen botanical gardens.  Wearing my fave dress of the season by @anthropologie + my go to travel purse by @ardencove  #ootd #curvy #copenhagen #curvyfashion #curvystyle #curvyconfidence #whimsysoul #size12 #size14 #copenhagen</title>
@@ -67,6 +51,22 @@
     <content>a guide to Eurovision for Americans 🇺🇸 it'll be your new obsession (the best song contest you never heard of) #eurovision #eurovisionsongcontest #eurovision2024 #abba #esc2024 #malmö #sweden #loreen #epicsaxguy </content>
     <link href="https://tiktok.com/@whimsysoul/video/7366617939497192747"/>
     <published>2024-05-08T13:20:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7367026969457806635</id>
+    <title>it's crazy it's party #eurovision #eurovision2024 #eurovisionsongcontest #finland #epicsaxguy #käärijä #esc2024 #eurovisionoutfit #curvystyle </title>
+    <updated>2024-05-09T15:47:21+00:00</updated>
+    <content>it's crazy it's party #eurovision #eurovision2024 #eurovisionsongcontest #finland #epicsaxguy #käärijä #esc2024 #eurovisionoutfit #curvystyle </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7367026969457806635"/>
+    <published>2024-05-09T15:47:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7367032210647551274</id>
+    <title>Replying to @Kevin Flew from USA to Eurovision 🇸🇪!! Today we saw Eurovision Semi Final 2 evening preview in seats tucked way off in the corner that ended up being what I think were the best seats in the house since we could see the artists get ready and g</title>
+    <updated>2024-05-09T16:07:43+00:00</updated>
+    <content>Replying to @Kevin Flew from USA to Eurovision 🇸🇪!! Today we saw Eurovision Semi Final 2 evening preview in seats tucked way off in the corner that ended up being what I think were the best seats in the house since we could see the artists get ready and g</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7367032210647551274"/>
+    <published>2024-05-09T16:07:43+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
