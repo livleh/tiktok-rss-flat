@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@melshoshahi</id>
   <title>melshoshahi</title>
-  <updated>2024-05-07T15:08:21+00:00</updated>
+  <updated>2024-05-09T15:16:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from melshoshahi</subtitle>
-  <entry>
-    <id>https://tiktok.com/@melshoshahi/video/7359225879626550570</id>
-    <title>How to do a proper return 💅🏼 #sketchcomedy #retail #customerservice #tiktokskit </title>
-    <updated>2024-04-18T15:15:12+00:00</updated>
-    <content>How to do a proper return 💅🏼 #sketchcomedy #retail #customerservice #tiktokskit </content>
-    <link href="https://tiktok.com/@melshoshahi/video/7359225879626550570"/>
-    <published>2024-04-18T15:15:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@melshoshahi/video/7360353272705731886</id>
     <title>Opening up a credit card will make you rich, u nio 💅🏼  #credit #sketchcomedy #retail #customerservice </title>
@@ -67,6 +59,14 @@
     <content>Who else gets judged for ordering regular old fashioned milk these days? 😅  #coffee #milk #oatmilk #sketchcomedy #lactoseintolerant #tiktokskit </content>
     <link href="https://tiktok.com/@melshoshahi/video/7366274692719594798"/>
     <published>2024-05-07T15:08:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@melshoshahi/video/7367019110531665198</id>
+    <title>Wearing the tag for 2 years then trying to return it should be illegal! Unless you’re my mother. 😘  #sketchcomedy #retail #returns #clothing #customerservice </title>
+    <updated>2024-05-09T15:16:49+00:00</updated>
+    <content>Wearing the tag for 2 years then trying to return it should be illegal! Unless you’re my mother. 😘  #sketchcomedy #retail #returns #clothing #customerservice </content>
+    <link href="https://tiktok.com/@melshoshahi/video/7367019110531665198"/>
+    <published>2024-05-09T15:16:49+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@melshoshahi/video/7282846082986462507</id>
