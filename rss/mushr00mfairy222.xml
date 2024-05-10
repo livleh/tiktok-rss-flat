@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-05-10T08:29:21+00:00</updated>
+  <updated>2024-05-10T12:25:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7366582335191502112</id>
-    <title>haven't felt joy like this since my wife left and took the kids #serotonin #food </title>
-    <updated>2024-05-08T11:01:56+00:00</updated>
-    <content>haven't felt joy like this since my wife left and took the kids #serotonin #food </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7366582335191502112"/>
-    <published>2024-05-08T11:01:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7366601786209226016</id>
     <title>completely different fonts @userrouxx #oppisite #oppisites #pinkandblack </title>
@@ -67,6 +59,14 @@
     <content>0 volume control 😭 @userrouxx </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7367285187866004768"/>
     <published>2024-05-10T08:29:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7367346121817001248</id>
+    <title>half the comments 😭 @userrouxx #lesbian #wlw </title>
+    <updated>2024-05-10T12:25:45+00:00</updated>
+    <content>half the comments 😭 @userrouxx #lesbian #wlw </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7367346121817001248"/>
+    <published>2024-05-10T12:25:45+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
