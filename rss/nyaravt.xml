@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-05-09T13:00:00+00:00</updated>
+  <updated>2024-05-10T13:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7362887636719013153</id>
-    <title>TRANS FEMS WANT ONE THING #vtuber</title>
-    <updated>2024-04-30T13:00:00+00:00</updated>
-    <content>TRANS FEMS WANT ONE THING #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7362887636719013153"/>
-    <published>2024-04-30T13:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7362887540044533025</id>
     <title>MEN DON'T UNDERSTAND COMPLIMENTS #vtuber</title>
@@ -91,5 +83,13 @@
     <content>NEVER WAS ONE OF THE GUYS #vtuber</content>
     <link href="https://tiktok.com/@nyaravt/video/7365155248932949281"/>
     <published>2024-05-09T13:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7367097549854887201</id>
+    <title>BEING JEALOUS OF THE GIRLS #vtuber #trans</title>
+    <updated>2024-05-10T13:00:00+00:00</updated>
+    <content>BEING JEALOUS OF THE GIRLS #vtuber #trans</content>
+    <link href="https://tiktok.com/@nyaravt/video/7367097549854887201"/>
+    <published>2024-05-10T13:00:00+00:00</published>
   </entry>
 </feed>
