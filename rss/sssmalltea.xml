@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@sssmalltea</id>
   <title>sssmalltea</title>
-  <updated>2024-05-09T19:33:28+00:00</updated>
+  <updated>2024-05-11T19:40:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from sssmalltea</subtitle>
-  <entry>
-    <id>https://tiktok.com/@sssmalltea/video/7348870334596074795</id>
-    <title>Got so excited i muted myself #trans #lgbt #residentevil #fyp </title>
-    <updated>2024-03-21T17:30:25+00:00</updated>
-    <content>Got so excited i muted myself #trans #lgbt #residentevil #fyp </content>
-    <link href="https://tiktok.com/@sssmalltea/video/7348870334596074795"/>
-    <published>2024-03-21T17:30:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@sssmalltea/video/7351113371120586030</id>
     <title>#stitch with @Chloe transphobia affects cis people too #trans #lgbt #queer #fyp </title>
@@ -75,6 +67,14 @@
     <content>Didn’t miss a beat #trans #twitch #darksouls #fyp </content>
     <link href="https://tiktok.com/@sssmalltea/video/7367085251278998827"/>
     <published>2024-05-09T19:33:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sssmalltea/video/7367829205612039466</id>
+    <title>Science has identified the burger gene #trans #twitch #darksouls #burger #fyp </title>
+    <updated>2024-05-11T19:40:29+00:00</updated>
+    <content>Science has identified the burger gene #trans #twitch #darksouls #burger #fyp </content>
+    <link href="https://tiktok.com/@sssmalltea/video/7367829205612039466"/>
+    <published>2024-05-11T19:40:29+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@sssmalltea/video/7238298305275514158</id>
