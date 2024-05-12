@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-05-10T19:54:35+00:00</updated>
+  <updated>2024-05-12T14:25:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7366363561309916459</id>
-    <title>see you never  #techie #softwareengineer #newyork #nyc #manhattan #comedy #funny #developerlife #programmerlife </title>
-    <updated>2024-05-07T20:53:04+00:00</updated>
-    <content>see you never  #techie #softwareengineer #newyork #nyc #manhattan #comedy #funny #developerlife #programmerlife </content>
-    <link href="https://tiktok.com/@techroastshow/video/7366363561309916459"/>
-    <published>2024-05-07T20:53:04+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7366620891368901934</id>
-    <title>the genre is 5’5 #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </title>
-    <updated>2024-05-08T13:31:52+00:00</updated>
-    <content>the genre is 5’5 #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </content>
-    <link href="https://tiktok.com/@techroastshow/video/7366620891368901934"/>
-    <published>2024-05-08T13:31:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7366753752767794474</id>
     <title>Europe does it better  #techie #softwareengineer #siliconvalley #timeoff #PTO #comedy #funny #developerlife #programmerlife</title>
@@ -67,6 +51,22 @@
     <content>kudos! #techie #softwareengineer #siliconvalley #linkedin #CEO #darkhumor #techroastshow</content>
     <link href="https://tiktok.com/@techroastshow/video/7367461748904840491"/>
     <published>2024-05-10T19:54:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7368119134481059115</id>
+    <title>it’s a lifetime commitment  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</title>
+    <updated>2024-05-12T14:25:34+00:00</updated>
+    <content>it’s a lifetime commitment  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</content>
+    <link href="https://tiktok.com/@techroastshow/video/7368119134481059115"/>
+    <published>2024-05-12T14:25:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7368119209273937198</id>
+    <title>bombing at the founder’s mic 🎤😔 #tech #softwareengineer #startup #founder #crowdwork #standupcomedy #comedy #startuplife #techroastshow</title>
+    <updated>2024-05-12T14:25:52+00:00</updated>
+    <content>bombing at the founder’s mic 🎤😔 #tech #softwareengineer #startup #founder #crowdwork #standupcomedy #comedy #startuplife #techroastshow</content>
+    <link href="https://tiktok.com/@techroastshow/video/7368119209273937198"/>
+    <published>2024-05-12T14:25:52+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
