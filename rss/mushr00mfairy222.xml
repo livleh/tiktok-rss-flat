@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-05-12T02:34:49+00:00</updated>
+  <updated>2024-05-12T08:14:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7367346121817001248</id>
-    <title>half the comments 😭 @userrouxx #lesbian #wlw </title>
-    <updated>2024-05-10T12:25:45+00:00</updated>
-    <content>half the comments 😭 @userrouxx #lesbian #wlw </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7367346121817001248"/>
-    <published>2024-05-10T12:25:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7367375431156124960</id>
-    <title>sometimes i think we really are no better than a man #lesbian #wlw @userrouxx </title>
-    <updated>2024-05-10T14:19:30+00:00</updated>
-    <content>sometimes i think we really are no better than a man #lesbian #wlw @userrouxx </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7367375431156124960"/>
-    <published>2024-05-10T14:19:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7367376068505849120</id>
     <title>do i run? @userrouxx #truecrime</title>
@@ -67,6 +51,22 @@
     <content>like i said what? #nightout </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7367935750744132896"/>
     <published>2024-05-12T02:34:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7368010179658485024</id>
+    <title>shed cry 😭😭 </title>
+    <updated>2024-05-12T07:22:46+00:00</updated>
+    <content>shed cry 😭😭 </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7368010179658485024"/>
+    <published>2024-05-12T07:22:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7368023399664340257</id>
+    <title>@userrouxx </title>
+    <updated>2024-05-12T08:14:00+00:00</updated>
+    <content>@userrouxx </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7368023399664340257"/>
+    <published>2024-05-12T08:14:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
