@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-05-11T13:00:00+00:00</updated>
+  <updated>2024-05-12T13:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7362888602746899745</id>
-    <title>WHEN PARENTS DISCOVER MY CONTENT #vtuber</title>
-    <updated>2024-05-02T13:00:00+00:00</updated>
-    <content>WHEN PARENTS DISCOVER MY CONTENT #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7362888602746899745"/>
-    <published>2024-05-02T13:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7364755810930396448</id>
     <title>WHY ARE STRAIGHT PARENTS LIKE THIS?? #vtuber</title>
@@ -91,5 +83,13 @@
     <content>NOT STREAMING IN GERMAN ANYMORE #vtuber</content>
     <link href="https://tiktok.com/@nyaravt/video/7367441265702604064"/>
     <published>2024-05-11T13:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7367721068871650592</id>
+    <title>WOULD YOU PICK FIDDLESTICKS OR A MAN?? #vtuber</title>
+    <updated>2024-05-12T13:00:00+00:00</updated>
+    <content>WOULD YOU PICK FIDDLESTICKS OR A MAN?? #vtuber</content>
+    <link href="https://tiktok.com/@nyaravt/video/7367721068871650592"/>
+    <published>2024-05-12T13:00:00+00:00</published>
   </entry>
 </feed>
