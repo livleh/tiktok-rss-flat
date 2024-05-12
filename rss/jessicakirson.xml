@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-05-11T22:48:54+00:00</updated>
+  <updated>2024-05-12T21:11:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7363797375644667178</id>
-    <title>It wasn’t the first time.  #fyp #foryou </title>
-    <updated>2024-04-30T22:54:56+00:00</updated>
-    <content>It wasn’t the first time.  #fyp #foryou </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7363797375644667178"/>
-    <published>2024-04-30T22:54:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7364159017461108010</id>
     <title>Goat talk 🐐 #goat #foryou #fyp </title>
@@ -83,6 +75,14 @@
     <content>Rich man is nervous to talk to me  #fyp #finance #money </content>
     <link href="https://tiktok.com/@jessicakirson/video/7367877772980555050"/>
     <published>2024-05-11T22:48:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7368223742150839595</id>
+    <title>Utah Gay  #gaytiktok #utah #wyoming #foryou </title>
+    <updated>2024-05-12T21:11:25+00:00</updated>
+    <content>Utah Gay  #gaytiktok #utah #wyoming #foryou </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7368223742150839595"/>
+    <published>2024-05-12T21:11:25+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7365520613777231146</id>
