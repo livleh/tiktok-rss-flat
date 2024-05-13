@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@norabinki</id>
   <title>norabinki</title>
-  <updated>2024-05-06T15:33:08+00:00</updated>
+  <updated>2024-05-13T15:59:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from norabinki</subtitle>
-  <entry>
-    <id>https://tiktok.com/@norabinki/video/7351822762052193569</id>
-    <title>Eiertütsch Meisterschaft #schweiz #fyp #CapCut </title>
-    <updated>2024-03-29T16:27:13+00:00</updated>
-    <content>Eiertütsch Meisterschaft #schweiz #fyp #CapCut </content>
-    <link href="https://tiktok.com/@norabinki/video/7351822762052193569"/>
-    <published>2024-03-29T16:27:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@norabinki/video/7354040538456165665</id>
     <title>der beste bahnhof in europa @Bruzzli #schweiz #fyp #bahnhof #CapCut </title>
@@ -75,6 +67,14 @@
     <content>Sneakerness 2024 #fyp #schweiz #sneakers </content>
     <link href="https://tiktok.com/@norabinki/video/7365910014453697824"/>
     <published>2024-05-06T15:33:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@norabinki/video/7368514565618863393</id>
+    <title>Fantasy Basel 2024 @Bruzzli #schweiz #fyp #fantasy</title>
+    <updated>2024-05-13T15:59:57+00:00</updated>
+    <content>Fantasy Basel 2024 @Bruzzli #schweiz #fyp #fantasy</content>
+    <link href="https://tiktok.com/@norabinki/video/7368514565618863393"/>
+    <published>2024-05-13T15:59:57+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@norabinki/video/7283544477661203745</id>

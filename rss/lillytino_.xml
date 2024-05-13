@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lillytino_</id>
   <title>lillytino_</title>
-  <updated>2024-05-09T16:34:54+00:00</updated>
+  <updated>2024-05-13T15:25:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from lillytino_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@lillytino_/video/7345543822077873454</id>
-    <title>ITS HAPPENING</title>
-    <updated>2024-03-12T18:22:25+00:00</updated>
-    <content>ITS HAPPENING</content>
-    <link href="https://tiktok.com/@lillytino_/video/7345543822077873454"/>
-    <published>2024-03-12T18:22:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@lillytino_/video/7347097132538629418</id>
     <title>Nick is gone.</title>
@@ -91,5 +83,13 @@
     <content>Waiting on my tunnel 🚞</content>
     <link href="https://tiktok.com/@lillytino_/video/7367039222693268779"/>
     <published>2024-05-09T16:34:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lillytino_/video/7368505725187886382</id>
+    <title>Love you mama ❤️</title>
+    <updated>2024-05-13T15:25:51+00:00</updated>
+    <content>Love you mama ❤️</content>
+    <link href="https://tiktok.com/@lillytino_/video/7368505725187886382"/>
+    <published>2024-05-13T15:25:51+00:00</published>
   </entry>
 </feed>
