@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ramalauw</id>
   <title>ramalauw</title>
-  <updated>2024-05-08T14:43:32+00:00</updated>
+  <updated>2024-05-13T14:43:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ramalauw</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ramalauw/video/7360678614280555808</id>
-    <title>I’m just so silly and goofy 🥺🤪🙆‍♂️☺️🫶💃✨</title>
-    <updated>2024-04-22T13:12:31+00:00</updated>
-    <content>I’m just so silly and goofy 🥺🤪🙆‍♂️☺️🫶💃✨</content>
-    <link href="https://tiktok.com/@ramalauw/video/7360678614280555808"/>
-    <published>2024-04-22T13:12:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7361070935161474337</id>
     <title>How to support @Taylor Swift 🥰✨ #Free99 #taylorswift #torturedpoetsdepartment #swiftie </title>
@@ -67,6 +59,14 @@
     <content>“Success” is something I’ve always struggled with. I’ve always been drawn to the creative world, but in my family, anything creative was seen as just a hobby. A good job was stable, something that paid. Deep down, I’ve always wanted to pursue a creative c</content>
     <link href="https://tiktok.com/@ramalauw/video/7366639457262456097"/>
     <published>2024-05-08T14:43:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ramalauw/video/7368494804596002081</id>
+    <title>Never rest without feeling guilty ever again with ✨StressLaxing✨ 🫶 #Free99 </title>
+    <updated>2024-05-13T14:43:17+00:00</updated>
+    <content>Never rest without feeling guilty ever again with ✨StressLaxing✨ 🫶 #Free99 </content>
+    <link href="https://tiktok.com/@ramalauw/video/7368494804596002081"/>
+    <published>2024-05-13T14:43:17+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7270903343638187297</id>
