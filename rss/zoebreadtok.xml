@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-05-12T17:57:01+00:00</updated>
+  <updated>2024-05-13T17:54:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7360650985980595488</id>
-    <title>No Title</title>
-    <updated>2024-04-22T11:25:17+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7360650985980595488"/>
-    <published>2024-04-22T11:25:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7361115721339915553</id>
     <title>tortillaz are my favourite band they have no affiliation with gorillaz </title>
@@ -91,5 +83,13 @@
     <content>a really dumb breadcrumb because i filmed a really good collab video today but im going to have to edit it tomorrow as its a lot of footage !! i just saw this helium sign after we finished. i wish i had gone more in on the high voice but i was scared, sor</content>
     <link href="https://tiktok.com/@zoebreadtok/video/7368173650840767777"/>
     <published>2024-05-12T17:57:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7368544104243809568</id>
+    <title>thank you @Darren Levy for driving me round in cricles i had loads of fun!!!! sorry you couldnt prank me i guess im just too smrt i mean smart #funnyuberrides </title>
+    <updated>2024-05-13T17:54:33+00:00</updated>
+    <content>thank you @Darren Levy for driving me round in cricles i had loads of fun!!!! sorry you couldnt prank me i guess im just too smrt i mean smart #funnyuberrides </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7368544104243809568"/>
+    <published>2024-05-13T17:54:33+00:00</published>
   </entry>
 </feed>
