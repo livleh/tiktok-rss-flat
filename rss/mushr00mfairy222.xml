@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-05-13T08:21:33+00:00</updated>
+  <updated>2024-05-13T10:11:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7368010179658485024</id>
-    <title>shed cry 😭😭 </title>
-    <updated>2024-05-12T07:22:46+00:00</updated>
-    <content>shed cry 😭😭 </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7368010179658485024"/>
-    <published>2024-05-12T07:22:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7368023399664340257</id>
     <title>@userrouxx </title>
@@ -67,6 +59,14 @@
     <content>like bestie WHAT</content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7368396406043823393"/>
     <published>2024-05-13T08:21:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7368424852623035680</id>
+    <title>every promblem has a man involved </title>
+    <updated>2024-05-13T10:11:56+00:00</updated>
+    <content>every promblem has a man involved </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7368424852623035680"/>
+    <published>2024-05-13T10:11:56+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
