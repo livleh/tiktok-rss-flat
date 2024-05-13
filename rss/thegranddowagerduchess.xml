@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@thegranddowagerduchess</id>
   <title>thegranddowagerduchess</title>
-  <updated>2024-05-13T13:41:16+00:00</updated>
+  <updated>2024-05-13T21:43:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from thegranddowagerduchess</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thegranddowagerduchess/video/7366991107751693598</id>
-    <title>#fyp #viral </title>
-    <updated>2024-05-09T13:28:22+00:00</updated>
-    <content>#fyp #viral </content>
-    <link href="https://tiktok.com/@thegranddowagerduchess/video/7366991107751693598"/>
-    <published>2024-05-09T13:28:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thegranddowagerduchess/video/7367380741442817310</id>
     <title>#fyp </title>
@@ -67,6 +59,14 @@
     <content>#fyp #viral #drag #rupaulsdragrace #dragqueen #performer #nightclub #disney </content>
     <link href="https://tiktok.com/@thegranddowagerduchess/video/7368478779288603950"/>
     <published>2024-05-13T13:41:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thegranddowagerduchess/video/7368602976597888298</id>
+    <title>#fyp #viral #trans #transwoman #queertiktok #emotinal #sad #christianity #religion #queertiktok #queer #lifestory </title>
+    <updated>2024-05-13T21:43:05+00:00</updated>
+    <content>#fyp #viral #trans #transwoman #queertiktok #emotinal #sad #christianity #religion #queertiktok #queer #lifestory </content>
+    <link href="https://tiktok.com/@thegranddowagerduchess/video/7368602976597888298"/>
+    <published>2024-05-13T21:43:05+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@thegranddowagerduchess/video/7349976585157545246</id>
