@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-05-12T14:25:52+00:00</updated>
+  <updated>2024-05-13T13:32:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7366753752767794474</id>
-    <title>Europe does it better  #techie #softwareengineer #siliconvalley #timeoff #PTO #comedy #funny #developerlife #programmerlife</title>
-    <updated>2024-05-08T22:07:08+00:00</updated>
-    <content>Europe does it better  #techie #softwareengineer #siliconvalley #timeoff #PTO #comedy #funny #developerlife #programmerlife</content>
-    <link href="https://tiktok.com/@techroastshow/video/7366753752767794474"/>
-    <published>2024-05-08T22:07:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7367001369896848686</id>
     <title>how to go on no dates 101 #techie #softwareengineer #tinder #datingapp #programmerlife #roastbattle #darkhumor #techroastshow</title>
@@ -67,6 +59,14 @@
     <content>bombing at the founder’s mic 🎤😔 #tech #softwareengineer #startup #founder #crowdwork #standupcomedy #comedy #startuplife #techroastshow</content>
     <link href="https://tiktok.com/@techroastshow/video/7368119209273937198"/>
     <published>2024-05-12T14:25:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7368476475923680555</id>
+    <title>Ctrl+C and Ctrl+V working overtime  #techie #softwareengineer #siliconvalley #zipcar #boston #roastbattle #darkhumor #techroastshow</title>
+    <updated>2024-05-13T13:32:27+00:00</updated>
+    <content>Ctrl+C and Ctrl+V working overtime  #techie #softwareengineer #siliconvalley #zipcar #boston #roastbattle #darkhumor #techroastshow</content>
+    <link href="https://tiktok.com/@techroastshow/video/7368476475923680555"/>
+    <published>2024-05-13T13:32:27+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
