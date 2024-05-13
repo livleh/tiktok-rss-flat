@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-05-13T11:09:10+00:00</updated>
+  <updated>2024-05-13T13:04:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7368061909225966880</id>
-    <title>LIKE THEY DID DO IT TO HURT ME UR SO RIGHT TAYLOR #erastour #swiftie #taylorswift </title>
-    <updated>2024-05-12T10:43:24+00:00</updated>
-    <content>LIKE THEY DID DO IT TO HURT ME UR SO RIGHT TAYLOR #erastour #swiftie #taylorswift </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7368061909225966880"/>
-    <published>2024-05-12T10:43:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7368097734143872289</id>
-    <title>missing gold coast!! #goldcoast #dayinmylife </title>
-    <updated>2024-05-12T13:02:25+00:00</updated>
-    <content>missing gold coast!! #goldcoast #dayinmylife </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7368097734143872289"/>
-    <published>2024-05-12T13:02:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7368390851111718177</id>
     <title>BUTIMGONNAGETYOUBACK #ootd #alt #pinkhair #outfitinspo </title>
@@ -67,6 +51,22 @@
     <content>'pinky promise you won't also..' 😁😁 #trauma #mh </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7368439614064954656"/>
     <published>2024-05-13T11:09:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7368468162800586016</id>
+    <title>why am i in the closest??? #wlw #lesbian </title>
+    <updated>2024-05-13T12:59:56+00:00</updated>
+    <content>why am i in the closest??? #wlw #lesbian </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7368468162800586016"/>
+    <published>2024-05-13T12:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7368469241638440224</id>
+    <title>No Title</title>
+    <updated>2024-05-13T13:04:04+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7368469241638440224"/>
+    <published>2024-05-13T13:04:04+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
