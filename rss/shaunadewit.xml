@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shaunadewit</id>
   <title>shaunadewit</title>
-  <updated>2024-05-11T06:38:25+00:00</updated>
+  <updated>2024-05-14T13:37:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shaunadewit</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shaunadewit/video/7361391872306138400</id>
-    <title>Thats a fact #foryou #pourtoi #comedy #humor #goviral </title>
-    <updated>2024-04-24T11:20:18+00:00</updated>
-    <content>Thats a fact #foryou #pourtoi #comedy #humor #goviral </content>
-    <link href="https://tiktok.com/@shaunadewit/video/7361391872306138400"/>
-    <published>2024-04-24T11:20:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/7361894878910958880</id>
     <title>ITS A JOKE #foryou #pourtoi #comedy #humor #goviral </title>
@@ -83,6 +75,14 @@
     <content>It is what it is #foryou #pourtoi #comedy #humor #goviral </content>
     <link href="https://tiktok.com/@shaunadewit/video/7367627644445150496"/>
     <published>2024-05-11T06:38:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shaunadewit/video/7368848935609191712</id>
+    <title>True story #foryou #pourtoi #comedy #humor #goviral </title>
+    <updated>2024-05-14T13:37:26+00:00</updated>
+    <content>True story #foryou #pourtoi #comedy #humor #goviral </content>
+    <link href="https://tiktok.com/@shaunadewit/video/7368848935609191712"/>
+    <published>2024-05-14T13:37:26+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/6994791135415766278</id>
