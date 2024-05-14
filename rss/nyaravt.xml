@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-05-13T13:00:00+00:00</updated>
+  <updated>2024-05-14T13:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7364758226052713761</id>
-    <title>WHY DO YOU PAINT YOUR NAILS?? #vtuber</title>
-    <updated>2024-05-04T13:00:00+00:00</updated>
-    <content>WHY DO YOU PAINT YOUR NAILS?? #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7364758226052713761"/>
-    <published>2024-05-04T13:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7365153640438451488</id>
     <title>WHY IS CHOKING SO HOT?? #vtuber</title>
@@ -91,5 +83,13 @@
     <content>PRACTICING THE ARA ARA WITH @van1llabeanz @rlversoul #vtuber</content>
     <link href="https://tiktok.com/@nyaravt/video/7367722843162840353"/>
     <published>2024-05-13T13:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7368448696905698592</id>
+    <title>WHY CONSERVATIVES GO AFTER TRANS PEOPLE #vtuber</title>
+    <updated>2024-05-14T13:00:00+00:00</updated>
+    <content>WHY CONSERVATIVES GO AFTER TRANS PEOPLE #vtuber</content>
+    <link href="https://tiktok.com/@nyaravt/video/7368448696905698592"/>
+    <published>2024-05-14T13:00:00+00:00</published>
   </entry>
 </feed>
