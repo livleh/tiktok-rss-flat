@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-05-12T21:11:25+00:00</updated>
+  <updated>2024-05-14T16:12:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7364159017461108010</id>
-    <title>Goat talk 🐐 #goat #foryou #fyp </title>
-    <updated>2024-05-01T22:18:15+00:00</updated>
-    <content>Goat talk 🐐 #goat #foryou #fyp </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7364159017461108010"/>
-    <published>2024-05-01T22:18:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7364542865160031534</id>
     <title>ID’d for 🚬 #fyp #foryou </title>
@@ -83,6 +75,14 @@
     <content>Utah Gay  #gaytiktok #utah #wyoming #foryou </content>
     <link href="https://tiktok.com/@jessicakirson/video/7368223742150839595"/>
     <published>2024-05-12T21:11:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7368888933029088554</id>
+    <title>The real reason he has a man bun  #manbun #menshair </title>
+    <updated>2024-05-14T16:12:43+00:00</updated>
+    <content>The real reason he has a man bun  #manbun #menshair </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7368888933029088554"/>
+    <published>2024-05-14T16:12:43+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7365520613777231146</id>
