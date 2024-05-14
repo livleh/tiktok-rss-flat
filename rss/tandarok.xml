@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-05-06T21:11:03+00:00</updated>
+  <updated>2024-05-14T06:15:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7364020667529858337</id>
-    <title>Brauch ich neue Socken? #socks #fitcheck #genzvsmillenial </title>
-    <updated>2024-05-01T13:21:18+00:00</updated>
-    <content>Brauch ich neue Socken? #socks #fitcheck #genzvsmillenial </content>
-    <link href="https://tiktok.com/@tandarok/video/7364020667529858337"/>
-    <published>2024-05-01T13:21:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7364292311980756257</id>
     <title>Polyamorie Begriffe 🥰 #polyamory #beziehung #throuple #nonmonogamy </title>
@@ -67,6 +59,14 @@
     <content>#stitch mit @Ashley Chaney wenn du ein Pick me willst, bist du hier falsch 🫡 #microfeminism #feminismus </content>
     <link href="https://tiktok.com/@tandarok/video/7365997137563225376"/>
     <published>2024-05-06T21:11:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7368735146524036384</id>
+    <title>"Die Krise der Männlichkeit" ist nichts neues  #feminismus #männlichkeit #twitchclips #twitchgermany </title>
+    <updated>2024-05-14T06:15:56+00:00</updated>
+    <content>"Die Krise der Männlichkeit" ist nichts neues  #feminismus #männlichkeit #twitchclips #twitchgermany </content>
+    <link href="https://tiktok.com/@tandarok/video/7368735146524036384"/>
+    <published>2024-05-14T06:15:56+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
