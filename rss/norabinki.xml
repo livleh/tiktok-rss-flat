@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@norabinki</id>
   <title>norabinki</title>
-  <updated>2024-05-14T16:45:17+00:00</updated>
+  <updated>2024-05-13T15:59:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from norabinki</subtitle>
+  <entry>
+    <id>https://tiktok.com/@norabinki/video/7354040538456165665</id>
+    <title>der beste bahnhof in europa @Bruzzli #schweiz #fyp #bahnhof #CapCut </title>
+    <updated>2024-04-04T15:53:19+00:00</updated>
+    <content>der beste bahnhof in europa @Bruzzli #schweiz #fyp #bahnhof #CapCut </content>
+    <link href="https://tiktok.com/@norabinki/video/7354040538456165665"/>
+    <published>2024-04-04T15:53:19+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@norabinki/video/7358177465514183968</id>
     <title>Fast Sechseläuten #schweiz #fyp #CapCut </title>
@@ -67,14 +75,6 @@
     <content>Fantasy Basel 2024 @Bruzzli #schweiz #fyp #fantasy</content>
     <link href="https://tiktok.com/@norabinki/video/7368514565618863393"/>
     <published>2024-05-13T15:59:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@norabinki/video/7368897349684448545</id>
-    <title>nöchstmal verkleided sich s mikrofon als reporterin #fyp #schweiz #fantasy </title>
-    <updated>2024-05-14T16:45:17+00:00</updated>
-    <content>nöchstmal verkleided sich s mikrofon als reporterin #fyp #schweiz #fantasy </content>
-    <link href="https://tiktok.com/@norabinki/video/7368897349684448545"/>
-    <published>2024-05-14T16:45:17+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@norabinki/video/7283544477661203745</id>

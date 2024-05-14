@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@starryribbons</id>
   <title>starryribbons</title>
-  <updated>2024-05-14T16:49:10+00:00</updated>
+  <updated>2024-05-14T19:03:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from starryribbons</subtitle>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7366310456283204896</id>
-    <title>“did you bring your-“ YES ‼️ #coquettecore #digitaldiary #taylorswifttok #wlw #polaroid #journaling #nostalgiacore #kpop </title>
-    <updated>2024-05-07T17:26:51+00:00</updated>
-    <content>“did you bring your-“ YES ‼️ #coquettecore #digitaldiary #taylorswifttok #wlw #polaroid #journaling #nostalgiacore #kpop </content>
-    <link href="https://tiktok.com/@starryribbons/video/7366310456283204896"/>
-    <published>2024-05-07T17:26:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7367033162389540128</id>
     <title>nothing blooms all year #coquettecore #digitaldiary #taylorswifttok #mentalhealthmatters #springaesthetic #wlw #hotgirlwalks </title>
@@ -83,6 +75,14 @@
     <content>amity was mostly when I had purple hair tbh #coquettecore #digitaldiary #taylorswifttok #lesbiansoftiktok #wlw #ootd #kpop </content>
     <link href="https://tiktok.com/@starryribbons/video/7368898351493827872"/>
     <published>2024-05-14T16:49:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7368933018624445729</id>
+    <title>can we reload the start page before I cry #coquettecore #digitaldiary #pinterest #wlw #taylorswift #girlhood #mentalhealthmatters </title>
+    <updated>2024-05-14T19:03:43+00:00</updated>
+    <content>can we reload the start page before I cry #coquettecore #digitaldiary #pinterest #wlw #taylorswift #girlhood #mentalhealthmatters </content>
+    <link href="https://tiktok.com/@starryribbons/video/7368933018624445729"/>
+    <published>2024-05-14T19:03:43+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7285761406664854817</id>
