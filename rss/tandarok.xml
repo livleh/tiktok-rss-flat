@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-05-14T06:15:56+00:00</updated>
+  <updated>2024-05-15T06:14:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7364292311980756257</id>
-    <title>Polyamorie Begriffe 🥰 #polyamory #beziehung #throuple #nonmonogamy </title>
-    <updated>2024-05-02T06:55:33+00:00</updated>
-    <content>Polyamorie Begriffe 🥰 #polyamory #beziehung #throuple #nonmonogamy </content>
-    <link href="https://tiktok.com/@tandarok/video/7364292311980756257"/>
-    <published>2024-05-02T06:55:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7364647955279711521</id>
     <title>Ich hab durch Polyamorie wirklich sooo viel gelernt  #polyamory #beziehung #offenebeziehung #nonmonogamy  #twitchclips #twitchgermany </title>
@@ -67,6 +59,14 @@
     <content>"Die Krise der Männlichkeit" ist nichts neues  #feminismus #männlichkeit #twitchclips #twitchgermany </content>
     <link href="https://tiktok.com/@tandarok/video/7368735146524036384"/>
     <published>2024-05-14T06:15:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7369105944753474849</id>
+    <title>Bärenland vs. Männerland? #manorbear #twitchclips #twitchgermany </title>
+    <updated>2024-05-15T06:14:52+00:00</updated>
+    <content>Bärenland vs. Männerland? #manorbear #twitchclips #twitchgermany </content>
+    <link href="https://tiktok.com/@tandarok/video/7369105944753474849"/>
+    <published>2024-05-15T06:14:52+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
