@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-05-15T09:08:57+00:00</updated>
+  <updated>2024-05-15T15:25:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7366617939497192747</id>
-    <title>a guide to Eurovision for Americans 🇺🇸 it'll be your new obsession (the best song contest you never heard of) #eurovision #eurovisionsongcontest #eurovision2024 #abba #esc2024 #malmö #sweden #loreen #epicsaxguy </title>
-    <updated>2024-05-08T13:20:21+00:00</updated>
-    <content>a guide to Eurovision for Americans 🇺🇸 it'll be your new obsession (the best song contest you never heard of) #eurovision #eurovisionsongcontest #eurovision2024 #abba #esc2024 #malmö #sweden #loreen #epicsaxguy </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7366617939497192747"/>
-    <published>2024-05-08T13:20:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7367026969457806635</id>
     <title>it's crazy it's party #eurovision #eurovision2024 #eurovisionsongcontest #finland #epicsaxguy #käärijä #esc2024 #eurovisionoutfit #curvystyle </title>
@@ -67,6 +59,14 @@
     <content>They just make so much sense! #denmark #copenhagen #copenhagentiktok #copenhagenlife #unitedstates #recycle #sustainability #dansk #danmark </content>
     <link href="https://tiktok.com/@whimsysoul/video/7369150568503250218"/>
     <published>2024-05-15T09:08:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7369247864708451630</id>
+    <title>Wanna make money while traveling Europe? Or sleeping? Get a @Flodesk email newsletter!!  I’ve been using Flodesk for 5 years to deliver exclusive content right to my community. A website and an email newsletter subscriber lists are the only two touch poin</title>
+    <updated>2024-05-15T15:25:44+00:00</updated>
+    <content>Wanna make money while traveling Europe? Or sleeping? Get a @Flodesk email newsletter!!  I’ve been using Flodesk for 5 years to deliver exclusive content right to my community. A website and an email newsletter subscriber lists are the only two touch poin</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7369247864708451630"/>
+    <published>2024-05-15T15:25:44+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
