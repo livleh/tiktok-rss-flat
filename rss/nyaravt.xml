@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-05-14T13:00:00+00:00</updated>
+  <updated>2024-05-15T13:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7365153640438451488</id>
-    <title>WHY IS CHOKING SO HOT?? #vtuber</title>
-    <updated>2024-05-05T13:00:00+00:00</updated>
-    <content>WHY IS CHOKING SO HOT?? #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7365153640438451488"/>
-    <published>2024-05-05T13:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7365154661986258208</id>
     <title>CUTTING OFF YOUR FAMILY #vtuber</title>
@@ -91,5 +83,13 @@
     <content>WHY CONSERVATIVES GO AFTER TRANS PEOPLE #vtuber</content>
     <link href="https://tiktok.com/@nyaravt/video/7368448696905698592"/>
     <published>2024-05-14T13:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7368450527358618913</id>
+    <title>WHAT PEOPLE GET WRONG ABOUT SPEAKING DIFFERENT LANGUAGES #vtuber</title>
+    <updated>2024-05-15T13:00:00+00:00</updated>
+    <content>WHAT PEOPLE GET WRONG ABOUT SPEAKING DIFFERENT LANGUAGES #vtuber</content>
+    <link href="https://tiktok.com/@nyaravt/video/7368450527358618913"/>
+    <published>2024-05-15T13:00:00+00:00</published>
   </entry>
 </feed>
