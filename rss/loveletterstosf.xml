@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2024-05-09T03:40:50+00:00</updated>
+  <updated>2024-05-16T00:31:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from loveletterstosf</subtitle>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7361242868234718506</id>
-    <title>PSA for SF chocolate (and s’mores) lovers, the Craft Chocolate Experience is this weekend 🍫 and @Dandelion Chocolate is making a GIANT (7x7ft) s’mores!! Use ‘Loveletters10’ for 10% off your 🎟️  #sfevents #thingstodoinsf #sffoodies #sfsweets #sfchocolate #</title>
-    <updated>2024-04-24T01:42:06+00:00</updated>
-    <content>PSA for SF chocolate (and s’mores) lovers, the Craft Chocolate Experience is this weekend 🍫 and @Dandelion Chocolate is making a GIANT (7x7ft) s’mores!! Use ‘Loveletters10’ for 10% off your 🎟️  #sfevents #thingstodoinsf #sffoodies #sfsweets #sfchocolate #</content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7361242868234718506"/>
-    <published>2024-04-24T01:42:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7362201527978675498</id>
     <title>If you’re looking for more fun events in the city, I’m giving away 10 free tix to a massive SF scavenger hunt happening June 1 - go enter on my pinned vid! #sf #sfevents #sflife #sftok #thingstodoinsf #sfevents #thisweekendinsf #sanfrancisco #sflocals </title>
@@ -91,5 +83,13 @@
     <content>that magic🫶✨ #sf </content>
     <link href="https://tiktok.com/@loveletterstosf/video/7366839716391521578"/>
     <published>2024-05-09T03:40:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7369388443706772782</id>
+    <title>📢 Giveaway Alert!! I’m giving away 2 pairs of tickets to a Dear San Francisco show* of your choice to my TikTok followers. Here’s how to enter: ❤️ Like this post 🧡 Make sure you’re following me (@loveletterstosf) so I can DM you if you win 💛Comment someth</title>
+    <updated>2024-05-16T00:31:04+00:00</updated>
+    <content>📢 Giveaway Alert!! I’m giving away 2 pairs of tickets to a Dear San Francisco show* of your choice to my TikTok followers. Here’s how to enter: ❤️ Like this post 🧡 Make sure you’re following me (@loveletterstosf) so I can DM you if you win 💛Comment someth</content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7369388443706772782"/>
+    <published>2024-05-16T00:31:04+00:00</published>
   </entry>
 </feed>
