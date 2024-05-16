@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@danielryanspaulding</id>
   <title>danielryanspaulding</title>
-  <updated>2024-04-28T18:50:57+00:00</updated>
+  <updated>2024-05-16T20:50:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from danielryanspaulding</subtitle>
-  <entry>
-    <id>https://tiktok.com/@danielryanspaulding/video/7361569469841427744</id>
-    <title>Touring Hostage Square in Tel Aviv #telaviv #israel #bringthemhome </title>
-    <updated>2024-04-24T22:49:29+00:00</updated>
-    <content>Touring Hostage Square in Tel Aviv #telaviv #israel #bringthemhome </content>
-    <link href="https://tiktok.com/@danielryanspaulding/video/7361569469841427744"/>
-    <published>2024-04-24T22:49:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@danielryanspaulding/video/7361570102296333601</id>
     <title>Terrorism is bad for Everyone — Muslims, Jews &amp; Christians — Touring Hostage Square in Tel Aviv #telaviv #israel #bringthemhome </title>
@@ -67,6 +59,14 @@
     <content>Everyone needs to tell @cynthiaenixon &amp; @rosie to stop being mouthpieces for the Islamist Republic of Iran. They are sharing factually untrue, unverified information from Qatari news agencies that are fueling Anti-American hate. Hamas is a TERRORIST organ</content>
     <link href="https://tiktok.com/@danielryanspaulding/video/7362992364131978529"/>
     <published>2024-04-28T18:50:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@danielryanspaulding/video/7369702608853912864</id>
+    <title>Hey Zoe Roe zoeroe — I hope someone gets this video to you. Here’s some more in depth info about the conflict &amp; I suggest you contact a lawyer. Because if you’re being paid by a "company" or organization with links to who-knows-what — to say scripted prop</title>
+    <updated>2024-05-16T20:50:09+00:00</updated>
+    <content>Hey Zoe Roe zoeroe — I hope someone gets this video to you. Here’s some more in depth info about the conflict &amp; I suggest you contact a lawyer. Because if you’re being paid by a "company" or organization with links to who-knows-what — to say scripted prop</content>
+    <link href="https://tiktok.com/@danielryanspaulding/video/7369702608853912864"/>
+    <published>2024-05-16T20:50:09+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@danielryanspaulding/video/7315618930066836769</id>
