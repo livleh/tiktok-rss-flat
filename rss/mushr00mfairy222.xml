@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-05-16T02:19:01+00:00</updated>
+  <updated>2024-05-16T08:46:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7369225780213091617</id>
-    <title>hidden autistic traits! #autism #autistic #neurodivergent </title>
-    <updated>2024-05-15T13:59:51+00:00</updated>
-    <content>hidden autistic traits! #autism #autistic #neurodivergent </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7369225780213091617"/>
-    <published>2024-05-15T13:59:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7369251976011353377</id>
     <title>how did i not know till i was 19 😭 #adhd #neurodivergent </title>
@@ -67,6 +59,14 @@
     <content>oh my god her skins so clear #ootd #alt @userrouxx </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7369415878821170464"/>
     <published>2024-05-16T02:19:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7369515987625954593</id>
+    <title>gold coast ruined it 😭 #trip #goingout @userrouxx </title>
+    <updated>2024-05-16T08:46:06+00:00</updated>
+    <content>gold coast ruined it 😭 #trip #goingout @userrouxx </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7369515987625954593"/>
+    <published>2024-05-16T08:46:06+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
