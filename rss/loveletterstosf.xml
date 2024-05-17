@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2024-05-16T04:47:56+00:00</updated>
+  <updated>2024-05-17T15:40:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from loveletterstosf</subtitle>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7362301873065577774</id>
-    <title>enter my giveaway on ig for a chance to win FREE tix for this super fun scavenger hunt on 6/1! if you’re ready to sign up with your team, you can also use ‘loveletters’ for 10% off #sftok #sf #thingstodoinsf #scavengerhunt #sfevents #sflife #sanfrancisco </title>
-    <updated>2024-04-26T22:11:58+00:00</updated>
-    <content>enter my giveaway on ig for a chance to win FREE tix for this super fun scavenger hunt on 6/1! if you’re ready to sign up with your team, you can also use ‘loveletters’ for 10% off #sftok #sf #thingstodoinsf #scavengerhunt #sfevents #sflife #sanfrancisco </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7362301873065577774"/>
-    <published>2024-04-26T22:11:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7363105531218890030</id>
     <title>@Dandelion Chocolate created a massive 7x7 (just like SF) s’more 🍫🤎 so cool seeing it come together and ofc trying some at the #craftchocolateexperience #sf #chocolate #dandelionchocolate #palaceoffinearts #vlog #sftok </title>
@@ -83,6 +75,14 @@
     <content>check out my pinned vid for a chance to win free tix to Dear San Francisco cirque show #sf #sftok #sfdatenight #northbeach #sfrecommendations #sfeats #sfbars </content>
     <link href="https://tiktok.com/@loveletterstosf/video/7369454579291016494"/>
     <published>2024-05-16T04:47:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7369993952902008107</id>
+    <title>#freepalestine #sfevents #thingstodoinsf #sftok </title>
+    <updated>2024-05-17T15:40:54+00:00</updated>
+    <content>#freepalestine #sfevents #thingstodoinsf #sftok </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7369993952902008107"/>
+    <published>2024-05-17T15:40:54+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7369388443706772782</id>
