@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@danielryanspaulding</id>
   <title>danielryanspaulding</title>
-  <updated>2024-05-16T20:50:09+00:00</updated>
+  <updated>2024-05-17T15:02:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from danielryanspaulding</subtitle>
-  <entry>
-    <id>https://tiktok.com/@danielryanspaulding/video/7361570102296333601</id>
-    <title>Terrorism is bad for Everyone — Muslims, Jews &amp; Christians — Touring Hostage Square in Tel Aviv #telaviv #israel #bringthemhome </title>
-    <updated>2024-04-24T22:51:56+00:00</updated>
-    <content>Terrorism is bad for Everyone — Muslims, Jews &amp; Christians — Touring Hostage Square in Tel Aviv #telaviv #israel #bringthemhome </content>
-    <link href="https://tiktok.com/@danielryanspaulding/video/7361570102296333601"/>
-    <published>2024-04-24T22:51:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@danielryanspaulding/video/7361571132786461985</id>
     <title>Touring Hostage Square in Tel Aviv #telaviv #israel #bringthemhome </title>
@@ -67,6 +59,14 @@
     <content>Hey Zoe Roe zoeroe — I hope someone gets this video to you. Here’s some more in depth info about the conflict &amp; I suggest you contact a lawyer. Because if you’re being paid by a "company" or organization with links to who-knows-what — to say scripted prop</content>
     <link href="https://tiktok.com/@danielryanspaulding/video/7369702608853912864"/>
     <published>2024-05-16T20:50:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@danielryanspaulding/video/7369984201493351712</id>
+    <title>Lizzo @lizzobeeating whhhhyyyy, please stooooppp. If anyone paid you to do this video return the money &amp; contact a lawyer immediately. Please talk to some cool Israelis &amp; learn more. Also support the hostages at @bringhomenow @bring.hersh.home @bringornow</title>
+    <updated>2024-05-17T15:02:52+00:00</updated>
+    <content>Lizzo @lizzobeeating whhhhyyyy, please stooooppp. If anyone paid you to do this video return the money &amp; contact a lawyer immediately. Please talk to some cool Israelis &amp; learn more. Also support the hostages at @bringhomenow @bring.hersh.home @bringornow</content>
+    <link href="https://tiktok.com/@danielryanspaulding/video/7369984201493351712"/>
+    <published>2024-05-17T15:02:52+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@danielryanspaulding/video/7315618930066836769</id>
