@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@starryribbons</id>
   <title>starryribbons</title>
-  <updated>2024-05-16T19:45:05+00:00</updated>
+  <updated>2024-05-17T18:52:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from starryribbons</subtitle>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7367825580127030561</id>
-    <title>me vs the stuff in my camera roll that never makes it more far then the editing app #coquettecore #digitaldiary #daywithme #vlog #wavetoearth #aesthetic #wlw #taylorswift #kpop </title>
-    <updated>2024-05-11T19:26:19+00:00</updated>
-    <content>me vs the stuff in my camera roll that never makes it more far then the editing app #coquettecore #digitaldiary #daywithme #vlog #wavetoearth #aesthetic #wlw #taylorswift #kpop </content>
-    <link href="https://tiktok.com/@starryribbons/video/7367825580127030561"/>
-    <published>2024-05-11T19:26:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7368173821381070113</id>
     <title>i 💗 clairo soooo much #coquettecore #digitaldiary #clairo #lesbiansoftiktok #femlesbian #wlw #aesthetic #outfitoftheday </title>
@@ -83,6 +75,14 @@
     <content>this is so dramatic but hyyh era is always on my mind #coquettecore #digitaldiary #bts #hyyhera #kpop #hyyh #bts_official_bighit </content>
     <link href="https://tiktok.com/@starryribbons/video/7369685825971326241"/>
     <published>2024-05-16T19:45:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7370043267901099296</id>
+    <title>and the candles #coquettecore #digitaldiary #roominspiration #kpop #taylorswifttok #gilmoregirls #aesthetic </title>
+    <updated>2024-05-17T18:52:05+00:00</updated>
+    <content>and the candles #coquettecore #digitaldiary #roominspiration #kpop #taylorswifttok #gilmoregirls #aesthetic </content>
+    <link href="https://tiktok.com/@starryribbons/video/7370043267901099296"/>
+    <published>2024-05-17T18:52:05+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7285761406664854817</id>
