@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-05-17T10:51:24+00:00</updated>
+  <updated>2024-05-18T01:19:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7369253125749853472</id>
-    <title>might be boring but i love watching these #haul #shoppinghaul #foodhaul </title>
-    <updated>2024-05-15T15:45:57+00:00</updated>
-    <content>might be boring but i love watching these #haul #shoppinghaul #foodhaul </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7369253125749853472"/>
-    <published>2024-05-15T15:45:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7369253145576262945</id>
     <title>yeahh</title>
@@ -67,6 +59,14 @@
     <content>cant escape it 😭 #british </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7369919391829478689"/>
     <published>2024-05-17T10:51:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7370142945342672161</id>
+    <title>cant believe i developed insomnia at the age of 19 😭 #insomnia #sleep </title>
+    <updated>2024-05-18T01:19:42+00:00</updated>
+    <content>cant believe i developed insomnia at the age of 19 😭 #insomnia #sleep </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7370142945342672161"/>
+    <published>2024-05-18T01:19:42+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
