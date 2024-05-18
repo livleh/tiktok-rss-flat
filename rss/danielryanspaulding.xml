@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@danielryanspaulding</id>
   <title>danielryanspaulding</title>
-  <updated>2024-05-17T16:04:37+00:00</updated>
+  <updated>2024-05-18T16:16:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from danielryanspaulding</subtitle>
-  <entry>
-    <id>https://tiktok.com/@danielryanspaulding/video/7361644057161977121</id>
-    <title>Hey Queers for Palestine: your radicalized brainwashed buddies at Ivy League schools have just been sent THANKS by the leader of Hamas &amp; the Islamic Republic Leader of Iran. Have you realized yet you have been indoctrinated, manipulated &amp; PLAYED in game t</title>
-    <updated>2024-04-25T03:38:59+00:00</updated>
-    <content>Hey Queers for Palestine: your radicalized brainwashed buddies at Ivy League schools have just been sent THANKS by the leader of Hamas &amp; the Islamic Republic Leader of Iran. Have you realized yet you have been indoctrinated, manipulated &amp; PLAYED in game t</content>
-    <link href="https://tiktok.com/@danielryanspaulding/video/7361644057161977121"/>
-    <published>2024-04-25T03:38:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@danielryanspaulding/video/7361856229456596256</id>
     <title>Today Purple Hair Girl learns that she doesn’t really care about Palestinian children, she just wants to weaponize their suffering to be hateful towards Israelis &amp; Jews. If she actually CARED about Palestinian children, she’d acknowledge how Palestinian L</title>
@@ -67,6 +59,14 @@
     <content>Please stop: I’m telling you this as a progressive gay guy. This is a dangerous, unhinged, anti-American movement that is going to get Trump elected &amp; I don’t want that. We will have right-wing extremism &amp; I love democracy. Israel existing is a bipartisan</content>
     <link href="https://tiktok.com/@danielryanspaulding/video/7370000101017799969"/>
     <published>2024-05-17T16:04:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@danielryanspaulding/video/7370374173606137121</id>
+    <title>Ok Gays, given what happened at this years @glaad awards, I really think we need to educate ourselves a bit about global politics &amp; speak up. Trump has polarized the USA &amp; liberal people are scared to voice support for Israel. Israel is a bipartisan issue</title>
+    <updated>2024-05-18T16:16:10+00:00</updated>
+    <content>Ok Gays, given what happened at this years @glaad awards, I really think we need to educate ourselves a bit about global politics &amp; speak up. Trump has polarized the USA &amp; liberal people are scared to voice support for Israel. Israel is a bipartisan issue</content>
+    <link href="https://tiktok.com/@danielryanspaulding/video/7370374173606137121"/>
+    <published>2024-05-18T16:16:10+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@danielryanspaulding/video/7315618930066836769</id>
