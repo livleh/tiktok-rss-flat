@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-05-16T22:33:55+00:00</updated>
+  <updated>2024-05-18T14:14:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7365997138091969838</id>
-    <title>An Art Therapist  #fyp #therapy #arttherapy </title>
-    <updated>2024-05-06T21:11:11+00:00</updated>
-    <content>An Art Therapist  #fyp #therapy #arttherapy </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7365997138091969838"/>
-    <published>2024-05-06T21:11:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7366397635437038894</id>
     <title>I thought he was 🤷 #gaytiktok #🏳️‍🌈 #lgbt </title>
@@ -83,6 +75,14 @@
     <content>This Laugh Was Insane!  #laugh #laughter #foryou </content>
     <link href="https://tiktok.com/@jessicakirson/video/7369729352268778794"/>
     <published>2024-05-16T22:33:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7370342898514054443</id>
+    <title>Sometimes im psychic 😳 #neuroscience #musicindustry #foryou </title>
+    <updated>2024-05-18T14:14:56+00:00</updated>
+    <content>Sometimes im psychic 😳 #neuroscience #musicindustry #foryou </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7370342898514054443"/>
+    <published>2024-05-18T14:14:56+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7365520613777231146</id>
