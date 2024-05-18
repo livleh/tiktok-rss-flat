@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@thegranddowagerduchess</id>
   <title>thegranddowagerduchess</title>
-  <updated>2024-05-18T12:20:55+00:00</updated>
+  <updated>2024-05-18T22:11:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from thegranddowagerduchess</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thegranddowagerduchess/video/7368660843904519467</id>
-    <title>#fyp </title>
-    <updated>2024-05-14T01:27:38+00:00</updated>
-    <content>#fyp </content>
-    <link href="https://tiktok.com/@thegranddowagerduchess/video/7368660843904519467"/>
-    <published>2024-05-14T01:27:38+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@thegranddowagerduchess/video/7368928992788778283</id>
-    <title>No Title</title>
-    <updated>2024-05-14T18:48:09+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@thegranddowagerduchess/video/7368928992788778283"/>
-    <published>2024-05-14T18:48:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thegranddowagerduchess/video/7369329898969746730</id>
     <title>#fyp #viral #foryoupage #dragqueen #dancing #perfomer #rhinestones </title>
@@ -67,6 +51,22 @@
     <content>#fyp </content>
     <link href="https://tiktok.com/@thegranddowagerduchess/video/7370313447659130154"/>
     <published>2024-05-18T12:20:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thegranddowagerduchess/video/7370453314313473322</id>
+    <title>#fyp #clubvortexkalamazoo #queertiktok #rupaulsdragrace #viral </title>
+    <updated>2024-05-18T21:23:22+00:00</updated>
+    <content>#fyp #clubvortexkalamazoo #queertiktok #rupaulsdragrace #viral </content>
+    <link href="https://tiktok.com/@thegranddowagerduchess/video/7370453314313473322"/>
+    <published>2024-05-18T21:23:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thegranddowagerduchess/video/7370465618128145707</id>
+    <title>No Title</title>
+    <updated>2024-05-18T22:11:06+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@thegranddowagerduchess/video/7370465618128145707"/>
+    <published>2024-05-18T22:11:06+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@thegranddowagerduchess/video/7349976585157545246</id>
