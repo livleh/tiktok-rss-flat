@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@americascomic</id>
   <title>americascomic</title>
-  <updated>2024-05-20T20:20:24+00:00</updated>
+  <updated>2024-03-30T17:22:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from americascomic</subtitle>
+  <entry>
+    <id>https://tiktok.com/@americascomic/video/7335504767554309418</id>
+    <title>fun history of Madison Square Garden #nychistory #newyorkhistory #nyctour #madisonsquaregarden #amberiscuteandfunny </title>
+    <updated>2024-02-14T17:05:47+00:00</updated>
+    <content>fun history of Madison Square Garden #nychistory #newyorkhistory #nyctour #madisonsquaregarden #amberiscuteandfunny </content>
+    <link href="https://tiktok.com/@americascomic/video/7335504767554309418"/>
+    <published>2024-02-14T17:05:47+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@americascomic/video/7337392731138067758</id>
     <title>DRAMA!!!!!! #queerdiscourse #dramatiktok #discourse #amberiscuteandfunny </title>
@@ -59,14 +67,6 @@
     <content>Replying to @manic.pixie.riotgrrrl as a Gothamite, Bruce Wayne is NOT Batman #gothamtok #gothamtiktok #gothamcity #gothamfyp #gotham </content>
     <link href="https://tiktok.com/@americascomic/video/7352208097483492650"/>
     <published>2024-03-30T17:22:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@americascomic/video/7371179262264511790</id>
-    <title>#stitch with @eleanor farnsworth#trans #transjoy #transdiscourse #queerdiscourse #transfemme </title>
-    <updated>2024-05-20T20:20:24+00:00</updated>
-    <content>#stitch with @eleanor farnsworth#trans #transjoy #transdiscourse #queerdiscourse #transfemme </content>
-    <link href="https://tiktok.com/@americascomic/video/7371179262264511790"/>
-    <published>2024-05-20T20:20:24+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@americascomic/video/7231569804690328878</id>
