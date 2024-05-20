@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-05-19T12:36:48+00:00</updated>
+  <updated>2024-05-20T13:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7367097549854887201</id>
-    <title>BEING JEALOUS OF THE GIRLS #vtuber #trans</title>
-    <updated>2024-05-10T13:00:00+00:00</updated>
-    <content>BEING JEALOUS OF THE GIRLS #vtuber #trans</content>
-    <link href="https://tiktok.com/@nyaravt/video/7367097549854887201"/>
-    <published>2024-05-10T13:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7367441265702604064</id>
     <title>NOT STREAMING IN GERMAN ANYMORE #vtuber</title>
@@ -91,5 +83,13 @@
     <content>KITTY DOESN'T THINK BEFORE SPEAKING #vtuber</content>
     <link href="https://tiktok.com/@nyaravt/video/7370687653919952161"/>
     <published>2024-05-19T12:36:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7371051179654008097</id>
+    <title>I'M ON THE FBI'S WATCHLIST BECAUSE OF THIS #vtuber</title>
+    <updated>2024-05-20T13:00:00+00:00</updated>
+    <content>I'M ON THE FBI'S WATCHLIST BECAUSE OF THIS #vtuber</content>
+    <link href="https://tiktok.com/@nyaravt/video/7371051179654008097"/>
+    <published>2024-05-20T13:00:00+00:00</published>
   </entry>
 </feed>
