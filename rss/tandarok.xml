@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-05-15T06:14:52+00:00</updated>
+  <updated>2024-05-20T09:28:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7364647955279711521</id>
-    <title>Ich hab durch Polyamorie wirklich sooo viel gelernt  #polyamory #beziehung #offenebeziehung #nonmonogamy  #twitchclips #twitchgermany </title>
-    <updated>2024-05-03T05:55:51+00:00</updated>
-    <content>Ich hab durch Polyamorie wirklich sooo viel gelernt  #polyamory #beziehung #offenebeziehung #nonmonogamy  #twitchclips #twitchgermany </content>
-    <link href="https://tiktok.com/@tandarok/video/7364647955279711521"/>
-    <published>2024-05-03T05:55:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7365031817549860128</id>
-    <title>🖤 #coloranalysis #fitcheck #outfit </title>
-    <updated>2024-05-04T06:45:17+00:00</updated>
-    <content>🖤 #coloranalysis #fitcheck #outfit </content>
-    <link href="https://tiktok.com/@tandarok/video/7365031817549860128"/>
-    <published>2024-05-04T06:45:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7365416959145512224</id>
     <title>#stitch mit @amelia 💌  #transgendergermany #transgirl #trans </title>
@@ -67,6 +51,22 @@
     <content>Bärenland vs. Männerland? #manorbear #twitchclips #twitchgermany </content>
     <link href="https://tiktok.com/@tandarok/video/7369105944753474849"/>
     <published>2024-05-15T06:14:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7370604998918475041</id>
+    <title>Easy 🫠 #livingmybestlife #queer </title>
+    <updated>2024-05-19T07:11:59+00:00</updated>
+    <content>Easy 🫠 #livingmybestlife #queer </content>
+    <link href="https://tiktok.com/@tandarok/video/7370604998918475041"/>
+    <published>2024-05-19T07:11:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7371011287276457249</id>
+    <title>Bin sehr genervt davon, dass trans Personen immer eine Geschlechtsidentität haben, während cis Personen einfach ein Geschlecht haben. Wir sollten von diesem Unterschied einfach weg. Wenn du bei trans Menschen von Identität redest, mach das bitte auch bei </title>
+    <updated>2024-05-20T09:28:35+00:00</updated>
+    <content>Bin sehr genervt davon, dass trans Personen immer eine Geschlechtsidentität haben, während cis Personen einfach ein Geschlecht haben. Wir sollten von diesem Unterschied einfach weg. Wenn du bei trans Menschen von Identität redest, mach das bitte auch bei </content>
+    <link href="https://tiktok.com/@tandarok/video/7371011287276457249"/>
+    <published>2024-05-20T09:28:35+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>

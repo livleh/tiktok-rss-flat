@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-05-18T13:50:16+00:00</updated>
+  <updated>2024-05-19T14:16:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7368938344450952494</id>
-    <title>prevent fires, use Sauce Labs   #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow #ad </title>
-    <updated>2024-05-14T19:24:26+00:00</updated>
-    <content>prevent fires, use Sauce Labs   #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow #ad </content>
-    <link href="https://tiktok.com/@techroastshow/video/7368938344450952494"/>
-    <published>2024-05-14T19:24:26+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7369340511343119659</id>
-    <title>He really needs a higher grade  #techie #softwareengineer #siliconvalley #sanfrancisco #bayarea #comedy #funny #developerlife #programmerlife</title>
-    <updated>2024-05-15T21:25:03+00:00</updated>
-    <content>He really needs a higher grade  #techie #softwareengineer #siliconvalley #sanfrancisco #bayarea #comedy #funny #developerlife #programmerlife</content>
-    <link href="https://tiktok.com/@techroastshow/video/7369340511343119659"/>
-    <published>2024-05-15T21:25:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7369600165671456046</id>
     <title>LA vs The Bay  #techie #softwareengineer #siliconvalley #sanfrancisco #LA #losangeles #darkhumor #techroastshow</title>
@@ -67,6 +51,22 @@
     <content>he bought the shirt on Amazon  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</content>
     <link href="https://tiktok.com/@techroastshow/video/7370336528394030382"/>
     <published>2024-05-18T13:50:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7370713976025419050</id>
+    <title>his life is so hard 😫 #techie #softwareengineer #siliconvalley #sanfrancisco #bayarea #comedy #funny #developerlife #programmerlife</title>
+    <updated>2024-05-19T14:14:52+00:00</updated>
+    <content>his life is so hard 😫 #techie #softwareengineer #siliconvalley #sanfrancisco #bayarea #comedy #funny #developerlife #programmerlife</content>
+    <link href="https://tiktok.com/@techroastshow/video/7370713976025419050"/>
+    <published>2024-05-19T14:14:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7370714297271438638</id>
+    <title>we never found out what they do  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</title>
+    <updated>2024-05-19T14:16:07+00:00</updated>
+    <content>we never found out what they do  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</content>
+    <link href="https://tiktok.com/@techroastshow/video/7370714297271438638"/>
+    <published>2024-05-19T14:16:07+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>

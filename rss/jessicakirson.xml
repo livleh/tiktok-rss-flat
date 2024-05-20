@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-05-18T14:14:56+00:00</updated>
+  <updated>2024-05-19T22:56:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7366397635437038894</id>
-    <title>I thought he was 🤷 #gaytiktok #🏳️‍🌈 #lgbt </title>
-    <updated>2024-05-07T23:05:13+00:00</updated>
-    <content>I thought he was 🤷 #gaytiktok #🏳️‍🌈 #lgbt </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7366397635437038894"/>
-    <published>2024-05-07T23:05:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7367115875855404331</id>
     <title>He Embarrassed Him again.  #embarrassing #gaytiktok #foryou </title>
@@ -85,11 +77,19 @@
     <published>2024-05-18T14:14:56+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7365520613777231146</id>
-    <title>Like and comment for the algorithm thing so everyone can see this. I have a lot of new dates that are on sale now. </title>
-    <updated>2024-05-05T14:22:03+00:00</updated>
-    <content>Like and comment for the algorithm thing so everyone can see this. I have a lot of new dates that are on sale now. </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7365520613777231146"/>
-    <published>2024-05-05T14:22:03+00:00</published>
+    <id>https://tiktok.com/@jessicakirson/video/7370848489699298603</id>
+    <title>Have you heard of this airline?  #flight #airline #foryou #airport </title>
+    <updated>2024-05-19T22:56:47+00:00</updated>
+    <content>Have you heard of this airline?  #flight #airline #foryou #airport </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7370848489699298603"/>
+    <published>2024-05-19T22:56:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7370717776505294122</id>
+    <title>Hiii like, comment, and share so this stupid algorithm gets this to all of my followers. The Never Ending Tour is on sale now and I want all of you to be able to get a chance to come before its sold out. Go to my site for more info. Thank you!! Xoxo</title>
+    <updated>2024-05-19T14:29:40+00:00</updated>
+    <content>Hiii like, comment, and share so this stupid algorithm gets this to all of my followers. The Never Ending Tour is on sale now and I want all of you to be able to get a chance to come before its sold out. Go to my site for more info. Thank you!! Xoxo</content>
+    <link href="https://tiktok.com/@jessicakirson/video/7370717776505294122"/>
+    <published>2024-05-19T14:29:40+00:00</published>
   </entry>
 </feed>

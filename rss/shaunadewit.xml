@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shaunadewit</id>
   <title>shaunadewit</title>
-  <updated>2024-05-14T13:37:26+00:00</updated>
+  <updated>2024-05-20T08:16:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shaunadewit</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shaunadewit/video/7361894878910958880</id>
-    <title>ITS A JOKE #foryou #pourtoi #comedy #humor #goviral </title>
-    <updated>2024-04-25T19:52:09+00:00</updated>
-    <content>ITS A JOKE #foryou #pourtoi #comedy #humor #goviral </content>
-    <link href="https://tiktok.com/@shaunadewit/video/7361894878910958880"/>
-    <published>2024-04-25T19:52:09+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@shaunadewit/video/7362130857961835808</id>
-    <title>Don’t mess with @Pascal Soetens #goviral #foryou #pourtoi #comedy #humor </title>
-    <updated>2024-04-26T11:08:00+00:00</updated>
-    <content>Don’t mess with @Pascal Soetens #goviral #foryou #pourtoi #comedy #humor </content>
-    <link href="https://tiktok.com/@shaunadewit/video/7362130857961835808"/>
-    <published>2024-04-26T11:08:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/7362856717874515233</id>
     <title>Thats a very bad joke and im not sorry #foryou #pourtoi #comedy #humor #goviral </title>
@@ -83,6 +67,22 @@
     <content>True story #foryou #pourtoi #comedy #humor #goviral </content>
     <link href="https://tiktok.com/@shaunadewit/video/7368848935609191712"/>
     <published>2024-05-14T13:37:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shaunadewit/video/7370634289681009952</id>
+    <title>Story of my short life #foryou #pourtoi #comedy #humor #goviral </title>
+    <updated>2024-05-19T09:05:33+00:00</updated>
+    <content>Story of my short life #foryou #pourtoi #comedy #humor #goviral </content>
+    <link href="https://tiktok.com/@shaunadewit/video/7370634289681009952"/>
+    <published>2024-05-19T09:05:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shaunadewit/video/7370992584707132705</id>
+    <title>Intrusive thought #foryou #pourtoi #comedy #humor #goviral </title>
+    <updated>2024-05-20T08:16:01+00:00</updated>
+    <content>Intrusive thought #foryou #pourtoi #comedy #humor #goviral </content>
+    <link href="https://tiktok.com/@shaunadewit/video/7370992584707132705"/>
+    <published>2024-05-20T08:16:01+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/6994791135415766278</id>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@palim_tintin</id>
   <title>palim_tintin</title>
-  <updated>2024-05-11T17:50:51+00:00</updated>
+  <updated>2024-05-19T11:23:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from palim_tintin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@palim_tintin/video/7355925871808498977</id>
-    <title>🧡🧡🧡 #homedecor #home #interiordesign #interior #catsoftiktok #catlover #solebich #wohnzimmer #livingroom #bohohome #bohovibes </title>
-    <updated>2024-04-09T17:49:21+00:00</updated>
-    <content>🧡🧡🧡 #homedecor #home #interiordesign #interior #catsoftiktok #catlover #solebich #wohnzimmer #livingroom #bohohome #bohovibes </content>
-    <link href="https://tiktok.com/@palim_tintin/video/7355925871808498977"/>
-    <published>2024-04-09T17:49:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@palim_tintin/video/7357385855872388384</id>
     <title>Werbung| Alle Outfits sind von @WELTENTäNZER BERLIN . Die Kleidung wird mit Herz und Seele auf Bali unter fairen Bedingungen produziert. 🧡✌🏼😊 Mit meinem Code Kristina24 gibt’s 15% Rabatt auf euren Einkauf. ✨Und wenn ihr Fragen zu den einzelnen Outfits hab</title>
@@ -67,6 +59,14 @@
     <content>🦊👘🧡🍊</content>
     <link href="https://tiktok.com/@palim_tintin/video/7367800981238631713"/>
     <published>2024-05-11T17:50:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@palim_tintin/video/7370669815804988704</id>
+    <title>Der Blazer lag jetzt 20 Jahre auf dem Dachboden meiner Eltern rum und ist einfach viel zu cool, um dort zu vergammeln! 😉Habt schöne Pfingsten. ✨ Wie gefällt euch der Look? 🤎 #ootd #outfitreel #outfitinspo #wiw #outfitcheck #secondhand #secondhandfashion #</title>
+    <updated>2024-05-19T11:23:24+00:00</updated>
+    <content>Der Blazer lag jetzt 20 Jahre auf dem Dachboden meiner Eltern rum und ist einfach viel zu cool, um dort zu vergammeln! 😉Habt schöne Pfingsten. ✨ Wie gefällt euch der Look? 🤎 #ootd #outfitreel #outfitinspo #wiw #outfitcheck #secondhand #secondhandfashion #</content>
+    <link href="https://tiktok.com/@palim_tintin/video/7370669815804988704"/>
+    <published>2024-05-19T11:23:24+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@palim_tintin/video/7189301520721005829</id>
