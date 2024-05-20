@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-05-15T19:18:54+00:00</updated>
+  <updated>2024-05-20T16:28:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7361115721339915553</id>
-    <title>tortillaz are my favourite band they have no affiliation with gorillaz </title>
-    <updated>2024-04-23T17:28:37+00:00</updated>
-    <content>tortillaz are my favourite band they have no affiliation with gorillaz </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7361115721339915553"/>
-    <published>2024-04-23T17:28:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7361868318363454753</id>
     <title>vehicle maintenance made fun </title>
@@ -91,5 +83,13 @@
     <content>Replying to @k  over half this call was silent </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7369308011652975904"/>
     <published>2024-05-15T19:18:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7371119629705514272</id>
+    <title>proud member of the mile high club and the first instalment of a bread abroad !!</title>
+    <updated>2024-05-20T16:28:57+00:00</updated>
+    <content>proud member of the mile high club and the first instalment of a bread abroad !!</content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7371119629705514272"/>
+    <published>2024-05-20T16:28:57+00:00</published>
   </entry>
 </feed>
