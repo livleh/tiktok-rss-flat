@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-05-21T15:59:05+00:00</updated>
+  <updated>2024-05-21T18:44:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7367405178502368558</id>
-    <title>I swear some airports hate us ✈️ what's your biggest airport pet peeve???  Mine are: Limited waterbottle fill stations you have to walk a mile to find, or when there's just an old fountain that barely works instead (ps SFO has stations with cold water and</title>
-    <updated>2024-05-10T16:15:06+00:00</updated>
-    <content>I swear some airports hate us ✈️ what's your biggest airport pet peeve???  Mine are: Limited waterbottle fill stations you have to walk a mile to find, or when there's just an old fountain that barely works instead (ps SFO has stations with cold water and</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7367405178502368558"/>
-    <published>2024-05-10T16:15:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7368357873442753838</id>
     <title>Is German Nivea really worth the hype?? 🤔I found a tin in Denmark, been trying it out the past 2 weeks and even did research on ingredients...  ✨ short story: unless you are allergic to a very specific ingrediant, it's literally the same as the American v</title>
@@ -67,6 +59,14 @@
     <content>wish i packed some sequins 🤧this gorgeous castle is the Gripsholm Slott about an hour outside Stockholm! #abba #stockholm #sweden #gripsholmsslott #waterloo #whimsysoul </content>
     <link href="https://tiktok.com/@whimsysoul/video/7371483023130250539"/>
     <published>2024-05-21T15:59:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7371525750609972522</id>
+    <title>The best bakery in Copenhagen 🤤 wish i bought more of those miso cookies ngl #copenhagen #copenhagenlife #copenhagenfood #denmark #dansk #whimsysoul #andersonbakery #islandsbrygge #food </title>
+    <updated>2024-05-21T18:44:53+00:00</updated>
+    <content>The best bakery in Copenhagen 🤤 wish i bought more of those miso cookies ngl #copenhagen #copenhagenlife #copenhagenfood #denmark #dansk #whimsysoul #andersonbakery #islandsbrygge #food </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7371525750609972522"/>
+    <published>2024-05-21T18:44:53+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>

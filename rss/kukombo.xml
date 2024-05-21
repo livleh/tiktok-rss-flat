@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@kukombo</id>
   <title>kukombo</title>
-  <updated>2024-03-30T16:00:36+00:00</updated>
+  <updated>2024-05-21T19:24:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from kukombo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kukombo/video/7291430054809062663</id>
-    <title>Marvel Snap, girl. I think you dropped something. My jaw… with this NEW widescreen support and in-game rewards for the 1 year anniversary. Download the game now on Steam to experience the true Marvel fantasy 😏 #MarvelSnapPartner </title>
-    <updated>2023-10-18T22:32:40+00:00</updated>
-    <content>Marvel Snap, girl. I think you dropped something. My jaw… with this NEW widescreen support and in-game rewards for the 1 year anniversary. Download the game now on Steam to experience the true Marvel fantasy 😏 #MarvelSnapPartner </content>
-    <link href="https://tiktok.com/@kukombo/video/7291430054809062663"/>
-    <published>2023-10-18T22:32:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kukombo/video/7296240035836284178</id>
     <title>All I need is a dalmatian coat to match my dalmatian nails 💅 #CruelladeVil #101Dalmations</title>
@@ -67,6 +59,14 @@
     <content>GRWM: Corporate Edition (as someone who’s never stepped foot in an actual office 🥲) inspired by @NYANE 🫶🏼 • @desioeyes Lush Green Colored Contacts @makeupforever HD Skin Hydra Glow Foundation @Huda Beauty Faux Filter Concealer @Milani Cheek Kiss Cream Blu</content>
     <link href="https://tiktok.com/@kukombo/video/7352186992110718215"/>
     <published>2024-03-30T16:00:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kukombo/video/7371536010573827346</id>
+    <title>You only need five shoes in your rotation: the Air Max Dn, the Air Max Dn, the Air Max Dn, the Air Max Dn, and the Air Max Dn. That’s all you need 😌 @Nike #TeamNike</title>
+    <updated>2024-05-21T19:24:41+00:00</updated>
+    <content>You only need five shoes in your rotation: the Air Max Dn, the Air Max Dn, the Air Max Dn, the Air Max Dn, and the Air Max Dn. That’s all you need 😌 @Nike #TeamNike</content>
+    <link href="https://tiktok.com/@kukombo/video/7371536010573827346"/>
+    <published>2024-05-21T19:24:41+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@kukombo/video/6985183691433659650</id>

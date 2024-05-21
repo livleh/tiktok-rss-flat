@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@danielryanspaulding</id>
   <title>danielryanspaulding</title>
-  <updated>2024-05-20T19:51:38+00:00</updated>
+  <updated>2024-05-21T18:54:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from danielryanspaulding</subtitle>
-  <entry>
-    <id>https://tiktok.com/@danielryanspaulding/video/7360111120926919969</id>
-    <title>This week in my Power Gay life, I helped my friend Shai Davidai @shaidavidai expose the ideological subversion of American youth being radicalized at Columbia University, went shopping for a new Fire Island wardrobe @chelsea_exclusive, explained to @cynth</title>
-    <updated>2024-04-21T00:30:28+00:00</updated>
-    <content>This week in my Power Gay life, I helped my friend Shai Davidai @shaidavidai expose the ideological subversion of American youth being radicalized at Columbia University, went shopping for a new Fire Island wardrobe @chelsea_exclusive, explained to @cynth</content>
-    <link href="https://tiktok.com/@danielryanspaulding/video/7360111120926919969"/>
-    <published>2024-04-21T00:30:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@danielryanspaulding/video/7360537911319612705</id>
     <title>I had the best Power Gay weekend - “and just like that" I explained to @cynthiaenixon &amp; @therealsararamirez that the pro-terror student mobs at @columbia are anti-American &amp; part of a larger ideological subversion of our society &amp; they are normalizing ter</title>
@@ -131,5 +123,13 @@
     <content>1/4 Part Interview with Peace activist Hamza Howidy @hazzah1997 who is one of the first young Gazans speaking out against Hamas. He has written several articles with @newsweek urging protesters worldwide not to glorify or legitimize Hamas &amp; has condemned </content>
     <link href="https://tiktok.com/@danielryanspaulding/video/7371171874744700192"/>
     <published>2024-05-20T19:51:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@danielryanspaulding/video/7371528265539816737</id>
+    <title>2/4 Part Interview with Peace activist Hamza Howidy @hazzah1997 who is one of the first young Gazans speaking out against Hamas. He has written several articles with @newsweek urging protesters worldwide not to glorify or legitimize Hamas &amp; has condemned </title>
+    <updated>2024-05-21T18:54:35+00:00</updated>
+    <content>2/4 Part Interview with Peace activist Hamza Howidy @hazzah1997 who is one of the first young Gazans speaking out against Hamas. He has written several articles with @newsweek urging protesters worldwide not to glorify or legitimize Hamas &amp; has condemned </content>
+    <link href="https://tiktok.com/@danielryanspaulding/video/7371528265539816737"/>
+    <published>2024-05-21T18:54:35+00:00</published>
   </entry>
 </feed>
