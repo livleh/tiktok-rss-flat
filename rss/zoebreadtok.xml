@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-05-20T16:28:57+00:00</updated>
+  <updated>2024-05-21T16:31:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7361868318363454753</id>
-    <title>vehicle maintenance made fun </title>
-    <updated>2024-04-25T18:09:06+00:00</updated>
-    <content>vehicle maintenance made fun </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7361868318363454753"/>
-    <published>2024-04-25T18:09:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7363349304641195296</id>
     <title>dull mens club x zoë bread and what happens when you visit the shower gel headquarters for a cuppa #manchester </title>
@@ -91,5 +83,13 @@
     <content>proud member of the mile high club and the first instalment of a bread abroad !!</content>
     <link href="https://tiktok.com/@zoebreadtok/video/7371119629705514272"/>
     <published>2024-05-20T16:28:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7371491231999839520</id>
+    <title>i dont think david hasselhoff is even german </title>
+    <updated>2024-05-21T16:31:03+00:00</updated>
+    <content>i dont think david hasselhoff is even german </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7371491231999839520"/>
+    <published>2024-05-21T16:31:03+00:00</published>
   </entry>
 </feed>
