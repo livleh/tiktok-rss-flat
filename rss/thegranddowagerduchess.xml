@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@thegranddowagerduchess</id>
   <title>thegranddowagerduchess</title>
-  <updated>2024-05-21T13:46:37+00:00</updated>
+  <updated>2024-05-21T14:58:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from thegranddowagerduchess</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thegranddowagerduchess/video/7369940983100001582</id>
-    <title>#fyp #clubvortexkalamazoo #foryoupage </title>
-    <updated>2024-05-17T12:15:30+00:00</updated>
-    <content>#fyp #clubvortexkalamazoo #foryoupage </content>
-    <link href="https://tiktok.com/@thegranddowagerduchess/video/7369940983100001582"/>
-    <published>2024-05-17T12:15:30+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@thegranddowagerduchess/video/7370079632529411371</id>
-    <title>#BRIDGERTON </title>
-    <updated>2024-05-17T21:13:20+00:00</updated>
-    <content>#BRIDGERTON </content>
-    <link href="https://tiktok.com/@thegranddowagerduchess/video/7370079632529411371"/>
-    <published>2024-05-17T21:13:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thegranddowagerduchess/video/7370313447659130154</id>
     <title>#fyp </title>
@@ -67,6 +51,22 @@
     <content>#fyp #glossmondays #drag #rupaulsdragrace #stage #theater #arianagrande </content>
     <link href="https://tiktok.com/@thegranddowagerduchess/video/7371448813426429227"/>
     <published>2024-05-21T13:46:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thegranddowagerduchess/video/7371458445586910510</id>
+    <title>#fyp #glossmondays #drag #rupaulsdragrace #stage #theater #queertiktok </title>
+    <updated>2024-05-21T14:23:45+00:00</updated>
+    <content>#fyp #glossmondays #drag #rupaulsdragrace #stage #theater #queertiktok </content>
+    <link href="https://tiktok.com/@thegranddowagerduchess/video/7371458445586910510"/>
+    <published>2024-05-21T14:23:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thegranddowagerduchess/video/7371467321543609646</id>
+    <title>#fyp #glossmondays #drag #rupaulsdragrace #viral #deathdrop #glam #queer #gay #homo </title>
+    <updated>2024-05-21T14:58:12+00:00</updated>
+    <content>#fyp #glossmondays #drag #rupaulsdragrace #viral #deathdrop #glam #queer #gay #homo </content>
+    <link href="https://tiktok.com/@thegranddowagerduchess/video/7371467321543609646"/>
+    <published>2024-05-21T14:58:12+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@thegranddowagerduchess/video/7349976585157545246</id>
