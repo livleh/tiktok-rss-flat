@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-05-20T09:28:35+00:00</updated>
+  <updated>2024-05-21T05:27:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7365416959145512224</id>
-    <title>#stitch mit @amelia 💌  #transgendergermany #transgirl #trans </title>
-    <updated>2024-05-05T07:40:08+00:00</updated>
-    <content>#stitch mit @amelia 💌  #transgendergermany #transgirl #trans </content>
-    <link href="https://tiktok.com/@tandarok/video/7365416959145512224"/>
-    <published>2024-05-05T07:40:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7365781951799676192</id>
     <title>Toxische Männlichkeit und Intimität  #twitchgermany #twitchclips #feminismus #beziehung </title>
@@ -67,6 +59,14 @@
     <content>Bin sehr genervt davon, dass trans Personen immer eine Geschlechtsidentität haben, während cis Personen einfach ein Geschlecht haben. Wir sollten von diesem Unterschied einfach weg. Wenn du bei trans Menschen von Identität redest, mach das bitte auch bei </content>
     <link href="https://tiktok.com/@tandarok/video/7371011287276457249"/>
     <published>2024-05-20T09:28:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7371320087300672801</id>
+    <title>Sternzeichen Gesicht 🌙</title>
+    <updated>2024-05-21T05:27:08+00:00</updated>
+    <content>Sternzeichen Gesicht 🌙</content>
+    <link href="https://tiktok.com/@tandarok/video/7371320087300672801"/>
+    <published>2024-05-21T05:27:08+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
