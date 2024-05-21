@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-05-20T23:00:24+00:00</updated>
+  <updated>2024-05-21T23:05:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7367748589835062574</id>
-    <title>Always up front and in the  #dragqueen #utah #fyp #foryou </title>
-    <updated>2024-05-11T14:27:42+00:00</updated>
-    <content>Always up front and in the  #dragqueen #utah #fyp #foryou </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7367748589835062574"/>
-    <published>2024-05-11T14:27:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7367877772980555050</id>
     <title>Rich man is nervous to talk to me  #fyp #finance #money </title>
@@ -83,6 +75,14 @@
     <content>He took so long!! #fyp #foryou </content>
     <link href="https://tiktok.com/@jessicakirson/video/7371220499294096682"/>
     <published>2024-05-20T23:00:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7371593018798837034</id>
+    <title>Just once before I go  #foryou </title>
+    <updated>2024-05-21T23:05:54+00:00</updated>
+    <content>Just once before I go  #foryou </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7371593018798837034"/>
+    <published>2024-05-21T23:05:54+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7370717776505294122</id>
