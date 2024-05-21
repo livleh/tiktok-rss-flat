@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@starryribbons</id>
   <title>starryribbons</title>
-  <updated>2024-05-21T18:20:40+00:00</updated>
+  <updated>2024-05-21T20:24:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from starryribbons</subtitle>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7368898351493827872</id>
-    <title>amity was mostly when I had purple hair tbh #coquettecore #digitaldiary #taylorswifttok #lesbiansoftiktok #wlw #ootd #kpop </title>
-    <updated>2024-05-14T16:49:10+00:00</updated>
-    <content>amity was mostly when I had purple hair tbh #coquettecore #digitaldiary #taylorswifttok #lesbiansoftiktok #wlw #ootd #kpop </content>
-    <link href="https://tiktok.com/@starryribbons/video/7368898351493827872"/>
-    <published>2024-05-14T16:49:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7368933018624445729</id>
     <title>can we reload the start page before I cry #coquettecore #digitaldiary #pinterest #wlw #taylorswift #girlhood #mentalhealthmatters </title>
@@ -83,6 +75,14 @@
     <content>outfit of the day ft beabadoobee #coquettecore #digitaldiary #femlesbian #outfitoftheday #beabadoobee #wlw </content>
     <link href="https://tiktok.com/@starryribbons/video/7371519529538555169"/>
     <published>2024-05-21T18:20:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7371551351064612128</id>
+    <title>xenia bestest friend of all time #coquettecore #digitaldiary #femlesbian #billieeilish #bestfriendgoals #kpop @Xenia </title>
+    <updated>2024-05-21T20:24:11+00:00</updated>
+    <content>xenia bestest friend of all time #coquettecore #digitaldiary #femlesbian #billieeilish #bestfriendgoals #kpop @Xenia </content>
+    <link href="https://tiktok.com/@starryribbons/video/7371551351064612128"/>
+    <published>2024-05-21T20:24:11+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7285761406664854817</id>
