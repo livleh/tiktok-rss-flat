@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@starryribbons</id>
   <title>starryribbons</title>
-  <updated>2024-05-19T16:55:38+00:00</updated>
+  <updated>2024-05-21T18:20:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from starryribbons</subtitle>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7368174340484926752</id>
-    <title>me resisting the urge to wear a dress every single day (i‘m failing) #coquettecore #digitaldiary #outfitinspo #ootd #wlw #beabadoobee #aesthetic  </title>
-    <updated>2024-05-12T17:59:41+00:00</updated>
-    <content>me resisting the urge to wear a dress every single day (i‘m failing) #coquettecore #digitaldiary #outfitinspo #ootd #wlw #beabadoobee #aesthetic  </content>
-    <link href="https://tiktok.com/@starryribbons/video/7368174340484926752"/>
-    <published>2024-05-12T17:59:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7368898351493827872</id>
     <title>amity was mostly when I had purple hair tbh #coquettecore #digitaldiary #taylorswifttok #lesbiansoftiktok #wlw #ootd #kpop </title>
@@ -83,6 +75,14 @@
     <content>shoutout to alice for the first pic also the way my smile has not changed at all #coquettecore #digitaldiary #billieeilish #femlesbian #mentalhealthmatters </content>
     <link href="https://tiktok.com/@starryribbons/video/7370755434631777568"/>
     <published>2024-05-19T16:55:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7371519529538555169</id>
+    <title>outfit of the day ft beabadoobee #coquettecore #digitaldiary #femlesbian #outfitoftheday #beabadoobee #wlw </title>
+    <updated>2024-05-21T18:20:40+00:00</updated>
+    <content>outfit of the day ft beabadoobee #coquettecore #digitaldiary #femlesbian #outfitoftheday #beabadoobee #wlw </content>
+    <link href="https://tiktok.com/@starryribbons/video/7371519529538555169"/>
+    <published>2024-05-21T18:20:40+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7285761406664854817</id>
