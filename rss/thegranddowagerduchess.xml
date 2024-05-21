@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@thegranddowagerduchess</id>
   <title>thegranddowagerduchess</title>
-  <updated>2024-05-18T22:24:03+00:00</updated>
+  <updated>2024-05-21T13:46:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from thegranddowagerduchess</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thegranddowagerduchess/video/7369600770787904810</id>
-    <title>##fyp #foryoupage </title>
-    <updated>2024-05-16T14:15:12+00:00</updated>
-    <content>##fyp #foryoupage </content>
-    <link href="https://tiktok.com/@thegranddowagerduchess/video/7369600770787904810"/>
-    <published>2024-05-16T14:15:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thegranddowagerduchess/video/7369940983100001582</id>
     <title>#fyp #clubvortexkalamazoo #foryoupage </title>
@@ -67,6 +59,14 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@thegranddowagerduchess/video/7370468960225103150"/>
     <published>2024-05-18T22:24:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thegranddowagerduchess/video/7371448813426429227</id>
+    <title>#fyp #glossmondays #drag #rupaulsdragrace #stage #theater #arianagrande </title>
+    <updated>2024-05-21T13:46:37+00:00</updated>
+    <content>#fyp #glossmondays #drag #rupaulsdragrace #stage #theater #arianagrande </content>
+    <link href="https://tiktok.com/@thegranddowagerduchess/video/7371448813426429227"/>
+    <published>2024-05-21T13:46:37+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@thegranddowagerduchess/video/7349976585157545246</id>

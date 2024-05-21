@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shaunadewit</id>
   <title>shaunadewit</title>
-  <updated>2024-05-20T08:16:01+00:00</updated>
+  <updated>2024-05-21T13:58:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shaunadewit</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shaunadewit/video/7362856717874515233</id>
-    <title>Thats a very bad joke and im not sorry #foryou #pourtoi #comedy #humor #goviral </title>
-    <updated>2024-04-28T10:04:35+00:00</updated>
-    <content>Thats a very bad joke and im not sorry #foryou #pourtoi #comedy #humor #goviral </content>
-    <link href="https://tiktok.com/@shaunadewit/video/7362856717874515233"/>
-    <published>2024-04-28T10:04:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/7363686201800281376</id>
     <title>Well .. #foryou #pourtoi #comedy #humor #goviral </title>
@@ -83,6 +75,14 @@
     <content>Intrusive thought #foryou #pourtoi #comedy #humor #goviral </content>
     <link href="https://tiktok.com/@shaunadewit/video/7370992584707132705"/>
     <published>2024-05-20T08:16:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shaunadewit/video/7371451964095270176</id>
+    <title>I’m scared of getting 1 million #foryou #pourtoi #comedy #humor #goviral </title>
+    <updated>2024-05-21T13:58:35+00:00</updated>
+    <content>I’m scared of getting 1 million #foryou #pourtoi #comedy #humor #goviral </content>
+    <link href="https://tiktok.com/@shaunadewit/video/7371451964095270176"/>
+    <published>2024-05-21T13:58:35+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/6994791135415766278</id>
