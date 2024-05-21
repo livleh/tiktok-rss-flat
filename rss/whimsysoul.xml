@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-05-17T05:34:52+00:00</updated>
+  <updated>2024-05-21T15:59:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7367032210647551274</id>
-    <title>Replying to @Kevin Flew from USA to Eurovision 🇸🇪!! Today we saw Eurovision Semi Final 2 evening preview in seats tucked way off in the corner that ended up being what I think were the best seats in the house since we could see the artists get ready and g</title>
-    <updated>2024-05-09T16:07:43+00:00</updated>
-    <content>Replying to @Kevin Flew from USA to Eurovision 🇸🇪!! Today we saw Eurovision Semi Final 2 evening preview in seats tucked way off in the corner that ended up being what I think were the best seats in the house since we could see the artists get ready and g</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7367032210647551274"/>
-    <published>2024-05-09T16:07:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7367405178502368558</id>
     <title>I swear some airports hate us ✈️ what's your biggest airport pet peeve???  Mine are: Limited waterbottle fill stations you have to walk a mile to find, or when there's just an old fountain that barely works instead (ps SFO has stations with cold water and</title>
@@ -67,6 +59,14 @@
     <content>Those Bridgerton boys are 🥵 &amp; yes, that bee was a paid actor. 🐝  If I'm ever invited to tea at Bridgerton Manor I'm looking for hotties with a title 💅 😉  I'm so excited for season 3!!!! I'm still in Europe and am staying at this beautiful hotel in the Swe</content>
     <link href="https://tiktok.com/@whimsysoul/video/7369837802294562094"/>
     <published>2024-05-17T05:34:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7371483023130250539</id>
+    <title>wish i packed some sequins 🤧this gorgeous castle is the Gripsholm Slott about an hour outside Stockholm! #abba #stockholm #sweden #gripsholmsslott #waterloo #whimsysoul </title>
+    <updated>2024-05-21T15:59:05+00:00</updated>
+    <content>wish i packed some sequins 🤧this gorgeous castle is the Gripsholm Slott about an hour outside Stockholm! #abba #stockholm #sweden #gripsholmsslott #waterloo #whimsysoul </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7371483023130250539"/>
+    <published>2024-05-21T15:59:05+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
