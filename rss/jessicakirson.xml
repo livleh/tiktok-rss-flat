@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-05-21T23:05:54+00:00</updated>
+  <updated>2024-05-22T22:28:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7367877772980555050</id>
-    <title>Rich man is nervous to talk to me  #fyp #finance #money </title>
-    <updated>2024-05-11T22:48:54+00:00</updated>
-    <content>Rich man is nervous to talk to me  #fyp #finance #money </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7367877772980555050"/>
-    <published>2024-05-11T22:48:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7368223742150839595</id>
     <title>Utah Gay  #gaytiktok #utah #wyoming #foryou </title>
@@ -83,6 +75,14 @@
     <content>Just once before I go  #foryou </content>
     <link href="https://tiktok.com/@jessicakirson/video/7371593018798837034"/>
     <published>2024-05-21T23:05:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7371954380045667630</id>
+    <title>Truck Stops are wilder than you think  #trucker #foryou </title>
+    <updated>2024-05-22T22:28:08+00:00</updated>
+    <content>Truck Stops are wilder than you think  #trucker #foryou </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7371954380045667630"/>
+    <published>2024-05-22T22:28:08+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7370717776505294122</id>
