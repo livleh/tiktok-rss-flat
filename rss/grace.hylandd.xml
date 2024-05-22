@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-05-20T02:41:52+00:00</updated>
+  <updated>2024-05-22T09:41:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7330485893708532999</id>
-    <title>How could he tell you no?</title>
-    <updated>2024-02-01T04:29:16+00:00</updated>
-    <content>How could he tell you no?</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7330485893708532999"/>
-    <published>2024-02-01T04:29:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7331979740254965000</id>
     <title>FUE method by Crown clinic at iccm hospital for those of you who were asking! xoxo</title>
@@ -123,5 +115,13 @@
     <content>Beauty is pain 😗✌️</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7370906487524265224"/>
     <published>2024-05-20T02:41:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7371756941426642184</id>
+    <title>Functional </title>
+    <updated>2024-05-22T09:41:58+00:00</updated>
+    <content>Functional </content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7371756941426642184"/>
+    <published>2024-05-22T09:41:58+00:00</published>
   </entry>
 </feed>
