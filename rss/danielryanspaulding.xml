@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@danielryanspaulding</id>
   <title>danielryanspaulding</title>
-  <updated>2024-05-21T18:54:35+00:00</updated>
+  <updated>2024-05-22T15:30:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from danielryanspaulding</subtitle>
-  <entry>
-    <id>https://tiktok.com/@danielryanspaulding/video/7360537911319612705</id>
-    <title>I had the best Power Gay weekend - “and just like that" I explained to @cynthiaenixon &amp; @therealsararamirez that the pro-terror student mobs at @columbia are anti-American &amp; part of a larger ideological subversion of our society &amp; they are normalizing ter</title>
-    <updated>2024-04-22T04:07:07+00:00</updated>
-    <content>I had the best Power Gay weekend - “and just like that" I explained to @cynthiaenixon &amp; @therealsararamirez that the pro-terror student mobs at @columbia are anti-American &amp; part of a larger ideological subversion of our society &amp; they are normalizing ter</content>
-    <link href="https://tiktok.com/@danielryanspaulding/video/7360537911319612705"/>
-    <published>2024-04-22T04:07:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@danielryanspaulding/video/7361074708277693729</id>
     <title>Today Purple Hair Girl learns that her Activism is HYPOCRITICAL since she claims to be a humanist but EXCLUDES Jews &amp; Israelis from her humanity. Having consistent MORALS means that you care about *EVERYONE* and can acknowledge *EVERYONE’S* suffering. Pur</title>
@@ -131,5 +123,13 @@
     <content>2/4 Part Interview with Peace activist Hamza Howidy @hazzah1997 who is one of the first young Gazans speaking out against Hamas. He has written several articles with @newsweek urging protesters worldwide not to glorify or legitimize Hamas &amp; has condemned </content>
     <link href="https://tiktok.com/@danielryanspaulding/video/7371528265539816737"/>
     <published>2024-05-21T18:54:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@danielryanspaulding/video/7371846776443129120</id>
+    <title>Today we‘re going to talk about how the IRI is destroying America through ideologues &amp; political polarization &amp; give you some sassy examples — and then I’m gonna use my Power Gay Skills &amp; tell you how to stop them ;) </title>
+    <updated>2024-05-22T15:30:38+00:00</updated>
+    <content>Today we‘re going to talk about how the IRI is destroying America through ideologues &amp; political polarization &amp; give you some sassy examples — and then I’m gonna use my Power Gay Skills &amp; tell you how to stop them ;) </content>
+    <link href="https://tiktok.com/@danielryanspaulding/video/7371846776443129120"/>
+    <published>2024-05-22T15:30:38+00:00</published>
   </entry>
 </feed>
