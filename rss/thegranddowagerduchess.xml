@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@thegranddowagerduchess</id>
   <title>thegranddowagerduchess</title>
-  <updated>2024-05-21T14:58:12+00:00</updated>
+  <updated>2024-05-22T13:26:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from thegranddowagerduchess</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thegranddowagerduchess/video/7370313447659130154</id>
-    <title>#fyp </title>
-    <updated>2024-05-18T12:20:55+00:00</updated>
-    <content>#fyp </content>
-    <link href="https://tiktok.com/@thegranddowagerduchess/video/7370313447659130154"/>
-    <published>2024-05-18T12:20:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thegranddowagerduchess/video/7370453314313473322</id>
     <title>#fyp #clubvortexkalamazoo #queertiktok #rupaulsdragrace #viral </title>
@@ -67,6 +59,14 @@
     <content>#fyp #glossmondays #drag #rupaulsdragrace #viral #deathdrop #glam #queer #gay #homo </content>
     <link href="https://tiktok.com/@thegranddowagerduchess/video/7371467321543609646"/>
     <published>2024-05-21T14:58:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thegranddowagerduchess/video/7371814870909685038</id>
+    <title>#fyp #foryoupage #performer #disney #sing #meena #dragqueen #nightlife </title>
+    <updated>2024-05-22T13:26:52+00:00</updated>
+    <content>#fyp #foryoupage #performer #disney #sing #meena #dragqueen #nightlife </content>
+    <link href="https://tiktok.com/@thegranddowagerduchess/video/7371814870909685038"/>
+    <published>2024-05-22T13:26:52+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@thegranddowagerduchess/video/7349976585157545246</id>
