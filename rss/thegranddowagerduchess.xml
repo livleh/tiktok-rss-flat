@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@thegranddowagerduchess</id>
   <title>thegranddowagerduchess</title>
-  <updated>2024-05-22T22:01:17+00:00</updated>
+  <updated>2024-05-23T14:15:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from thegranddowagerduchess</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thegranddowagerduchess/video/7370453314313473322</id>
-    <title>#fyp #clubvortexkalamazoo #queertiktok #rupaulsdragrace #viral </title>
-    <updated>2024-05-18T21:23:22+00:00</updated>
-    <content>#fyp #clubvortexkalamazoo #queertiktok #rupaulsdragrace #viral </content>
-    <link href="https://tiktok.com/@thegranddowagerduchess/video/7370453314313473322"/>
-    <published>2024-05-18T21:23:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thegranddowagerduchess/video/7370465618128145707</id>
     <title>No Title</title>
@@ -67,6 +59,14 @@
     <content>#fyp #foryoupage #viral #dance #trending #hits #dragqueen #bestie #gay #homo #trans #nightlife_comedy #slay #disney </content>
     <link href="https://tiktok.com/@thegranddowagerduchess/video/7371947463051201834"/>
     <published>2024-05-22T22:01:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thegranddowagerduchess/video/7372198587716881707</id>
+    <title>#fyp #foryoupage #viral #trending </title>
+    <updated>2024-05-23T14:15:47+00:00</updated>
+    <content>#fyp #foryoupage #viral #trending </content>
+    <link href="https://tiktok.com/@thegranddowagerduchess/video/7372198587716881707"/>
+    <published>2024-05-23T14:15:47+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@thegranddowagerduchess/video/7349976585157545246</id>
