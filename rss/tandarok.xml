@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-05-23T07:04:44+00:00</updated>
+  <updated>2024-05-23T17:36:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7368735146524036384</id>
-    <title>"Die Krise der Männlichkeit" ist nichts neues  #feminismus #männlichkeit #twitchclips #twitchgermany </title>
-    <updated>2024-05-14T06:15:56+00:00</updated>
-    <content>"Die Krise der Männlichkeit" ist nichts neues  #feminismus #männlichkeit #twitchclips #twitchgermany </content>
-    <link href="https://tiktok.com/@tandarok/video/7368735146524036384"/>
-    <published>2024-05-14T06:15:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7369105944753474849</id>
     <title>Bärenland vs. Männerland? #manorbear #twitchclips #twitchgermany </title>
@@ -67,6 +59,14 @@
     <content>#stitch mit @Pumpkin Head Bi vs Pan #bigirl #bisexual #pansexual </content>
     <link href="https://tiktok.com/@tandarok/video/7372087483724565793"/>
     <published>2024-05-23T07:04:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7372250257964518688</id>
+    <title>Antwort auf @bugs.exotics  #bisexual #pansexual #bigirl </title>
+    <updated>2024-05-23T17:36:19+00:00</updated>
+    <content>Antwort auf @bugs.exotics  #bisexual #pansexual #bigirl </content>
+    <link href="https://tiktok.com/@tandarok/video/7372250257964518688"/>
+    <published>2024-05-23T17:36:19+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
