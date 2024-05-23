@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@starryribbons</id>
   <title>starryribbons</title>
-  <updated>2024-05-21T20:24:11+00:00</updated>
+  <updated>2024-05-23T17:07:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from starryribbons</subtitle>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7368933018624445729</id>
-    <title>can we reload the start page before I cry #coquettecore #digitaldiary #pinterest #wlw #taylorswift #girlhood #mentalhealthmatters </title>
-    <updated>2024-05-14T19:03:43+00:00</updated>
-    <content>can we reload the start page before I cry #coquettecore #digitaldiary #pinterest #wlw #taylorswift #girlhood #mentalhealthmatters </content>
-    <link href="https://tiktok.com/@starryribbons/video/7368933018624445729"/>
-    <published>2024-05-14T19:03:43+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7369287316688473376</id>
-    <title>wdym the worst part of the car crash was TALKING TO HER DAD! #coquettecore #digitaldiary #phoebebridgers #phoebebridgerstok #wlw #lesbiansoftiktok #relatable #mentalhealthmatters </title>
-    <updated>2024-05-15T17:58:38+00:00</updated>
-    <content>wdym the worst part of the car crash was TALKING TO HER DAD! #coquettecore #digitaldiary #phoebebridgers #phoebebridgerstok #wlw #lesbiansoftiktok #relatable #mentalhealthmatters </content>
-    <link href="https://tiktok.com/@starryribbons/video/7369287316688473376"/>
-    <published>2024-05-15T17:58:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7369289826006338849</id>
     <title>KNEES DEEP IN THE PASSENGER SEAT #coquettecore #digitaldiary #lesbiansoftiktok #chappellroan #wlw #femmelesbian </title>
@@ -83,6 +67,22 @@
     <content>xenia bestest friend of all time #coquettecore #digitaldiary #femlesbian #billieeilish #bestfriendgoals #kpop @Xenia </content>
     <link href="https://tiktok.com/@starryribbons/video/7371551351064612128"/>
     <published>2024-05-21T20:24:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7372242273804782880</id>
+    <title>👋 my name is 👋👋👋 #coquettecore #digitaldiary #femlesbian #chappellroan #relatable #wlw #kpop </title>
+    <updated>2024-05-23T17:05:19+00:00</updated>
+    <content>👋 my name is 👋👋👋 #coquettecore #digitaldiary #femlesbian #chappellroan #relatable #wlw #kpop </content>
+    <link href="https://tiktok.com/@starryribbons/video/7372242273804782880"/>
+    <published>2024-05-23T17:05:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7372242788357885216</id>
+    <title>if you still follow me from my pink strand phase hiii #coquettecore #digitaldiary #femlesbian #billieeilish #mentalhealthmatters #recoverytok #abuseawareness </title>
+    <updated>2024-05-23T17:07:20+00:00</updated>
+    <content>if you still follow me from my pink strand phase hiii #coquettecore #digitaldiary #femlesbian #billieeilish #mentalhealthmatters #recoverytok #abuseawareness </content>
+    <link href="https://tiktok.com/@starryribbons/video/7372242788357885216"/>
+    <published>2024-05-23T17:07:20+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7285761406664854817</id>
