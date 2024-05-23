@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-05-22T14:38:32+00:00</updated>
+  <updated>2024-05-23T19:32:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7369150568503250218</id>
-    <title>They just make so much sense! #denmark #copenhagen #copenhagentiktok #copenhagenlife #unitedstates #recycle #sustainability #dansk #danmark </title>
-    <updated>2024-05-15T09:08:57+00:00</updated>
-    <content>They just make so much sense! #denmark #copenhagen #copenhagentiktok #copenhagenlife #unitedstates #recycle #sustainability #dansk #danmark </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7369150568503250218"/>
-    <published>2024-05-15T09:08:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7369247864708451630</id>
     <title>Wanna make money while traveling Europe? Or sleeping? Get a @Flodesk email newsletter!!  I’ve been using Flodesk for 5 years to deliver exclusive content right to my community. A website and an email newsletter subscriber lists are the only two touch poin</title>
@@ -67,6 +59,14 @@
     <content>imagine waking up to this every day 😱 I've had this hotel on my London bucket list for years and decided to stay here during my trip this week.  Can't beat that Tower of London view!! You can even see the Tower Bridge popping out in the corner (I had the </content>
     <link href="https://tiktok.com/@whimsysoul/video/7371833354573876523"/>
     <published>2024-05-22T14:38:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7372280174429211947</id>
+    <title>put this on your Copenhagen bucket list!! 👇 I visited Copenhot, a unique take on the Nordic sauna experience, and it's my new favorite thing to do in the city.  Tucked out on Refshaleøen is CopenHot, with hot tubs, cold plunge tubs and saunas all overlook</title>
+    <updated>2024-05-23T19:32:24+00:00</updated>
+    <content>put this on your Copenhagen bucket list!! 👇 I visited Copenhot, a unique take on the Nordic sauna experience, and it's my new favorite thing to do in the city.  Tucked out on Refshaleøen is CopenHot, with hot tubs, cold plunge tubs and saunas all overlook</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7372280174429211947"/>
+    <published>2024-05-23T19:32:24+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
