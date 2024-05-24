@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@thegranddowagerduchess</id>
   <title>thegranddowagerduchess</title>
-  <updated>2024-05-24T13:21:11+00:00</updated>
+  <updated>2024-05-24T21:33:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from thegranddowagerduchess</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thegranddowagerduchess/video/7370468960225103150</id>
-    <title>No Title</title>
-    <updated>2024-05-18T22:24:03+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@thegranddowagerduchess/video/7370468960225103150"/>
-    <published>2024-05-18T22:24:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@thegranddowagerduchess/video/7371448813426429227</id>
-    <title>#fyp #glossmondays #drag #rupaulsdragrace #stage #theater #arianagrande </title>
-    <updated>2024-05-21T13:46:37+00:00</updated>
-    <content>#fyp #glossmondays #drag #rupaulsdragrace #stage #theater #arianagrande </content>
-    <link href="https://tiktok.com/@thegranddowagerduchess/video/7371448813426429227"/>
-    <published>2024-05-21T13:46:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thegranddowagerduchess/video/7371458445586910510</id>
     <title>#fyp #glossmondays #drag #rupaulsdragrace #stage #theater #queertiktok </title>
@@ -69,12 +53,20 @@
     <published>2024-05-24T13:21:11+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@thegranddowagerduchess/video/7349976585157545246</id>
-    <title>#foryourpage #localdrag #rupaulsdragrace #trans #fem #queer #pansexuals🏳️‍🌈💖💛💙 #bisexual🏳️‍🌈 #lesbians #gay #pride </title>
-    <updated>2024-03-24T17:03:38+00:00</updated>
-    <content>#foryourpage #localdrag #rupaulsdragrace #trans #fem #queer #pansexuals🏳️‍🌈💖💛💙 #bisexual🏳️‍🌈 #lesbians #gay #pride </content>
-    <link href="https://tiktok.com/@thegranddowagerduchess/video/7349976585157545246"/>
-    <published>2024-03-24T17:03:38+00:00</published>
+    <id>https://tiktok.com/@thegranddowagerduchess/video/7372680502769159470</id>
+    <title>#fyp #foryoupage #drag #dragqueen #funny #funnyvideos #silly #trans #viral #gay #homo #nightlife_comedy #fashion #outfit </title>
+    <updated>2024-05-24T21:25:51+00:00</updated>
+    <content>#fyp #foryoupage #drag #dragqueen #funny #funnyvideos #silly #trans #viral #gay #homo #nightlife_comedy #fashion #outfit </content>
+    <link href="https://tiktok.com/@thegranddowagerduchess/video/7372680502769159470"/>
+    <published>2024-05-24T21:25:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thegranddowagerduchess/video/7372682523295386923</id>
+    <title>#fyp #foryoupage #performer #bridgerton #netflix #trendingsong #viral #trans </title>
+    <updated>2024-05-24T21:33:41+00:00</updated>
+    <content>#fyp #foryoupage #performer #bridgerton #netflix #trendingsong #viral #trans </content>
+    <link href="https://tiktok.com/@thegranddowagerduchess/video/7372682523295386923"/>
+    <published>2024-05-24T21:33:41+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@thegranddowagerduchess/video/7345190499478818079</id>
@@ -85,11 +77,19 @@
     <published>2024-03-11T19:31:28+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@thegranddowagerduchess/video/7349301033920711967</id>
-    <title>#foryoupage #transgender #mtf #tgirls #transwomen #transwoman #transwomenarewomen #lgbtqia #lgbtqiaplus #queer #queertiktok #girl #female </title>
-    <updated>2024-03-22T21:22:20+00:00</updated>
-    <content>#foryoupage #transgender #mtf #tgirls #transwomen #transwoman #transwomenarewomen #lgbtqia #lgbtqiaplus #queer #queertiktok #girl #female </content>
-    <link href="https://tiktok.com/@thegranddowagerduchess/video/7349301033920711967"/>
-    <published>2024-03-22T21:22:20+00:00</published>
+    <id>https://tiktok.com/@thegranddowagerduchess/video/7371448813426429227</id>
+    <title>#fyp #glossmondays #drag #rupaulsdragrace #stage #theater #arianagrande </title>
+    <updated>2024-05-21T13:46:37+00:00</updated>
+    <content>#fyp #glossmondays #drag #rupaulsdragrace #stage #theater #arianagrande </content>
+    <link href="https://tiktok.com/@thegranddowagerduchess/video/7371448813426429227"/>
+    <published>2024-05-21T13:46:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thegranddowagerduchess/video/7369329898969746730</id>
+    <title>#fyp #viral #foryoupage #dragqueen #dancing #perfomer #rhinestones </title>
+    <updated>2024-05-15T20:43:54+00:00</updated>
+    <content>#fyp #viral #foryoupage #dragqueen #dancing #perfomer #rhinestones </content>
+    <link href="https://tiktok.com/@thegranddowagerduchess/video/7369329898969746730"/>
+    <published>2024-05-15T20:43:54+00:00</published>
   </entry>
 </feed>
