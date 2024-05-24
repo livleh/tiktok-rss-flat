@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@palim_tintin</id>
   <title>palim_tintin</title>
-  <updated>2024-05-23T15:43:40+00:00</updated>
+  <updated>2024-05-24T09:39:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from palim_tintin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@palim_tintin/video/7357750209226476832</id>
-    <title>Welche Frisur passt besser zum Outfit? 🧡✨😉 Haare auf oder Half Bun + Tuch?  #slowfashion #mystyle #70s #70sfashion #wiw #styleinspo </title>
-    <updated>2024-04-14T15:48:43+00:00</updated>
-    <content>Welche Frisur passt besser zum Outfit? 🧡✨😉 Haare auf oder Half Bun + Tuch?  #slowfashion #mystyle #70s #70sfashion #wiw #styleinspo </content>
-    <link href="https://tiktok.com/@palim_tintin/video/7357750209226476832"/>
-    <published>2024-04-14T15:48:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@palim_tintin/video/7358530616616439073</id>
     <title>🐈‍⬛🐈‍⬛🧡 #interiordesign #schlafzimmer #bedroom #catsoftiktok #catlover #solebich </title>
@@ -67,6 +59,14 @@
     <content>💜💜💜 #secondhandoutfits #purpleedition #wiw #thriftedfashion #outfits #secondhandfashion #styleinspo </content>
     <link href="https://tiktok.com/@palim_tintin/video/7372221225491320097"/>
     <published>2024-05-23T15:43:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@palim_tintin/video/7372498542071385377</id>
+    <title>🧡🧡🧡 </title>
+    <updated>2024-05-24T09:39:52+00:00</updated>
+    <content>🧡🧡🧡 </content>
+    <link href="https://tiktok.com/@palim_tintin/video/7372498542071385377"/>
+    <published>2024-05-24T09:39:52+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@palim_tintin/video/7189301520721005829</id>
