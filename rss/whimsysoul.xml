@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-05-23T19:32:24+00:00</updated>
+  <updated>2024-05-24T00:07:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7369247864708451630</id>
-    <title>Wanna make money while traveling Europe? Or sleeping? Get a @Flodesk email newsletter!!  I’ve been using Flodesk for 5 years to deliver exclusive content right to my community. A website and an email newsletter subscriber lists are the only two touch poin</title>
-    <updated>2024-05-15T15:25:44+00:00</updated>
-    <content>Wanna make money while traveling Europe? Or sleeping? Get a @Flodesk email newsletter!!  I’ve been using Flodesk for 5 years to deliver exclusive content right to my community. A website and an email newsletter subscriber lists are the only two touch poin</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7369247864708451630"/>
-    <published>2024-05-15T15:25:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7369837802294562094</id>
     <title>Those Bridgerton boys are 🥵 &amp; yes, that bee was a paid actor. 🐝  If I'm ever invited to tea at Bridgerton Manor I'm looking for hotties with a title 💅 😉  I'm so excited for season 3!!!! I'm still in Europe and am staying at this beautiful hotel in the Swe</title>
@@ -67,6 +59,14 @@
     <content>put this on your Copenhagen bucket list!! 👇 I visited Copenhot, a unique take on the Nordic sauna experience, and it's my new favorite thing to do in the city.  Tucked out on Refshaleøen is CopenHot, with hot tubs, cold plunge tubs and saunas all overlook</content>
     <link href="https://tiktok.com/@whimsysoul/video/7372280174429211947"/>
     <published>2024-05-23T19:32:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7372351131927727402</id>
+    <title>Curvy girl travel outfit ideas for Amsterdam!! I just came back from the perfect spring trip in Europe and loved all my Amsterdam outfits. Definitely needed layers for the wind here! Which outfit is your fave? #amsterdam #ootd #travelstyle #netherlands #s</title>
+    <updated>2024-05-24T00:07:44+00:00</updated>
+    <content>Curvy girl travel outfit ideas for Amsterdam!! I just came back from the perfect spring trip in Europe and loved all my Amsterdam outfits. Definitely needed layers for the wind here! Which outfit is your fave? #amsterdam #ootd #travelstyle #netherlands #s</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7372351131927727402"/>
+    <published>2024-05-24T00:07:44+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
