@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-05-24T00:07:44+00:00</updated>
+  <updated>2024-05-24T17:58:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7369837802294562094</id>
-    <title>Those Bridgerton boys are 🥵 &amp; yes, that bee was a paid actor. 🐝  If I'm ever invited to tea at Bridgerton Manor I'm looking for hotties with a title 💅 😉  I'm so excited for season 3!!!! I'm still in Europe and am staying at this beautiful hotel in the Swe</title>
-    <updated>2024-05-17T05:34:52+00:00</updated>
-    <content>Those Bridgerton boys are 🥵 &amp; yes, that bee was a paid actor. 🐝  If I'm ever invited to tea at Bridgerton Manor I'm looking for hotties with a title 💅 😉  I'm so excited for season 3!!!! I'm still in Europe and am staying at this beautiful hotel in the Swe</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7369837802294562094"/>
-    <published>2024-05-17T05:34:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7371483023130250539</id>
     <title>wish i packed some sequins 🤧this gorgeous castle is the Gripsholm Slott about an hour outside Stockholm! #abba #stockholm #sweden #gripsholmsslott #waterloo #whimsysoul </title>
@@ -67,6 +59,14 @@
     <content>Curvy girl travel outfit ideas for Amsterdam!! I just came back from the perfect spring trip in Europe and loved all my Amsterdam outfits. Definitely needed layers for the wind here! Which outfit is your fave? #amsterdam #ootd #travelstyle #netherlands #s</content>
     <link href="https://tiktok.com/@whimsysoul/video/7372351131927727402"/>
     <published>2024-05-24T00:07:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7372626978727398698</id>
+    <title>yas you can ski in Copenhagen!! ⛷️ or just hang at the best rooftop bar &amp; get those epic views for free at CopenHill #copenhagen #copenhill #denmark #copenhagenlife #copenhagenbar #ski #dansk #whimsysoul #copenhagentips #copenhagentravel </title>
+    <updated>2024-05-24T17:58:11+00:00</updated>
+    <content>yas you can ski in Copenhagen!! ⛷️ or just hang at the best rooftop bar &amp; get those epic views for free at CopenHill #copenhagen #copenhill #denmark #copenhagenlife #copenhagenbar #ski #dansk #whimsysoul #copenhagentips #copenhagentravel </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7372626978727398698"/>
+    <published>2024-05-24T17:58:11+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>

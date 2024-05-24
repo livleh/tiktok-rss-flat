@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2024-05-17T15:40:54+00:00</updated>
+  <updated>2024-05-24T16:58:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from loveletterstosf</subtitle>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7363105531218890030</id>
-    <title>@Dandelion Chocolate created a massive 7x7 (just like SF) s’more 🍫🤎 so cool seeing it come together and ofc trying some at the #craftchocolateexperience #sf #chocolate #dandelionchocolate #palaceoffinearts #vlog #sftok </title>
-    <updated>2024-04-29T02:10:22+00:00</updated>
-    <content>@Dandelion Chocolate created a massive 7x7 (just like SF) s’more 🍫🤎 so cool seeing it come together and ofc trying some at the #craftchocolateexperience #sf #chocolate #dandelionchocolate #palaceoffinearts #vlog #sftok </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7363105531218890030"/>
-    <published>2024-04-29T02:10:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7364257305568873770</id>
     <title>tunnel vision #sf #ggbridge #presidio #fortpoint </title>
@@ -91,5 +83,13 @@
     <content>#freepalestine #sfevents #thingstodoinsf #sftok </content>
     <link href="https://tiktok.com/@loveletterstosf/video/7369993952902008107"/>
     <published>2024-05-17T15:40:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7372611631861419310</id>
+    <title>Replying to @DiariesOfaBookoholic 💎 happy mdw, here are some fun events #thisweekendinsf to check out! #sfevents #sftok #sflocals #thingstodoinsf #carnaval </title>
+    <updated>2024-05-24T16:58:38+00:00</updated>
+    <content>Replying to @DiariesOfaBookoholic 💎 happy mdw, here are some fun events #thisweekendinsf to check out! #sfevents #sftok #sflocals #thingstodoinsf #carnaval </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7372611631861419310"/>
+    <published>2024-05-24T16:58:38+00:00</published>
   </entry>
 </feed>

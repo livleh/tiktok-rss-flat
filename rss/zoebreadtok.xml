@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-05-23T17:04:28+00:00</updated>
+  <updated>2024-05-24T16:49:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7364463732359056673</id>
-    <title>Replying to @TaborTwins the true nature of my diabolical plan. thanks to everyone who called, it was a lot of fun i did it for 3 hours </title>
-    <updated>2024-05-02T18:00:37+00:00</updated>
-    <content>Replying to @TaborTwins the true nature of my diabolical plan. thanks to everyone who called, it was a lot of fun i did it for 3 hours </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7364463732359056673"/>
-    <published>2024-05-02T18:00:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7365947307013066016</id>
     <title>thank for watching</title>
@@ -91,5 +83,13 @@
     <content>i am an easy to manipulate tourist ! </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7372242056049118496"/>
     <published>2024-05-23T17:04:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7372609260695391520</id>
+    <title>most fun ive ever had changing floors </title>
+    <updated>2024-05-24T16:49:27+00:00</updated>
+    <content>most fun ive ever had changing floors </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7372609260695391520"/>
+    <published>2024-05-24T16:49:27+00:00</published>
   </entry>
 </feed>
