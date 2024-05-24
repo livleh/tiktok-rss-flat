@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-05-23T17:36:19+00:00</updated>
+  <updated>2024-05-24T06:12:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7369105944753474849</id>
-    <title>Bärenland vs. Männerland? #manorbear #twitchclips #twitchgermany </title>
-    <updated>2024-05-15T06:14:52+00:00</updated>
-    <content>Bärenland vs. Männerland? #manorbear #twitchclips #twitchgermany </content>
-    <link href="https://tiktok.com/@tandarok/video/7369105944753474849"/>
-    <published>2024-05-15T06:14:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7370604998918475041</id>
     <title>Easy 🫠 #livingmybestlife #queer </title>
@@ -67,6 +59,14 @@
     <content>Antwort auf @bugs.exotics  #bisexual #pansexual #bigirl </content>
     <link href="https://tiktok.com/@tandarok/video/7372250257964518688"/>
     <published>2024-05-23T17:36:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7372445050120195361</id>
+    <title>#stitch mit @bran_flakezz  #freundschaft #chosenfamily #friends </title>
+    <updated>2024-05-24T06:12:24+00:00</updated>
+    <content>#stitch mit @bran_flakezz  #freundschaft #chosenfamily #friends </content>
+    <link href="https://tiktok.com/@tandarok/video/7372445050120195361"/>
+    <published>2024-05-24T06:12:24+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
