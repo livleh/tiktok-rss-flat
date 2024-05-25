@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-05-23T22:23:18+00:00</updated>
+  <updated>2024-05-25T13:56:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7368888933029088554</id>
-    <title>The real reason he has a man bun  #manbun #menshair </title>
-    <updated>2024-05-14T16:12:43+00:00</updated>
-    <content>The real reason he has a man bun  #manbun #menshair </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7368888933029088554"/>
-    <published>2024-05-14T16:12:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7369340337824877870</id>
     <title>Meeting in a Jail 🥵 #jail #corrections #prison </title>
@@ -83,6 +75,14 @@
     <content>She is so healthy 🤮🤮🤮 #healthy #pilates #🤮 </content>
     <link href="https://tiktok.com/@jessicakirson/video/7372324213883030826"/>
     <published>2024-05-23T22:23:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7372935814721932586</id>
+    <title>Jewish American Princess!  #foryou #jersey </title>
+    <updated>2024-05-25T13:56:40+00:00</updated>
+    <content>Jewish American Princess!  #foryou #jersey </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7372935814721932586"/>
+    <published>2024-05-25T13:56:40+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7370717776505294122</id>
