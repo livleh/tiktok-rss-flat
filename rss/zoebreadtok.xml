@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-05-24T16:49:27+00:00</updated>
+  <updated>2024-05-26T17:58:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7365947307013066016</id>
-    <title>thank for watching</title>
-    <updated>2024-05-06T17:57:40+00:00</updated>
-    <content>thank for watching</content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7365947307013066016"/>
-    <published>2024-05-06T17:57:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7366692853768113440</id>
     <title>i wont be posting videos for 2 or 3 days because oy vey surprised me with a little holiday!!!! thank you oy vey</title>
@@ -91,5 +83,13 @@
     <content>most fun ive ever had changing floors </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7372609260695391520"/>
     <published>2024-05-24T16:49:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7373369122756758816</id>
+    <title>couldnt resist. id go every day if i lived in berlin </title>
+    <updated>2024-05-26T17:58:05+00:00</updated>
+    <content>couldnt resist. id go every day if i lived in berlin </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7373369122756758816"/>
+    <published>2024-05-26T17:58:05+00:00</published>
   </entry>
 </feed>
