@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-05-25T13:00:00+00:00</updated>
+  <updated>2024-05-26T13:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7369545842212015392</id>
-    <title>YOU WANNA WEAR MY SKIN?? @rlversoul @van1llabeanz #vtuber</title>
-    <updated>2024-05-16T13:00:00+00:00</updated>
-    <content>YOU WANNA WEAR MY SKIN?? @rlversoul @van1llabeanz #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7369545842212015392"/>
-    <published>2024-05-16T13:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7369936246065335584</id>
     <title>TURNING VTUBERS INTO ALPHA MALES #vtuber</title>
@@ -91,5 +83,13 @@
     <content>TRYING TO BE YOURSELF AS A TRANS PERSON #vtuber</content>
     <link href="https://tiktok.com/@nyaravt/video/7372679682459766048"/>
     <published>2024-05-25T13:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7373031055634271520</id>
+    <title>WHEN PEOPLE COME ACROSS MY OLD CONTENT #vtuber</title>
+    <updated>2024-05-26T13:00:00+00:00</updated>
+    <content>WHEN PEOPLE COME ACROSS MY OLD CONTENT #vtuber</content>
+    <link href="https://tiktok.com/@nyaravt/video/7373031055634271520"/>
+    <published>2024-05-26T13:00:00+00:00</published>
   </entry>
 </feed>
