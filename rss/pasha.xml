@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@pasha</id>
   <title>pasha</title>
-  <updated>2024-05-19T11:29:37+00:00</updated>
+  <updated>2024-05-26T11:04:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pasha</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pasha/video/7352158101828652305</id>
-    <title>you have the most friends when you are the worst version of yourself. true or no? now here is my review of common ways people meet and become friends with each other:  social events, birthdays: these are good opportunities, however, transforming these ini</title>
-    <updated>2024-03-30T14:08:33+00:00</updated>
-    <content>you have the most friends when you are the worst version of yourself. true or no? now here is my review of common ways people meet and become friends with each other:  social events, birthdays: these are good opportunities, however, transforming these ini</content>
-    <link href="https://tiktok.com/@pasha/video/7352158101828652305"/>
-    <published>2024-03-30T14:08:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7359521613928336641</id>
     <title>dear manager, please stop asking me the same question again and again 😭😩 let’s remember: to manage upwards (i.e. manage your manager) you need to create amazing processes that make your manager’s life easier and save you and everyone else...time. to ensur</title>
@@ -75,6 +67,14 @@
     <content>where is the lie?! #taylorswift </content>
     <link href="https://tiktok.com/@pasha/video/7370671410609540368"/>
     <published>2024-05-19T11:29:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pasha/video/7373262509568019728</id>
+    <title>when you get asked about work while you are on a holiday, here is your new template response #comedy #jobs </title>
+    <updated>2024-05-26T11:04:26+00:00</updated>
+    <content>when you get asked about work while you are on a holiday, here is your new template response #comedy #jobs </content>
+    <link href="https://tiktok.com/@pasha/video/7373262509568019728"/>
+    <published>2024-05-26T11:04:26+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7044103633817980161</id>
