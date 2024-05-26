@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@starryribbons</id>
   <title>starryribbons</title>
-  <updated>2024-05-25T18:16:09+00:00</updated>
+  <updated>2024-05-26T16:20:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from starryribbons</subtitle>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7369685825971326241</id>
-    <title>this is so dramatic but hyyh era is always on my mind #coquettecore #digitaldiary #bts #hyyhera #kpop #hyyh #bts_official_bighit </title>
-    <updated>2024-05-16T19:45:05+00:00</updated>
-    <content>this is so dramatic but hyyh era is always on my mind #coquettecore #digitaldiary #bts #hyyhera #kpop #hyyh #bts_official_bighit </content>
-    <link href="https://tiktok.com/@starryribbons/video/7369685825971326241"/>
-    <published>2024-05-16T19:45:05+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7370043267901099296</id>
-    <title>and the candles #coquettecore #digitaldiary #roominspiration #kpop #taylorswifttok #gilmoregirls #aesthetic </title>
-    <updated>2024-05-17T18:52:05+00:00</updated>
-    <content>and the candles #coquettecore #digitaldiary #roominspiration #kpop #taylorswifttok #gilmoregirls #aesthetic </content>
-    <link href="https://tiktok.com/@starryribbons/video/7370043267901099296"/>
-    <published>2024-05-17T18:52:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7370755434631777568</id>
     <title>shoutout to alice for the first pic also the way my smile has not changed at all #coquettecore #digitaldiary #billieeilish #femlesbian #mentalhealthmatters </title>
@@ -83,6 +67,22 @@
     <content>can a lesbian no longer talk about zhang hao #coquettecore #digitaldiary #femlesbian #kpop #straykids #zerobaseone </content>
     <link href="https://tiktok.com/@starryribbons/video/7373002696011320609"/>
     <published>2024-05-25T18:16:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7373343217988767009</id>
+    <title>i would sell my first born for vegan garlic bread #coquettecore #digitaldiary #femlesbian #garlicbread #veganfood #wlw </title>
+    <updated>2024-05-26T16:17:34+00:00</updated>
+    <content>i would sell my first born for vegan garlic bread #coquettecore #digitaldiary #femlesbian #garlicbread #veganfood #wlw </content>
+    <link href="https://tiktok.com/@starryribbons/video/7373343217988767009"/>
+    <published>2024-05-26T16:17:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7373343866986040608</id>
+    <title>pop pop going crazy #coquettecore #digitaldiary #zerobaseone #kpop #wlw #femlesbian #zb1 </title>
+    <updated>2024-05-26T16:20:08+00:00</updated>
+    <content>pop pop going crazy #coquettecore #digitaldiary #zerobaseone #kpop #wlw #femlesbian #zb1 </content>
+    <link href="https://tiktok.com/@starryribbons/video/7373343866986040608"/>
+    <published>2024-05-26T16:20:08+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7285761406664854817</id>
