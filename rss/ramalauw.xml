@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ramalauw</id>
   <title>ramalauw</title>
-  <updated>2024-05-13T14:43:17+00:00</updated>
+  <updated>2024-05-26T13:52:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ramalauw</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ramalauw/video/7361070935161474337</id>
-    <title>How to support @Taylor Swift 🥰✨ #Free99 #taylorswift #torturedpoetsdepartment #swiftie </title>
-    <updated>2024-04-23T14:34:49+00:00</updated>
-    <content>How to support @Taylor Swift 🥰✨ #Free99 #taylorswift #torturedpoetsdepartment #swiftie </content>
-    <link href="https://tiktok.com/@ramalauw/video/7361070935161474337"/>
-    <published>2024-04-23T14:34:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7361462016315247905</id>
     <title>I give you the best relationship advice for ✨$FREE.99✨ 🥰</title>
@@ -67,6 +59,14 @@
     <content>Never rest without feeling guilty ever again with ✨StressLaxing✨ 🫶 #Free99 </content>
     <link href="https://tiktok.com/@ramalauw/video/7368494804596002081"/>
     <published>2024-05-13T14:43:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ramalauw/video/7373305933616762145</id>
+    <title>It’s called ✨balance✨ 😘</title>
+    <updated>2024-05-26T13:52:51+00:00</updated>
+    <content>It’s called ✨balance✨ 😘</content>
+    <link href="https://tiktok.com/@ramalauw/video/7373305933616762145"/>
+    <published>2024-05-26T13:52:51+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7270903343638187297</id>
