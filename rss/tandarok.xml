@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-05-24T06:12:24+00:00</updated>
+  <updated>2024-05-27T05:50:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7370604998918475041</id>
-    <title>Easy 🫠 #livingmybestlife #queer </title>
-    <updated>2024-05-19T07:11:59+00:00</updated>
-    <content>Easy 🫠 #livingmybestlife #queer </content>
-    <link href="https://tiktok.com/@tandarok/video/7370604998918475041"/>
-    <published>2024-05-19T07:11:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7371011287276457249</id>
     <title>Bin sehr genervt davon, dass trans Personen immer eine Geschlechtsidentität haben, während cis Personen einfach ein Geschlecht haben. Wir sollten von diesem Unterschied einfach weg. Wenn du bei trans Menschen von Identität redest, mach das bitte auch bei </title>
@@ -67,6 +59,14 @@
     <content>#stitch mit @bran_flakezz  #freundschaft #chosenfamily #friends </content>
     <link href="https://tiktok.com/@tandarok/video/7372445050120195361"/>
     <published>2024-05-24T06:12:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7373552600131669281</id>
+    <title>Fühle mich endlich wieder frei </title>
+    <updated>2024-05-27T05:50:20+00:00</updated>
+    <content>Fühle mich endlich wieder frei </content>
+    <link href="https://tiktok.com/@tandarok/video/7373552600131669281"/>
+    <published>2024-05-27T05:50:20+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
