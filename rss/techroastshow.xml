@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-05-26T23:17:13+00:00</updated>
+  <updated>2024-05-27T11:26:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7372208807490964778</id>
-    <title>🔪🗡️ #tech #softwareengineer #startup #founder #crowdwork #standupcomedy #comedy #startuplife #techroastshow</title>
-    <updated>2024-05-23T14:55:28+00:00</updated>
-    <content>🔪🗡️ #tech #softwareengineer #startup #founder #crowdwork #standupcomedy #comedy #startuplife #techroastshow</content>
-    <link href="https://tiktok.com/@techroastshow/video/7372208807490964778"/>
-    <published>2024-05-23T14:55:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7372302195804359978</id>
     <title>major ick  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </title>
@@ -67,6 +59,14 @@
     <content>it’s all bs #techie #softwareengineer #siliconvalley #sanfrancisco #bayarea #comedy #funny #developerlife #programmerlife</content>
     <link href="https://tiktok.com/@techroastshow/video/7373451369715485994"/>
     <published>2024-05-26T23:17:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7373639303764774186</id>
+    <title>it is neither delivery nor digiorno, it’s worse   #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </title>
+    <updated>2024-05-27T11:26:49+00:00</updated>
+    <content>it is neither delivery nor digiorno, it’s worse   #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </content>
+    <link href="https://tiktok.com/@techroastshow/video/7373639303764774186"/>
+    <published>2024-05-27T11:26:49+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
