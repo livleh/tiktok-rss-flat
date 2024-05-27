@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@danielryanspaulding</id>
   <title>danielryanspaulding</title>
-  <updated>2024-05-26T20:22:49+00:00</updated>
+  <updated>2024-05-27T21:39:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from danielryanspaulding</subtitle>
-  <entry>
-    <id>https://tiktok.com/@danielryanspaulding/video/7361569469841427744</id>
-    <title>Touring Hostage Square in Tel Aviv #telaviv #israel #bringthemhome </title>
-    <updated>2024-04-24T22:49:29+00:00</updated>
-    <content>Touring Hostage Square in Tel Aviv #telaviv #israel #bringthemhome </content>
-    <link href="https://tiktok.com/@danielryanspaulding/video/7361569469841427744"/>
-    <published>2024-04-24T22:49:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@danielryanspaulding/video/7361570102296333601</id>
     <title>Terrorism is bad for Everyone — Muslims, Jews &amp; Christians — Touring Hostage Square in Tel Aviv #telaviv #israel #bringthemhome </title>
@@ -131,5 +123,13 @@
     <content>Gays for Peace! Part 1/4 Interview with Luai Ahmed @justluai an Yemeni Human Rights activist from @buildersofmideast - this is our 4-part talk about growing up Gay in Yemen under radical Islam, an overview of the Houthis: and IRI proxy like Hamas, Arab an</content>
     <link href="https://tiktok.com/@danielryanspaulding/video/7373406420189891872"/>
     <published>2024-05-26T20:22:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@danielryanspaulding/video/7373797377217498400</id>
+    <title>Cute Gays for Peace! Part 2/4 of my interview with Luai Ahmed @justluai In this segment Luai gives a very clear, concise, easy-to-understand overview of how the Houthis came to power in Yemen. The Houthis are a proxy regime of the Islamist republic of Ira</title>
+    <updated>2024-05-27T21:39:58+00:00</updated>
+    <content>Cute Gays for Peace! Part 2/4 of my interview with Luai Ahmed @justluai In this segment Luai gives a very clear, concise, easy-to-understand overview of how the Houthis came to power in Yemen. The Houthis are a proxy regime of the Islamist republic of Ira</content>
+    <link href="https://tiktok.com/@danielryanspaulding/video/7373797377217498400"/>
+    <published>2024-05-27T21:39:58+00:00</published>
   </entry>
 </feed>
