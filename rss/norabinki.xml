@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@norabinki</id>
   <title>norabinki</title>
-  <updated>2024-05-16T15:43:15+00:00</updated>
+  <updated>2024-05-27T16:10:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from norabinki</subtitle>
-  <entry>
-    <id>https://tiktok.com/@norabinki/video/7358177465514183968</id>
-    <title>Fast Sechseläuten #schweiz #fyp #CapCut </title>
-    <updated>2024-04-15T19:26:42+00:00</updated>
-    <content>Fast Sechseläuten #schweiz #fyp #CapCut </content>
-    <link href="https://tiktok.com/@norabinki/video/7358177465514183968"/>
-    <published>2024-04-15T19:26:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@norabinki/video/7361457490896112929</id>
     <title>Katzenshow in Dietikon  @sunnechind @Bruzzli #schweiz #fyp #CapCut </title>
@@ -67,6 +59,14 @@
     <content>Spargelfest in Fräschels? @Bruzzli #fyp #schweiz #CapCut </content>
     <link href="https://tiktok.com/@norabinki/video/7369623513637965089"/>
     <published>2024-05-16T15:43:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@norabinki/video/7373712534379056417</id>
+    <title>Beauty Expo am Hauptbahnhof @Bruzzli #fyp #schweiz #beauty #CapCut </title>
+    <updated>2024-05-27T16:10:44+00:00</updated>
+    <content>Beauty Expo am Hauptbahnhof @Bruzzli #fyp #schweiz #beauty #CapCut </content>
+    <link href="https://tiktok.com/@norabinki/video/7373712534379056417"/>
+    <published>2024-05-27T16:10:44+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@norabinki/video/7283544477661203745</id>
