@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-05-27T19:03:58+00:00</updated>
+  <updated>2024-05-28T03:16:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7371661131116547370</id>
-    <title>doing this on every vacation from now on ❤️ wayyy better than selfies.   We ended up wearing these outfits to see Eurovision and got so many compliments, too! ❤️ We're both wearing head-to-toe @Sézane (I'm a Size 12 + 14 with their pieces, btw!)  👉 Did yo</title>
-    <updated>2024-05-22T03:30:17+00:00</updated>
-    <content>doing this on every vacation from now on ❤️ wayyy better than selfies.   We ended up wearing these outfits to see Eurovision and got so many compliments, too! ❤️ We're both wearing head-to-toe @Sézane (I'm a Size 12 + 14 with their pieces, btw!)  👉 Did yo</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7371661131116547370"/>
-    <published>2024-05-22T03:30:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7371833354573876523</id>
     <title>imagine waking up to this every day 😱 I've had this hotel on my London bucket list for years and decided to stay here during my trip this week.  Can't beat that Tower of London view!! You can even see the Tower Bridge popping out in the corner (I had the </title>
@@ -67,6 +59,14 @@
     <content>Easily the best California music festival ❤️ can't beat Napa, wine &amp; music!  @BottleRock Napa Valley  @Tors  @The Beaches  @JaM Cellars  @hendricksgin  @The Scarlet Opera  @Paige Comrie  #bottlerock #bottlerocknapa #napavalley #napa #musicfestival #festiv</content>
     <link href="https://tiktok.com/@whimsysoul/video/7373757193583234350"/>
     <published>2024-05-27T19:03:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7373884020372802862</id>
+    <title>was not expecting THIS view of London from my hotel room! I booked last minute so assumed they would stick me in a room facing a wall but this was amazing! Loved falling asleep to the view of the Tower of London and Tower Bridge!  📌 Citizen M hotel tower </title>
+    <updated>2024-05-28T03:16:07+00:00</updated>
+    <content>was not expecting THIS view of London from my hotel room! I booked last minute so assumed they would stick me in a room facing a wall but this was amazing! Loved falling asleep to the view of the Tower of London and Tower Bridge!  📌 Citizen M hotel tower </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7373884020372802862"/>
+    <published>2024-05-28T03:16:07+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
