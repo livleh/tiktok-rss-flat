@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shaunadewit</id>
   <title>shaunadewit</title>
-  <updated>2024-05-27T10:02:16+00:00</updated>
+  <updated>2024-05-28T13:06:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shaunadewit</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shaunadewit/video/7363941033463319840</id>
-    <title>To medidate #foryou #pourtoi #comedy #humor #goviral </title>
-    <updated>2024-05-01T08:12:19+00:00</updated>
-    <content>To medidate #foryou #pourtoi #comedy #humor #goviral </content>
-    <link href="https://tiktok.com/@shaunadewit/video/7363941033463319840"/>
-    <published>2024-05-01T08:12:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/7365840845993479456</id>
     <title>So start to understand yourself first #foryou #pourtoi #comedy #humor #goviral </title>
@@ -83,6 +75,14 @@
     <content>I need to think before I speak #foryou #pourtoi #comedy #humor #goviral </content>
     <link href="https://tiktok.com/@shaunadewit/video/7373617574300405025"/>
     <published>2024-05-27T10:02:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shaunadewit/video/7374036083354373408</id>
+    <title>Best way to do it #foryou #pourtoi #comedy #humor #goviral </title>
+    <updated>2024-05-28T13:06:15+00:00</updated>
+    <content>Best way to do it #foryou #pourtoi #comedy #humor #goviral </content>
+    <link href="https://tiktok.com/@shaunadewit/video/7374036083354373408"/>
+    <published>2024-05-28T13:06:15+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/6994791135415766278</id>
