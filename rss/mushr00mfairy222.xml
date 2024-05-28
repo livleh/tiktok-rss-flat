@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-05-27T03:57:03+00:00</updated>
+  <updated>2024-05-28T12:33:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7372195211700669728</id>
-    <title>taylor gets it #ttpd </title>
-    <updated>2024-05-23T14:02:43+00:00</updated>
-    <content>taylor gets it #ttpd </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7372195211700669728"/>
-    <published>2024-05-23T14:02:43+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7372197072885304608</id>
-    <title>shoutout roux for the hoodie #ootd </title>
-    <updated>2024-05-23T14:10:00+00:00</updated>
-    <content>shoutout roux for the hoodie #ootd </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7372197072885304608"/>
-    <published>2024-05-23T14:10:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7372794798006193440</id>
-    <title>like promise???? #dating #wlw @userrouxx </title>
-    <updated>2024-05-25T04:50:02+00:00</updated>
-    <content>like promise???? #dating #wlw @userrouxx </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7372794798006193440"/>
-    <published>2024-05-25T04:50:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7372920025939725600</id>
     <title>they were right #drinking #wlw @userrouxx </title>
@@ -67,6 +43,30 @@
     <content>our outfits :) @emi &lt;3 #ootd #pinkhair #outfitinspo #alt </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7373523263802166560"/>
     <published>2024-05-27T03:57:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7374019326677880097</id>
+    <title>can you do this? gotta learn #challenge </title>
+    <updated>2024-05-28T12:01:32+00:00</updated>
+    <content>can you do this? gotta learn #challenge </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7374019326677880097"/>
+    <published>2024-05-28T12:01:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7374026683558497568</id>
+    <title>it wants to leave the vault #taylorswift #swiftie </title>
+    <updated>2024-05-28T12:29:49+00:00</updated>
+    <content>it wants to leave the vault #taylorswift #swiftie </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7374026683558497568"/>
+    <published>2024-05-28T12:29:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7374027763591695649</id>
+    <title>a valid reason #drinking </title>
+    <updated>2024-05-28T12:33:57+00:00</updated>
+    <content>a valid reason #drinking </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7374027763591695649"/>
+    <published>2024-05-28T12:33:57+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
