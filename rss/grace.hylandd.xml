@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-05-22T09:41:58+00:00</updated>
+  <updated>2024-05-28T01:59:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7332731325943713042</id>
-    <title>Im sending this to my BF</title>
-    <updated>2024-02-07T05:42:39+00:00</updated>
-    <content>Im sending this to my BF</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7332731325943713042"/>
-    <published>2024-02-07T05:42:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7335609798240636168</id>
     <title>Happy Valentines day 🌹</title>
@@ -115,5 +107,13 @@
     <content>Functional </content>
     <link href="https://tiktok.com/@grace.hylandd/video/7371756941426642184"/>
     <published>2024-05-22T09:41:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7373864218338102546</id>
+    <title>Super Tr@nny ✌️😙</title>
+    <updated>2024-05-28T01:59:25+00:00</updated>
+    <content>Super Tr@nny ✌️😙</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7373864218338102546"/>
+    <published>2024-05-28T01:59:25+00:00</published>
   </entry>
 </feed>
