@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-05-28T12:59:58+00:00</updated>
+  <updated>2024-05-28T18:06:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7372736916921470254</id>
-    <title>they aren’t allowed to code #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</title>
-    <updated>2024-05-25T01:04:47+00:00</updated>
-    <content>they aren’t allowed to code #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</content>
-    <link href="https://tiktok.com/@techroastshow/video/7372736916921470254"/>
-    <published>2024-05-25T01:04:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7372924931665022254</id>
     <title>techie rizz  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</title>
@@ -67,6 +59,14 @@
     <content>give him a paopu fruit sora  #techie #softwareengineer #losangeles #LA #programmerlife #roastbattle #darkhumor #techroastshow </content>
     <link href="https://tiktok.com/@techroastshow/video/7374034446263225646"/>
     <published>2024-05-28T12:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7374113551276936491</id>
+    <title>get a return offer, test with @Sauce Labs  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow #ad</title>
+    <updated>2024-05-28T18:06:51+00:00</updated>
+    <content>get a return offer, test with @Sauce Labs  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow #ad</content>
+    <link href="https://tiktok.com/@techroastshow/video/7374113551276936491"/>
+    <published>2024-05-28T18:06:51+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
