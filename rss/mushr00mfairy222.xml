@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-05-29T03:15:12+00:00</updated>
+  <updated>2024-05-29T05:12:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7372924875406593312</id>
-    <title>#stitch with @swiftieland who else can relate #smallestmanwhoeverlived #ttpd </title>
-    <updated>2024-05-25T13:14:12+00:00</updated>
-    <content>#stitch with @swiftieland who else can relate #smallestmanwhoeverlived #ttpd </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7372924875406593312"/>
-    <published>2024-05-25T13:14:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7372924994810023200</id>
     <title>BIRDS OF A FEATHER #ootd #party @userrouxx </title>
@@ -67,6 +59,14 @@
     <content>wanna hug her :( #mh #mentalhealth #recovery </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7374254606509034785"/>
     <published>2024-05-29T03:15:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7374285133781667104</id>
+    <title>whys it expensive 😭 #lesbian #wlw #ldr </title>
+    <updated>2024-05-29T05:12:44+00:00</updated>
+    <content>whys it expensive 😭 #lesbian #wlw #ldr </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7374285133781667104"/>
+    <published>2024-05-29T05:12:44+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
