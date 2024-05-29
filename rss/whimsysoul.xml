@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-05-28T03:49:55+00:00</updated>
+  <updated>2024-05-29T02:58:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7372280174429211947</id>
-    <title>put this on your Copenhagen bucket list!! 👇 I visited Copenhot, a unique take on the Nordic sauna experience, and it's my new favorite thing to do in the city.  Tucked out on Refshaleøen is CopenHot, with hot tubs, cold plunge tubs and saunas all overlook</title>
-    <updated>2024-05-23T19:32:24+00:00</updated>
-    <content>put this on your Copenhagen bucket list!! 👇 I visited Copenhot, a unique take on the Nordic sauna experience, and it's my new favorite thing to do in the city.  Tucked out on Refshaleøen is CopenHot, with hot tubs, cold plunge tubs and saunas all overlook</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7372280174429211947"/>
-    <published>2024-05-23T19:32:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7372351131927727402</id>
     <title>Curvy girl travel outfit ideas for Amsterdam!! I just came back from the perfect spring trip in Europe and loved all my Amsterdam outfits. Definitely needed layers for the wind here! Which outfit is your fave? #amsterdam #ootd #travelstyle #netherlands #s</title>
@@ -67,6 +59,14 @@
     <content>low key waiting for The Doctor to pop out at any moment and ask me to be his companion 😏  visiting the Tardis - aka the last police box in London - was incredibly fun. I've been watching &amp; cherishing Doctor Who for over a decade (easily a top fandom of mi</content>
     <link href="https://tiktok.com/@whimsysoul/video/7373892725546110254"/>
     <published>2024-05-28T03:49:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7374250449764945194</id>
+    <title>San Francisco sunny nights are my fave ❤️  #sanfrancisco #sanfranciscoapartment #sanfranciscolife #wine #aesthetic #aestheticapartment #colorfulhome #thetors #bayarea #whimsysoul #boholivingroom #jungalowstyle </title>
+    <updated>2024-05-29T02:58:04+00:00</updated>
+    <content>San Francisco sunny nights are my fave ❤️  #sanfrancisco #sanfranciscoapartment #sanfranciscolife #wine #aesthetic #aestheticapartment #colorfulhome #thetors #bayarea #whimsysoul #boholivingroom #jungalowstyle </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7374250449764945194"/>
+    <published>2024-05-29T02:58:04+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
