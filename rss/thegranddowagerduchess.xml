@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@thegranddowagerduchess</id>
   <title>thegranddowagerduchess</title>
-  <updated>2024-05-29T13:32:11+00:00</updated>
+  <updated>2024-05-29T19:45:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from thegranddowagerduchess</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thegranddowagerduchess/video/7372555580868726059</id>
-    <title>#fyp #foryoupage #drag </title>
-    <updated>2024-05-24T13:21:11+00:00</updated>
-    <content>#fyp #foryoupage #drag </content>
-    <link href="https://tiktok.com/@thegranddowagerduchess/video/7372555580868726059"/>
-    <published>2024-05-24T13:21:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thegranddowagerduchess/video/7372680502769159470</id>
     <title>#fyp #foryoupage #drag #dragqueen #funny #funnyvideos #silly #trans #viral #gay #homo #nightlife_comedy #fashion #outfit </title>
@@ -67,6 +59,14 @@
     <content>#fyp#foryoupage #fypシ゚viral </content>
     <link href="https://tiktok.com/@thegranddowagerduchess/video/7374413828899081514"/>
     <published>2024-05-29T13:32:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thegranddowagerduchess/video/7374510056349502762</id>
+    <title>Least of my worries yall #fyp #foryoupage #funny #fypシ゚viral #dragqueen </title>
+    <updated>2024-05-29T19:45:29+00:00</updated>
+    <content>Least of my worries yall #fyp #foryoupage #funny #fypシ゚viral #dragqueen </content>
+    <link href="https://tiktok.com/@thegranddowagerduchess/video/7374510056349502762"/>
+    <published>2024-05-29T19:45:29+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@thegranddowagerduchess/video/7345190499478818079</id>
