@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-05-28T13:00:00+00:00</updated>
+  <updated>2024-05-29T13:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7371051179654008097</id>
-    <title>I'M ON THE FBI'S WATCHLIST BECAUSE OF THIS #vtuber</title>
-    <updated>2024-05-20T13:00:00+00:00</updated>
-    <content>I'M ON THE FBI'S WATCHLIST BECAUSE OF THIS #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7371051179654008097"/>
-    <published>2024-05-20T13:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7371447735133768992</id>
     <title>16 INCHES IS NOT ENOUGH FOR ME #vtuber</title>
@@ -91,5 +83,13 @@
     <content>WOMEN COMPLIMENT FEMININE MEN #vtuber</content>
     <link href="https://tiktok.com/@nyaravt/video/7373760184969104673"/>
     <published>2024-05-28T13:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7374386303682481440</id>
+    <title>MY LAST STREAM (for now) #vtuber</title>
+    <updated>2024-05-29T13:00:00+00:00</updated>
+    <content>MY LAST STREAM (for now) #vtuber</content>
+    <link href="https://tiktok.com/@nyaravt/video/7374386303682481440"/>
+    <published>2024-05-29T13:00:00+00:00</published>
   </entry>
 </feed>
