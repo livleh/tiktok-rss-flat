@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-05-29T02:58:04+00:00</updated>
+  <updated>2024-05-29T22:26:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7372351131927727402</id>
-    <title>Curvy girl travel outfit ideas for Amsterdam!! I just came back from the perfect spring trip in Europe and loved all my Amsterdam outfits. Definitely needed layers for the wind here! Which outfit is your fave? #amsterdam #ootd #travelstyle #netherlands #s</title>
-    <updated>2024-05-24T00:07:44+00:00</updated>
-    <content>Curvy girl travel outfit ideas for Amsterdam!! I just came back from the perfect spring trip in Europe and loved all my Amsterdam outfits. Definitely needed layers for the wind here! Which outfit is your fave? #amsterdam #ootd #travelstyle #netherlands #s</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7372351131927727402"/>
-    <published>2024-05-24T00:07:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7372626978727398698</id>
     <title>yas you can ski in Copenhagen!! ⛷️ or just hang at the best rooftop bar &amp; get those epic views for free at CopenHill #copenhagen #copenhill #denmark #copenhagenlife #copenhagenbar #ski #dansk #whimsysoul #copenhagentips #copenhagentravel </title>
@@ -67,6 +59,14 @@
     <content>San Francisco sunny nights are my fave ❤️  #sanfrancisco #sanfranciscoapartment #sanfranciscolife #wine #aesthetic #aestheticapartment #colorfulhome #thetors #bayarea #whimsysoul #boholivingroom #jungalowstyle </content>
     <link href="https://tiktok.com/@whimsysoul/video/7374250449764945194"/>
     <published>2024-05-29T02:58:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7374551431275089194</id>
+    <title>Sweden wtf is this 😆 #sweden #swedishfood #caviar #uppsala #food #travel #forgienfoods #fisheggs #swedenlife </title>
+    <updated>2024-05-29T22:26:01+00:00</updated>
+    <content>Sweden wtf is this 😆 #sweden #swedishfood #caviar #uppsala #food #travel #forgienfoods #fisheggs #swedenlife </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7374551431275089194"/>
+    <published>2024-05-29T22:26:01+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
