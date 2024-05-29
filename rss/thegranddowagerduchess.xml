@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@thegranddowagerduchess</id>
   <title>thegranddowagerduchess</title>
-  <updated>2024-05-28T17:53:17+00:00</updated>
+  <updated>2024-05-28T23:42:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from thegranddowagerduchess</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thegranddowagerduchess/video/7371467321543609646</id>
-    <title>#fyp #glossmondays #drag #rupaulsdragrace #viral #deathdrop #glam #queer #gay #homo </title>
-    <updated>2024-05-21T14:58:12+00:00</updated>
-    <content>#fyp #glossmondays #drag #rupaulsdragrace #viral #deathdrop #glam #queer #gay #homo </content>
-    <link href="https://tiktok.com/@thegranddowagerduchess/video/7371467321543609646"/>
-    <published>2024-05-21T14:58:12+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@thegranddowagerduchess/video/7371947463051201834</id>
-    <title>#fyp #foryoupage #viral #dance #trending #hits #dragqueen #bestie #gay #homo #trans #nightlife_comedy #slay #disney </title>
-    <updated>2024-05-22T22:01:17+00:00</updated>
-    <content>#fyp #foryoupage #viral #dance #trending #hits #dragqueen #bestie #gay #homo #trans #nightlife_comedy #slay #disney </content>
-    <link href="https://tiktok.com/@thegranddowagerduchess/video/7371947463051201834"/>
-    <published>2024-05-22T22:01:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thegranddowagerduchess/video/7372198587716881707</id>
     <title>#fyp #foryoupage #viral #trending </title>
@@ -67,6 +51,22 @@
     <content>#fyp #foryoupage #viral #dragqueen #trendingsong #trans </content>
     <link href="https://tiktok.com/@thegranddowagerduchess/video/7374110056784153902"/>
     <published>2024-05-28T17:53:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thegranddowagerduchess/video/7374197494617591086</id>
+    <title>#fyp #foryoupage #dragqueen #viral #trans #performer </title>
+    <updated>2024-05-28T23:32:34+00:00</updated>
+    <content>#fyp #foryoupage #dragqueen #viral #trans #performer </content>
+    <link href="https://tiktok.com/@thegranddowagerduchess/video/7374197494617591086"/>
+    <published>2024-05-28T23:32:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thegranddowagerduchess/video/7374200106381298986</id>
+    <title>#fyp #foryoupage #dragqueen #trans #viral #transphobia #queer #silence #conservative </title>
+    <updated>2024-05-28T23:42:43+00:00</updated>
+    <content>#fyp #foryoupage #dragqueen #trans #viral #transphobia #queer #silence #conservative </content>
+    <link href="https://tiktok.com/@thegranddowagerduchess/video/7374200106381298986"/>
+    <published>2024-05-28T23:42:43+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@thegranddowagerduchess/video/7345190499478818079</id>
