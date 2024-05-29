@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@thegranddowagerduchess</id>
   <title>thegranddowagerduchess</title>
-  <updated>2024-05-28T23:42:43+00:00</updated>
+  <updated>2024-05-29T13:32:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from thegranddowagerduchess</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thegranddowagerduchess/video/7372198587716881707</id>
-    <title>#fyp #foryoupage #viral #trending </title>
-    <updated>2024-05-23T14:15:47+00:00</updated>
-    <content>#fyp #foryoupage #viral #trending </content>
-    <link href="https://tiktok.com/@thegranddowagerduchess/video/7372198587716881707"/>
-    <published>2024-05-23T14:15:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thegranddowagerduchess/video/7372555580868726059</id>
     <title>#fyp #foryoupage #drag </title>
@@ -67,6 +59,14 @@
     <content>#fyp #foryoupage #dragqueen #trans #viral #transphobia #queer #silence #conservative </content>
     <link href="https://tiktok.com/@thegranddowagerduchess/video/7374200106381298986"/>
     <published>2024-05-28T23:42:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thegranddowagerduchess/video/7374413828899081514</id>
+    <title>#fyp#foryoupage #fypシ゚viral </title>
+    <updated>2024-05-29T13:32:11+00:00</updated>
+    <content>#fyp#foryoupage #fypシ゚viral </content>
+    <link href="https://tiktok.com/@thegranddowagerduchess/video/7374413828899081514"/>
+    <published>2024-05-29T13:32:11+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@thegranddowagerduchess/video/7345190499478818079</id>
