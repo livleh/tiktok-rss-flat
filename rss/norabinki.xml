@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@norabinki</id>
   <title>norabinki</title>
-  <updated>2024-05-29T23:23:20.895097+00:00</updated>
+  <updated>2024-05-27T16:10:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,4 +12,84 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from norabinki</subtitle>
+  <entry>
+    <id>https://tiktok.com/@norabinki/video/7361457490896112929</id>
+    <title>Katzenshow in Dietikon  @sunnechind @Bruzzli #schweiz #fyp #CapCut </title>
+    <updated>2024-04-24T15:34:52+00:00</updated>
+    <content>Katzenshow in Dietikon  @sunnechind @Bruzzli #schweiz #fyp #CapCut </content>
+    <link href="https://tiktok.com/@norabinki/video/7361457490896112929"/>
+    <published>2024-04-24T15:34:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@norabinki/video/7361847384155983136</id>
+    <title>Finanzmesse in Oerlikon mit @Bruzzli #fyp #schweiz #CapCut </title>
+    <updated>2024-04-25T16:47:54+00:00</updated>
+    <content>Finanzmesse in Oerlikon mit @Bruzzli #fyp #schweiz #CapCut </content>
+    <link href="https://tiktok.com/@norabinki/video/7361847384155983136"/>
+    <published>2024-04-25T16:47:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@norabinki/video/7363318568961740064</id>
+    <title>Zu Besuch im Lauwiner Empire @Bruzzli #fyp #schweiz #CapCut </title>
+    <updated>2024-04-29T15:56:49+00:00</updated>
+    <content>Zu Besuch im Lauwiner Empire @Bruzzli #fyp #schweiz #CapCut </content>
+    <link href="https://tiktok.com/@norabinki/video/7363318568961740064"/>
+    <published>2024-04-29T15:56:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@norabinki/video/7365910014453697824</id>
+    <title>Sneakerness 2024 #fyp #schweiz #sneakers </title>
+    <updated>2024-05-06T15:33:08+00:00</updated>
+    <content>Sneakerness 2024 #fyp #schweiz #sneakers </content>
+    <link href="https://tiktok.com/@norabinki/video/7365910014453697824"/>
+    <published>2024-05-06T15:33:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@norabinki/video/7368514565618863393</id>
+    <title>Fantasy Basel 2024 @Bruzzli #schweiz #fyp #fantasy</title>
+    <updated>2024-05-13T15:59:57+00:00</updated>
+    <content>Fantasy Basel 2024 @Bruzzli #schweiz #fyp #fantasy</content>
+    <link href="https://tiktok.com/@norabinki/video/7368514565618863393"/>
+    <published>2024-05-13T15:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@norabinki/video/7369623513637965089</id>
+    <title>Spargelfest in Fräschels? @Bruzzli #fyp #schweiz #CapCut </title>
+    <updated>2024-05-16T15:43:15+00:00</updated>
+    <content>Spargelfest in Fräschels? @Bruzzli #fyp #schweiz #CapCut </content>
+    <link href="https://tiktok.com/@norabinki/video/7369623513637965089"/>
+    <published>2024-05-16T15:43:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@norabinki/video/7373712534379056417</id>
+    <title>Beauty Expo am Hauptbahnhof @Bruzzli #fyp #schweiz #beauty #CapCut </title>
+    <updated>2024-05-27T16:10:44+00:00</updated>
+    <content>Beauty Expo am Hauptbahnhof @Bruzzli #fyp #schweiz #beauty #CapCut </content>
+    <link href="https://tiktok.com/@norabinki/video/7373712534379056417"/>
+    <published>2024-05-27T16:10:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@norabinki/video/7283544477661203745</id>
+    <title>Touristen Coldspot: Mümliswil #fyp #schweiz #CapCut </title>
+    <updated>2023-09-27T16:32:34+00:00</updated>
+    <content>Touristen Coldspot: Mümliswil #fyp #schweiz #CapCut </content>
+    <link href="https://tiktok.com/@norabinki/video/7283544477661203745"/>
+    <published>2023-09-27T16:32:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@norabinki/video/7298386766359203105</id>
+    <title>Tesla Tür ist komplizierter als die Autoprüfung selbst #schweiz #fyp #CapCut </title>
+    <updated>2023-11-06T16:28:14+00:00</updated>
+    <content>Tesla Tür ist komplizierter als die Autoprüfung selbst #schweiz #fyp #CapCut </content>
+    <link href="https://tiktok.com/@norabinki/video/7298386766359203105"/>
+    <published>2023-11-06T16:28:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@norabinki/video/7359198796250762529</id>
+    <title>Badespass im April mit @Bruzzli  #schweiz #fyp #CapCut </title>
+    <updated>2024-04-18T13:29:59+00:00</updated>
+    <content>Badespass im April mit @Bruzzli  #schweiz #fyp #CapCut </content>
+    <link href="https://tiktok.com/@norabinki/video/7359198796250762529"/>
+    <published>2024-04-18T13:29:59+00:00</published>
+  </entry>
 </feed>
