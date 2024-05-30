@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-05-29T13:00:00+00:00</updated>
+  <updated>2024-05-30T13:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7371447735133768992</id>
-    <title>16 INCHES IS NOT ENOUGH FOR ME #vtuber</title>
-    <updated>2024-05-21T13:46:48+00:00</updated>
-    <content>16 INCHES IS NOT ENOUGH FOR ME #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7371447735133768992"/>
-    <published>2024-05-21T13:46:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7371454748819459360</id>
     <title>COMMUNITY WORDLE WAS A MISTAKE #vtuber #wordle</title>
@@ -91,5 +83,13 @@
     <content>MY LAST STREAM (for now) #vtuber</content>
     <link href="https://tiktok.com/@nyaravt/video/7374386303682481440"/>
     <published>2024-05-29T13:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7374733707548052769</id>
+    <title>POV: YOU'RE A GERMAN STREAMER #vtuberen</title>
+    <updated>2024-05-30T13:00:00+00:00</updated>
+    <content>POV: YOU'RE A GERMAN STREAMER #vtuberen</content>
+    <link href="https://tiktok.com/@nyaravt/video/7374733707548052769"/>
+    <published>2024-05-30T13:00:00+00:00</published>
   </entry>
 </feed>
