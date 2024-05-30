@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-05-29T22:26:01+00:00</updated>
+  <updated>2024-05-30T03:27:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7372626978727398698</id>
-    <title>yas you can ski in Copenhagen!! ⛷️ or just hang at the best rooftop bar &amp; get those epic views for free at CopenHill #copenhagen #copenhill #denmark #copenhagenlife #copenhagenbar #ski #dansk #whimsysoul #copenhagentips #copenhagentravel </title>
-    <updated>2024-05-24T17:58:11+00:00</updated>
-    <content>yas you can ski in Copenhagen!! ⛷️ or just hang at the best rooftop bar &amp; get those epic views for free at CopenHill #copenhagen #copenhill #denmark #copenhagenlife #copenhagenbar #ski #dansk #whimsysoul #copenhagentips #copenhagentravel </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7372626978727398698"/>
-    <published>2024-05-24T17:58:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7372645842571922734</id>
     <title>Replying to @Amy Rae more snaps from Amsterdam! Helps the city is so photogenic 😉  I work with my husband to scout locations, style &amp; take photos! It's a team effort.  ✨Should i share more on our process?  #amsterdam #netherlands #travelphotography #trave</title>
@@ -67,6 +59,14 @@
     <content>Sweden wtf is this 😆 #sweden #swedishfood #caviar #uppsala #food #travel #forgienfoods #fisheggs #swedenlife </content>
     <link href="https://tiktok.com/@whimsysoul/video/7374551431275089194"/>
     <published>2024-05-29T22:26:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7374629142358134058</id>
+    <title>Stockholm is cool, but the rest of Sweden is even better ❤️ A couple of weeks ago we rented a car and drove around Sweden for a few days. We stopped at: 💙 Mariefred (the CUTEST little town) 🏰 Gripsholms slott (gorg castle that houses the National Portrait</title>
+    <updated>2024-05-30T03:27:35+00:00</updated>
+    <content>Stockholm is cool, but the rest of Sweden is even better ❤️ A couple of weeks ago we rented a car and drove around Sweden for a few days. We stopped at: 💙 Mariefred (the CUTEST little town) 🏰 Gripsholms slott (gorg castle that houses the National Portrait</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7374629142358134058"/>
+    <published>2024-05-30T03:27:35+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
