@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-05-30T01:09:46+00:00</updated>
+  <updated>2024-05-30T22:27:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7370848489699298603</id>
-    <title>Have you heard of this airline?  #flight #airline #foryou #airport </title>
-    <updated>2024-05-19T22:56:47+00:00</updated>
-    <content>Have you heard of this airline?  #flight #airline #foryou #airport </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7370848489699298603"/>
-    <published>2024-05-19T22:56:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7371220499294096682</id>
     <title>He took so long!! #fyp #foryou </title>
@@ -83,6 +75,14 @@
     <content>He is so entitled  #hoa #entitled </content>
     <link href="https://tiktok.com/@jessicakirson/video/7374593631040212270"/>
     <published>2024-05-30T01:09:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7374922858755034414</id>
+    <title>She is so straight #fy #foryou </title>
+    <updated>2024-05-30T22:27:20+00:00</updated>
+    <content>She is so straight #fy #foryou </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7374922858755034414"/>
+    <published>2024-05-30T22:27:20+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7370717776505294122</id>
