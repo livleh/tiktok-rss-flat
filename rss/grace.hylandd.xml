@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-05-29T07:03:05+00:00</updated>
+  <updated>2024-05-30T06:23:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7337931506880351496</id>
-    <title>No Title</title>
-    <updated>2024-02-21T06:02:00+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7337931506880351496"/>
-    <published>2024-02-21T06:02:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7343092586837462280</id>
     <title>Behind the BBL episode 2 • It’s the internet’s most memed about yet most misunderstood proceedure, the BBL! Join me as I undergo one for myself and unveil all there is to know about this proceedure.</title>
@@ -107,5 +99,13 @@
     <content>I wish I could go back and hug her and tell her everything will be okay. However, her thinking that everything won’t be okay is what gave her the drive to elevate and escape her miserable life. Maybe its best if I just let her suffer.</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7374313577030765832"/>
     <published>2024-05-29T07:03:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7374674382469221650</id>
+    <title>Someone teach me how to twerrrrk 🔮🌙</title>
+    <updated>2024-05-30T06:23:09+00:00</updated>
+    <content>Someone teach me how to twerrrrk 🔮🌙</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7374674382469221650"/>
+    <published>2024-05-30T06:23:09+00:00</published>
   </entry>
 </feed>
