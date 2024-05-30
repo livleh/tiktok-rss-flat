@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-05-28T18:36:29+00:00</updated>
+  <updated>2024-05-30T17:43:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7367069569703316768</id>
-    <title>thank you for the best holiday oy vey!!! </title>
-    <updated>2024-05-09T18:32:35+00:00</updated>
-    <content>thank you for the best holiday oy vey!!! </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7367069569703316768"/>
-    <published>2024-05-09T18:32:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7368544104243809568</id>
     <title>thank you @Darren Levy for driving me round in cricles i had loads of fun!!!! sorry you couldnt prank me i guess im just too smrt i mean smart #funnyuberrides </title>
@@ -91,5 +83,13 @@
     <content>Replying to @MagsThatchertheCumSnatcher a vote for mary is a vote for slides </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7374121181202468129"/>
     <published>2024-05-28T18:36:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7374849773582421281</id>
+    <title>international potato day at gulivers world  </title>
+    <updated>2024-05-30T17:43:44+00:00</updated>
+    <content>international potato day at gulivers world  </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7374849773582421281"/>
+    <published>2024-05-30T17:43:44+00:00</published>
   </entry>
 </feed>
