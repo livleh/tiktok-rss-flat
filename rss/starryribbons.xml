@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@starryribbons</id>
   <title>starryribbons</title>
-  <updated>2024-05-30T19:16:07+00:00</updated>
+  <updated>2024-05-30T19:21:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from starryribbons</subtitle>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7372242273804782880</id>
-    <title>👋 my name is 👋👋👋 #coquettecore #digitaldiary #femlesbian #chappellroan #relatable #wlw #kpop </title>
-    <updated>2024-05-23T17:05:19+00:00</updated>
-    <content>👋 my name is 👋👋👋 #coquettecore #digitaldiary #femlesbian #chappellroan #relatable #wlw #kpop </content>
-    <link href="https://tiktok.com/@starryribbons/video/7372242273804782880"/>
-    <published>2024-05-23T17:05:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7372242788357885216</id>
     <title>if you still follow me from my pink strand phase hiii #coquettecore #digitaldiary #femlesbian #billieeilish #mentalhealthmatters #recoverytok #abuseawareness </title>
@@ -83,6 +75,14 @@
     <content>and if I say its a good luck, babe situation then what #coquettecore #digitaldiary #conangray #femlesbian #wlw #lgbt #mentalhealth</content>
     <link href="https://tiktok.com/@starryribbons/video/7374873573271407904"/>
     <published>2024-05-30T19:16:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7374874941021228321</id>
+    <title>last vid from the hotel room i promise #coquettecore #digitaldiary #femlesbian #billieeilish #wlw </title>
+    <updated>2024-05-30T19:21:24+00:00</updated>
+    <content>last vid from the hotel room i promise #coquettecore #digitaldiary #femlesbian #billieeilish #wlw </content>
+    <link href="https://tiktok.com/@starryribbons/video/7374874941021228321"/>
+    <published>2024-05-30T19:21:24+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7285761406664854817</id>
