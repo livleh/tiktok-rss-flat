@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2024-05-26T21:28:27+00:00</updated>
+  <updated>2024-05-31T02:16:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from loveletterstosf</subtitle>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7365312722017291563</id>
-    <title>summer of outside starts now!! check out an upcoming Ferry Flicks at the Fort Point Beer Garden - Fridays in May at sundown! This season is dedicated to iconic films about birthdays – a nod to Fort Point’s 10 Year Anniversary celebration this year. #thing</title>
-    <updated>2024-05-05T00:55:12+00:00</updated>
-    <content>summer of outside starts now!! check out an upcoming Ferry Flicks at the Fort Point Beer Garden - Fridays in May at sundown! This season is dedicated to iconic films about birthdays – a nod to Fort Point’s 10 Year Anniversary celebration this year. #thing</content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7365312722017291563"/>
-    <published>2024-05-05T00:55:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7365659142196907310</id>
     <title>smelly? yes.. cute and playful? also yes 🦭📍 @PIER 39 #sf #sealion #seals #thingstodoinsf #visitingsf #sftok #marinelife #pier39 </title>
@@ -91,5 +83,13 @@
     <content>panorama park is a must visit for the stunning skyline and bay bridge views #sfbayarea #sfparks #sfviews #baybridge </content>
     <link href="https://tiktok.com/@loveletterstosf/video/7373423338246507819"/>
     <published>2024-05-26T21:28:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7374981872809561386</id>
+    <title>love the bay bridge views from china basin park! #sfparks #waterfrontpark #oraclepark #sf #missionbay #sf #giantsstadium #chinabasinpark </title>
+    <updated>2024-05-31T02:16:22+00:00</updated>
+    <content>love the bay bridge views from china basin park! #sfparks #waterfrontpark #oraclepark #sf #missionbay #sf #giantsstadium #chinabasinpark </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7374981872809561386"/>
+    <published>2024-05-31T02:16:22+00:00</published>
   </entry>
 </feed>
