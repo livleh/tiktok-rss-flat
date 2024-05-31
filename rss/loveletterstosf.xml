@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2024-05-31T02:16:22+00:00</updated>
+  <updated>2024-05-31T16:05:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from loveletterstosf</subtitle>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7365659142196907310</id>
-    <title>smelly? yes.. cute and playful? also yes 🦭📍 @PIER 39 #sf #sealion #seals #thingstodoinsf #visitingsf #sftok #marinelife #pier39 </title>
-    <updated>2024-05-05T23:19:30+00:00</updated>
-    <content>smelly? yes.. cute and playful? also yes 🦭📍 @PIER 39 #sf #sealion #seals #thingstodoinsf #visitingsf #sftok #marinelife #pier39 </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7365659142196907310"/>
-    <published>2024-05-05T23:19:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7366435657373437230</id>
     <title>J line 🤍 #dolorespark #sf #sfmuni #sfmta  </title>
@@ -91,5 +83,13 @@
     <content>love the bay bridge views from china basin park! #sfparks #waterfrontpark #oraclepark #sf #missionbay #sf #giantsstadium #chinabasinpark </content>
     <link href="https://tiktok.com/@loveletterstosf/video/7374981872809561386"/>
     <published>2024-05-31T02:16:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7375195641263230250</id>
+    <title>june is already here!! here’s some fun events to kick off the month ☀️ comment any other fun tings happening! #sfevents #thisweekendinsf #sftok #sfpride #sflocals #sanfrancisco #sfbayarea #thingstodoinsf #sfhunt  </title>
+    <updated>2024-05-31T16:05:54+00:00</updated>
+    <content>june is already here!! here’s some fun events to kick off the month ☀️ comment any other fun tings happening! #sfevents #thisweekendinsf #sftok #sfpride #sflocals #sanfrancisco #sfbayarea #thingstodoinsf #sfhunt  </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7375195641263230250"/>
+    <published>2024-05-31T16:05:54+00:00</published>
   </entry>
 </feed>
