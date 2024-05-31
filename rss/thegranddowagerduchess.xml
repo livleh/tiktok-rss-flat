@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@thegranddowagerduchess</id>
   <title>thegranddowagerduchess</title>
-  <updated>2024-05-31T11:24:55+00:00</updated>
+  <updated>2024-05-31T13:18:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from thegranddowagerduchess</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thegranddowagerduchess/video/7372682523295386923</id>
-    <title>#fyp #foryoupage #performer #bridgerton #netflix #trendingsong #viral #trans </title>
-    <updated>2024-05-24T21:33:41+00:00</updated>
-    <content>#fyp #foryoupage #performer #bridgerton #netflix #trendingsong #viral #trans </content>
-    <link href="https://tiktok.com/@thegranddowagerduchess/video/7372682523295386923"/>
-    <published>2024-05-24T21:33:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thegranddowagerduchess/video/7374110056784153902</id>
     <title>#fyp #foryoupage #viral #dragqueen #trendingsong #trans </title>
@@ -67,6 +59,14 @@
     <content>#fyp #viral #trending #fypシ゚viral #foryoupage #trending </content>
     <link href="https://tiktok.com/@thegranddowagerduchess/video/7375123202055408942"/>
     <published>2024-05-31T11:24:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thegranddowagerduchess/video/7375152466016455978</id>
+    <title>#fyp #viral #viralvideo #drag #dragqueen #rupaulsdragrace </title>
+    <updated>2024-05-31T13:18:30+00:00</updated>
+    <content>#fyp #viral #viralvideo #drag #dragqueen #rupaulsdragrace </content>
+    <link href="https://tiktok.com/@thegranddowagerduchess/video/7375152466016455978"/>
+    <published>2024-05-31T13:18:30+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@thegranddowagerduchess/video/7345190499478818079</id>
