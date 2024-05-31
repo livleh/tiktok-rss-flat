@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-05-29T14:04:14+00:00</updated>
+  <updated>2024-05-31T06:52:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7374026683558497568</id>
-    <title>it wants to leave the vault #taylorswift #swiftie </title>
-    <updated>2024-05-28T12:29:49+00:00</updated>
-    <content>it wants to leave the vault #taylorswift #swiftie </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7374026683558497568"/>
-    <published>2024-05-28T12:29:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7374027763591695649</id>
-    <title>a valid reason #drinking </title>
-    <updated>2024-05-28T12:33:57+00:00</updated>
-    <content>a valid reason #drinking </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7374027763591695649"/>
-    <published>2024-05-28T12:33:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7374254606509034785</id>
     <title>wanna hug her :( #mh #mentalhealth #recovery </title>
@@ -67,6 +51,22 @@
     <content>risky post </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7374422107402423585"/>
     <published>2024-05-29T14:04:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7375051334564760865</id>
+    <title>outfit of the day :) #ootd #pinkhair </title>
+    <updated>2024-05-31T06:46:03+00:00</updated>
+    <content>outfit of the day :) #ootd #pinkhair </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7375051334564760865"/>
+    <published>2024-05-31T06:46:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7375052884230065441</id>
+    <title>yesterday 😚 #autism #neurodivergent #autistic </title>
+    <updated>2024-05-31T06:52:09+00:00</updated>
+    <content>yesterday 😚 #autism #neurodivergent #autistic </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7375052884230065441"/>
+    <published>2024-05-31T06:52:09+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
