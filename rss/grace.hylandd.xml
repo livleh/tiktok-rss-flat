@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-05-30T06:23:09+00:00</updated>
+  <updated>2024-06-01T09:19:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7343092586837462280</id>
-    <title>Behind the BBL episode 2 • It’s the internet’s most memed about yet most misunderstood proceedure, the BBL! Join me as I undergo one for myself and unveil all there is to know about this proceedure.</title>
-    <updated>2024-03-06T03:49:39+00:00</updated>
-    <content>Behind the BBL episode 2 • It’s the internet’s most memed about yet most misunderstood proceedure, the BBL! Join me as I undergo one for myself and unveil all there is to know about this proceedure.</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7343092586837462280"/>
-    <published>2024-03-06T03:49:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7343169073603235080</id>
     <title>Life changing</title>
@@ -107,5 +99,13 @@
     <content>Someone teach me how to twerrrrk 🔮🌙</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7374674382469221650"/>
     <published>2024-05-30T06:23:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7375462098714791175</id>
+    <title>Flora coded 🌸🧚🏼‍♀️</title>
+    <updated>2024-06-01T09:19:54+00:00</updated>
+    <content>Flora coded 🌸🧚🏼‍♀️</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7375462098714791175"/>
+    <published>2024-06-01T09:19:54+00:00</published>
   </entry>
 </feed>
