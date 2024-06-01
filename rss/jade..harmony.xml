@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jade..harmony</id>
   <title>jade..harmony</title>
-  <updated>2024-06-01T11:27:01+00:00</updated>
+  <updated>2024-06-01T12:56:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jade..harmony</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jade..harmony/video/7374200106381298986</id>
-    <title>#fyp #foryoupage #dragqueen #trans #viral #transphobia #queer #silence #conservative </title>
-    <updated>2024-05-28T23:42:43+00:00</updated>
-    <content>#fyp #foryoupage #dragqueen #trans #viral #transphobia #queer #silence #conservative </content>
-    <link href="https://tiktok.com/@jade..harmony/video/7374200106381298986"/>
-    <published>2024-05-28T23:42:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jade..harmony/video/7374413828899081514</id>
     <title>#fyp#foryoupage #fypシ゚viral </title>
@@ -67,6 +59,14 @@
     <content>#fyp #foryoupage #viral #queer #gay #pridemonth #pride #lgbtqiaplus #lgbtq #queerart </content>
     <link href="https://tiktok.com/@jade..harmony/video/7375494794522512682"/>
     <published>2024-06-01T11:27:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jade..harmony/video/7375517970455383339</id>
+    <title>#fyp #foryoupage #viral #queer #gay #pridemonth #pride #lgbtqiaplus #homo #trans #lesbian #bisexual🏳️‍🌈 #pansexuals🏳️‍🌈💖💛💙 #ace #questioning #michigan #dragqueen </title>
+    <updated>2024-06-01T12:56:46+00:00</updated>
+    <content>#fyp #foryoupage #viral #queer #gay #pridemonth #pride #lgbtqiaplus #homo #trans #lesbian #bisexual🏳️‍🌈 #pansexuals🏳️‍🌈💖💛💙 #ace #questioning #michigan #dragqueen </content>
+    <link href="https://tiktok.com/@jade..harmony/video/7375517970455383339"/>
+    <published>2024-06-01T12:56:46+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jade..harmony/video/7375123202055408942</id>
