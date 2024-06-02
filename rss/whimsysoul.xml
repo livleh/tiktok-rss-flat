@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-06-02T00:55:53+00:00</updated>
+  <updated>2024-06-02T15:01:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7374250449764945194</id>
-    <title>San Francisco sunny nights are my fave ❤️  #sanfrancisco #sanfranciscoapartment #sanfranciscolife #wine #aesthetic #aestheticapartment #colorfulhome #thetors #bayarea #whimsysoul #boholivingroom #jungalowstyle </title>
-    <updated>2024-05-29T02:58:04+00:00</updated>
-    <content>San Francisco sunny nights are my fave ❤️  #sanfrancisco #sanfranciscoapartment #sanfranciscolife #wine #aesthetic #aestheticapartment #colorfulhome #thetors #bayarea #whimsysoul #boholivingroom #jungalowstyle </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7374250449764945194"/>
-    <published>2024-05-29T02:58:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7374551431275089194</id>
     <title>Sweden wtf is this 😆 #sweden #swedishfood #caviar #uppsala #food #travel #forgienfoods #fisheggs #swedenlife </title>
@@ -67,6 +59,14 @@
     <content>We skipped Stockholm and instead took a road trip around the countryside of Sweden!! 🇸🇪🚗 #vlog Places featured: Grand Hotell Hörnan Hotel Krusenberg Herrgård IBERICO TAPAS &amp; BAR Gripsholms Slott Uppsala Ikea Royal Mound + Cafe #sweden #roadtrip #visitswed</content>
     <link href="https://tiktok.com/@whimsysoul/video/7375703310965263659"/>
     <published>2024-06-02T00:55:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7375921141636025646</id>
+    <title>Visited Odin, Thor, and Freyr's burial mounds in Sweden 🇸🇪 Robin LOVES al things Viking history and Norse gods. We didn't have enough time to visit Uppsala on our first trip to Sweden but came back just to visit the Royal Mounds!!  Legand says these three</title>
+    <updated>2024-06-02T15:01:15+00:00</updated>
+    <content>Visited Odin, Thor, and Freyr's burial mounds in Sweden 🇸🇪 Robin LOVES al things Viking history and Norse gods. We didn't have enough time to visit Uppsala on our first trip to Sweden but came back just to visit the Royal Mounds!!  Legand says these three</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7375921141636025646"/>
+    <published>2024-06-02T15:01:15+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
