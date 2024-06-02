@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-05-30T17:43:44+00:00</updated>
+  <updated>2024-06-02T17:27:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7368544104243809568</id>
-    <title>thank you @Darren Levy for driving me round in cricles i had loads of fun!!!! sorry you couldnt prank me i guess im just too smrt i mean smart #funnyuberrides </title>
-    <updated>2024-05-13T17:54:33+00:00</updated>
-    <content>thank you @Darren Levy for driving me round in cricles i had loads of fun!!!! sorry you couldnt prank me i guess im just too smrt i mean smart #funnyuberrides </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7368544104243809568"/>
-    <published>2024-05-13T17:54:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7369308011652975904</id>
     <title>Replying to @k  over half this call was silent </title>
@@ -91,5 +83,13 @@
     <content>international potato day at gulivers world  </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7374849773582421281"/>
     <published>2024-05-30T17:43:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7375958718678060321</id>
+    <title>JUSTICE FOR BREAD DOG he likes to have to wait for his drink to melt #dog </title>
+    <updated>2024-06-02T17:27:02+00:00</updated>
+    <content>JUSTICE FOR BREAD DOG he likes to have to wait for his drink to melt #dog </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7375958718678060321"/>
+    <published>2024-06-02T17:27:02+00:00</published>
   </entry>
 </feed>
