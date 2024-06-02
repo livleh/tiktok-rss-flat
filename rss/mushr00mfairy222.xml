@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-06-01T10:54:42+00:00</updated>
+  <updated>2024-06-02T04:12:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7374396962885405984</id>
-    <title>oh 😭</title>
-    <updated>2024-05-29T12:26:39+00:00</updated>
-    <content>oh 😭</content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7374396962885405984"/>
-    <published>2024-05-29T12:26:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7374415151950253344</id>
     <title>IT'S SO SWEET #besties </title>
@@ -67,6 +59,14 @@
     <content>should i do concert photography!! #swiftie #erastour #taylorswift </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7375486523011058976"/>
     <published>2024-06-01T10:54:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7375753662158671137</id>
+    <title>HAPPY LESBIAN APOCALYPSE #lesbian #lesbianapocolypse </title>
+    <updated>2024-06-02T04:12:05+00:00</updated>
+    <content>HAPPY LESBIAN APOCALYPSE #lesbian #lesbianapocolypse </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7375753662158671137"/>
+    <published>2024-06-02T04:12:05+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
