@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-06-01T17:41:25+00:00</updated>
+  <updated>2024-06-02T00:55:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7373892725546110254</id>
-    <title>low key waiting for The Doctor to pop out at any moment and ask me to be his companion 😏  visiting the Tardis - aka the last police box in London - was incredibly fun. I've been watching &amp; cherishing Doctor Who for over a decade (easily a top fandom of mi</title>
-    <updated>2024-05-28T03:49:55+00:00</updated>
-    <content>low key waiting for The Doctor to pop out at any moment and ask me to be his companion 😏  visiting the Tardis - aka the last police box in London - was incredibly fun. I've been watching &amp; cherishing Doctor Who for over a decade (easily a top fandom of mi</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7373892725546110254"/>
-    <published>2024-05-28T03:49:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7374250449764945194</id>
     <title>San Francisco sunny nights are my fave ❤️  #sanfrancisco #sanfranciscoapartment #sanfranciscolife #wine #aesthetic #aestheticapartment #colorfulhome #thetors #bayarea #whimsysoul #boholivingroom #jungalowstyle </title>
@@ -67,6 +59,14 @@
     <content>Found THE most beautiful hotel in Sweden 🇸🇪❤️ there's a sauna by a lake!!! And a historic manor house filled with beautiful decor, amazing meals prepared by the kitchen, tons of games to play over happy hour and gardens to stroll in the day.   Krusenberg </content>
     <link href="https://tiktok.com/@whimsysoul/video/7375591349883637038"/>
     <published>2024-06-01T17:41:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7375703310965263659</id>
+    <title>We skipped Stockholm and instead took a road trip around the countryside of Sweden!! 🇸🇪🚗 #vlog Places featured: Grand Hotell Hörnan Hotel Krusenberg Herrgård IBERICO TAPAS &amp; BAR Gripsholms Slott Uppsala Ikea Royal Mound + Cafe #sweden #roadtrip #visitswed</title>
+    <updated>2024-06-02T00:55:53+00:00</updated>
+    <content>We skipped Stockholm and instead took a road trip around the countryside of Sweden!! 🇸🇪🚗 #vlog Places featured: Grand Hotell Hörnan Hotel Krusenberg Herrgård IBERICO TAPAS &amp; BAR Gripsholms Slott Uppsala Ikea Royal Mound + Cafe #sweden #roadtrip #visitswed</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7375703310965263659"/>
+    <published>2024-06-02T00:55:53+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
