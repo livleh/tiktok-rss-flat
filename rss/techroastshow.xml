@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-06-02T15:05:45+00:00</updated>
+  <updated>2024-06-02T19:56:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7374536250042354990</id>
-    <title>Max out your TC 🤑🤑🤑 #techie #softwareengineer #siliconvalley #sanfrancisco #bayarea #comedy #funny #developerlife #programmerlife</title>
-    <updated>2024-05-29T21:27:08+00:00</updated>
-    <content>Max out your TC 🤑🤑🤑 #techie #softwareengineer #siliconvalley #sanfrancisco #bayarea #comedy #funny #developerlife #programmerlife</content>
-    <link href="https://tiktok.com/@techroastshow/video/7374536250042354990"/>
-    <published>2024-05-29T21:27:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7374773965870583086</id>
     <title>who let the dogs out? #techie #softwareengineer #LA #losangeles #programmerlife #roastbattle #darkhumor #techroastshow</title>
@@ -67,6 +59,14 @@
     <content>by the time teams loads it’s time to clock out  #tech #softwareengineer #microsoft #teams #crowdwork #standupcomedy #comedy #startuplife #techroastshow</content>
     <link href="https://tiktok.com/@techroastshow/video/7375922311624396075"/>
     <published>2024-06-02T15:05:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7375997175479962926</id>
+    <title>They invest more in stocks than their relationship #techie #softwareengineer #siliconvalley #sanfrancisco #couple #comedy #funny #developerlife #programmerlife</title>
+    <updated>2024-06-02T19:56:16+00:00</updated>
+    <content>They invest more in stocks than their relationship #techie #softwareengineer #siliconvalley #sanfrancisco #couple #comedy #funny #developerlife #programmerlife</content>
+    <link href="https://tiktok.com/@techroastshow/video/7375997175479962926"/>
+    <published>2024-06-02T19:56:16+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
