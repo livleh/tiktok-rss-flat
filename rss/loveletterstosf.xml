@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2024-05-31T16:05:54+00:00</updated>
+  <updated>2024-06-03T17:27:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from loveletterstosf</subtitle>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7366435657373437230</id>
-    <title>J line 🤍 #dolorespark #sf #sfmuni #sfmta  </title>
-    <updated>2024-05-08T01:32:47+00:00</updated>
-    <content>J line 🤍 #dolorespark #sf #sfmuni #sfmta  </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7366435657373437230"/>
-    <published>2024-05-08T01:32:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7366839716391521578</id>
-    <title>that magic🫶✨ #sf </title>
-    <updated>2024-05-09T03:40:50+00:00</updated>
-    <content>that magic🫶✨ #sf </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7366839716391521578"/>
-    <published>2024-05-09T03:40:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7369388443706772782</id>
     <title>📢 Giveaway Alert!! I’m giving away 2 pairs of tickets to a Dear San Francisco show* of your choice at @ClubFugaziSF to my TikTok followers. Here’s how to enter: ❤️ Like this post 🧡 Make sure you’re following me (@loveletterstosf) so I can DM you if you wi</title>
@@ -85,11 +69,27 @@
     <published>2024-05-31T16:05:54+00:00</published>
   </entry>
   <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7376329833212562731</id>
+    <title>#sfparks #chinabasinpark #missionbay </title>
+    <updated>2024-06-03T17:27:08+00:00</updated>
+    <content>#sfparks #chinabasinpark #missionbay </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7376329833212562731"/>
+    <published>2024-06-03T17:27:08+00:00</published>
+  </entry>
+  <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7373119118758677802</id>
     <title>she is stunning esp on a sunny day, cant wait to go again around sunset 😍 #sf #sfparks #yerbabuenaisland #sfviews #skylineviews #baybridge #panoramapark #treasureisland #sfbayarea </title>
     <updated>2024-05-26T01:47:55+00:00</updated>
     <content>she is stunning esp on a sunny day, cant wait to go again around sunset 😍 #sf #sfparks #yerbabuenaisland #sfviews #skylineviews #baybridge #panoramapark #treasureisland #sfbayarea </content>
     <link href="https://tiktok.com/@loveletterstosf/video/7373119118758677802"/>
     <published>2024-05-26T01:47:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7366435657373437230</id>
+    <title>J line 🤍 #dolorespark #sf #sfmuni #sfmta  </title>
+    <updated>2024-05-08T01:32:47+00:00</updated>
+    <content>J line 🤍 #dolorespark #sf #sfmuni #sfmta  </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7366435657373437230"/>
+    <published>2024-05-08T01:32:47+00:00</published>
   </entry>
 </feed>
