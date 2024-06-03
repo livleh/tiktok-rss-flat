@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-06-02T06:35:13+00:00</updated>
+  <updated>2024-06-03T06:11:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7372087483724565793</id>
-    <title>#stitch mit @Pumpkin Head Bi vs Pan #bigirl #bisexual #pansexual </title>
-    <updated>2024-05-23T07:04:44+00:00</updated>
-    <content>#stitch mit @Pumpkin Head Bi vs Pan #bigirl #bisexual #pansexual </content>
-    <link href="https://tiktok.com/@tandarok/video/7372087483724565793"/>
-    <published>2024-05-23T07:04:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7372250257964518688</id>
     <title>Antwort auf @bugs.exotics  #bisexual #pansexual #bigirl </title>
@@ -67,6 +59,14 @@
     <content>Wie vegan seid ihr? #vegan #twitchclips #twitchgermany </content>
     <link href="https://tiktok.com/@tandarok/video/7375790680670588193"/>
     <published>2024-06-02T06:35:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7376155767155526944</id>
+    <title>Ich wünschte es wäre ein Joke  #exboyfriend #dating #beziehung </title>
+    <updated>2024-06-03T06:11:53+00:00</updated>
+    <content>Ich wünschte es wäre ein Joke  #exboyfriend #dating #beziehung </content>
+    <link href="https://tiktok.com/@tandarok/video/7376155767155526944"/>
+    <published>2024-06-03T06:11:53+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
