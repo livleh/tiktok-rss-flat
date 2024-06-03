@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@pasha</id>
   <title>pasha</title>
-  <updated>2024-06-02T13:49:19+00:00</updated>
+  <updated>2024-06-03T15:26:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pasha</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pasha/video/7373626895151205633</id>
-    <title>who else is a 27-year-old teenager?</title>
-    <updated>2024-05-27T10:38:26+00:00</updated>
-    <content>who else is a 27-year-old teenager?</content>
-    <link href="https://tiktok.com/@pasha/video/7373626895151205633"/>
-    <published>2024-05-27T10:38:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7374000424485145873</id>
     <title>THIS BUILDING IS SCARY 😭</title>
@@ -75,6 +67,14 @@
     <content>why hasn’t anyone told me about this? 😭 #german #germany #travelinggermany ##deutschland #lifeingermany #berlin </content>
     <link href="https://tiktok.com/@pasha/video/7375902614682094864"/>
     <published>2024-06-02T13:49:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pasha/video/7376298650097536272</id>
+    <title>❌ spreadsheet  ✅ spread happiness, joy and blessings ✅ spread your wings #comedy #jobs </title>
+    <updated>2024-06-03T15:26:11+00:00</updated>
+    <content>❌ spreadsheet  ✅ spread happiness, joy and blessings ✅ spread your wings #comedy #jobs </content>
+    <link href="https://tiktok.com/@pasha/video/7376298650097536272"/>
+    <published>2024-06-03T15:26:11+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7044103633817980161</id>
