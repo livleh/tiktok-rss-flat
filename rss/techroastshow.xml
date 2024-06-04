@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-06-03T23:28:43+00:00</updated>
+  <updated>2024-06-04T13:03:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7375152356444441902</id>
-    <title>🐭 #techie #softwareengineer #microsoft #seattle #programmerlife #roastbattle #darkhumor #techroastshow</title>
-    <updated>2024-05-31T13:18:00+00:00</updated>
-    <content>🐭 #techie #softwareengineer #microsoft #seattle #programmerlife #roastbattle #darkhumor #techroastshow</content>
-    <link href="https://tiktok.com/@techroastshow/video/7375152356444441902"/>
-    <published>2024-05-31T13:18:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7375285880061283626</id>
     <title>Clone, branch, merge, revert, rebase… #techie #softwareengineer #siliconvalley #sanfrancisco #bayarea #manonthestreet #streetinterview #cut #comedy #funnyvideos #programmerlife</title>
@@ -67,6 +59,14 @@
     <content>GPT doesn’t take PTO #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</content>
     <link href="https://tiktok.com/@techroastshow/video/7376423011873869098"/>
     <published>2024-06-03T23:28:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7376632898654391594</id>
+    <title>it’s an oxymoron  #tech #softwareengineer #meta #facebook #standupcomedy #comedy #startuplife #techroastshow</title>
+    <updated>2024-06-04T13:03:14+00:00</updated>
+    <content>it’s an oxymoron  #tech #softwareengineer #meta #facebook #standupcomedy #comedy #startuplife #techroastshow</content>
+    <link href="https://tiktok.com/@techroastshow/video/7376632898654391594"/>
+    <published>2024-06-04T13:03:14+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
