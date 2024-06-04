@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@starryribbons</id>
   <title>starryribbons</title>
-  <updated>2024-06-02T17:19:16+00:00</updated>
+  <updated>2024-06-04T17:44:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from starryribbons</subtitle>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7373343217988767009</id>
-    <title>i would sell my first born for vegan garlic bread #coquettecore #digitaldiary #femlesbian #garlicbread #veganfood #wlw </title>
-    <updated>2024-05-26T16:17:34+00:00</updated>
-    <content>i would sell my first born for vegan garlic bread #coquettecore #digitaldiary #femlesbian #garlicbread #veganfood #wlw </content>
-    <link href="https://tiktok.com/@starryribbons/video/7373343217988767009"/>
-    <published>2024-05-26T16:17:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7373343866986040608</id>
     <title>pop pop going crazy #coquettecore #digitaldiary #zerobaseone #kpop #wlw #femlesbian #zb1 </title>
@@ -83,6 +75,14 @@
     <content>#collaboration | okay but its the cutest @Divoom_official #coquettecore #digitaldiary #divoom #wlw #roominspo #aesthetic #roomdecor </content>
     <link href="https://tiktok.com/@starryribbons/video/7375956713528118560"/>
     <published>2024-06-02T17:19:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7376705447413206304</id>
+    <title>thanks for the advice we never would‘ve come up w it on our own #coquettecore #digitaldiary #billieeilish #abuseawareness #mentalhealth #wlw </title>
+    <updated>2024-06-04T17:44:42+00:00</updated>
+    <content>thanks for the advice we never would‘ve come up w it on our own #coquettecore #digitaldiary #billieeilish #abuseawareness #mentalhealth #wlw </content>
+    <link href="https://tiktok.com/@starryribbons/video/7376705447413206304"/>
+    <published>2024-06-04T17:44:42+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7285761406664854817</id>
