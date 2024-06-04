@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-06-04T13:03:14+00:00</updated>
+  <updated>2024-06-04T23:08:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7375285880061283626</id>
-    <title>Clone, branch, merge, revert, rebase… #techie #softwareengineer #siliconvalley #sanfrancisco #bayarea #manonthestreet #streetinterview #cut #comedy #funnyvideos #programmerlife</title>
-    <updated>2024-05-31T21:56:04+00:00</updated>
-    <content>Clone, branch, merge, revert, rebase… #techie #softwareengineer #siliconvalley #sanfrancisco #bayarea #manonthestreet #streetinterview #cut #comedy #funnyvideos #programmerlife</content>
-    <link href="https://tiktok.com/@techroastshow/video/7375285880061283626"/>
-    <published>2024-05-31T21:56:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7375541950277111083</id>
     <title>he is… inevitable  #tech #softwareengineer #startup #founder #crowdwork #standupcomedy #comedy #startuplife #techroastshow</title>
@@ -67,6 +59,14 @@
     <content>it’s an oxymoron  #tech #softwareengineer #meta #facebook #standupcomedy #comedy #startuplife #techroastshow</content>
     <link href="https://tiktok.com/@techroastshow/video/7376632898654391594"/>
     <published>2024-06-04T13:03:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7376788818386521387</id>
+    <title>he went to an Ivy League  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</title>
+    <updated>2024-06-04T23:08:13+00:00</updated>
+    <content>he went to an Ivy League  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</content>
+    <link href="https://tiktok.com/@techroastshow/video/7376788818386521387"/>
+    <published>2024-06-04T23:08:13+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>

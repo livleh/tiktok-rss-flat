@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-06-03T22:44:53+00:00</updated>
+  <updated>2024-06-04T23:14:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7372324213883030826</id>
-    <title>She is so healthy 🤮🤮🤮 #healthy #pilates #🤮 </title>
-    <updated>2024-05-23T22:23:18+00:00</updated>
-    <content>She is so healthy 🤮🤮🤮 #healthy #pilates #🤮 </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7372324213883030826"/>
-    <published>2024-05-23T22:23:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7372935814721932586</id>
     <title>Jewish American Princess!  #foryou #jersey </title>
@@ -83,6 +75,14 @@
     <content>“I am working on myself right now”</content>
     <link href="https://tiktok.com/@jessicakirson/video/7376411711974444334"/>
     <published>2024-06-03T22:44:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7376790309671308587</id>
+    <title>They Need To Do It, Just to get closer  #gaytiktok #foryou #fypage </title>
+    <updated>2024-06-04T23:14:00+00:00</updated>
+    <content>They Need To Do It, Just to get closer  #gaytiktok #foryou #fypage </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7376790309671308587"/>
+    <published>2024-06-04T23:14:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7370717776505294122</id>
