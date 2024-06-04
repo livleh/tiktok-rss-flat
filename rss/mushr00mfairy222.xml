@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-06-03T11:41:26+00:00</updated>
+  <updated>2024-06-04T05:21:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7375900629211827488</id>
-    <title>like ARE U TALKING </title>
-    <updated>2024-06-02T13:41:37+00:00</updated>
-    <content>like ARE U TALKING </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7375900629211827488"/>
-    <published>2024-06-02T13:41:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7375901754501631265</id>
     <title>guys #lesbian #wlw </title>
@@ -67,6 +59,14 @@
     <content>HAPPY PRIDEEEE #lgbt #lgbtq </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7376240719364672801"/>
     <published>2024-06-03T11:41:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7376513793989332257</id>
+    <title>No Title</title>
+    <updated>2024-06-04T05:21:05+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7376513793989332257"/>
+    <published>2024-06-04T05:21:05+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
