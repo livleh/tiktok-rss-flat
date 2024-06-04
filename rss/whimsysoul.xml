@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-06-02T23:48:45+00:00</updated>
+  <updated>2024-06-04T00:09:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7374629142358134058</id>
-    <title>Stockholm is cool, but the rest of Sweden is even better ❤️ A couple of weeks ago we rented a car and drove around Sweden for a few days. We stopped at: 💙 Mariefred (the CUTEST little town) 🏰 Gripsholms slott (gorg castle that houses the National Portrait</title>
-    <updated>2024-05-30T03:27:35+00:00</updated>
-    <content>Stockholm is cool, but the rest of Sweden is even better ❤️ A couple of weeks ago we rented a car and drove around Sweden for a few days. We stopped at: 💙 Mariefred (the CUTEST little town) 🏰 Gripsholms slott (gorg castle that houses the National Portrait</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7374629142358134058"/>
-    <published>2024-05-30T03:27:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7374886583889136939</id>
     <title>Does the algorithm HATE you? (it might!) 👇 When you JUST rely on social media to connect with your community or customers, you are taking a huge risk. What if the algorithm isn’t favoring your content? What if you get banned, or hacked, or if that social </title>
@@ -67,6 +59,14 @@
     <content>IKEA meatballs in Sweden &gt; anywhere else 🇸🇪  While in Uppsala we drove by an IKEA and we just HAD to stop by for lunch to eat the famous meatballs in an actual Swedish IKEA!!! 10/10 would recommend.   #ikea #ikeameatballs #sweden #uppsala #swedishmeatball</content>
     <link href="https://tiktok.com/@whimsysoul/video/7376057095013059882"/>
     <published>2024-06-02T23:48:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7376433605695868202</id>
+    <title>We're in @Apartment Therapy !!!! 😱 When I set out to design the @Whimsy Homes Cabin cabin I told myself I wanted to create a place so special, so colorful and so FUN that the folks at Apartment Therapy would want to feature it.  I love them for home decor</title>
+    <updated>2024-06-04T00:09:48+00:00</updated>
+    <content>We're in @Apartment Therapy !!!! 😱 When I set out to design the @Whimsy Homes Cabin cabin I told myself I wanted to create a place so special, so colorful and so FUN that the folks at Apartment Therapy would want to feature it.  I love them for home decor</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7376433605695868202"/>
+    <published>2024-06-04T00:09:48+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
