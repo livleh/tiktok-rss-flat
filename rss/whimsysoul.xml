@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-06-04T19:29:16+00:00</updated>
+  <updated>2024-06-05T01:15:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7374984735056989483</id>
-    <title>this week's weather has been perfect ❤️ #sanfrancisco #california #sanfranciscolife #shotoniphone </title>
-    <updated>2024-05-31T02:27:27+00:00</updated>
-    <content>this week's weather has been perfect ❤️ #sanfrancisco #california #sanfranciscolife #shotoniphone </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7374984735056989483"/>
-    <published>2024-05-31T02:27:27+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7375591349883637038</id>
-    <title>Found THE most beautiful hotel in Sweden 🇸🇪❤️ there's a sauna by a lake!!! And a historic manor house filled with beautiful decor, amazing meals prepared by the kitchen, tons of games to play over happy hour and gardens to stroll in the day.   Krusenberg </title>
-    <updated>2024-06-01T17:41:25+00:00</updated>
-    <content>Found THE most beautiful hotel in Sweden 🇸🇪❤️ there's a sauna by a lake!!! And a historic manor house filled with beautiful decor, amazing meals prepared by the kitchen, tons of games to play over happy hour and gardens to stroll in the day.   Krusenberg </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7375591349883637038"/>
-    <published>2024-06-01T17:41:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7375703310965263659</id>
     <title>We skipped Stockholm and instead took a road trip around the countryside of Sweden!! 🇸🇪🚗 #vlog Places featured: Grand Hotell Hörnan Hotel Krusenberg Herrgård IBERICO TAPAS &amp; BAR Gripsholms Slott Uppsala Ikea Royal Mound + Cafe #sweden #roadtrip #visitswed</title>
@@ -67,6 +51,22 @@
     <content>Strawberries by the ocean?! yes please!! 🍓 🍓 I love strawberry picking season in California, especially when you can pop down Hwy 1 and pick berries right by the ocean at places like Swanton Berry Farm!!  We always make a day of it and stop by a few other</content>
     <link href="https://tiktok.com/@whimsysoul/video/7376732390078549291"/>
     <published>2024-06-04T19:29:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7376801217072090411</id>
+    <title>do you really live in San Francisco if you aren't ditching work to day drink in a park? #sanfrancisco #kabincrew </title>
+    <updated>2024-06-04T23:56:19+00:00</updated>
+    <content>do you really live in San Francisco if you aren't ditching work to day drink in a park? #sanfrancisco #kabincrew </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7376801217072090411"/>
+    <published>2024-06-04T23:56:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7376821716451953962</id>
+    <title>Replying to @Luis Fregoso rapid San Francisco studio apartment tour. Convinced all old San Francisco apartments look the same - especially with the old telephone nooks, bay windows, weird closet doors, and real wood floors. #sanfrancisco #apartmenttour #s</title>
+    <updated>2024-06-05T01:15:52+00:00</updated>
+    <content>Replying to @Luis Fregoso rapid San Francisco studio apartment tour. Convinced all old San Francisco apartments look the same - especially with the old telephone nooks, bay windows, weird closet doors, and real wood floors. #sanfrancisco #apartmenttour #s</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7376821716451953962"/>
+    <published>2024-06-05T01:15:52+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
