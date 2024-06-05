@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ramalauw</id>
   <title>ramalauw</title>
-  <updated>2024-06-04T18:27:15+00:00</updated>
+  <updated>2024-06-05T15:25:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ramalauw</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ramalauw/video/7366639457262456097</id>
-    <title>“Success” is something I’ve always struggled with. I’ve always been drawn to the creative world, but in my family, anything creative was seen as just a hobby. A good job was stable, something that paid. Deep down, I’ve always wanted to pursue a creative c</title>
-    <updated>2024-05-08T14:43:32+00:00</updated>
-    <content>“Success” is something I’ve always struggled with. I’ve always been drawn to the creative world, but in my family, anything creative was seen as just a hobby. A good job was stable, something that paid. Deep down, I’ve always wanted to pursue a creative c</content>
-    <link href="https://tiktok.com/@ramalauw/video/7366639457262456097"/>
-    <published>2024-05-08T14:43:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7368494804596002081</id>
     <title>Never rest without feeling guilty ever again with ✨StressLaxing✨ 🫶 #Free99 </title>
@@ -67,6 +59,14 @@
     <content>Should we call our landlord and tell him our ✨inner niños✨ don’t want to pay rent? 🤭🥰💅🙈🤪 #roommates #therapy #therapytalk #mentalhealth #skit #fyp #foryou #genz #tiktokusa </content>
     <link href="https://tiktok.com/@ramalauw/video/7376716397566627104"/>
     <published>2024-06-04T18:27:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ramalauw/video/7377040585443642657</id>
+    <title>Even the animals can’t resist my ✨better than everyone✨ charm 🥺🤭🙈💃✨ #BetterThanEveryone #BTEFace #maincharacter #delulu </title>
+    <updated>2024-06-05T15:25:14+00:00</updated>
+    <content>Even the animals can’t resist my ✨better than everyone✨ charm 🥺🤭🙈💃✨ #BetterThanEveryone #BTEFace #maincharacter #delulu </content>
+    <link href="https://tiktok.com/@ramalauw/video/7377040585443642657"/>
+    <published>2024-06-05T15:25:14+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7270903343638187297</id>
