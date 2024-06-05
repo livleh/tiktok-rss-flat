@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lillytino_</id>
   <title>lillytino_</title>
-  <updated>2024-05-31T16:26:35+00:00</updated>
+  <updated>2024-06-05T21:21:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from lillytino_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@lillytino_/video/7361137474812251438</id>
-    <title>How many times did i say sugar packet??</title>
-    <updated>2024-04-23T18:53:04+00:00</updated>
-    <content>How many times did i say sugar packet??</content>
-    <link href="https://tiktok.com/@lillytino_/video/7361137474812251438"/>
-    <published>2024-04-23T18:53:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@lillytino_/video/7367039222693268779</id>
     <title>Waiting on my tunnel 🚞</title>
@@ -91,5 +83,13 @@
     <content>We just gotta go 🤷‍♀️</content>
     <link href="https://tiktok.com/@lillytino_/video/7375200975096810798"/>
     <published>2024-05-31T16:26:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lillytino_/video/7377132459428760875</id>
+    <title>Answering your burning questions 🔥</title>
+    <updated>2024-06-05T21:21:44+00:00</updated>
+    <content>Answering your burning questions 🔥</content>
+    <link href="https://tiktok.com/@lillytino_/video/7377132459428760875"/>
+    <published>2024-06-05T21:21:44+00:00</published>
   </entry>
 </feed>
