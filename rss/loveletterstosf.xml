@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2024-06-04T22:52:35+00:00</updated>
+  <updated>2024-06-05T04:31:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from loveletterstosf</subtitle>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7369454579291016494</id>
-    <title>check out my pinned vid for a chance to win free tix to Dear San Francisco cirque show #sf #sftok #sfdatenight #northbeach #sfrecommendations #sfeats #sfbars </title>
-    <updated>2024-05-16T04:47:56+00:00</updated>
-    <content>check out my pinned vid for a chance to win free tix to Dear San Francisco cirque show #sf #sftok #sfdatenight #northbeach #sfrecommendations #sfeats #sfbars </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7369454579291016494"/>
-    <published>2024-05-16T04:47:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7369993952902008107</id>
     <title>#freepalestine #sfevents #thingstodoinsf #sftok </title>
@@ -75,6 +67,14 @@
     <content>hopping on this cute trend but make it sf edition ✨ #momentsoflove #sf #sflife #sanfrancisco #loveletterstosf </content>
     <link href="https://tiktok.com/@loveletterstosf/video/7376784788134579502"/>
     <published>2024-06-04T22:52:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7376872005586619694</id>
+    <title>love being on #californiatok and being from this beautiful state 💛 #california  </title>
+    <updated>2024-06-05T04:31:03+00:00</updated>
+    <content>love being on #californiatok and being from this beautiful state 💛 #california  </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7376872005586619694"/>
+    <published>2024-06-05T04:31:03+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7373119118758677802</id>
