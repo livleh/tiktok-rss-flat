@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jade..harmony</id>
   <title>jade..harmony</title>
-  <updated>2024-06-04T20:20:58+00:00</updated>
+  <updated>2024-06-05T13:40:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jade..harmony</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jade..harmony/video/7375593321969831210</id>
-    <title>#foryoupage #fyp #viral #queer #pridemonth #lgbtqiaplus #trans #dragqueen #gay #homo #lesbian </title>
-    <updated>2024-06-01T17:49:04+00:00</updated>
-    <content>#foryoupage #fyp #viral #queer #pridemonth #lgbtqiaplus #trans #dragqueen #gay #homo #lesbian </content>
-    <link href="https://tiktok.com/@jade..harmony/video/7375593321969831210"/>
-    <published>2024-06-01T17:49:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jade..harmony/video/7375629512207355179</id>
     <title>#pride #fyp #viral #queer #pridemonth #lgbtqiaplus #trans #transgender #pride2024 #trending </title>
@@ -67,6 +59,14 @@
     <content>#fyp #trans #transwomen #foryoupage #funny #trend #meghantrainor #whoopsyoumessedup </content>
     <link href="https://tiktok.com/@jade..harmony/video/7376745717580188971"/>
     <published>2024-06-04T20:20:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jade..harmony/video/7377013644976000302</id>
+    <title>#fyp #foryoupage </title>
+    <updated>2024-06-05T13:40:40+00:00</updated>
+    <content>#fyp #foryoupage </content>
+    <link href="https://tiktok.com/@jade..harmony/video/7377013644976000302"/>
+    <published>2024-06-05T13:40:40+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jade..harmony/video/7375123202055408942</id>
