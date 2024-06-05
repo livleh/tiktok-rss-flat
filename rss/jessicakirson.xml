@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-06-04T23:14:00+00:00</updated>
+  <updated>2024-06-05T22:21:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7372935814721932586</id>
-    <title>Jewish American Princess!  #foryou #jersey </title>
-    <updated>2024-05-25T13:56:40+00:00</updated>
-    <content>Jewish American Princess!  #foryou #jersey </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7372935814721932586"/>
-    <published>2024-05-25T13:56:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7373325156514630954</id>
     <title>My fans are mentally ill 🖤🖤🖤</title>
@@ -83,6 +75,14 @@
     <content>They Need To Do It, Just to get closer  #gaytiktok #foryou #fypage </content>
     <link href="https://tiktok.com/@jessicakirson/video/7376790309671308587"/>
     <published>2024-06-04T23:14:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7377147788817173803</id>
+    <title>I’m Sorry I’m Codependent  #foryou #fyp </title>
+    <updated>2024-06-05T22:21:13+00:00</updated>
+    <content>I’m Sorry I’m Codependent  #foryou #fyp </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7377147788817173803"/>
+    <published>2024-06-05T22:21:13+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7370717776505294122</id>
