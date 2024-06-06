@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@pasha</id>
   <title>pasha</title>
-  <updated>2024-06-05T11:06:18+00:00</updated>
+  <updated>2024-06-06T10:13:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pasha</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pasha/video/7374379128893492497</id>
-    <title>how you feel right after you get a new book even though you know very well that you will forget about it in 2 weeks #booktok #bookish #books #kindle </title>
-    <updated>2024-05-29T11:17:28+00:00</updated>
-    <content>how you feel right after you get a new book even though you know very well that you will forget about it in 2 weeks #booktok #bookish #books #kindle </content>
-    <link href="https://tiktok.com/@pasha/video/7374379128893492497"/>
-    <published>2024-05-29T11:17:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7374404745827503361</id>
     <title>life is a long bicycle race. at the start of the race, we’re all together - enthusiastic and determined. but as the race progresses, the initial joy gives way to the real challenges: tiredness, boredom, self-doubt.  we notice that some friends have alread</title>
@@ -75,6 +67,14 @@
     <content>Spain does wonders to you #spain #españa #traveltiktok #barcelona #mallorca #seville #spaintravel </content>
     <link href="https://tiktok.com/@pasha/video/7376973857233587457"/>
     <published>2024-06-05T11:06:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pasha/video/7377331328330632464</id>
+    <title>savouring a Turkish breakfast makes mornings better ❤️ #türkiye #turkish #vacation #holiday #istanbul #morningvibes </title>
+    <updated>2024-06-06T10:13:28+00:00</updated>
+    <content>savouring a Turkish breakfast makes mornings better ❤️ #türkiye #turkish #vacation #holiday #istanbul #morningvibes </content>
+    <link href="https://tiktok.com/@pasha/video/7377331328330632464"/>
+    <published>2024-06-06T10:13:28+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7044103633817980161</id>
