@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-06-05T08:00:09+00:00</updated>
+  <updated>2024-06-06T12:56:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7376238719340203296</id>
-    <title>anyway off to watch Eleanor neal #truecrime </title>
-    <updated>2024-06-03T11:33:39+00:00</updated>
-    <content>anyway off to watch Eleanor neal #truecrime </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7376238719340203296"/>
-    <published>2024-06-03T11:33:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7376240719364672801</id>
-    <title>HAPPY PRIDEEEE #lgbt #lgbtq </title>
-    <updated>2024-06-03T11:41:26+00:00</updated>
-    <content>HAPPY PRIDEEEE #lgbt #lgbtq </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7376240719364672801"/>
-    <published>2024-06-03T11:41:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7376513793989332257</id>
     <title>EMBRASSING 😭 (it was traumatic) #breakup #wlw</title>
@@ -67,6 +51,22 @@
     <content>LOVE concerts #concert #gig </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7376925882620857633"/>
     <published>2024-06-05T08:00:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7377373071679819040</id>
+    <title>most dedicated eras tour ticket #erastour #swiftie </title>
+    <updated>2024-06-06T12:55:32+00:00</updated>
+    <content>most dedicated eras tour ticket #erastour #swiftie </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7377373071679819040"/>
+    <published>2024-06-06T12:55:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7377373259890773280</id>
+    <title>LIKE IN JUNE #pridemonth #pride #lesbian </title>
+    <updated>2024-06-06T12:56:16+00:00</updated>
+    <content>LIKE IN JUNE #pridemonth #pride #lesbian </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7377373259890773280"/>
+    <published>2024-06-06T12:56:16+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
