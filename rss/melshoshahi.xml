@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@melshoshahi</id>
   <title>melshoshahi</title>
-  <updated>2024-06-04T14:59:13+00:00</updated>
+  <updated>2024-06-06T15:55:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from melshoshahi</subtitle>
-  <entry>
-    <id>https://tiktok.com/@melshoshahi/video/7369605361591946538</id>
-    <title>Everything costs extra 🤪 #policy #sketchcomedy #cafe #tipping </title>
-    <updated>2024-05-16T14:33:00+00:00</updated>
-    <content>Everything costs extra 🤪 #policy #sketchcomedy #cafe #tipping </content>
-    <link href="https://tiktok.com/@melshoshahi/video/7369605361591946538"/>
-    <published>2024-05-16T14:33:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@melshoshahi/video/7371478695023791406</id>
     <title>Darioush Winery in Napa, so beautiful and most importantly…not Mercedes’. 😅😜 #comedy #napa #persian #wine #winetasting #tour </title>
@@ -67,6 +59,14 @@
     <content>When you preorder the luxury bag but the shipment is missing, oh nioo 😅 part 1 #gucci #totebag #luxurybag #sketchcomedy #tiktokskit #fashion </content>
     <link href="https://tiktok.com/@melshoshahi/video/7376662780365098282"/>
     <published>2024-06-04T14:59:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@melshoshahi/video/7377419549081095467</id>
+    <title>The missing Gucci tote bags are found…kind of (at least the designer is found) 😅😅💅🏼 #tiktokskit #sketchcomedy  #luxurybag #gucci #totebag #customerservice #retail </title>
+    <updated>2024-06-06T15:55:46+00:00</updated>
+    <content>The missing Gucci tote bags are found…kind of (at least the designer is found) 😅😅💅🏼 #tiktokskit #sketchcomedy  #luxurybag #gucci #totebag #customerservice #retail </content>
+    <link href="https://tiktok.com/@melshoshahi/video/7377419549081095467"/>
+    <published>2024-06-06T15:55:46+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@melshoshahi/video/7282846082986462507</id>
