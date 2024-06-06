@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@hhhaydenn</id>
   <title>hhhaydenn</title>
-  <updated>2024-03-27T15:31:13+00:00</updated>
+  <updated>2024-06-06T19:53:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from hhhaydenn</subtitle>
-  <entry>
-    <id>https://tiktok.com/@hhhaydenn/video/7275869200105639210</id>
-    <title>the internet is good i think we all agree</title>
-    <updated>2023-09-07T00:08:39+00:00</updated>
-    <content>the internet is good i think we all agree</content>
-    <link href="https://tiktok.com/@hhhaydenn/video/7275869200105639210"/>
-    <published>2023-09-07T00:08:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@hhhaydenn/video/7280983055882276142</id>
     <title>#stitch with @Corey Jacob #fyp #lgbtq </title>
@@ -67,6 +59,14 @@
     <content>and that Skyline Chili was never the same. #transcomedian #transfem #lgbtq #standupcomedy #transcomedy #gaytiktok #fyp </content>
     <link href="https://tiktok.com/@hhhaydenn/video/7351065965976849710"/>
     <published>2024-03-27T15:31:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@hhhaydenn/video/7377480650129034526</id>
+    <title>John Early leads me, @norireed and a real life audience member in an unhinged acting class  Trans-It Girls LIVE in NYC at The Bell House 7/13 tickets available now #transcomedian #transfem #lgbtq #standupcomedy #transcomedy #fyp #pride #lgbt</title>
+    <updated>2024-06-06T19:53:49+00:00</updated>
+    <content>John Early leads me, @norireed and a real life audience member in an unhinged acting class  Trans-It Girls LIVE in NYC at The Bell House 7/13 tickets available now #transcomedian #transfem #lgbtq #standupcomedy #transcomedy #fyp #pride #lgbt</content>
+    <link href="https://tiktok.com/@hhhaydenn/video/7377480650129034526"/>
+    <published>2024-06-06T19:53:49+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@hhhaydenn/video/7194947420860550443</id>
