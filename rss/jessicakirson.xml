@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-06-05T22:21:13+00:00</updated>
+  <updated>2024-06-06T23:05:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7373325156514630954</id>
-    <title>My fans are mentally ill 🖤🖤🖤</title>
-    <updated>2024-05-26T15:07:28+00:00</updated>
-    <content>My fans are mentally ill 🖤🖤🖤</content>
-    <link href="https://tiktok.com/@jessicakirson/video/7373325156514630954"/>
-    <published>2024-05-26T15:07:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7374182667731995946</id>
     <title>Gay in Alabama #lgbtq #gaytiktok #alabama </title>
@@ -83,6 +75,14 @@
     <content>I’m Sorry I’m Codependent  #foryou #fyp </content>
     <link href="https://tiktok.com/@jessicakirson/video/7377147788817173803"/>
     <published>2024-06-05T22:21:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7377530058161786143</id>
+    <title>How 2 Bears Met #foryou #bears #gaytiktok </title>
+    <updated>2024-06-06T23:05:12+00:00</updated>
+    <content>How 2 Bears Met #foryou #bears #gaytiktok </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7377530058161786143"/>
+    <published>2024-06-06T23:05:12+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7370717776505294122</id>
