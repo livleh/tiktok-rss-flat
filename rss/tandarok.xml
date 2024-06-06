@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-06-06T05:37:42+00:00</updated>
+  <updated>2024-06-06T18:15:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7375406742978448672</id>
-    <title>I'm sorry...  #altersunterschied #queer </title>
-    <updated>2024-06-01T05:45:19+00:00</updated>
-    <content>I'm sorry...  #altersunterschied #queer </content>
-    <link href="https://tiktok.com/@tandarok/video/7375406742978448672"/>
-    <published>2024-06-01T05:45:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7375790680670588193</id>
     <title>Wie vegan seid ihr? #vegan #twitchclips #twitchgermany </title>
@@ -67,6 +59,14 @@
     <content>First pride this year was rainy but a success! #queer #transgirl #pridemonth #csd </content>
     <link href="https://tiktok.com/@tandarok/video/7377260253521448225"/>
     <published>2024-06-06T05:37:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7377455046960631072</id>
+    <title>Nenn einen Mann! #feminismus #männer #twitchgermany #twitchclips</title>
+    <updated>2024-06-06T18:15:22+00:00</updated>
+    <content>Nenn einen Mann! #feminismus #männer #twitchgermany #twitchclips</content>
+    <link href="https://tiktok.com/@tandarok/video/7377455046960631072"/>
+    <published>2024-06-06T18:15:22+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>

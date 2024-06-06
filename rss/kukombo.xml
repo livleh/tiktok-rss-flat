@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@kukombo</id>
   <title>kukombo</title>
-  <updated>2024-05-21T19:24:41+00:00</updated>
+  <updated>2024-06-06T19:01:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from kukombo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kukombo/video/7296240035836284178</id>
-    <title>All I need is a dalmatian coat to match my dalmatian nails 💅 #CruelladeVil #101Dalmations</title>
-    <updated>2023-10-31T21:37:52+00:00</updated>
-    <content>All I need is a dalmatian coat to match my dalmatian nails 💅 #CruelladeVil #101Dalmations</content>
-    <link href="https://tiktok.com/@kukombo/video/7296240035836284178"/>
-    <published>2023-10-31T21:37:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kukombo/video/7314807583515118866</id>
     <title>Did y’all know Netflix has GAMES included with your subscription??? excuse me while I disappear for another month 😌 #ad #netflixgames #gtanetflix #netflixgta </title>
@@ -67,6 +59,14 @@
     <content>You only need five shoes in your rotation: the Air Max Dn, the Air Max Dn, the Air Max Dn, the Air Max Dn, and the Air Max Dn. That’s all you need 😌 @Nike #TeamNike</content>
     <link href="https://tiktok.com/@kukombo/video/7371536010573827346"/>
     <published>2024-05-21T19:24:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kukombo/video/7377467484342996242</id>
+    <title>🔴🫦🔴</title>
+    <updated>2024-06-06T19:01:54+00:00</updated>
+    <content>🔴🫦🔴</content>
+    <link href="https://tiktok.com/@kukombo/video/7377467484342996242"/>
+    <published>2024-06-06T19:01:54+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@kukombo/video/6985183691433659650</id>
