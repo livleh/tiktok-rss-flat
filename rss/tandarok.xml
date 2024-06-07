@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-06-06T18:15:22+00:00</updated>
+  <updated>2024-06-07T06:49:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7375790680670588193</id>
-    <title>Wie vegan seid ihr? #vegan #twitchclips #twitchgermany </title>
-    <updated>2024-06-02T06:35:13+00:00</updated>
-    <content>Wie vegan seid ihr? #vegan #twitchclips #twitchgermany </content>
-    <link href="https://tiktok.com/@tandarok/video/7375790680670588193"/>
-    <published>2024-06-02T06:35:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7376155767155526944</id>
     <title>Ich wünschte es wäre ein Joke  #exboyfriend #dating #beziehung </title>
@@ -67,6 +59,14 @@
     <content>Nenn einen Mann! #feminismus #männer #twitchgermany #twitchclips</content>
     <link href="https://tiktok.com/@tandarok/video/7377455046960631072"/>
     <published>2024-06-06T18:15:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7377649722712018208</id>
+    <title>Mich nervt allerdings wie das Thema ständig von rechts befeuert wird #gendern </title>
+    <updated>2024-06-07T06:49:04+00:00</updated>
+    <content>Mich nervt allerdings wie das Thema ständig von rechts befeuert wird #gendern </content>
+    <link href="https://tiktok.com/@tandarok/video/7377649722712018208"/>
+    <published>2024-06-07T06:49:04+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
