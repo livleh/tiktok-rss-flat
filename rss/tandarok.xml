@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-06-07T06:49:04+00:00</updated>
+  <updated>2024-06-07T19:58:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7376155767155526944</id>
-    <title>Ich wünschte es wäre ein Joke  #exboyfriend #dating #beziehung </title>
-    <updated>2024-06-03T06:11:53+00:00</updated>
-    <content>Ich wünschte es wäre ein Joke  #exboyfriend #dating #beziehung </content>
-    <link href="https://tiktok.com/@tandarok/video/7376155767155526944"/>
-    <published>2024-06-03T06:11:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7376527774497901856</id>
     <title>Hypergamie 🤢 #hypergamy #twitchgermany #twitchclips #queer </title>
@@ -67,6 +59,14 @@
     <content>Mich nervt allerdings wie das Thema ständig von rechts befeuert wird #gendern </content>
     <link href="https://tiktok.com/@tandarok/video/7377649722712018208"/>
     <published>2024-06-07T06:49:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7377853187232910625</id>
+    <title>Einfach großer @wastarasagt Fan 👌 #twitchgermany #twitchclips #feminismus </title>
+    <updated>2024-06-07T19:58:33+00:00</updated>
+    <content>Einfach großer @wastarasagt Fan 👌 #twitchgermany #twitchclips #feminismus </content>
+    <link href="https://tiktok.com/@tandarok/video/7377853187232910625"/>
+    <published>2024-06-07T19:58:33+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
