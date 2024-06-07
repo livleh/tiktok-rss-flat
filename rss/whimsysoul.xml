@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-06-07T00:31:07+00:00</updated>
+  <updated>2024-06-07T02:38:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7375921141636025646</id>
-    <title>Visited Odin, Thor, and Freyr's burial mounds in Sweden 🇸🇪 Robin LOVES al things Viking history and Norse gods. We didn't have enough time to visit Uppsala on our first trip to Sweden but came back just to visit the Royal Mounds!!  Legand says these three</title>
-    <updated>2024-06-02T15:01:15+00:00</updated>
-    <content>Visited Odin, Thor, and Freyr's burial mounds in Sweden 🇸🇪 Robin LOVES al things Viking history and Norse gods. We didn't have enough time to visit Uppsala on our first trip to Sweden but came back just to visit the Royal Mounds!!  Legand says these three</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7375921141636025646"/>
-    <published>2024-06-02T15:01:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7376057095013059882</id>
     <title>IKEA meatballs in Sweden &gt; anywhere else 🇸🇪  While in Uppsala we drove by an IKEA and we just HAD to stop by for lunch to eat the famous meatballs in an actual Swedish IKEA!!! 10/10 would recommend.   #ikea #ikeameatballs #sweden #uppsala #swedishmeatball</title>
@@ -67,6 +59,14 @@
     <content>seriously HOW do they do it? If i can't change pretty lil outfits at least twice a day it's not a vacation ✨ #packing #carryononly #traveloutfit #europe #europepacking </content>
     <link href="https://tiktok.com/@whimsysoul/video/7377552341605698859"/>
     <published>2024-06-07T00:31:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7377585261703646507</id>
+    <title>SF, save this if you love oysters &amp; bubbly 🦪🥂👇 the @The Ritz-Carlton San Francisco just opened up their Solaire Terrasse again for the summer (now until October!) where you can come enjoy Veuve Clicquot bubbly and amazing food by the Ritz including a gian</title>
+    <updated>2024-06-07T02:38:51+00:00</updated>
+    <content>SF, save this if you love oysters &amp; bubbly 🦪🥂👇 the @The Ritz-Carlton San Francisco just opened up their Solaire Terrasse again for the summer (now until October!) where you can come enjoy Veuve Clicquot bubbly and amazing food by the Ritz including a gian</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7377585261703646507"/>
+    <published>2024-06-07T02:38:51+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
