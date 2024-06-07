@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2024-06-06T16:29:14+00:00</updated>
+  <updated>2024-06-07T14:59:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from loveletterstosf</subtitle>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7373423338246507819</id>
-    <title>panorama park is a must visit for the stunning skyline and bay bridge views #sfbayarea #sfparks #sfviews #baybridge </title>
-    <updated>2024-05-26T21:28:27+00:00</updated>
-    <content>panorama park is a must visit for the stunning skyline and bay bridge views #sfbayarea #sfparks #sfviews #baybridge </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7373423338246507819"/>
-    <published>2024-05-26T21:28:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7374981872809561386</id>
     <title>love the bay bridge views from china basin park! #sfparks #waterfrontpark #oraclepark #sf #missionbay #sf #giantsstadium #chinabasinpark </title>
@@ -75,6 +67,14 @@
     <content>76 degree day in sf yesterday meant beach weather #sf #bakerbeach #summer </content>
     <link href="https://tiktok.com/@loveletterstosf/video/7377428163636235563"/>
     <published>2024-06-06T16:29:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7377776221712698666</id>
+    <title>comment any other #sfevents to check out! #thisweekendinsf #sftok #westcoastcraft #sfmoma #juneteenth </title>
+    <updated>2024-06-07T14:59:53+00:00</updated>
+    <content>comment any other #sfevents to check out! #thisweekendinsf #sftok #westcoastcraft #sfmoma #juneteenth </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7377776221712698666"/>
+    <published>2024-06-07T14:59:53+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7373119118758677802</id>
