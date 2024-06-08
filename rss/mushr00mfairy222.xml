@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-06-06T12:56:16+00:00</updated>
+  <updated>2024-06-08T08:55:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7376513793989332257</id>
-    <title>EMBRASSING 😭 (it was traumatic) #breakup #wlw</title>
-    <updated>2024-06-04T05:21:05+00:00</updated>
-    <content>EMBRASSING 😭 (it was traumatic) #breakup #wlw</content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7376513793989332257"/>
-    <published>2024-06-04T05:21:05+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7376563468557684000</id>
-    <title>shout out nova for filming #lesbian #wlw @userrouxx @nova </title>
-    <updated>2024-06-04T08:33:49+00:00</updated>
-    <content>shout out nova for filming #lesbian #wlw @userrouxx @nova </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7376563468557684000"/>
-    <published>2024-06-04T08:33:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7376645276007746849</id>
     <title>adventure time lore @userrouxx #bubblegumandmarceline #wlw </title>
@@ -67,6 +51,22 @@
     <content>LIKE IN JUNE #pridemonth #pride #lesbian </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7377373259890773280"/>
     <published>2024-06-06T12:56:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7378052027907165472</id>
+    <title>person as in me and all my friends #pride #lgbt #lgbtq </title>
+    <updated>2024-06-08T08:50:13+00:00</updated>
+    <content>person as in me and all my friends #pride #lgbt #lgbtq </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7378052027907165472"/>
+    <published>2024-06-08T08:50:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7378053364413664545</id>
+    <title>if anyone cares heres my storytime #storytime </title>
+    <updated>2024-06-08T08:55:23+00:00</updated>
+    <content>if anyone cares heres my storytime #storytime </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7378053364413664545"/>
+    <published>2024-06-08T08:55:23+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
