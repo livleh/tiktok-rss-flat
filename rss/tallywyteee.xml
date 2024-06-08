@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tallywyteee</id>
   <title>tallywyteee</title>
-  <updated>2024-06-07T19:04:04+00:00</updated>
+  <updated>2024-06-08T19:16:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tallywyteee</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tallywyteee/video/7367471982884982059</id>
-    <title>Will you remember homie? 💀💔</title>
-    <updated>2024-05-10T20:34:17+00:00</updated>
-    <content>Will you remember homie? 💀💔</content>
-    <link href="https://tiktok.com/@tallywyteee/video/7367471982884982059"/>
-    <published>2024-05-10T20:34:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7374523483109281054</id>
     <title>Be honest bro 😂👍🏻</title>
@@ -75,6 +67,14 @@
     <content>I’m getting hungry, so I hope you understand 😎🙏🏻 #trans #transwoman #transgirl #transandproud </content>
     <link href="https://tiktok.com/@tallywyteee/video/7377838973831384350"/>
     <published>2024-06-07T19:04:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tallywyteee/video/7378213204058492191</id>
+    <title>I never thought I’d end up like this… 😭👍🏻 #trans #transgirl #transandproud #transwoman</title>
+    <updated>2024-06-08T19:16:19+00:00</updated>
+    <content>I never thought I’d end up like this… 😭👍🏻 #trans #transgirl #transandproud #transwoman</content>
+    <link href="https://tiktok.com/@tallywyteee/video/7378213204058492191"/>
+    <published>2024-06-08T19:16:19+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7261699619762048298</id>
