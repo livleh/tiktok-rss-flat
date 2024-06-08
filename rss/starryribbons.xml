@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@starryribbons</id>
   <title>starryribbons</title>
-  <updated>2024-06-06T18:36:14+00:00</updated>
+  <updated>2024-06-08T15:52:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from starryribbons</subtitle>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7374457842398416161</id>
-    <title>I probably forgot a bunch but #coquettecore #digitaldiary #videoessay #femlesbian #recoverytok #mentalhealthmatters </title>
-    <updated>2024-05-29T16:22:51+00:00</updated>
-    <content>I probably forgot a bunch but #coquettecore #digitaldiary #videoessay #femlesbian #recoverytok #mentalhealthmatters </content>
-    <link href="https://tiktok.com/@starryribbons/video/7374457842398416161"/>
-    <published>2024-05-29T16:22:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7374873573271407904</id>
     <title>and if I say its a good luck, babe situation then what #coquettecore #digitaldiary #conangray #femlesbian #wlw #lgbt #mentalhealth</title>
@@ -83,6 +75,14 @@
     <content>I love Cassandra SO MUCH #coquettecore #digitaldiary #taylorswifttok #abuseawareness #wlw #cassandracomplex #swiftietok #</content>
     <link href="https://tiktok.com/@starryribbons/video/7377460891366870304"/>
     <published>2024-06-06T18:36:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7378160885115768097</id>
+    <title>the eclipse you‘ll always be famous to me #coquettecore #digitaldiary #taylorswifttok #fangirling #wlw #ao3 #fanfic #academicvalidation </title>
+    <updated>2024-06-08T15:52:34+00:00</updated>
+    <content>the eclipse you‘ll always be famous to me #coquettecore #digitaldiary #taylorswifttok #fangirling #wlw #ao3 #fanfic #academicvalidation </content>
+    <link href="https://tiktok.com/@starryribbons/video/7378160885115768097"/>
+    <published>2024-06-08T15:52:34+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7285761406664854817</id>
