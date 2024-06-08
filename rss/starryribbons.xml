@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@starryribbons</id>
   <title>starryribbons</title>
-  <updated>2024-06-08T15:52:34+00:00</updated>
+  <updated>2024-06-08T20:14:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from starryribbons</subtitle>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7374873573271407904</id>
-    <title>and if I say its a good luck, babe situation then what #coquettecore #digitaldiary #conangray #femlesbian #wlw #lgbt #mentalhealth</title>
-    <updated>2024-05-30T19:16:07+00:00</updated>
-    <content>and if I say its a good luck, babe situation then what #coquettecore #digitaldiary #conangray #femlesbian #wlw #lgbt #mentalhealth</content>
-    <link href="https://tiktok.com/@starryribbons/video/7374873573271407904"/>
-    <published>2024-05-30T19:16:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7374874941021228321</id>
-    <title>last vid from the hotel room i promise #coquettecore #digitaldiary #femlesbian #billieeilish #wlw </title>
-    <updated>2024-05-30T19:21:24+00:00</updated>
-    <content>last vid from the hotel room i promise #coquettecore #digitaldiary #femlesbian #billieeilish #wlw </content>
-    <link href="https://tiktok.com/@starryribbons/video/7374874941021228321"/>
-    <published>2024-05-30T19:21:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7375253531034455329</id>
     <title>taylors glittery sparkle pen songs #coquettecore #digitaldiary #femlesbian #taylorswifttok #wlw </title>
@@ -83,6 +67,22 @@
     <content>the eclipse you‘ll always be famous to me #coquettecore #digitaldiary #taylorswifttok #fangirling #wlw #ao3 #fanfic #academicvalidation </content>
     <link href="https://tiktok.com/@starryribbons/video/7378160885115768097"/>
     <published>2024-06-08T15:52:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7378223040565497120</id>
+    <title>we‘re so strawberry + raspberry but don‘t tell her I said that 🙄 #coquettecore #digitaldiary #wlw #taylorswifttok #mentalhealth #friendship #nana @stars4hachiko </title>
+    <updated>2024-06-08T19:53:46+00:00</updated>
+    <content>we‘re so strawberry + raspberry but don‘t tell her I said that 🙄 #coquettecore #digitaldiary #wlw #taylorswifttok #mentalhealth #friendship #nana @stars4hachiko </content>
+    <link href="https://tiktok.com/@starryribbons/video/7378223040565497120"/>
+    <published>2024-06-08T19:53:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7378228408389504288</id>
+    <title>inspired by the lovely @ellie ౨ৎ !! #coquettecore #digitaldiary #mentalhealth #abuseawareness #recoverytok #wlw </title>
+    <updated>2024-06-08T20:14:36+00:00</updated>
+    <content>inspired by the lovely @ellie ౨ৎ !! #coquettecore #digitaldiary #mentalhealth #abuseawareness #recoverytok #wlw </content>
+    <link href="https://tiktok.com/@starryribbons/video/7378228408389504288"/>
+    <published>2024-06-08T20:14:36+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7285761406664854817</id>
