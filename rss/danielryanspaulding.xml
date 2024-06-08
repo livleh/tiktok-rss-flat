@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@danielryanspaulding</id>
   <title>danielryanspaulding</title>
-  <updated>2024-06-06T11:08:32+00:00</updated>
+  <updated>2024-06-08T10:04:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from danielryanspaulding</subtitle>
-  <entry>
-    <id>https://tiktok.com/@danielryanspaulding/video/7361856229456596256</id>
-    <title>Today Purple Hair Girl learns that she doesn’t really care about Palestinian children, she just wants to weaponize their suffering to be hateful towards Israelis &amp; Jews. If she actually CARED about Palestinian children, she’d acknowledge how Palestinian L</title>
-    <updated>2024-04-25T17:22:11+00:00</updated>
-    <content>Today Purple Hair Girl learns that she doesn’t really care about Palestinian children, she just wants to weaponize their suffering to be hateful towards Israelis &amp; Jews. If she actually CARED about Palestinian children, she’d acknowledge how Palestinian L</content>
-    <link href="https://tiktok.com/@danielryanspaulding/video/7361856229456596256"/>
-    <published>2024-04-25T17:22:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@danielryanspaulding/video/7362934318559284512</id>
     <title>Today Purple Hair Girl learns about Holocaust Inversion &amp; how intellectually dishonest &amp; hateful it is — to equivocate the war in Gaza that Israel didn’t start which has the lowest civilian to combatant death ratios in modern history — to the systematic, </title>
@@ -123,5 +115,13 @@
     <content>Joy Behar is a very smart woman. At what point did you all forget that Hamas is a terrorist regime? Or you just want to make excuses for them? Or buy into conspiracy theories? Or live in a delusion that they’re freedom fighters? You’ve been completely rad</content>
     <link href="https://tiktok.com/@danielryanspaulding/video/7377345393979346209"/>
     <published>2024-06-06T11:08:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@danielryanspaulding/video/7378071206064311585</id>
+    <title>Interview with i24 news </title>
+    <updated>2024-06-08T10:04:33+00:00</updated>
+    <content>Interview with i24 news </content>
+    <link href="https://tiktok.com/@danielryanspaulding/video/7378071206064311585"/>
+    <published>2024-06-08T10:04:33+00:00</published>
   </entry>
 </feed>
