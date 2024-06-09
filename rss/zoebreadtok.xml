@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-06-06T17:29:18+00:00</updated>
+  <updated>2024-06-09T17:33:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7371491231999839520</id>
-    <title>i dont think david hasselhoff is even german </title>
-    <updated>2024-05-21T16:31:03+00:00</updated>
-    <content>i dont think david hasselhoff is even german </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7371491231999839520"/>
-    <published>2024-05-21T16:31:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7371864848335916321</id>
     <title>needles to say, the hard rock cafe took my money !!!!</title>
@@ -91,5 +83,13 @@
     <content>i only use my telly to play winnie the pooh’s rumbly tumbly adventure on ps2 </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7377443622687460640"/>
     <published>2024-06-06T17:29:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7378557964552113440</id>
+    <title>thank you rubee and tom for having me and making me feel so welcome even though i developed several enemies whilst at the weddong </title>
+    <updated>2024-06-09T17:33:27+00:00</updated>
+    <content>thank you rubee and tom for having me and making me feel so welcome even though i developed several enemies whilst at the weddong </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7378557964552113440"/>
+    <published>2024-06-09T17:33:27+00:00</published>
   </entry>
 </feed>
