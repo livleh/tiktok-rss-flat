@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-06-08T08:55:23+00:00</updated>
+  <updated>2024-06-09T06:02:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7376645276007746849</id>
-    <title>adventure time lore @userrouxx #bubblegumandmarceline #wlw </title>
-    <updated>2024-06-04T13:51:19+00:00</updated>
-    <content>adventure time lore @userrouxx #bubblegumandmarceline #wlw </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7376645276007746849"/>
-    <published>2024-06-04T13:51:19+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7376653087999528224</id>
-    <title>at least we're entertaining @userrouxx #gossip #wlw </title>
-    <updated>2024-06-04T14:21:35+00:00</updated>
-    <content>at least we're entertaining @userrouxx #gossip #wlw </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7376653087999528224"/>
-    <published>2024-06-04T14:21:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7376925882620857633</id>
     <title>LOVE concerts #concert #gig </title>
@@ -67,6 +51,22 @@
     <content>if anyone cares heres my storytime #storytime </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7378053364413664545"/>
     <published>2024-06-08T08:55:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7378377910484307233</id>
+    <title>happy pride :) #ootd </title>
+    <updated>2024-06-09T05:55:06+00:00</updated>
+    <content>happy pride :) #ootd </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7378377910484307233"/>
+    <published>2024-06-09T05:55:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7378379797010992416</id>
+    <title>sooooo excited #livingabroad #livingabroadlife </title>
+    <updated>2024-06-09T06:02:23+00:00</updated>
+    <content>sooooo excited #livingabroad #livingabroadlife </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7378379797010992416"/>
+    <published>2024-06-09T06:02:23+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
