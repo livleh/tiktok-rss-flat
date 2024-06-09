@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-06-09T10:53:46+00:00</updated>
+  <updated>2024-06-09T12:23:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7378377910484307233</id>
-    <title>happy pride :) #ootd </title>
-    <updated>2024-06-09T05:55:06+00:00</updated>
-    <content>happy pride :) #ootd </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7378377910484307233"/>
-    <published>2024-06-09T05:55:06+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7378379797010992416</id>
-    <title>sooooo excited #livingabroad #livingabroadlife </title>
-    <updated>2024-06-09T06:02:23+00:00</updated>
-    <content>sooooo excited #livingabroad #livingabroadlife </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7378379797010992416"/>
-    <published>2024-06-09T06:02:23+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7378410806087568673</id>
-    <title>i love women #lesbian #wlw #pride </title>
-    <updated>2024-06-09T08:02:29+00:00</updated>
-    <content>i love women #lesbian #wlw #pride </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7378410806087568673"/>
-    <published>2024-06-09T08:02:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7378426518235647265</id>
     <title>😁😁😁😁</title>
@@ -67,6 +43,30 @@
     <content>like both? can we unmeet #wlw</content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7378454961719397664"/>
     <published>2024-06-09T10:53:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7378462732959354145</id>
+    <title>tbf it was traumatic #mh #mentalhealth #recovery </title>
+    <updated>2024-06-09T11:24:08+00:00</updated>
+    <content>tbf it was traumatic #mh #mentalhealth #recovery </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7378462732959354145"/>
+    <published>2024-06-09T11:24:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7378463044956966176</id>
+    <title>and every other month #wlw #lesbian </title>
+    <updated>2024-06-09T11:25:07+00:00</updated>
+    <content>and every other month #wlw #lesbian </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7378463044956966176"/>
+    <published>2024-06-09T11:25:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7378478167150906657</id>
+    <title>keep going!!! #mh #mentalhealth #recovery #selflove </title>
+    <updated>2024-06-09T12:23:47+00:00</updated>
+    <content>keep going!!! #mh #mentalhealth #recovery #selflove </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7378478167150906657"/>
+    <published>2024-06-09T12:23:47+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
