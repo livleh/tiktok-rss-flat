@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-06-09T14:19:29+00:00</updated>
+  <updated>2024-06-09T19:52:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7377106154003959083</id>
-    <title>there goes his total compensation  #techie #softwareengineer #intern #scam #phishing #comedy #funny #developerlife #programmerlife </title>
-    <updated>2024-06-05T19:39:38+00:00</updated>
-    <content>there goes his total compensation  #techie #softwareengineer #intern #scam #phishing #comedy #funny #developerlife #programmerlife </content>
-    <link href="https://tiktok.com/@techroastshow/video/7377106154003959083"/>
-    <published>2024-06-05T19:39:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7377404169797258526</id>
     <title>his next app idea is tricking you into giving him a hug  #tech #softwareengineer #startup #founder #crowdwork #standupcomedy #comedy #startuplife #techroastshow</title>
@@ -67,6 +59,14 @@
     <content>stoked to see it explode  #tech #softwareengineer #startup #seattle #crowdwork #standupcomedy #comedy #startuplife #techroastshow</content>
     <link href="https://tiktok.com/@techroastshow/video/7378507671768485150"/>
     <published>2024-06-09T14:19:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7378593642560195871</id>
+    <title>we’re getting replaced 🤖 #techie #softwareengineer #openai #layoffs #AI #comedy #funny #developerlife #programmerlife</title>
+    <updated>2024-06-09T19:52:39+00:00</updated>
+    <content>we’re getting replaced 🤖 #techie #softwareengineer #openai #layoffs #AI #comedy #funny #developerlife #programmerlife</content>
+    <link href="https://tiktok.com/@techroastshow/video/7378593642560195871"/>
+    <published>2024-06-09T19:52:39+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
