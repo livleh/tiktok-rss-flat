@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@runetsout</id>
   <title>runetsout</title>
-  <updated>2024-05-11T23:08:55+00:00</updated>
+  <updated>2024-06-09T22:23:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from runetsout</subtitle>
-  <entry>
-    <id>https://tiktok.com/@runetsout/video/7345836019738086689</id>
-    <title>Easy to repeat if you struggle  #switzerland🇨🇭 #swisstravel #immigration #immigrantstories #spain #barcelona #zurich </title>
-    <updated>2024-03-13T13:15:36+00:00</updated>
-    <content>Easy to repeat if you struggle  #switzerland🇨🇭 #swisstravel #immigration #immigrantstories #spain #barcelona #zurich </content>
-    <link href="https://tiktok.com/@runetsout/video/7345836019738086689"/>
-    <published>2024-03-13T13:15:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@runetsout/video/7347379924874841376</id>
     <title>Everyday feeling   #motivation #careeradvice #career #careerchoice </title>
@@ -67,6 +59,14 @@
     <content>Being poor in Switzerland is hard😂 #switzerland #zurich #luxurylifestyle #luxury #luxurylife #poorinswitzerland </content>
     <link href="https://tiktok.com/@runetsout/video/7367882921014791457"/>
     <published>2024-05-11T23:08:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@runetsout/video/7378632740213771553</id>
+    <title>Here is my tip 3:  1. Paragliding in Zermatt (better book an early flight for better views). I flew with the only female pilot from @Fly Zermatt Paragliding and it was the best decision! 2. Golden Pass Express, do not pay for the first class, as there is </title>
+    <updated>2024-06-09T22:23:43+00:00</updated>
+    <content>Here is my tip 3:  1. Paragliding in Zermatt (better book an early flight for better views). I flew with the only female pilot from @Fly Zermatt Paragliding and it was the best decision! 2. Golden Pass Express, do not pay for the first class, as there is </content>
+    <link href="https://tiktok.com/@runetsout/video/7378632740213771553"/>
+    <published>2024-06-09T22:23:43+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@runetsout/video/7174788628042779910</id>

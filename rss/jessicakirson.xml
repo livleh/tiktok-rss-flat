@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-06-08T21:52:52+00:00</updated>
+  <updated>2024-06-09T22:57:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7374593631040212270</id>
-    <title>He is so entitled  #hoa #entitled </title>
-    <updated>2024-05-30T01:09:46+00:00</updated>
-    <content>He is so entitled  #hoa #entitled </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7374593631040212270"/>
-    <published>2024-05-30T01:09:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7374922858755034414</id>
     <title>She is so straight #fy #foryou </title>
@@ -83,6 +75,14 @@
     <content>I’ve Marched For Your Rights. 🤜 #lgbt #pride #foryou </content>
     <link href="https://tiktok.com/@jessicakirson/video/7378253580031003935"/>
     <published>2024-06-08T21:52:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7378641382405131550</id>
+    <title>If We Were In Kansas 😅 #foryou #serviceindustry </title>
+    <updated>2024-06-09T22:57:42+00:00</updated>
+    <content>If We Were In Kansas 😅 #foryou #serviceindustry </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7378641382405131550"/>
+    <published>2024-06-09T22:57:42+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7370717776505294122</id>
