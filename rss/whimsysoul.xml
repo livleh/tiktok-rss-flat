@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-06-08T16:28:06+00:00</updated>
+  <updated>2024-06-09T14:47:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7376732390078549291</id>
-    <title>Strawberries by the ocean?! yes please!! 🍓 🍓 I love strawberry picking season in California, especially when you can pop down Hwy 1 and pick berries right by the ocean at places like Swanton Berry Farm!!  We always make a day of it and stop by a few other</title>
-    <updated>2024-06-04T19:29:16+00:00</updated>
-    <content>Strawberries by the ocean?! yes please!! 🍓 🍓 I love strawberry picking season in California, especially when you can pop down Hwy 1 and pick berries right by the ocean at places like Swanton Berry Farm!!  We always make a day of it and stop by a few other</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7376732390078549291"/>
-    <published>2024-06-04T19:29:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7376821716451953962</id>
     <title>Replying to @Luis Fregoso rapid San Francisco studio apartment tour. Convinced all old San Francisco apartments look the same - especially with the old telephone nooks, bay windows, weird closet doors, and real wood floors. #sanfrancisco #apartmenttour #s</title>
@@ -67,6 +59,14 @@
     <content>some of you need this line to remember nobody can get their bags if you stand 2 inches from the baggage carousel 😤 #airport #airlines #baggageclaim #travel #traveltiktok #travellife #whimsysoul #stockholm #travelhumor </content>
     <link href="https://tiktok.com/@whimsysoul/video/7378170034339843371"/>
     <published>2024-06-08T16:28:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7378515236892052779</id>
+    <title>This secret California swimming hole is in a CAVE!! Natural Bridges is just a quick ~20-minute drive from our @Whimsy Homes Cabin cabin and is our favorite place to hang out on a hot summer day as the cave keeps the water extra cold! Bring floaties, sturd</title>
+    <updated>2024-06-09T14:47:39+00:00</updated>
+    <content>This secret California swimming hole is in a CAVE!! Natural Bridges is just a quick ~20-minute drive from our @Whimsy Homes Cabin cabin and is our favorite place to hang out on a hot summer day as the cave keeps the water extra cold! Bring floaties, sturd</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7378515236892052779"/>
+    <published>2024-06-09T14:47:39+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
