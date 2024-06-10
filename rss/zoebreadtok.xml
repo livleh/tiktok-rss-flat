@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-06-09T17:33:27+00:00</updated>
+  <updated>2024-06-10T17:24:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7371864848335916321</id>
-    <title>needles to say, the hard rock cafe took my money !!!!</title>
-    <updated>2024-05-22T16:40:45+00:00</updated>
-    <content>needles to say, the hard rock cafe took my money !!!!</content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7371864848335916321"/>
-    <published>2024-05-22T16:40:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7372242056049118496</id>
     <title>i am an easy to manipulate tourist ! </title>
@@ -91,5 +83,13 @@
     <content>thank you rubee and tom for having me and making me feel so welcome even though i developed several enemies whilst at the weddong </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7378557964552113440"/>
     <published>2024-06-09T17:33:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7378926851055439136</id>
+    <title>no pizza guys were harmed in the making of this video.  sorry pizza guy it’s not your fault. its not mine either. its a third thing </title>
+    <updated>2024-06-10T17:24:55+00:00</updated>
+    <content>no pizza guys were harmed in the making of this video.  sorry pizza guy it’s not your fault. its not mine either. its a third thing </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7378926851055439136"/>
+    <published>2024-06-10T17:24:55+00:00</published>
   </entry>
 </feed>
