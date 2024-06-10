@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-06-10T08:15:28+00:00</updated>
+  <updated>2024-06-10T11:01:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7378454563197701409</id>
-    <title>half my step count #mh #mentalhealth </title>
-    <updated>2024-06-09T10:52:15+00:00</updated>
-    <content>half my step count #mh #mentalhealth </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7378454563197701409"/>
-    <published>2024-06-09T10:52:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7378454961719397664</id>
     <title>like both? can we unmeet #wlw</title>
@@ -67,6 +59,14 @@
     <content>me and the pookie @userrouxx #wlw #lesbian #lgbt #lgbtq </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7378785230875888928"/>
     <published>2024-06-10T08:15:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7378828094146186528</id>
+    <title>i dont want a man 😋 #wlw #lesbian </title>
+    <updated>2024-06-10T11:01:43+00:00</updated>
+    <content>i dont want a man 😋 #wlw #lesbian </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7378828094146186528"/>
+    <published>2024-06-10T11:01:43+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
