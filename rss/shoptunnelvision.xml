@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shoptunnelvision</id>
   <title>shoptunnelvision</title>
-  <updated>2024-06-07T17:12:50+00:00</updated>
+  <updated>2024-06-10T21:17:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shoptunnelvision</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shoptunnelvision/video/7374923713650756906</id>
-    <title>No Title</title>
-    <updated>2024-05-30T22:30:42+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@shoptunnelvision/video/7374923713650756906"/>
-    <published>2024-05-30T22:30:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shoptunnelvision/video/7376396988931247403</id>
     <title>#greenscreen </title>
@@ -91,5 +83,13 @@
     <content>Replying to @Ally🍉 </content>
     <link href="https://tiktok.com/@shoptunnelvision/video/7377810476975115562"/>
     <published>2024-06-07T17:12:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shoptunnelvision/video/7378986754830896427</id>
+    <title>No Title</title>
+    <updated>2024-06-10T21:17:23+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@shoptunnelvision/video/7378986754830896427"/>
+    <published>2024-06-10T21:17:23+00:00</published>
   </entry>
 </feed>
