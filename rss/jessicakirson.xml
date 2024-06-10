@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-06-09T22:57:42+00:00</updated>
+  <updated>2024-06-10T22:30:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7374922858755034414</id>
-    <title>She is so straight #fy #foryou </title>
-    <updated>2024-05-30T22:27:20+00:00</updated>
-    <content>She is so straight #fy #foryou </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7374922858755034414"/>
-    <published>2024-05-30T22:27:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7375546598169857322</id>
     <title>Disney Adult 😳 #disneyadult #disney </title>
@@ -83,6 +75,14 @@
     <content>If We Were In Kansas 😅 #foryou #serviceindustry </content>
     <link href="https://tiktok.com/@jessicakirson/video/7378641382405131550"/>
     <published>2024-06-09T22:57:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7379005432699964702</id>
+    <title>Catholic School Janitor #janitor #catholic </title>
+    <updated>2024-06-10T22:30:02+00:00</updated>
+    <content>Catholic School Janitor #janitor #catholic </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7379005432699964702"/>
+    <published>2024-06-10T22:30:02+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7370717776505294122</id>
