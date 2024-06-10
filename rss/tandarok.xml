@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-06-09T20:46:07+00:00</updated>
+  <updated>2024-06-10T19:03:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7376903814269373728</id>
-    <title>Es gäbe alternativ auch Kofi oder Patreon ✨ #twitchgermany #twitchclips </title>
-    <updated>2024-06-05T06:34:30+00:00</updated>
-    <content>Es gäbe alternativ auch Kofi oder Patreon ✨ #twitchgermany #twitchclips </content>
-    <link href="https://tiktok.com/@tandarok/video/7376903814269373728"/>
-    <published>2024-06-05T06:34:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7377260253521448225</id>
     <title>First pride this year was rainy but a success! #queer #transgirl #pridemonth #csd </title>
@@ -67,6 +59,14 @@
     <content>Jetzt nicht den Kopf in den Sand stecken! #europawahl #reclaimtiktok #protestwählen #gegenrechts #politik </content>
     <link href="https://tiktok.com/@tandarok/video/7378607614940220704"/>
     <published>2024-06-09T20:46:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7378952129790168352</id>
+    <title>#stitch mit @Slutwalk München  #feminism #feminist #queer </title>
+    <updated>2024-06-10T19:03:02+00:00</updated>
+    <content>#stitch mit @Slutwalk München  #feminism #feminist #queer </content>
+    <link href="https://tiktok.com/@tandarok/video/7378952129790168352"/>
+    <published>2024-06-10T19:03:02+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
