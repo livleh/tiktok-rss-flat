@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-06-10T14:07:07+00:00</updated>
+  <updated>2024-06-10T19:20:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7377495791990082847</id>
-    <title>this is enhancing his dating life  #techie #softwareengineer #meta #rayban #programmerlife #darkhumor #techroastshow </title>
-    <updated>2024-06-06T20:52:23+00:00</updated>
-    <content>this is enhancing his dating life  #techie #softwareengineer #meta #rayban #programmerlife #darkhumor #techroastshow </content>
-    <link href="https://tiktok.com/@techroastshow/video/7377495791990082847"/>
-    <published>2024-06-06T20:52:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7377760424340573470</id>
     <title>don’t let your husband stop you from finding your boyfriend  #techie #softwareengineer #siliconvalley #boston #programmerlife #open #darkhumor #techroastshow</title>
@@ -67,6 +59,14 @@
     <content>Typical Meta, using privacy as a threat 🤳 #tech #softwareengineer #startup #crowdwork #standupcomedy #comedy #startuplife #techroastshow</content>
     <link href="https://tiktok.com/@techroastshow/video/7378875584329288991"/>
     <published>2024-06-10T14:07:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7378956341395705119</id>
+    <title>don’t spend five years writing tests, use @Sauce Labs  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow #ad </title>
+    <updated>2024-06-10T19:20:17+00:00</updated>
+    <content>don’t spend five years writing tests, use @Sauce Labs  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow #ad </content>
+    <link href="https://tiktok.com/@techroastshow/video/7378956341395705119"/>
+    <published>2024-06-10T19:20:17+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
