@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@palim_tintin</id>
   <title>palim_tintin</title>
-  <updated>2024-06-07T16:52:39+00:00</updated>
+  <updated>2024-06-11T17:47:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from palim_tintin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@palim_tintin/video/7365559857761504544</id>
-    <title>🌞🌞🌞</title>
-    <updated>2024-05-05T16:54:08+00:00</updated>
-    <content>🌞🌞🌞</content>
-    <link href="https://tiktok.com/@palim_tintin/video/7365559857761504544"/>
-    <published>2024-05-05T16:54:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@palim_tintin/video/7367800981238631713</id>
     <title>🦊👘🧡🍊</title>
@@ -67,6 +59,14 @@
     <content>💚🌿🥝🫑🐸🐍</content>
     <link href="https://tiktok.com/@palim_tintin/video/7377805285521493280"/>
     <published>2024-06-07T16:52:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@palim_tintin/video/7379303704580689184</id>
+    <title>No Title</title>
+    <updated>2024-06-11T17:47:18+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@palim_tintin/video/7379303704580689184"/>
+    <published>2024-06-11T17:47:18+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@palim_tintin/video/7189301520721005829</id>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ramalauw</id>
   <title>ramalauw</title>
-  <updated>2024-06-09T17:30:38+00:00</updated>
+  <updated>2024-06-11T17:33:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ramalauw</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ramalauw/video/7373315906039975200</id>
-    <title>Me: I have my own opinions 😤 Also me: </title>
-    <updated>2024-05-26T14:31:33+00:00</updated>
-    <content>Me: I have my own opinions 😤 Also me: </content>
-    <link href="https://tiktok.com/@ramalauw/video/7373315906039975200"/>
-    <published>2024-05-26T14:31:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7374067071107353888</id>
     <title>Tag that friend! 🤭 Thanks @Ubigi App for keeping me connected in Japan so I didn’t have to miss out on my brain rot sessions 🥹🫶😘 #japan #travel #traveling #travelhack #fyp #foryou #asia </title>
@@ -67,6 +59,14 @@
     <content>Happy pride month y’all 🌈🫶💃✨</content>
     <link href="https://tiktok.com/@ramalauw/video/7378557244679425313"/>
     <published>2024-06-09T17:30:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ramalauw/video/7379300191079288096</id>
+    <title>Greek summer is here and there ain’t nothing like it 🥺🇬🇷🌊🌺🥙🏛️🌈💃✨ #Greece #summer #europe #travel #traveling #traveltok #greecetiktok #fyp #foryou </title>
+    <updated>2024-06-11T17:33:40+00:00</updated>
+    <content>Greek summer is here and there ain’t nothing like it 🥺🇬🇷🌊🌺🥙🏛️🌈💃✨ #Greece #summer #europe #travel #traveling #traveltok #greecetiktok #fyp #foryou </content>
+    <link href="https://tiktok.com/@ramalauw/video/7379300191079288096"/>
+    <published>2024-06-11T17:33:40+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7270903343638187297</id>
