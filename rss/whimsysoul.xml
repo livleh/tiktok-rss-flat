@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-06-11T01:06:24+00:00</updated>
+  <updated>2024-06-11T14:10:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7377552341605698859</id>
-    <title>seriously HOW do they do it? If i can't change pretty lil outfits at least twice a day it's not a vacation ✨ #packing #carryononly #traveloutfit #europe #europepacking </title>
-    <updated>2024-06-07T00:31:07+00:00</updated>
-    <content>seriously HOW do they do it? If i can't change pretty lil outfits at least twice a day it's not a vacation ✨ #packing #carryononly #traveloutfit #europe #europepacking </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7377552341605698859"/>
-    <published>2024-06-07T00:31:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7377585261703646507</id>
     <title>SF, save this if you love oysters &amp; bubbly 🦪🥂👇 the @The Ritz-Carlton San Francisco just opened up their Solaire Terrasse again for the summer (now until October!) where you can come enjoy Veuve Clicquot bubbly and amazing food by the Ritz including a gian</title>
@@ -67,6 +59,14 @@
     <content>Heading to Lisbon with @Flodesk soon on an influencer trip!! Unbox their pr package with me. 👏 🇵🇹  Ekk can't wait!! #flodesk #unboxing #influencertrip #lisbon #flodesklisbon #portugal #mediatrip #emailmarketing </content>
     <link href="https://tiktok.com/@whimsysoul/video/7379045787734396203"/>
     <published>2024-06-11T01:06:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7379247806772546858</id>
+    <title>when you buy a cabin it's illegal not to have weekend trips with friends 😉 loved this weekend at @Whimsy Homes Cabin with all my besties!! I adore Arnold, California- always such a nice getaway from San Francisco. We had pizza rolls, wine, freezy pops, 90</title>
+    <updated>2024-06-11T14:10:28+00:00</updated>
+    <content>when you buy a cabin it's illegal not to have weekend trips with friends 😉 loved this weekend at @Whimsy Homes Cabin with all my besties!! I adore Arnold, California- always such a nice getaway from San Francisco. We had pizza rolls, wine, freezy pops, 90</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7379247806772546858"/>
+    <published>2024-06-11T14:10:28+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>

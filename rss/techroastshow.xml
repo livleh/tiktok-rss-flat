@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-06-10T19:20:17+00:00</updated>
+  <updated>2024-06-11T14:07:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7377760424340573470</id>
-    <title>don’t let your husband stop you from finding your boyfriend  #techie #softwareengineer #siliconvalley #boston #programmerlife #open #darkhumor #techroastshow</title>
-    <updated>2024-06-07T13:58:43+00:00</updated>
-    <content>don’t let your husband stop you from finding your boyfriend  #techie #softwareengineer #siliconvalley #boston #programmerlife #open #darkhumor #techroastshow</content>
-    <link href="https://tiktok.com/@techroastshow/video/7377760424340573470"/>
-    <published>2024-06-07T13:58:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7377870092555586846</id>
     <title>NVIDIA 🚀 #softwareengineer #techie #stocks #hodl #techroastshow #funny</title>
@@ -67,6 +59,14 @@
     <content>don’t spend five years writing tests, use @Sauce Labs  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow #ad </content>
     <link href="https://tiktok.com/@techroastshow/video/7378956341395705119"/>
     <published>2024-06-10T19:20:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7379246623420845343</id>
+    <title>robots can’t handle the power of forklift certification  #tech #robot #robotics #forklift #crowdwork #standupcomedy #comedy #startuplife #techroastshow</title>
+    <updated>2024-06-11T14:07:10+00:00</updated>
+    <content>robots can’t handle the power of forklift certification  #tech #robot #robotics #forklift #crowdwork #standupcomedy #comedy #startuplife #techroastshow</content>
+    <link href="https://tiktok.com/@techroastshow/video/7379246623420845343"/>
+    <published>2024-06-11T14:07:10+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
