@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@andreasfashiongalaxy</id>
   <title>andreasfashiongalaxy</title>
-  <updated>2024-05-30T20:00:51+00:00</updated>
+  <updated>2024-06-11T19:53:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from andreasfashiongalaxy</subtitle>
-  <entry>
-    <id>https://tiktok.com/@andreasfashiongalaxy/video/7338537630155541792</id>
-    <title>How I met my husband #storytime #longervideos </title>
-    <updated>2024-02-22T21:14:04+00:00</updated>
-    <content>How I met my husband #storytime #longervideos </content>
-    <link href="https://tiktok.com/@andreasfashiongalaxy/video/7338537630155541792"/>
-    <published>2024-02-22T21:14:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@andreasfashiongalaxy/video/7340406984337902880</id>
     <title>Obsessed with these vintage thrift finds #letsgetdressed </title>
@@ -155,5 +147,13 @@
     <content>Ad What I’d love to wear every day just because #letsgetdressed 🔗 in bio for dresses + 10% discount code: ANDREA</content>
     <link href="https://tiktok.com/@andreasfashiongalaxy/video/7374885100934188321"/>
     <published>2024-05-30T20:00:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@andreasfashiongalaxy/video/7379336351927242016</id>
+    <title>Ad Recreating Dior outfits on a budget using vintage and secondhand clothes #letsgetdressed </title>
+    <updated>2024-06-11T19:53:57+00:00</updated>
+    <content>Ad Recreating Dior outfits on a budget using vintage and secondhand clothes #letsgetdressed </content>
+    <link href="https://tiktok.com/@andreasfashiongalaxy/video/7379336351927242016"/>
+    <published>2024-06-11T19:53:57+00:00</published>
   </entry>
 </feed>
