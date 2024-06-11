@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shaunadewit</id>
   <title>shaunadewit</title>
-  <updated>2024-06-08T08:28:22+00:00</updated>
+  <updated>2024-06-11T10:26:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shaunadewit</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shaunadewit/video/7371451964095270176</id>
-    <title>I’m scared of getting 1 million #foryou #pourtoi #comedy #humor #goviral </title>
-    <updated>2024-05-21T13:58:35+00:00</updated>
-    <content>I’m scared of getting 1 million #foryou #pourtoi #comedy #humor #goviral </content>
-    <link href="https://tiktok.com/@shaunadewit/video/7371451964095270176"/>
-    <published>2024-05-21T13:58:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/7373617574300405025</id>
     <title>I need to think before I speak #foryou #pourtoi #comedy #humor #goviral </title>
@@ -83,6 +75,14 @@
     <content>Discipline is a point of view #foryou #pourtoi #comedy #humor #goviral </content>
     <link href="https://tiktok.com/@shaunadewit/video/7378046406419877152"/>
     <published>2024-06-08T08:28:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shaunadewit/video/7379190136451501345</id>
+    <title>Even the phone died #foryou #pourtoi #comedy #humor #goviral </title>
+    <updated>2024-06-11T10:26:38+00:00</updated>
+    <content>Even the phone died #foryou #pourtoi #comedy #humor #goviral </content>
+    <link href="https://tiktok.com/@shaunadewit/video/7379190136451501345"/>
+    <published>2024-06-11T10:26:38+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/6994791135415766278</id>
