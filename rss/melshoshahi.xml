@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@melshoshahi</id>
   <title>melshoshahi</title>
-  <updated>2024-06-08T16:37:20+00:00</updated>
+  <updated>2024-06-11T16:18:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from melshoshahi</subtitle>
-  <entry>
-    <id>https://tiktok.com/@melshoshahi/video/7372216944767847726</id>
-    <title>Mama deserves the best things in life, you nio 💅🏼 Mercedes is the baby whisperer, she nio what your baby is saying about you.  #customerservice #sketchcomedy #baby #retail #shopping </title>
-    <updated>2024-05-23T15:27:01+00:00</updated>
-    <content>Mama deserves the best things in life, you nio 💅🏼 Mercedes is the baby whisperer, she nio what your baby is saying about you.  #customerservice #sketchcomedy #baby #retail #shopping </content>
-    <link href="https://tiktok.com/@melshoshahi/video/7372216944767847726"/>
-    <published>2024-05-23T15:27:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@melshoshahi/video/7372964716760616235</id>
     <title>Work schedules need to be adjusted in the summer to accomodate activities 💅🏼 #sketchcomedy #retail #employee #work #tiktokskit </title>
@@ -67,6 +59,14 @@
     <content>Someone left a smelly mess in the fitting room 😅😅 #sketchcomedy #retail #luxury #fashion #shopping #luxuryclothing #tiktokskit </content>
     <link href="https://tiktok.com/@melshoshahi/video/7378172421464919338"/>
     <published>2024-06-08T16:37:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@melshoshahi/video/7379280830734060842</id>
+    <title>No checks accepted! Who still pays by check or IOUs? 😅💅🏼 #sketchcomedy #tiktokskit #checkbook #coffeeshop </title>
+    <updated>2024-06-11T16:18:32+00:00</updated>
+    <content>No checks accepted! Who still pays by check or IOUs? 😅💅🏼 #sketchcomedy #tiktokskit #checkbook #coffeeshop </content>
+    <link href="https://tiktok.com/@melshoshahi/video/7379280830734060842"/>
+    <published>2024-06-11T16:18:32+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@melshoshahi/video/7282846082986462507</id>

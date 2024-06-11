@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@starryribbons</id>
   <title>starryribbons</title>
-  <updated>2024-06-10T17:16:27+00:00</updated>
+  <updated>2024-06-11T16:26:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from starryribbons</subtitle>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7375956713528118560</id>
-    <title>#collaboration | okay but its the cutest @Divoom_official #coquettecore #digitaldiary #divoom #wlw #roominspo #aesthetic #roomdecor </title>
-    <updated>2024-06-02T17:19:16+00:00</updated>
-    <content>#collaboration | okay but its the cutest @Divoom_official #coquettecore #digitaldiary #divoom #wlw #roominspo #aesthetic #roomdecor </content>
-    <link href="https://tiktok.com/@starryribbons/video/7375956713528118560"/>
-    <published>2024-06-02T17:19:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7376705447413206304</id>
     <title>thanks for the advice we never would‘ve come up w it on our own #coquettecore #digitaldiary #billieeilish #abuseawareness #mentalhealth #wlw </title>
@@ -83,6 +75,14 @@
     <content>PEW PEW #coquettecore #digitaldiary #femlesbian #socialanxietydisorder #relatable </content>
     <link href="https://tiktok.com/@starryribbons/video/7378924659200281888"/>
     <published>2024-06-10T17:16:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7379282989689212192</id>
+    <title>H-O-T T-O G-O #coquettecore #digitaldiary #femlesbian #chappellroan #wlw #hottpgo #relatable </title>
+    <updated>2024-06-11T16:26:57+00:00</updated>
+    <content>H-O-T T-O G-O #coquettecore #digitaldiary #femlesbian #chappellroan #wlw #hottpgo #relatable </content>
+    <link href="https://tiktok.com/@starryribbons/video/7379282989689212192"/>
+    <published>2024-06-11T16:26:57+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7285761406664854817</id>
