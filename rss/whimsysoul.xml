@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-06-10T22:45:43+00:00</updated>
+  <updated>2024-06-11T01:06:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7377147435979738410</id>
-    <title>Taylor sang about The Black Dog Pub so I had to go there while in London!! 🐶🇬🇧 ❤️ #theblackdog #taylorswift #ttpd #swiftie #london #londonboy #whimsysoul #england #taylorswiftedit #joealwyn </title>
-    <updated>2024-06-05T22:19:50+00:00</updated>
-    <content>Taylor sang about The Black Dog Pub so I had to go there while in London!! 🐶🇬🇧 ❤️ #theblackdog #taylorswift #ttpd #swiftie #london #londonboy #whimsysoul #england #taylorswiftedit #joealwyn </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7377147435979738410"/>
-    <published>2024-06-05T22:19:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7377552341605698859</id>
     <title>seriously HOW do they do it? If i can't change pretty lil outfits at least twice a day it's not a vacation ✨ #packing #carryononly #traveloutfit #europe #europepacking </title>
@@ -67,6 +59,14 @@
     <content>bucket list San Francisco summer things to do 👇🥰 When I'm not bundled up against Karl the Fog, I'm running around doing all the fun San Francisco summer things!! Some of my fave spots to visit during summer in the city are: - Sunsets on Ocean Beach - A Gi</content>
     <link href="https://tiktok.com/@whimsysoul/video/7379009534653730094"/>
     <published>2024-06-10T22:45:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7379045787734396203</id>
+    <title>Heading to Lisbon with @Flodesk soon on an influencer trip!! Unbox their pr package with me. 👏 🇵🇹  Ekk can't wait!! #flodesk #unboxing #influencertrip #lisbon #flodesklisbon #portugal #mediatrip #emailmarketing </title>
+    <updated>2024-06-11T01:06:24+00:00</updated>
+    <content>Heading to Lisbon with @Flodesk soon on an influencer trip!! Unbox their pr package with me. 👏 🇵🇹  Ekk can't wait!! #flodesk #unboxing #influencertrip #lisbon #flodesklisbon #portugal #mediatrip #emailmarketing </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7379045787734396203"/>
+    <published>2024-06-11T01:06:24+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
