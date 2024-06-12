@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-06-11T14:10:28+00:00</updated>
+  <updated>2024-06-12T01:25:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7377585261703646507</id>
-    <title>SF, save this if you love oysters &amp; bubbly 🦪🥂👇 the @The Ritz-Carlton San Francisco just opened up their Solaire Terrasse again for the summer (now until October!) where you can come enjoy Veuve Clicquot bubbly and amazing food by the Ritz including a gian</title>
-    <updated>2024-06-07T02:38:51+00:00</updated>
-    <content>SF, save this if you love oysters &amp; bubbly 🦪🥂👇 the @The Ritz-Carlton San Francisco just opened up their Solaire Terrasse again for the summer (now until October!) where you can come enjoy Veuve Clicquot bubbly and amazing food by the Ritz including a gian</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7377585261703646507"/>
-    <published>2024-06-07T02:38:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7377761356344347947</id>
     <title>California you NEED this app! Wildfire season is kinda already here and nobody wants to be caught off guard 🔥🔥🔥 The app Watch Duty was recommended by someone in the small town my cabin @whimsy_homes is in as a way to keep tabs on nearby fires. You can opt</title>
@@ -67,6 +59,14 @@
     <content>when you buy a cabin it's illegal not to have weekend trips with friends 😉 loved this weekend at @Whimsy Homes Cabin with all my besties!! I adore Arnold, California- always such a nice getaway from San Francisco. We had pizza rolls, wine, freezy pops, 90</content>
     <link href="https://tiktok.com/@whimsysoul/video/7379247806772546858"/>
     <published>2024-06-11T14:10:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7379421878651276590</id>
+    <title>This is NOT Sequoia National Park!! 😱 It’s not Yosemite, either!  🚘 a 2.5 hour drive from the Bay Area  👯‍♂️ fraction of the crowds compared to other parks  🥾The North loop is about 1.5 miles and totally flat, making it easy for all ages and abilities.  ❄</title>
+    <updated>2024-06-12T01:25:52+00:00</updated>
+    <content>This is NOT Sequoia National Park!! 😱 It’s not Yosemite, either!  🚘 a 2.5 hour drive from the Bay Area  👯‍♂️ fraction of the crowds compared to other parks  🥾The North loop is about 1.5 miles and totally flat, making it easy for all ages and abilities.  ❄</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7379421878651276590"/>
+    <published>2024-06-12T01:25:52+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
