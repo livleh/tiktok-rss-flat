@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-06-11T22:42:34+00:00</updated>
+  <updated>2024-06-12T22:26:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7375937717684702506</id>
-    <title>I went to my daughters spring recital  #recital #sing #chorus #concerts </title>
-    <updated>2024-06-02T16:05:33+00:00</updated>
-    <content>I went to my daughters spring recital  #recital #sing #chorus #concerts </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7375937717684702506"/>
-    <published>2024-06-02T16:05:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7376411711974444334</id>
     <title>“I am working on myself right now”</title>
@@ -83,6 +75,14 @@
     <content>I could model  #model #cameracontrol #hot </content>
     <link href="https://tiktok.com/@jessicakirson/video/7379379652386671903"/>
     <published>2024-06-11T22:42:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7379746476123000095</id>
+    <title>A true lesbian couple  #lesbiansoftiktok #lgbtq #lgbt #foryou </title>
+    <updated>2024-06-12T22:26:11+00:00</updated>
+    <content>A true lesbian couple  #lesbiansoftiktok #lgbtq #lgbt #foryou </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7379746476123000095"/>
+    <published>2024-06-12T22:26:11+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7370717776505294122</id>
