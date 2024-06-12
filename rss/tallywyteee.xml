@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tallywyteee</id>
   <title>tallywyteee</title>
-  <updated>2024-06-10T19:24:23+00:00</updated>
+  <updated>2024-06-12T21:15:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tallywyteee</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tallywyteee/video/7375993779393776927</id>
-    <title>I’ll be lowkey about it and promise not to hurt your feelings 😅</title>
-    <updated>2024-06-02T19:46:14+00:00</updated>
-    <content>I’ll be lowkey about it and promise not to hurt your feelings 😅</content>
-    <link href="https://tiktok.com/@tallywyteee/video/7375993779393776927"/>
-    <published>2024-06-02T19:46:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7376721030313790751</id>
     <title>Need I say more… 😅 #trans #transgirl  #transwoman</title>
@@ -75,6 +67,14 @@
     <content>Be honest bro, your secret is safe with me… 😏🙏🏻 #trans #transgender #transgirl #transwoman #transandproud </content>
     <link href="https://tiktok.com/@tallywyteee/video/7378957417608006943"/>
     <published>2024-06-10T19:24:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tallywyteee/video/7379728184494902558</id>
+    <title>Be honest bruh… wyd in this situation? 👀🏳️‍⚧️ #trans #transgirl #transwoman #transandproud </title>
+    <updated>2024-06-12T21:15:20+00:00</updated>
+    <content>Be honest bruh… wyd in this situation? 👀🏳️‍⚧️ #trans #transgirl #transwoman #transandproud </content>
+    <link href="https://tiktok.com/@tallywyteee/video/7379728184494902558"/>
+    <published>2024-06-12T21:15:20+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7261699619762048298</id>
