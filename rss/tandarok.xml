@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-06-12T02:38:10.013243+00:00</updated>
+  <updated>2024-06-10T20:12:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,4 +12,84 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7377260253521448225</id>
+    <title>First pride this year was rainy but a success! #queer #transgirl #pridemonth #csd </title>
+    <updated>2024-06-06T05:37:42+00:00</updated>
+    <content>First pride this year was rainy but a success! #queer #transgirl #pridemonth #csd </content>
+    <link href="https://tiktok.com/@tandarok/video/7377260253521448225"/>
+    <published>2024-06-06T05:37:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7377455046960631072</id>
+    <title>Nenn einen Mann! #feminismus #männer #twitchgermany #twitchclips</title>
+    <updated>2024-06-06T18:15:22+00:00</updated>
+    <content>Nenn einen Mann! #feminismus #männer #twitchgermany #twitchclips</content>
+    <link href="https://tiktok.com/@tandarok/video/7377455046960631072"/>
+    <published>2024-06-06T18:15:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7377649722712018208</id>
+    <title>Mich nervt allerdings wie das Thema ständig von rechts befeuert wird #gendern </title>
+    <updated>2024-06-07T06:49:04+00:00</updated>
+    <content>Mich nervt allerdings wie das Thema ständig von rechts befeuert wird #gendern </content>
+    <link href="https://tiktok.com/@tandarok/video/7377649722712018208"/>
+    <published>2024-06-07T06:49:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7377853187232910625</id>
+    <title>Einfach großer @wastarasagt Fan 👌 #twitchgermany #twitchclips #feminismus </title>
+    <updated>2024-06-07T19:58:33+00:00</updated>
+    <content>Einfach großer @wastarasagt Fan 👌 #twitchgermany #twitchclips #feminismus </content>
+    <link href="https://tiktok.com/@tandarok/video/7377853187232910625"/>
+    <published>2024-06-07T19:58:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7378390588049214752</id>
+    <title>RIP  #queer #single #dating </title>
+    <updated>2024-06-09T06:44:09+00:00</updated>
+    <content>RIP  #queer #single #dating </content>
+    <link href="https://tiktok.com/@tandarok/video/7378390588049214752"/>
+    <published>2024-06-09T06:44:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7378607614940220704</id>
+    <title>Jetzt nicht den Kopf in den Sand stecken! #europawahl #reclaimtiktok #protestwählen #gegenrechts #politik </title>
+    <updated>2024-06-09T20:46:07+00:00</updated>
+    <content>Jetzt nicht den Kopf in den Sand stecken! #europawahl #reclaimtiktok #protestwählen #gegenrechts #politik </content>
+    <link href="https://tiktok.com/@tandarok/video/7378607614940220704"/>
+    <published>2024-06-09T20:46:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7378970171668483360</id>
+    <title>Representation ✊🥲 #queer #wlw #single #dating </title>
+    <updated>2024-06-10T20:12:59+00:00</updated>
+    <content>Representation ✊🥲 #queer #wlw #single #dating </content>
+    <link href="https://tiktok.com/@tandarok/video/7378970171668483360"/>
+    <published>2024-06-10T20:12:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
+    <title>Meine erste Rede zum Genderverbot von Söder #gendern #genderverbot #csusöder #bayern </title>
+    <updated>2023-12-18T07:38:55+00:00</updated>
+    <content>Meine erste Rede zum Genderverbot von Söder #gendern #genderverbot #csusöder #bayern </content>
+    <link href="https://tiktok.com/@tandarok/video/7313835911203147040"/>
+    <published>2023-12-18T07:38:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7244413115574521114</id>
+    <title>Die Demo war ein voller Erfolg 🥰 #drag #trans #noafd </title>
+    <updated>2023-06-14T05:43:20+00:00</updated>
+    <content>Die Demo war ein voller Erfolg 🥰 #drag #trans #noafd </content>
+    <link href="https://tiktok.com/@tandarok/video/7244413115574521114"/>
+    <published>2023-06-14T05:43:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7225498938231573787</id>
+    <title>Männer lol #twitchclips #twitchgermany </title>
+    <updated>2023-04-24T06:26:22+00:00</updated>
+    <content>Männer lol #twitchclips #twitchgermany </content>
+    <link href="https://tiktok.com/@tandarok/video/7225498938231573787"/>
+    <published>2023-04-24T06:26:22+00:00</published>
+  </entry>
 </feed>
