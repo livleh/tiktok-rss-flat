@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jade..harmony</id>
   <title>jade..harmony</title>
-  <updated>2024-06-12T17:15:28+00:00</updated>
+  <updated>2024-06-12T17:21:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jade..harmony</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jade..harmony/video/7376745717580188971</id>
-    <title>#fyp #trans #transwomen #foryoupage #funny #trend #meghantrainor #whoopsyoumessedup </title>
-    <updated>2024-06-04T20:20:58+00:00</updated>
-    <content>#fyp #trans #transwomen #foryoupage #funny #trend #meghantrainor #whoopsyoumessedup </content>
-    <link href="https://tiktok.com/@jade..harmony/video/7376745717580188971"/>
-    <published>2024-06-04T20:20:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jade..harmony/video/7377013644976000302</id>
     <title>#fyp #foryoupage </title>
@@ -67,6 +59,14 @@
     <content>#duet with @Lansing Lugnuts #dragqueen #fyp #transwomen #pridemonth #viral </content>
     <link href="https://tiktok.com/@jade..harmony/video/7379666583054077226"/>
     <published>2024-06-12T17:15:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jade..harmony/video/7379668062561340718</id>
+    <title>#fyp #dragqueen #transwomen #pridemonth #viral #trans #theaterkid #lugnuts </title>
+    <updated>2024-06-12T17:21:12+00:00</updated>
+    <content>#fyp #dragqueen #transwomen #pridemonth #viral #trans #theaterkid #lugnuts </content>
+    <link href="https://tiktok.com/@jade..harmony/video/7379668062561340718"/>
+    <published>2024-06-12T17:21:12+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jade..harmony/video/7375123202055408942</id>
