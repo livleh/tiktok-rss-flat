@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-06-10T20:12:59+00:00</updated>
+  <updated>2024-06-12T06:23:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7377260253521448225</id>
-    <title>First pride this year was rainy but a success! #queer #transgirl #pridemonth #csd </title>
-    <updated>2024-06-06T05:37:42+00:00</updated>
-    <content>First pride this year was rainy but a success! #queer #transgirl #pridemonth #csd </content>
-    <link href="https://tiktok.com/@tandarok/video/7377260253521448225"/>
-    <published>2024-06-06T05:37:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7377455046960631072</id>
     <title>Nenn einen Mann! #feminismus #männer #twitchgermany #twitchclips</title>
@@ -67,6 +59,14 @@
     <content>Representation ✊🥲 #queer #wlw #single #dating </content>
     <link href="https://tiktok.com/@tandarok/video/7378970171668483360"/>
     <published>2024-06-10T20:12:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7379498491036405024</id>
+    <title>Meine Rede über Gatekeeping und Scham beim CSD Rosenheim 2024  #pridemonth #csd #queer #transgendergermany </title>
+    <updated>2024-06-12T06:23:27+00:00</updated>
+    <content>Meine Rede über Gatekeeping und Scham beim CSD Rosenheim 2024  #pridemonth #csd #queer #transgendergermany </content>
+    <link href="https://tiktok.com/@tandarok/video/7379498491036405024"/>
+    <published>2024-06-12T06:23:27+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
