@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@danielryanspaulding</id>
   <title>danielryanspaulding</title>
-  <updated>2024-06-11T21:20:53+00:00</updated>
+  <updated>2024-06-12T11:17:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from danielryanspaulding</subtitle>
-  <entry>
-    <id>https://tiktok.com/@danielryanspaulding/video/7362934318559284512</id>
-    <title>Today Purple Hair Girl learns about Holocaust Inversion &amp; how intellectually dishonest &amp; hateful it is — to equivocate the war in Gaza that Israel didn’t start which has the lowest civilian to combatant death ratios in modern history — to the systematic, </title>
-    <updated>2024-04-28T15:05:45+00:00</updated>
-    <content>Today Purple Hair Girl learns about Holocaust Inversion &amp; how intellectually dishonest &amp; hateful it is — to equivocate the war in Gaza that Israel didn’t start which has the lowest civilian to combatant death ratios in modern history — to the systematic, </content>
-    <link href="https://tiktok.com/@danielryanspaulding/video/7362934318559284512"/>
-    <published>2024-04-28T15:05:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@danielryanspaulding/video/7362992364131978529</id>
     <title>Everyone needs to tell @cynthiaenixon &amp; @rosie to stop being mouthpieces for the Islamist Republic of Iran. They are sharing factually untrue, unverified information from Qatari news agencies that are fueling Anti-American hate. Hamas is a TERRORIST organ</title>
@@ -147,5 +139,13 @@
     <content>This is the Ideological subversion of the west through Antizionism — explained from Jon Stewart’s monologue about Iran bombing Israel. Jon scapegoated Israel for US domestic problems &amp; got his audience to cheer on the potential mass murder of millions. Th</content>
     <link href="https://tiktok.com/@danielryanspaulding/video/7379358734255934752"/>
     <published>2024-06-11T21:20:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@danielryanspaulding/video/7379574368608865568</id>
+    <title>Wake up! It is a terrorist movement to destroy the West. I dont know how much clearer it can be! </title>
+    <updated>2024-06-12T11:17:41+00:00</updated>
+    <content>Wake up! It is a terrorist movement to destroy the West. I dont know how much clearer it can be! </content>
+    <link href="https://tiktok.com/@danielryanspaulding/video/7379574368608865568"/>
+    <published>2024-06-12T11:17:41+00:00</published>
   </entry>
 </feed>
