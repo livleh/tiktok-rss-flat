@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-06-12T01:25:52+00:00</updated>
+  <updated>2024-06-12T22:05:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7377761356344347947</id>
-    <title>California you NEED this app! Wildfire season is kinda already here and nobody wants to be caught off guard 🔥🔥🔥 The app Watch Duty was recommended by someone in the small town my cabin @whimsy_homes is in as a way to keep tabs on nearby fires. You can opt</title>
-    <updated>2024-06-07T14:02:14+00:00</updated>
-    <content>California you NEED this app! Wildfire season is kinda already here and nobody wants to be caught off guard 🔥🔥🔥 The app Watch Duty was recommended by someone in the small town my cabin @whimsy_homes is in as a way to keep tabs on nearby fires. You can opt</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7377761356344347947"/>
-    <published>2024-06-07T14:02:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7378170034339843371</id>
     <title>some of you need this line to remember nobody can get their bags if you stand 2 inches from the baggage carousel 😤 #airport #airlines #baggageclaim #travel #traveltiktok #travellife #whimsysoul #stockholm #travelhumor </title>
@@ -67,6 +59,14 @@
     <content>This is NOT Sequoia National Park!! 😱 It’s not Yosemite, either!  🚘 a 2.5 hour drive from the Bay Area  👯‍♂️ fraction of the crowds compared to other parks  🥾The North loop is about 1.5 miles and totally flat, making it easy for all ages and abilities.  ❄</content>
     <link href="https://tiktok.com/@whimsysoul/video/7379421878651276590"/>
     <published>2024-06-12T01:25:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7379741247336140078</id>
+    <title>being bougie in peasant class is the only way to fly 💅 #airplane #travel #travelhack #itsgonnabeme #firstclass #traveltips #travelbeauty #skincare #wine #whimsysoul</title>
+    <updated>2024-06-12T22:05:13+00:00</updated>
+    <content>being bougie in peasant class is the only way to fly 💅 #airplane #travel #travelhack #itsgonnabeme #firstclass #traveltips #travelbeauty #skincare #wine #whimsysoul</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7379741247336140078"/>
+    <published>2024-06-12T22:05:13+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
