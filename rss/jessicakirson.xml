@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-06-12T22:26:11+00:00</updated>
+  <updated>2024-06-13T21:19:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7376411711974444334</id>
-    <title>“I am working on myself right now”</title>
-    <updated>2024-06-03T22:44:53+00:00</updated>
-    <content>“I am working on myself right now”</content>
-    <link href="https://tiktok.com/@jessicakirson/video/7376411711974444334"/>
-    <published>2024-06-03T22:44:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7376790309671308587</id>
     <title>They Need To Do It, Just to get closer  #gaytiktok #foryou #fypage </title>
@@ -83,6 +75,14 @@
     <content>A true lesbian couple  #lesbiansoftiktok #lgbtq #lgbt #foryou </content>
     <link href="https://tiktok.com/@jessicakirson/video/7379746476123000095"/>
     <published>2024-06-12T22:26:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7380100489087700254</id>
+    <title>Cake Decorator  #cake #nyc #gaytiktok #foryou </title>
+    <updated>2024-06-13T21:19:20+00:00</updated>
+    <content>Cake Decorator  #cake #nyc #gaytiktok #foryou </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7380100489087700254"/>
+    <published>2024-06-13T21:19:20+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7370717776505294122</id>
