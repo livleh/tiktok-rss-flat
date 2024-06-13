@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-06-12T18:01:49+00:00</updated>
+  <updated>2024-06-13T19:48:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7374121181202468129</id>
-    <title>Replying to @MagsThatchertheCumSnatcher a vote for mary is a vote for slides </title>
-    <updated>2024-05-28T18:36:29+00:00</updated>
-    <content>Replying to @MagsThatchertheCumSnatcher a vote for mary is a vote for slides </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7374121181202468129"/>
-    <published>2024-05-28T18:36:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7374849773582421281</id>
     <title>international potato day at gulivers world  </title>
@@ -91,5 +83,13 @@
     <content>Replying to @stevenartify YOU CAN JUST ABLUT HEAR IT HERE </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7379678529044122913"/>
     <published>2024-06-12T18:01:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7380077097705884960</id>
+    <title>SORRY I FILMED A VIDEO TODAY BUT I RAN OUT OF TIME TO EDIT IT SO I MADE THIS instead I GOT THIS BEAr TODAY WHY IS IT SO MASSIVE </title>
+    <updated>2024-06-13T19:48:26+00:00</updated>
+    <content>SORRY I FILMED A VIDEO TODAY BUT I RAN OUT OF TIME TO EDIT IT SO I MADE THIS instead I GOT THIS BEAr TODAY WHY IS IT SO MASSIVE </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7380077097705884960"/>
+    <published>2024-06-13T19:48:26+00:00</published>
   </entry>
 </feed>

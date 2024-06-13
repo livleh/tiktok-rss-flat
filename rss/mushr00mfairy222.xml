@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-06-13T12:44:35+00:00</updated>
+  <updated>2024-06-13T19:50:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7379563948938448160</id>
-    <title>SO HAPPY WITH THE NEW SET #nails #acrylicnails #nailinspo </title>
-    <updated>2024-06-12T10:37:15+00:00</updated>
-    <content>SO HAPPY WITH THE NEW SET #nails #acrylicnails #nailinspo </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7379563948938448160"/>
-    <published>2024-06-12T10:37:15+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7379576070606966048</id>
-    <title>redoing the hair on sun #dyedhair </title>
-    <updated>2024-06-12T11:24:13+00:00</updated>
-    <content>redoing the hair on sun #dyedhair </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7379576070606966048"/>
-    <published>2024-06-12T11:24:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7379604097147718944</id>
     <title>why arnt my green health drinks working guys #drinking </title>
@@ -67,6 +51,22 @@
     <content>i SOBBED to this on repeat 😭 WHO ELSE #swiftie #taylorswift #1989 </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7379967873998933280"/>
     <published>2024-06-13T12:44:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7380075361779911969</id>
+    <title>#duet with @beth 🌷🎀 will always remember my first place #movingout </title>
+    <updated>2024-06-13T19:41:42+00:00</updated>
+    <content>#duet with @beth 🌷🎀 will always remember my first place #movingout </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7380075361779911969"/>
+    <published>2024-06-13T19:41:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7380077516922391841</id>
+    <title>next chapter!! #movingout #growingup </title>
+    <updated>2024-06-13T19:50:05+00:00</updated>
+    <content>next chapter!! #movingout #growingup </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7380077516922391841"/>
+    <published>2024-06-13T19:50:05+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
