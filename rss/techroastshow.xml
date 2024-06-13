@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-06-12T19:11:18+00:00</updated>
+  <updated>2024-06-13T13:24:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7378593642560195871</id>
-    <title>we’re getting replaced 🤖 #techie #softwareengineer #openai #layoffs #AI #comedy #funny #developerlife #programmerlife</title>
-    <updated>2024-06-09T19:52:39+00:00</updated>
-    <content>we’re getting replaced 🤖 #techie #softwareengineer #openai #layoffs #AI #comedy #funny #developerlife #programmerlife</content>
-    <link href="https://tiktok.com/@techroastshow/video/7378593642560195871"/>
-    <published>2024-06-09T19:52:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7378875584329288991</id>
     <title>Typical Meta, using privacy as a threat 🤳 #tech #softwareengineer #startup #crowdwork #standupcomedy #comedy #startuplife #techroastshow</title>
@@ -67,6 +59,14 @@
     <content>they’re back for the summer #techie #softwareengineer #intern #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</content>
     <link href="https://tiktok.com/@techroastshow/video/7379696245939408159"/>
     <published>2024-06-12T19:11:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7379978048256412958</id>
+    <title>Zuck smashed a laptop like Andrew Garfield after seeing this  #techie #softwareengineer #meta #facebook #nyc #newyork #programmerlife #roastbattle #darkhumor #techroastshow</title>
+    <updated>2024-06-13T13:24:19+00:00</updated>
+    <content>Zuck smashed a laptop like Andrew Garfield after seeing this  #techie #softwareengineer #meta #facebook #nyc #newyork #programmerlife #roastbattle #darkhumor #techroastshow</content>
+    <link href="https://tiktok.com/@techroastshow/video/7379978048256412958"/>
+    <published>2024-06-13T13:24:19+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
