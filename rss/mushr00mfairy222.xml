@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-06-12T13:13:04+00:00</updated>
+  <updated>2024-06-13T06:32:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7378868939708730656</id>
-    <title>she's flying to me in aug :((( @userrouxx #wlw #longdistance </title>
-    <updated>2024-06-10T13:40:13+00:00</updated>
-    <content>she's flying to me in aug :((( @userrouxx #wlw #longdistance </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7378868939708730656"/>
-    <published>2024-06-10T13:40:13+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7378882543522827552</id>
-    <title>in the middle of moving #ootd #alt #pinkhair #outfitinspo #wlw </title>
-    <updated>2024-06-10T14:33:02+00:00</updated>
-    <content>in the middle of moving #ootd #alt #pinkhair #outfitinspo #wlw </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7378882543522827552"/>
-    <published>2024-06-10T14:33:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7379158223644871968</id>
     <title>diff people #glowup </title>
@@ -67,6 +51,22 @@
     <content>why arnt my green health drinks working guys #drinking </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7379604097147718944"/>
     <published>2024-06-12T13:13:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7379871362514504993</id>
+    <title>i love my heart carabiner ##ootd</title>
+    <updated>2024-06-13T06:30:10+00:00</updated>
+    <content>i love my heart carabiner ##ootd</content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7379871362514504993"/>
+    <published>2024-06-13T06:30:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7379871997859237153</id>
+    <title>neurodivergents rise #autism #adhd #neurodivergent  </title>
+    <updated>2024-06-13T06:32:36+00:00</updated>
+    <content>neurodivergents rise #autism #adhd #neurodivergent  </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7379871997859237153"/>
+    <published>2024-06-13T06:32:36+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
