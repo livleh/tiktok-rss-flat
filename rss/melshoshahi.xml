@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@melshoshahi</id>
   <title>melshoshahi</title>
-  <updated>2024-06-11T16:18:32+00:00</updated>
+  <updated>2024-06-13T16:34:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from melshoshahi</subtitle>
-  <entry>
-    <id>https://tiktok.com/@melshoshahi/video/7372964716760616235</id>
-    <title>Work schedules need to be adjusted in the summer to accomodate activities 💅🏼 #sketchcomedy #retail #employee #work #tiktokskit </title>
-    <updated>2024-05-25T15:48:46+00:00</updated>
-    <content>Work schedules need to be adjusted in the summer to accomodate activities 💅🏼 #sketchcomedy #retail #employee #work #tiktokskit </content>
-    <link href="https://tiktok.com/@melshoshahi/video/7372964716760616235"/>
-    <published>2024-05-25T15:48:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@melshoshahi/video/7374447897087085870</id>
     <title>Some of us are too hairy to get lasered, it may malfunction on us, u niooo 😅 #sketchcomedy #hairremoval #laserhairremoval #tiktokskit </title>
@@ -67,6 +59,14 @@
     <content>No checks accepted! Who still pays by check or IOUs? 😅💅🏼 #sketchcomedy #tiktokskit #checkbook #coffeeshop </content>
     <link href="https://tiktok.com/@melshoshahi/video/7379280830734060842"/>
     <published>2024-06-11T16:18:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@melshoshahi/video/7380026998460108078</id>
+    <title>Despite what the sign says…it’s Mercedes med spa uhkay! 😜 @Nune Stepanyan  #sketchcomedy #glowup  #la #luxury #facials #medspa </title>
+    <updated>2024-06-13T16:34:02+00:00</updated>
+    <content>Despite what the sign says…it’s Mercedes med spa uhkay! 😜 @Nune Stepanyan  #sketchcomedy #glowup  #la #luxury #facials #medspa </content>
+    <link href="https://tiktok.com/@melshoshahi/video/7380026998460108078"/>
+    <published>2024-06-13T16:34:02+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@melshoshahi/video/7282846082986462507</id>
