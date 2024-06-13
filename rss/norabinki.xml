@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@norabinki</id>
   <title>norabinki</title>
-  <updated>2024-06-10T15:46:21+00:00</updated>
+  <updated>2024-06-13T15:52:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from norabinki</subtitle>
-  <entry>
-    <id>https://tiktok.com/@norabinki/video/7363318568961740064</id>
-    <title>Zu Besuch im Lauwiner Empire @Bruzzli #fyp #schweiz #CapCut </title>
-    <updated>2024-04-29T15:56:49+00:00</updated>
-    <content>Zu Besuch im Lauwiner Empire @Bruzzli #fyp #schweiz #CapCut </content>
-    <link href="https://tiktok.com/@norabinki/video/7363318568961740064"/>
-    <published>2024-04-29T15:56:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@norabinki/video/7365910014453697824</id>
     <title>Sneakerness 2024 #fyp #schweiz #sneakers </title>
@@ -67,6 +59,14 @@
     <content>De Pöstler &gt;&gt;&gt; @Bruzzli @- @Dario #fyp #schweiz #CapCut </content>
     <link href="https://tiktok.com/@norabinki/video/7378901443882847521"/>
     <published>2024-06-10T15:46:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@norabinki/video/7380016301932121376</id>
+    <title>Tour de Suisse 2024  @Bruzzli @sunnechind #fyp #schweiz #tourdesuisse #CapCut </title>
+    <updated>2024-06-13T15:52:32+00:00</updated>
+    <content>Tour de Suisse 2024  @Bruzzli @sunnechind #fyp #schweiz #tourdesuisse #CapCut </content>
+    <link href="https://tiktok.com/@norabinki/video/7380016301932121376"/>
+    <published>2024-06-13T15:52:32+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@norabinki/video/7283544477661203745</id>
