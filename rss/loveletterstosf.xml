@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2024-06-08T21:36:17+00:00</updated>
+  <updated>2024-06-14T15:41:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from loveletterstosf</subtitle>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7376784788134579502</id>
-    <title>hopping on this cute trend but make it sf edition ✨ #momentsoflove #sf #sflife #sanfrancisco #loveletterstosf </title>
-    <updated>2024-06-04T22:52:35+00:00</updated>
-    <content>hopping on this cute trend but make it sf edition ✨ #momentsoflove #sf #sflife #sanfrancisco #loveletterstosf </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7376784788134579502"/>
-    <published>2024-06-04T22:52:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7376872005586619694</id>
     <title>love being on #californiatok and being from this beautiful state 💛 #california  </title>
@@ -91,5 +83,13 @@
     <content>J line 🤍 #dolorespark #sf #sfmuni #sfmta  </content>
     <link href="https://tiktok.com/@loveletterstosf/video/7366435657373437230"/>
     <published>2024-05-08T01:32:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7380384460308647214</id>
+    <title>Replying to @Erica Gambrell please please please dont invite Karl out this weekend… also pls comment any other Juneteenth events happening during the week and lmk if you want a separate roundup on it! #sf #sfevents #thisweekendinsf #thingstodoinsf #northb</title>
+    <updated>2024-06-14T15:41:10+00:00</updated>
+    <content>Replying to @Erica Gambrell please please please dont invite Karl out this weekend… also pls comment any other Juneteenth events happening during the week and lmk if you want a separate roundup on it! #sf #sfevents #thisweekendinsf #thingstodoinsf #northb</content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7380384460308647214"/>
+    <published>2024-06-14T15:41:10+00:00</published>
   </entry>
 </feed>
