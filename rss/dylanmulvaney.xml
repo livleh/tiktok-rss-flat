@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@dylanmulvaney</id>
   <title>dylanmulvaney</title>
-  <updated>2024-06-06T18:59:14+00:00</updated>
+  <updated>2024-06-14T00:12:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylanmulvaney</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylanmulvaney/video/7359600089515560234</id>
-    <title>Niche but felt right #sexandthecity #charlotteyork @Kristin Davis </title>
-    <updated>2024-04-19T15:27:40+00:00</updated>
-    <content>Niche but felt right #sexandthecity #charlotteyork @Kristin Davis </content>
-    <link href="https://tiktok.com/@dylanmulvaney/video/7359600089515560234"/>
-    <published>2024-04-19T15:27:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7360013366225685802</id>
     <title>Another accidental sex and the city cosplay i swear to god</title>
@@ -83,6 +75,14 @@
     <content>GAY PAREEEEE @Thenickydoll @alokvmenon </content>
     <link href="https://tiktok.com/@dylanmulvaney/video/7377466812411366702"/>
     <published>2024-06-06T18:59:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylanmulvaney/video/7380145150271737134</id>
+    <title>On repeat @Sabrina Carpenter heading to @alice + olivia pride night 🌈❣️</title>
+    <updated>2024-06-14T00:12:33+00:00</updated>
+    <content>On repeat @Sabrina Carpenter heading to @alice + olivia pride night 🌈❣️</content>
+    <link href="https://tiktok.com/@dylanmulvaney/video/7380145150271737134"/>
+    <published>2024-06-14T00:12:33+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7193364487171444014</id>
