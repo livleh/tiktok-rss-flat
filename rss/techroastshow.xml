@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-06-14T13:29:37+00:00</updated>
+  <updated>2024-06-14T21:41:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7379246623420845343</id>
-    <title>robots can’t handle the power of forklift certification  #tech #robot #robotics #forklift #crowdwork #standupcomedy #comedy #startuplife #techroastshow</title>
-    <updated>2024-06-11T14:07:10+00:00</updated>
-    <content>robots can’t handle the power of forklift certification  #tech #robot #robotics #forklift #crowdwork #standupcomedy #comedy #startuplife #techroastshow</content>
-    <link href="https://tiktok.com/@techroastshow/video/7379246623420845343"/>
-    <published>2024-06-11T14:07:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7379350560241241375</id>
     <title>40 hours a week or 40 minutes a week  #techie #softwareengineer #siliconvalley #sanfrancisco #bayarea #comedy #funny #developerlife #programmerlife</title>
@@ -67,6 +59,14 @@
     <content>🍃🍁🍂 #techie #softwareengineer #weed #nyc #newyork #roastbattle #darkhumor #techroastshow </content>
     <link href="https://tiktok.com/@techroastshow/video/7380350513981787422"/>
     <published>2024-06-14T13:29:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7380477136198503711</id>
+    <title>everything in life is a teachable moment #techie #softwareengineer #siliconvalley #linkedin #techroastshow </title>
+    <updated>2024-06-14T21:41:07+00:00</updated>
+    <content>everything in life is a teachable moment #techie #softwareengineer #siliconvalley #linkedin #techroastshow </content>
+    <link href="https://tiktok.com/@techroastshow/video/7380477136198503711"/>
+    <published>2024-06-14T21:41:07+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
