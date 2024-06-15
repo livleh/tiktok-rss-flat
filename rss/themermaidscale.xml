@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@themermaidscale</id>
   <title>themermaidscale</title>
-  <updated>2023-11-01T01:57:55+00:00</updated>
+  <updated>2024-06-15T16:27:59.860540+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,84 +12,4 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from themermaidscale</subtitle>
-  <entry>
-    <id>https://tiktok.com/@themermaidscale/video/7231083638182497563</id>
-    <title>:D</title>
-    <updated>2023-05-09T07:37:47+00:00</updated>
-    <content>:D</content>
-    <link href="https://tiktok.com/@themermaidscale/video/7231083638182497563"/>
-    <published>2023-05-09T07:37:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@themermaidscale/video/7232154867320491265</id>
-    <title>The baby: drrr skibidi bop bop</title>
-    <updated>2023-05-12T04:54:37+00:00</updated>
-    <content>The baby: drrr skibidi bop bop</content>
-    <link href="https://tiktok.com/@themermaidscale/video/7232154867320491265"/>
-    <published>2023-05-12T04:54:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@themermaidscale/video/7232154974837411074</id>
-    <title>👁️👄👁️</title>
-    <updated>2023-05-12T04:55:04+00:00</updated>
-    <content>👁️👄👁️</content>
-    <link href="https://tiktok.com/@themermaidscale/video/7232154974837411074"/>
-    <published>2023-05-12T04:55:04+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@themermaidscale/video/7232930409934343425</id>
-    <title>👁️👁️</title>
-    <updated>2023-05-14T07:04:12+00:00</updated>
-    <content>👁️👁️</content>
-    <link href="https://tiktok.com/@themermaidscale/video/7232930409934343425"/>
-    <published>2023-05-14T07:04:12+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@themermaidscale/video/7232930469640146177</id>
-    <title>Stares*</title>
-    <updated>2023-05-14T07:04:22+00:00</updated>
-    <content>Stares*</content>
-    <link href="https://tiktok.com/@themermaidscale/video/7232930469640146177"/>
-    <published>2023-05-14T07:04:22+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@themermaidscale/video/7232931105287064834</id>
-    <title>Awhhhh</title>
-    <updated>2023-05-14T07:06:52+00:00</updated>
-    <content>Awhhhh</content>
-    <link href="https://tiktok.com/@themermaidscale/video/7232931105287064834"/>
-    <published>2023-05-14T07:06:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@themermaidscale/video/7258499660153670914</id>
-    <title>Squidward walk 😌</title>
-    <updated>2023-07-22T04:45:53+00:00</updated>
-    <content>Squidward walk 😌</content>
-    <link href="https://tiktok.com/@themermaidscale/video/7258499660153670914"/>
-    <published>2023-07-22T04:45:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@themermaidscale/video/7261304347089210625</id>
-    <title>😌✨</title>
-    <updated>2023-07-29T18:09:34+00:00</updated>
-    <content>😌✨</content>
-    <link href="https://tiktok.com/@themermaidscale/video/7261304347089210625"/>
-    <published>2023-07-29T18:09:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@themermaidscale/video/7296306848049745160</id>
-    <title>M A M A  B O Y</title>
-    <updated>2023-11-01T01:57:06+00:00</updated>
-    <content>M A M A  B O Y</content>
-    <link href="https://tiktok.com/@themermaidscale/video/7296306848049745160"/>
-    <published>2023-11-01T01:57:06+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@themermaidscale/video/7296307059115576583</id>
-    <title>Yea im floating </title>
-    <updated>2023-11-01T01:57:55+00:00</updated>
-    <content>Yea im floating </content>
-    <link href="https://tiktok.com/@themermaidscale/video/7296307059115576583"/>
-    <published>2023-11-01T01:57:55+00:00</published>
-  </entry>
 </feed>
