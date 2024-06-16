@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-06-13T19:48:26+00:00</updated>
+  <updated>2024-06-16T17:23:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7371119629705514272</id>
-    <title>proud member of the mile high club and the first instalment of a bread abroad !!</title>
-    <updated>2024-05-20T16:28:57+00:00</updated>
-    <content>proud member of the mile high club and the first instalment of a bread abroad !!</content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7371119629705514272"/>
-    <published>2024-05-20T16:28:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7371491231999839520</id>
     <title>i dont think david hasselhoff is even german </title>
@@ -147,5 +139,13 @@
     <content>SORRY I FILMED A VIDEO TODAY BUT I RAN OUT OF TIME TO EDIT IT SO I MADE THIS instead I GOT THIS BEAr TODAY WHY IS IT SO MASSIVE </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7380077097705884960"/>
     <published>2024-06-13T19:48:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7381152977089826081</id>
+    <title>arcade </title>
+    <updated>2024-06-16T17:23:25+00:00</updated>
+    <content>arcade </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7381152977089826081"/>
+    <published>2024-06-16T17:23:25+00:00</published>
   </entry>
 </feed>
