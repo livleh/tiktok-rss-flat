@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-06-16T11:49:45+00:00</updated>
+  <updated>2024-06-16T15:00:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7379967873998933280</id>
-    <title>i SOBBED to this on repeat 😭 WHO ELSE #swiftie #taylorswift #1989 </title>
-    <updated>2024-06-13T12:44:35+00:00</updated>
-    <content>i SOBBED to this on repeat 😭 WHO ELSE #swiftie #taylorswift #1989 </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7379967873998933280"/>
-    <published>2024-06-13T12:44:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7380075361779911969</id>
     <title>#duet with @beth 🌷🎀 will always remember my first place #movingout </title>
@@ -67,6 +59,14 @@
     <content>being alt in a pink way #alt #pinkhair </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7381066995854314785"/>
     <published>2024-06-16T11:49:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7381116135384616224</id>
+    <title>Replying to @Chelsea 🏳️‍🌈 refresh my hair with me and products :) #pinkhair #hairdye </title>
+    <updated>2024-06-16T15:00:28+00:00</updated>
+    <content>Replying to @Chelsea 🏳️‍🌈 refresh my hair with me and products :) #pinkhair #hairdye </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7381116135384616224"/>
+    <published>2024-06-16T15:00:28+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
