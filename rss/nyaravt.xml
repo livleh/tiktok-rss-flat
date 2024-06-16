@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-06-16T13:00:00+00:00</updated>
+  <updated>2024-06-16T20:21:36.001697+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,84 +12,4 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7375534659343600929</id>
-    <title>PUBERTY DOES IRREVERSIBLE HARM #vtuber</title>
-    <updated>2024-06-07T13:00:00+00:00</updated>
-    <content>PUBERTY DOES IRREVERSIBLE HARM #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7375534659343600929"/>
-    <published>2024-06-07T13:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7375535746947534112</id>
-    <title>WHEN BEING CALLED A WOMAN ISNT AN INSULT ANYMORE #vtuber</title>
-    <updated>2024-06-08T13:00:00+00:00</updated>
-    <content>WHEN BEING CALLED A WOMAN ISNT AN INSULT ANYMORE #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7375535746947534112"/>
-    <published>2024-06-08T13:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7375535718065655073</id>
-    <title>WHY PASSING IS JUST TOXIC #vtuber</title>
-    <updated>2024-06-09T13:00:00+00:00</updated>
-    <content>WHY PASSING IS JUST TOXIC #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7375535718065655073"/>
-    <published>2024-06-09T13:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7375536433303571744</id>
-    <title>WHEN FRIENDS DONT CARE ABOUT YOU #vtuber</title>
-    <updated>2024-06-10T13:00:00+00:00</updated>
-    <content>WHEN FRIENDS DONT CARE ABOUT YOU #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7375536433303571744"/>
-    <published>2024-06-10T13:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7375899810890517793</id>
-    <title>WHAT IS A FEMBOY?? #vtuber</title>
-    <updated>2024-06-11T13:00:00+00:00</updated>
-    <content>WHAT IS A FEMBOY?? #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7375899810890517793"/>
-    <published>2024-06-11T13:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7375899667105582369</id>
-    <title>MEN ARE MORE EMOTIONAL THAN WOMEN #vtuber</title>
-    <updated>2024-06-12T13:00:00+00:00</updated>
-    <content>MEN ARE MORE EMOTIONAL THAN WOMEN #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7375899667105582369"/>
-    <published>2024-06-12T13:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7377485673088994593</id>
-    <title>TRANS PEOPLE JUST WANT TO BE HAPPY #vtuber</title>
-    <updated>2024-06-13T13:00:00+00:00</updated>
-    <content>TRANS PEOPLE JUST WANT TO BE HAPPY #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7377485673088994593"/>
-    <published>2024-06-13T13:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7377485917935701280</id>
-    <title>BENEFIT OF VOICE TRAINING #vtuber</title>
-    <updated>2024-06-14T13:00:00+00:00</updated>
-    <content>BENEFIT OF VOICE TRAINING #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7377485917935701280"/>
-    <published>2024-06-14T13:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7377486729617345824</id>
-    <title>WHEN YOUR FAMILY IS IGNORANT #vtuber</title>
-    <updated>2024-06-15T13:00:00+00:00</updated>
-    <content>WHEN YOUR FAMILY IS IGNORANT #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7377486729617345824"/>
-    <published>2024-06-15T13:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7377486899344100641</id>
-    <title>CYBERBULLYING IS NOT REAL!? #vtuber</title>
-    <updated>2024-06-16T13:00:00+00:00</updated>
-    <content>CYBERBULLYING IS NOT REAL!? #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7377486899344100641"/>
-    <published>2024-06-16T13:00:00+00:00</published>
-  </entry>
 </feed>
