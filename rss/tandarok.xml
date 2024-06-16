@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-06-15T17:46:50+00:00</updated>
+  <updated>2024-06-16T03:54:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7379498491036405024</id>
-    <title>Meine Rede über Gatekeeping und Scham beim CSD Rosenheim 2024  #pridemonth #csd #queer #transgendergermany </title>
-    <updated>2024-06-12T06:23:27+00:00</updated>
-    <content>Meine Rede über Gatekeeping und Scham beim CSD Rosenheim 2024  #pridemonth #csd #queer #transgendergermany </content>
-    <link href="https://tiktok.com/@tandarok/video/7379498491036405024"/>
-    <published>2024-06-12T06:23:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7379673901401378080</id>
     <title>Linke auf Social Media konzentrieren ihre Energie wenn ihr mich fragt zu viel auf andere Linke. #reclaimtiktok #twitchgermany </title>
@@ -67,6 +59,14 @@
     <content>Antwort auf @origilina Linkes Infighting Vs. konstruktive Kritik  #reclaimtiktok #diegrünen #gegenrechts </content>
     <link href="https://tiktok.com/@tandarok/video/7380787924234718496"/>
     <published>2024-06-15T17:46:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7380944372814138656</id>
+    <title>How time flies... Ich fühle mich so viel wohler mit der neuen Haarfarbe 🥰 #queer #transgirl #pridemonth </title>
+    <updated>2024-06-16T03:54:45+00:00</updated>
+    <content>How time flies... Ich fühle mich so viel wohler mit der neuen Haarfarbe 🥰 #queer #transgirl #pridemonth </content>
+    <link href="https://tiktok.com/@tandarok/video/7380944372814138656"/>
+    <published>2024-06-16T03:54:45+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>

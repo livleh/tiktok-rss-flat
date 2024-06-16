@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2024-06-15T18:16:50+00:00</updated>
+  <updated>2024-06-16T03:58:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from loveletterstosf</subtitle>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7376872005586619694</id>
-    <title>love being on #californiatok and being from this beautiful state 💛 #california  </title>
-    <updated>2024-06-05T04:31:03+00:00</updated>
-    <content>love being on #californiatok and being from this beautiful state 💛 #california  </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7376872005586619694"/>
-    <published>2024-06-05T04:31:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7377241211142294830</id>
     <title>had to take advantage of the warm weather today ☀️ thx to @The Nudge for organizing and helping me check this off my #sfbuckeflist #outdooryoga #sf #bakerbeach </title>
@@ -67,6 +59,14 @@
     <content>was so fun doing the SF hunt last weekend and discovering new parts of the city, also got my steps in (15k+)!! Its an annual event, so look out for it next year to sign up with friends #sf #scavengerhunt #thesfhunt #thingstodoinsf #vlog #sf </content>
     <link href="https://tiktok.com/@loveletterstosf/video/7378249466001902890"/>
     <published>2024-06-08T21:36:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7380945640089636142</id>
+    <title>sharing spots to check out at the NB street festival, def check it out tomorrow if you haven’t been!! also watch till the end for where to get free water + use bathrooms lol #northbeach #sf #sftok #streetfestival #thingstodoinsf #sfeats #sfevents #sfsumme</title>
+    <updated>2024-06-16T03:58:52+00:00</updated>
+    <content>sharing spots to check out at the NB street festival, def check it out tomorrow if you haven’t been!! also watch till the end for where to get free water + use bathrooms lol #northbeach #sf #sftok #streetfestival #thingstodoinsf #sfeats #sfevents #sfsumme</content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7380945640089636142"/>
+    <published>2024-06-16T03:58:52+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7373119118758677802</id>
