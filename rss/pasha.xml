@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@pasha</id>
   <title>pasha</title>
-  <updated>2024-06-15T15:34:44+00:00</updated>
+  <updated>2024-06-16T13:42:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pasha</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pasha/video/7378069936008203536</id>
-    <title>“are you in front of a computer?” 😩of course I am not, bye!  #careertiktok #corporate #toxicmanager #manager </title>
-    <updated>2024-06-08T09:59:42+00:00</updated>
-    <content>“are you in front of a computer?” 😩of course I am not, bye!  #careertiktok #corporate #toxicmanager #manager </content>
-    <link href="https://tiktok.com/@pasha/video/7378069936008203536"/>
-    <published>2024-06-08T09:59:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7378448673295863056</id>
     <title>they really do do that 😭 based on a true story… #german #germany #deutschland #lifeingermany #germanstare </title>
@@ -75,6 +67,14 @@
     <content>this stare is the best way for you to know if an Eastern European approves of your fashion or outfits #easterneuropean #slavic #easterneuropeancomedy </content>
     <link href="https://tiktok.com/@pasha/video/7380753871632731409"/>
     <published>2024-06-15T15:34:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pasha/video/7381095989777616144</id>
+    <title>you really cannot get any more nasty than this 😭 #german #germany #deutschland #lifeingermany</title>
+    <updated>2024-06-16T13:42:17+00:00</updated>
+    <content>you really cannot get any more nasty than this 😭 #german #germany #deutschland #lifeingermany</content>
+    <link href="https://tiktok.com/@pasha/video/7381095989777616144"/>
+    <published>2024-06-16T13:42:17+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7044103633817980161</id>
