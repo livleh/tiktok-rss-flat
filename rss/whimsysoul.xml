@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-06-16T05:43:15+00:00</updated>
+  <updated>2024-06-16T21:02:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7379045787734396203</id>
-    <title>Heading to Lisbon with @Flodesk soon on an influencer trip!! Unbox their pr package with me. 👏 🇵🇹  Ekk can't wait!! #flodesk #unboxing #influencertrip #lisbon #flodesklisbon #portugal #mediatrip #emailmarketing </title>
-    <updated>2024-06-11T01:06:24+00:00</updated>
-    <content>Heading to Lisbon with @Flodesk soon on an influencer trip!! Unbox their pr package with me. 👏 🇵🇹  Ekk can't wait!! #flodesk #unboxing #influencertrip #lisbon #flodesklisbon #portugal #mediatrip #emailmarketing </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7379045787734396203"/>
-    <published>2024-06-11T01:06:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7379247806772546858</id>
     <title>when you buy a cabin it's illegal not to have weekend trips with friends 😉 loved this weekend at @Whimsy Homes Cabin with all my besties!! I adore Arnold, California- always such a nice getaway from San Francisco. We had pizza rolls, wine, freezy pops, 90</title>
@@ -67,6 +59,14 @@
     <content>can someone take the Effiel Tower? I won't be in Paris this summer 🤧  #berlinwall #berlin #hottogo #chapellroan #hottogochappellroan #eastberlin #germany #visitberlin </content>
     <link href="https://tiktok.com/@whimsysoul/video/7380972518880021806"/>
     <published>2024-06-16T05:43:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7381209549484625194</id>
+    <title>you're making a huge mistake while traveling!! If you don't intentionally eat more food during those trips you're walking a lot every day you are gonna run your body into the ground and feel gross &amp; tired the entire time.  Make sure to eat all 3 meals, ha</title>
+    <updated>2024-06-16T21:02:57+00:00</updated>
+    <content>you're making a huge mistake while traveling!! If you don't intentionally eat more food during those trips you're walking a lot every day you are gonna run your body into the ground and feel gross &amp; tired the entire time.  Make sure to eat all 3 meals, ha</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7381209549484625194"/>
+    <published>2024-06-16T21:02:57+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
