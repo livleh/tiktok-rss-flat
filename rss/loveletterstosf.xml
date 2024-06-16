@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2024-06-16T06:03:48+00:00</updated>
+  <updated>2024-06-16T16:30:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from loveletterstosf</subtitle>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7377428163636235563</id>
-    <title>76 degree day in sf yesterday meant beach weather #sf #bakerbeach #summer </title>
-    <updated>2024-06-06T16:29:14+00:00</updated>
-    <content>76 degree day in sf yesterday meant beach weather #sf #bakerbeach #summer </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7377428163636235563"/>
-    <published>2024-06-06T16:29:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7377776221712698666</id>
     <title>comment any other #sfevents to check out! #thisweekendinsf #sftok #westcoastcraft #sfmoma #juneteenth </title>
@@ -61,6 +53,14 @@
     <published>2024-06-14T15:41:10+00:00</published>
   </entry>
   <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7380795646766304554</id>
+    <title>I’ve shared @Art Funk’s watercolor painting class before but there’s new locations and weekday times!! loved this sunset class at ocean beach ☺️🌊 #sf #paintingclass #watercolorpainting #sftok #oceanbeach #thingstodoinsf #sfevents </title>
+    <updated>2024-06-15T18:16:50+00:00</updated>
+    <content>I’ve shared @Art Funk’s watercolor painting class before but there’s new locations and weekday times!! loved this sunset class at ocean beach ☺️🌊 #sf #paintingclass #watercolorpainting #sftok #oceanbeach #thingstodoinsf #sfevents </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7380795646766304554"/>
+    <published>2024-06-15T18:16:50+00:00</published>
+  </entry>
+  <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7380945640089636142</id>
     <title>sharing spots to check out at the NB street festival, def check it out tomorrow if you haven’t been!! also watch till the end for where to get free water + use bathrooms lol #northbeach #sf #sftok #streetfestival #thingstodoinsf #sfeats #sfevents #sfsumme</title>
     <updated>2024-06-16T03:58:52+00:00</updated>
@@ -77,19 +77,19 @@
     <published>2024-06-16T06:03:48+00:00</published>
   </entry>
   <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7381139346407165230</id>
+    <title>last day of north beach festival today 6/16 from 11am-7pm. I believe the next st festival is Haight ashbury in mid sept! #sf #sfsummer #sfevents #northbeach  </title>
+    <updated>2024-06-16T16:30:32+00:00</updated>
+    <content>last day of north beach festival today 6/16 from 11am-7pm. I believe the next st festival is Haight ashbury in mid sept! #sf #sfsummer #sfevents #northbeach  </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7381139346407165230"/>
+    <published>2024-06-16T16:30:32+00:00</published>
+  </entry>
+  <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7373119118758677802</id>
     <title>she is stunning esp on a sunny day, cant wait to go again around sunset 😍 #sf #sfparks #yerbabuenaisland #sfviews #skylineviews #baybridge #panoramapark #treasureisland #sfbayarea </title>
     <updated>2024-05-26T01:47:55+00:00</updated>
     <content>she is stunning esp on a sunny day, cant wait to go again around sunset 😍 #sf #sfparks #yerbabuenaisland #sfviews #skylineviews #baybridge #panoramapark #treasureisland #sfbayarea </content>
     <link href="https://tiktok.com/@loveletterstosf/video/7373119118758677802"/>
     <published>2024-05-26T01:47:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7380795646766304554</id>
-    <title>I’ve shared @Art Funk’s watercolor painting class before but there’s new locations and weekday times!! loved this sunset class at ocean beach ☺️🌊 #sf #paintingclass #watercolorpainting #sftok #oceanbeach #thingstodoinsf #sfevents </title>
-    <updated>2024-06-15T18:16:50+00:00</updated>
-    <content>I’ve shared @Art Funk’s watercolor painting class before but there’s new locations and weekday times!! loved this sunset class at ocean beach ☺️🌊 #sf #paintingclass #watercolorpainting #sftok #oceanbeach #thingstodoinsf #sfevents </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7380795646766304554"/>
-    <published>2024-06-15T18:16:50+00:00</published>
   </entry>
 </feed>
