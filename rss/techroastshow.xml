@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-06-17T13:07:41+00:00</updated>
+  <updated>2024-06-17T21:00:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7379978048256412958</id>
-    <title>Zuck smashed a laptop like Andrew Garfield after seeing this  #techie #softwareengineer #meta #facebook #nyc #newyork #programmerlife #roastbattle #darkhumor #techroastshow</title>
-    <updated>2024-06-13T13:24:19+00:00</updated>
-    <content>Zuck smashed a laptop like Andrew Garfield after seeing this  #techie #softwareengineer #meta #facebook #nyc #newyork #programmerlife #roastbattle #darkhumor #techroastshow</content>
-    <link href="https://tiktok.com/@techroastshow/video/7379978048256412958"/>
-    <published>2024-06-13T13:24:19+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7380105391046151454</id>
-    <title>how is this guy senior  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</title>
-    <updated>2024-06-13T21:38:53+00:00</updated>
-    <content>how is this guy senior  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</content>
-    <link href="https://tiktok.com/@techroastshow/video/7380105391046151454"/>
-    <published>2024-06-13T21:38:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7380350513981787422</id>
     <title>🍃🍁🍂 #techie #softwareengineer #weed #nyc #newyork #roastbattle #darkhumor #techroastshow </title>
@@ -67,6 +51,22 @@
     <content>he’s middle class in San Francisco #techie #softwareengineer #siliconvalley #sanfrancisco #bayarea #nvidia #stock #developerlife #programmerlife</content>
     <link href="https://tiktok.com/@techroastshow/video/7381457910007663902"/>
     <published>2024-06-17T13:07:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7381579174189747487</id>
+    <title>no return offer, no problem  #tech #softwareengineer #amazon #intern #crowdwork #standupcomedy #comedy #techroastshow</title>
+    <updated>2024-06-17T20:57:32+00:00</updated>
+    <content>no return offer, no problem  #tech #softwareengineer #amazon #intern #crowdwork #standupcomedy #comedy #techroastshow</content>
+    <link href="https://tiktok.com/@techroastshow/video/7381579174189747487"/>
+    <published>2024-06-17T20:57:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7381579835971308831</id>
+    <title>do better or else  #techie #softwareengineer #pip #sanfrancisco #programmerlife #roastbattle #techroastshow </title>
+    <updated>2024-06-17T21:00:12+00:00</updated>
+    <content>do better or else  #techie #softwareengineer #pip #sanfrancisco #programmerlife #roastbattle #techroastshow </content>
+    <link href="https://tiktok.com/@techroastshow/video/7381579835971308831"/>
+    <published>2024-06-17T21:00:12+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>

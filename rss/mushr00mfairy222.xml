@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-06-17T10:41:46+00:00</updated>
+  <updated>2024-06-17T20:28:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7380798536574684448</id>
-    <title>australia-&gt; england! 😟 @Hearprotek #travel #traveltok #hearprotek </title>
-    <updated>2024-06-15T18:28:03+00:00</updated>
-    <content>australia-&gt; england! 😟 @Hearprotek #travel #traveltok #hearprotek </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7380798536574684448"/>
-    <published>2024-06-15T18:28:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7381065482536865056</id>
-    <title>PINK HAIRS BACK #hairtransformation #pinkhair </title>
-    <updated>2024-06-16T11:43:57+00:00</updated>
-    <content>PINK HAIRS BACK #hairtransformation #pinkhair </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7381065482536865056"/>
-    <published>2024-06-16T11:43:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7381066995854314785</id>
     <title>being alt in a pink way #alt #pinkhair </title>
@@ -67,6 +51,22 @@
     <content>anyway cant wait ro go to pride #pride #lgbt #lgbtq </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7381420545356598560"/>
     <published>2024-06-17T10:41:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7381571050557017376</id>
+    <title>me and the wifey #swiftie #taylorswift </title>
+    <updated>2024-06-17T20:25:49+00:00</updated>
+    <content>me and the wifey #swiftie #taylorswift </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7381571050557017376"/>
+    <published>2024-06-17T20:25:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7381571733058325793</id>
+    <title>LOVEEEE #coffee </title>
+    <updated>2024-06-17T20:28:24+00:00</updated>
+    <content>LOVEEEE #coffee </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7381571733058325793"/>
+    <published>2024-06-17T20:28:24+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
