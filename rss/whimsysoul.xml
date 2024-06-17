@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-06-17T05:52:56+00:00</updated>
+  <updated>2024-06-17T15:33:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7379421878651276590</id>
-    <title>This is NOT Sequoia National Park!! 😱 It’s not Yosemite, either!  🚘 a 2.5 hour drive from the Bay Area  👯‍♂️ fraction of the crowds compared to other parks  🥾The North loop is about 1.5 miles and totally flat, making it easy for all ages and abilities.  ❄</title>
-    <updated>2024-06-12T01:25:52+00:00</updated>
-    <content>This is NOT Sequoia National Park!! 😱 It’s not Yosemite, either!  🚘 a 2.5 hour drive from the Bay Area  👯‍♂️ fraction of the crowds compared to other parks  🥾The North loop is about 1.5 miles and totally flat, making it easy for all ages and abilities.  ❄</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7379421878651276590"/>
-    <published>2024-06-12T01:25:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7379741247336140078</id>
     <title>being bougie in peasant class is the only way to fly 💅 #airplane #travel #travelhack #itsgonnabeme #firstclass #traveltips #travelbeauty #skincare #wine #whimsysoul</title>
@@ -67,6 +59,14 @@
     <content>why go to Westminster when you can blast London Boy on your way to Camden in the afternoon?? #taylorswift #londonboy #london #swiftie #lol #england #matchmyfreak #whimsysoul #theblackdogpub </content>
     <link href="https://tiktok.com/@whimsysoul/video/7381346098243489070"/>
     <published>2024-06-17T05:52:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7381495704834854186</id>
+    <title>what I bought in Berlin #haul #berlin #berlinsouvenirs #germany #ampelmann #ampelmännchen #frautonis #parfum #frautonisparfum #berlinshopping @visitBerlin #whimsysoul </title>
+    <updated>2024-06-17T15:33:26+00:00</updated>
+    <content>what I bought in Berlin #haul #berlin #berlinsouvenirs #germany #ampelmann #ampelmännchen #frautonis #parfum #frautonisparfum #berlinshopping @visitBerlin #whimsysoul </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7381495704834854186"/>
+    <published>2024-06-17T15:33:26+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
