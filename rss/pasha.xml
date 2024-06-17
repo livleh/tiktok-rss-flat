@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@pasha</id>
   <title>pasha</title>
-  <updated>2024-06-16T13:42:17+00:00</updated>
+  <updated>2024-06-17T15:10:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pasha</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pasha/video/7378448673295863056</id>
-    <title>they really do do that 😭 based on a true story… #german #germany #deutschland #lifeingermany #germanstare </title>
-    <updated>2024-06-09T10:29:20+00:00</updated>
-    <content>they really do do that 😭 based on a true story… #german #germany #deutschland #lifeingermany #germanstare </content>
-    <link href="https://tiktok.com/@pasha/video/7378448673295863056"/>
-    <published>2024-06-09T10:29:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7378822248838286593</id>
     <title>this stare is the best way to know if an Eastern European approves of your fashion choice #easterneuropean #slavic #easterneuropeancomedy</title>
@@ -75,6 +67,14 @@
     <content>you really cannot get any more nasty than this 😭 #german #germany #deutschland #lifeingermany</content>
     <link href="https://tiktok.com/@pasha/video/7381095989777616144"/>
     <published>2024-06-16T13:42:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pasha/video/7381489694741187841</id>
+    <title>you wouldn’t believe it - the German cat sniched on me 😭 #german #germany #deutschland #lifeingermany </title>
+    <updated>2024-06-17T15:10:03+00:00</updated>
+    <content>you wouldn’t believe it - the German cat sniched on me 😭 #german #germany #deutschland #lifeingermany </content>
+    <link href="https://tiktok.com/@pasha/video/7381489694741187841"/>
+    <published>2024-06-17T15:10:03+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7044103633817980161</id>
