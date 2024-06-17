@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ramalauw</id>
   <title>ramalauw</title>
-  <updated>2024-06-17T14:15:06+00:00</updated>
+  <updated>2024-06-17T17:07:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ramalauw</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ramalauw/video/7374837843128044833</id>
-    <title>Ofc I’m Indonesian, I call everyone uncles and aunties even if we’re not related 🇮🇩 </title>
-    <updated>2024-05-30T16:57:28+00:00</updated>
-    <content>Ofc I’m Indonesian, I call everyone uncles and aunties even if we’re not related 🇮🇩 </content>
-    <link href="https://tiktok.com/@ramalauw/video/7374837843128044833"/>
-    <published>2024-05-30T16:57:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7376345101997575457</id>
     <title>My best friend’s heart rate when she sees my incoming call 📈📈📈 </title>
@@ -67,6 +59,14 @@
     <content>✨Toxiqué Masculinity ✨ has been passed down for many many generations in my familia. How about yours? June is Men's Mental Health Awareness Month so I wanted to make this video to remind ourselves that there's no right way to be a man. A man can be tough,</content>
     <link href="https://tiktok.com/@ramalauw/video/7381475526990499105"/>
     <published>2024-06-17T14:15:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ramalauw/video/7381519985044196641</id>
+    <title>They all lowkey look the same 🤡✈️</title>
+    <updated>2024-06-17T17:07:38+00:00</updated>
+    <content>They all lowkey look the same 🤡✈️</content>
+    <link href="https://tiktok.com/@ramalauw/video/7381519985044196641"/>
+    <published>2024-06-17T17:07:38+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7270903343638187297</id>
