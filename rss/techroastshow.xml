@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-06-16T14:41:08+00:00</updated>
+  <updated>2024-06-17T13:07:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7379696245939408159</id>
-    <title>they’re back for the summer #techie #softwareengineer #intern #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</title>
-    <updated>2024-06-12T19:11:18+00:00</updated>
-    <content>they’re back for the summer #techie #softwareengineer #intern #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</content>
-    <link href="https://tiktok.com/@techroastshow/video/7379696245939408159"/>
-    <published>2024-06-12T19:11:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7379978048256412958</id>
     <title>Zuck smashed a laptop like Andrew Garfield after seeing this  #techie #softwareengineer #meta #facebook #nyc #newyork #programmerlife #roastbattle #darkhumor #techroastshow</title>
@@ -67,6 +59,14 @@
     <content>LinkedIn x TikTok crossover  #techie #softwareengineer #siliconvalley #newyork #nyc #roastbattle #darkhumor #techroastshow</content>
     <link href="https://tiktok.com/@techroastshow/video/7381111015829753119"/>
     <published>2024-06-16T14:41:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7381457910007663902</id>
+    <title>he’s middle class in San Francisco #techie #softwareengineer #siliconvalley #sanfrancisco #bayarea #nvidia #stock #developerlife #programmerlife</title>
+    <updated>2024-06-17T13:07:41+00:00</updated>
+    <content>he’s middle class in San Francisco #techie #softwareengineer #siliconvalley #sanfrancisco #bayarea #nvidia #stock #developerlife #programmerlife</content>
+    <link href="https://tiktok.com/@techroastshow/video/7381457910007663902"/>
+    <published>2024-06-17T13:07:41+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
