@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-06-16T13:00:00+00:00</updated>
+  <updated>2024-06-17T12:45:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7374386303682481440</id>
-    <title>MY LAST STREAM (for now) #vtuber</title>
-    <updated>2024-05-29T13:00:00+00:00</updated>
-    <content>MY LAST STREAM (for now) #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7374386303682481440"/>
-    <published>2024-05-29T13:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7374733707548052769</id>
-    <title>POV: YOU'RE A GERMAN STREAMER #vtuberen</title>
-    <updated>2024-05-30T13:00:00+00:00</updated>
-    <content>POV: YOU'RE A GERMAN STREAMER #vtuberen</content>
-    <link href="https://tiktok.com/@nyaravt/video/7374733707548052769"/>
-    <published>2024-05-30T13:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7375140558035111201</id>
     <title>GETTING CALLED OUT BY STRANGERS #trans #vtuber</title>
@@ -163,5 +147,13 @@
     <content>CYBERBULLYING IS NOT REAL!? #vtuber</content>
     <link href="https://tiktok.com/@nyaravt/video/7377486899344100641"/>
     <published>2024-06-16T13:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7381452366685441312</id>
+    <title>WAKING UP AFTER SURGERY #vtuber </title>
+    <updated>2024-06-17T12:45:17+00:00</updated>
+    <content>WAKING UP AFTER SURGERY #vtuber </content>
+    <link href="https://tiktok.com/@nyaravt/video/7381452366685441312"/>
+    <published>2024-06-17T12:45:17+00:00</published>
   </entry>
 </feed>
