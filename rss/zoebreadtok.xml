@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-06-16T17:23:25+00:00</updated>
+  <updated>2024-06-17T17:24:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7371491231999839520</id>
-    <title>i dont think david hasselhoff is even german </title>
-    <updated>2024-05-21T16:31:03+00:00</updated>
-    <content>i dont think david hasselhoff is even german </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7371491231999839520"/>
-    <published>2024-05-21T16:31:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7371864848335916321</id>
     <title>needles to say, the hard rock cafe took my money !!!!</title>
@@ -147,5 +139,13 @@
     <content>arcade </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7381152977089826081"/>
     <published>2024-06-16T17:23:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7381524274449796385</id>
+    <title>Replying to @Tomo 5222 they got take away (which is cheaper) but then sat down with it is the gist. several morals here: 1. always be kind to people just doing their jobs  2. you never know who youre sat next to it might just be zoë bread pretending to fi</title>
+    <updated>2024-06-17T17:24:13+00:00</updated>
+    <content>Replying to @Tomo 5222 they got take away (which is cheaper) but then sat down with it is the gist. several morals here: 1. always be kind to people just doing their jobs  2. you never know who youre sat next to it might just be zoë bread pretending to fi</content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7381524274449796385"/>
+    <published>2024-06-17T17:24:13+00:00</published>
   </entry>
 </feed>

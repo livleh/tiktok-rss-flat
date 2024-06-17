@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@palim_tintin</id>
   <title>palim_tintin</title>
-  <updated>2024-06-11T17:47:18+00:00</updated>
+  <updated>2024-06-17T17:37:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from palim_tintin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@palim_tintin/video/7367800981238631713</id>
-    <title>🦊👘🧡🍊</title>
-    <updated>2024-05-11T17:50:51+00:00</updated>
-    <content>🦊👘🧡🍊</content>
-    <link href="https://tiktok.com/@palim_tintin/video/7367800981238631713"/>
-    <published>2024-05-11T17:50:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@palim_tintin/video/7370669815804988704</id>
     <title>Der Blazer lag jetzt 20 Jahre auf dem Dachboden meiner Eltern rum und ist einfach viel zu cool, um dort zu vergammeln! 😉Habt schöne Pfingsten. ✨ Wie gefällt euch der Look? 🤎 #ootd #outfitreel #outfitinspo #wiw #outfitcheck #secondhand #secondhandfashion #</title>
@@ -67,6 +59,14 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@palim_tintin/video/7379303704580689184"/>
     <published>2024-06-11T17:47:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@palim_tintin/video/7381527680681823521</id>
+    <title>Da der Sommer noch auf sich warten lässt, zeig‘ ich euch heute ein paar meiner Lieblingsoutfits aus’m letzten Jahr. 🌞😊</title>
+    <updated>2024-06-17T17:37:29+00:00</updated>
+    <content>Da der Sommer noch auf sich warten lässt, zeig‘ ich euch heute ein paar meiner Lieblingsoutfits aus’m letzten Jahr. 🌞😊</content>
+    <link href="https://tiktok.com/@palim_tintin/video/7381527680681823521"/>
+    <published>2024-06-17T17:37:29+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@palim_tintin/video/7189301520721005829</id>

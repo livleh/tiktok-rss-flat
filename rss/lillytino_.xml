@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lillytino_</id>
   <title>lillytino_</title>
-  <updated>2024-06-14T15:26:49+00:00</updated>
+  <updated>2024-06-17T18:27:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from lillytino_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@lillytino_/video/7368505725187886382</id>
-    <title>Love you mama ❤️</title>
-    <updated>2024-05-13T15:25:51+00:00</updated>
-    <content>Love you mama ❤️</content>
-    <link href="https://tiktok.com/@lillytino_/video/7368505725187886382"/>
-    <published>2024-05-13T15:25:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@lillytino_/video/7368661783214574891</id>
     <title>Its that trans girl magic ✨</title>
@@ -91,5 +83,13 @@
     <content>I’m not the only creator who goes through this. It’s not ok.</content>
     <link href="https://tiktok.com/@lillytino_/video/7380380764610776363"/>
     <published>2024-06-14T15:26:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lillytino_/video/7381540480468749610</id>
+    <title>There’s two more shows this month! Tickets in my bio 🏳️‍🌈@Downtown SF </title>
+    <updated>2024-06-17T18:27:10+00:00</updated>
+    <content>There’s two more shows this month! Tickets in my bio 🏳️‍🌈@Downtown SF </content>
+    <link href="https://tiktok.com/@lillytino_/video/7381540480468749610"/>
+    <published>2024-06-17T18:27:10+00:00</published>
   </entry>
 </feed>
