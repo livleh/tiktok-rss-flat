@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-06-17T21:00:12+00:00</updated>
+  <updated>2024-06-18T12:26:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7380350513981787422</id>
-    <title>🍃🍁🍂 #techie #softwareengineer #weed #nyc #newyork #roastbattle #darkhumor #techroastshow </title>
-    <updated>2024-06-14T13:29:37+00:00</updated>
-    <content>🍃🍁🍂 #techie #softwareengineer #weed #nyc #newyork #roastbattle #darkhumor #techroastshow </content>
-    <link href="https://tiktok.com/@techroastshow/video/7380350513981787422"/>
-    <published>2024-06-14T13:29:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7380477136198503711</id>
     <title>everything in life is a teachable moment #techie #softwareengineer #siliconvalley #linkedin #techroastshow </title>
@@ -67,6 +59,14 @@
     <content>do better or else  #techie #softwareengineer #pip #sanfrancisco #programmerlife #roastbattle #techroastshow </content>
     <link href="https://tiktok.com/@techroastshow/video/7381579835971308831"/>
     <published>2024-06-17T21:00:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7381818498269351198</id>
+    <title>peak capitalism vision test  #tech #softwareengineer #amazon #intern #crowdwork #standupcomedy #comedy #startuplife #techroastshow</title>
+    <updated>2024-06-18T12:26:09+00:00</updated>
+    <content>peak capitalism vision test  #tech #softwareengineer #amazon #intern #crowdwork #standupcomedy #comedy #startuplife #techroastshow</content>
+    <link href="https://tiktok.com/@techroastshow/video/7381818498269351198"/>
+    <published>2024-06-18T12:26:09+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
