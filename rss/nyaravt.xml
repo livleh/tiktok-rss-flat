@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-06-17T12:45:17+00:00</updated>
+  <updated>2024-06-18T13:00:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7375140558035111201</id>
-    <title>GETTING CALLED OUT BY STRANGERS #trans #vtuber</title>
-    <updated>2024-05-31T13:00:00+00:00</updated>
-    <content>GETTING CALLED OUT BY STRANGERS #trans #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7375140558035111201"/>
-    <published>2024-05-31T13:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7375140938840034592</id>
     <title>WHO IS INDOCTRINATING WHOM?? #vtuber #lgbtq</title>
@@ -155,5 +147,13 @@
     <content>WAKING UP AFTER SURGERY #vtuber </content>
     <link href="https://tiktok.com/@nyaravt/video/7381452366685441312"/>
     <published>2024-06-17T12:45:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7381827339224632608</id>
+    <title>SCARED OF THE BIG MTF SURGERY #trans #vtuber </title>
+    <updated>2024-06-18T13:00:17+00:00</updated>
+    <content>SCARED OF THE BIG MTF SURGERY #trans #vtuber </content>
+    <link href="https://tiktok.com/@nyaravt/video/7381827339224632608"/>
+    <published>2024-06-18T13:00:17+00:00</published>
   </entry>
 </feed>
