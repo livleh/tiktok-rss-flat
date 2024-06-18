@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-06-18T19:24:28+00:00</updated>
+  <updated>2024-06-18T05:23:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7379361949735193888</id>
+    <title>Es gibt eine Fanfiction über @einfachsonina und mich 🫠🫠🫠 #twitchclips #twitchde #twitchgermany</title>
+    <updated>2024-06-14T11:00:00+00:00</updated>
+    <content>Es gibt eine Fanfiction über @einfachsonina und mich 🫠🫠🫠 #twitchclips #twitchde #twitchgermany</content>
+    <link href="https://tiktok.com/@tandarok/video/7379361949735193888"/>
+    <published>2024-06-14T11:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7380621191679200545</id>
     <title>Baby steps, Leute  #reclaimtiktok #twitchclips #twitchgermany </title>
@@ -59,14 +67,6 @@
     <content>Linke in die Parteien! #reclaimtiktok #gegenrechts #diegrünen </content>
     <link href="https://tiktok.com/@tandarok/video/7381709569891863841"/>
     <published>2024-06-18T05:23:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7381926354532437280</id>
-    <title>Joa, weiß halt auch nicht ._. #mentalhealthmatters ✌️</title>
-    <updated>2024-06-18T19:24:28+00:00</updated>
-    <content>Joa, weiß halt auch nicht ._. #mentalhealthmatters ✌️</content>
-    <link href="https://tiktok.com/@tandarok/video/7381926354532437280"/>
-    <published>2024-06-18T19:24:28+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
