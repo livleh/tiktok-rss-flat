@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-06-17T21:05:05+00:00</updated>
+  <updated>2024-06-18T15:17:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7379741247336140078</id>
-    <title>being bougie in peasant class is the only way to fly 💅 #airplane #travel #travelhack #itsgonnabeme #firstclass #traveltips #travelbeauty #skincare #wine #whimsysoul</title>
-    <updated>2024-06-12T22:05:13+00:00</updated>
-    <content>being bougie in peasant class is the only way to fly 💅 #airplane #travel #travelhack #itsgonnabeme #firstclass #traveltips #travelbeauty #skincare #wine #whimsysoul</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7379741247336140078"/>
-    <published>2024-06-12T22:05:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7380811002922781994</id>
     <title>sneaky business class upgrades for the win. 🇩🇪 ✈️ I'm in Berlin this week!! Can't wait to show ya around! #berlin #germany #berliner #travel #airfrance #paris #parischarlesdegaulle #travelvlog #vlog #whimsysoul #europe </title>
@@ -67,6 +59,14 @@
     <content>long haired German girlies - how are you surviving this? I was shocked to struggle to find hair conditioner  #hair #shampoo #hairconditioner #berlin #germany #germany🇩🇪 #deutschland #berliner #berlinlife #whimsysoul #longhair #europe </content>
     <link href="https://tiktok.com/@whimsysoul/video/7381581180191247659"/>
     <published>2024-06-17T21:05:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7381862737162358058</id>
+    <title>nobody warned me THIS would be the view from our Berlin hotel room!! Its extra beautiful at night when the Berlin TV tower is all lit up!  📍 Hotel Mani in Mitte  #berlin #hotelamano #germany #berliner #berlinhotel #berlintvtower #whimsysoul </title>
+    <updated>2024-06-18T15:17:39+00:00</updated>
+    <content>nobody warned me THIS would be the view from our Berlin hotel room!! Its extra beautiful at night when the Berlin TV tower is all lit up!  📍 Hotel Mani in Mitte  #berlin #hotelamano #germany #berliner #berlinhotel #berlintvtower #whimsysoul </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7381862737162358058"/>
+    <published>2024-06-18T15:17:39+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
