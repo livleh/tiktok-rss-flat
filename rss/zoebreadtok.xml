@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-06-17T17:24:13+00:00</updated>
+  <updated>2024-06-18T17:57:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7371864848335916321</id>
-    <title>needles to say, the hard rock cafe took my money !!!!</title>
-    <updated>2024-05-22T16:40:45+00:00</updated>
-    <content>needles to say, the hard rock cafe took my money !!!!</content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7371864848335916321"/>
-    <published>2024-05-22T16:40:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7372242056049118496</id>
     <title>i am an easy to manipulate tourist ! </title>
@@ -147,5 +139,13 @@
     <content>Replying to @Tomo 5222 they got take away (which is cheaper) but then sat down with it is the gist. several morals here: 1. always be kind to people just doing their jobs  2. you never know who youre sat next to it might just be zoë bread pretending to fi</content>
     <link href="https://tiktok.com/@zoebreadtok/video/7381524274449796385"/>
     <published>2024-06-17T17:24:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7381903982018514209</id>
+    <title>some people have come frlm stoke lynn </title>
+    <updated>2024-06-18T17:57:42+00:00</updated>
+    <content>some people have come frlm stoke lynn </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7381903982018514209"/>
+    <published>2024-06-18T17:57:42+00:00</published>
   </entry>
 </feed>
