@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@melshoshahi</id>
   <title>melshoshahi</title>
-  <updated>2024-06-16T17:12:38+00:00</updated>
+  <updated>2024-06-18T16:38:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from melshoshahi</subtitle>
-  <entry>
-    <id>https://tiktok.com/@melshoshahi/video/7374447897087085870</id>
-    <title>Some of us are too hairy to get lasered, it may malfunction on us, u niooo 😅 #sketchcomedy #hairremoval #laserhairremoval #tiktokskit </title>
-    <updated>2024-05-29T15:44:18+00:00</updated>
-    <content>Some of us are too hairy to get lasered, it may malfunction on us, u niooo 😅 #sketchcomedy #hairremoval #laserhairremoval #tiktokskit </content>
-    <link href="https://tiktok.com/@melshoshahi/video/7374447897087085870"/>
-    <published>2024-05-29T15:44:18+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@melshoshahi/video/7374834036201508139</id>
-    <title>There’s always a fight at the counter over who pays 😅 #bill #tab #sketchcomedy #friends </title>
-    <updated>2024-05-30T16:42:40+00:00</updated>
-    <content>There’s always a fight at the counter over who pays 😅 #bill #tab #sketchcomedy #friends </content>
-    <link href="https://tiktok.com/@melshoshahi/video/7374834036201508139"/>
-    <published>2024-05-30T16:42:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@melshoshahi/video/7376662780365098282</id>
     <title>When you preorder the luxury bag but the shipment is missing, oh nioo 😅 part 1 #gucci #totebag #luxurybag #sketchcomedy #tiktokskit #fashion </title>
@@ -75,6 +59,14 @@
     <content>Returning items is not allowed in this store 😅 #sketchcomedy #returns #highendfashion #fashion #shopping #customerservice #tiktokskit #retail </content>
     <link href="https://tiktok.com/@melshoshahi/video/7381150083863104798"/>
     <published>2024-06-16T17:12:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@melshoshahi/video/7381883511021571358</id>
+    <title>Sometimes cell phones go missing at work 😅💅🏼 #sketchcomedy #tiktokskit #worklife #humor #fashion #hr </title>
+    <updated>2024-06-18T16:38:22+00:00</updated>
+    <content>Sometimes cell phones go missing at work 😅💅🏼 #sketchcomedy #tiktokskit #worklife #humor #fashion #hr </content>
+    <link href="https://tiktok.com/@melshoshahi/video/7381883511021571358"/>
+    <published>2024-06-18T16:38:22+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@melshoshahi/video/7282846082986462507</id>
