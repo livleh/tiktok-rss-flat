@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-06-18T17:57:42+00:00</updated>
+  <updated>2024-06-19T20:08:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7372242056049118496</id>
-    <title>i am an easy to manipulate tourist ! </title>
-    <updated>2024-05-23T17:04:28+00:00</updated>
-    <content>i am an easy to manipulate tourist ! </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7372242056049118496"/>
-    <published>2024-05-23T17:04:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7372609260695391520</id>
     <title>most fun ive ever had changing floors </title>
@@ -147,5 +139,13 @@
     <content>some people have come from stoke lynn </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7381903982018514209"/>
     <published>2024-06-18T17:57:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7382308884653804832</id>
+    <title>i would do anything for her </title>
+    <updated>2024-06-19T20:08:54+00:00</updated>
+    <content>i would do anything for her </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7382308884653804832"/>
+    <published>2024-06-19T20:08:54+00:00</published>
   </entry>
 </feed>
