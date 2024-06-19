@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-06-19T06:28:16+00:00</updated>
+  <updated>2024-06-19T21:53:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7380621191679200545</id>
-    <title>Baby steps, Leute  #reclaimtiktok #twitchclips #twitchgermany </title>
-    <updated>2024-06-15T06:59:57+00:00</updated>
-    <content>Baby steps, Leute  #reclaimtiktok #twitchclips #twitchgermany </content>
-    <link href="https://tiktok.com/@tandarok/video/7380621191679200545"/>
-    <published>2024-06-15T06:59:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7380787924234718496</id>
     <title>Antwort auf @origilina Linkes Infighting Vs. konstruktive Kritik  #reclaimtiktok #diegrünen #gegenrechts </title>
@@ -67,6 +59,14 @@
     <content>Nicht mit Rechten reden. Jedenfalls nicht öffentlich. Privat sieht das nochmal anders aus. #gegenrechts #reclaimtiktok </content>
     <link href="https://tiktok.com/@tandarok/video/7382097334726937888"/>
     <published>2024-06-19T06:28:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7382335907942124832</id>
+    <title>I needed to hear that... Und ihr vielleicht auch  #peoplepleaser #breakup </title>
+    <updated>2024-06-19T21:53:53+00:00</updated>
+    <content>I needed to hear that... Und ihr vielleicht auch  #peoplepleaser #breakup </content>
+    <link href="https://tiktok.com/@tandarok/video/7382335907942124832"/>
+    <published>2024-06-19T21:53:53+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
