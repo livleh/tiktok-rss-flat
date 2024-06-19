@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shaunadewit</id>
   <title>shaunadewit</title>
-  <updated>2024-06-18T13:10:06+00:00</updated>
+  <updated>2024-06-19T15:08:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shaunadewit</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shaunadewit/video/7374874758988467489</id>
-    <title>I can relate to this everyday #foryou #pourtoi #comedy #humor #goviral </title>
-    <updated>2024-05-30T19:20:42+00:00</updated>
-    <content>I can relate to this everyday #foryou #pourtoi #comedy #humor #goviral </content>
-    <link href="https://tiktok.com/@shaunadewit/video/7374874758988467489"/>
-    <published>2024-05-30T19:20:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/7376226350161677601</id>
     <title>#advertising Try to win those tasty @Burger King Belgium sneakers ! #giveaway #burgerkingsneakers #foryou #pourtoi #comedy #humor #goviral #burgerkinggiveaway </title>
@@ -83,6 +75,14 @@
     <content>What is summer ? #foryou #pourtoi #comedy #humor #goviral #belgium #summer </content>
     <link href="https://tiktok.com/@shaunadewit/video/7381829867148463392"/>
     <published>2024-06-18T13:10:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shaunadewit/video/7382231433466613024</id>
+    <title>A classic #foryou #pourtoi #comedy #humor #goviral </title>
+    <updated>2024-06-19T15:08:24+00:00</updated>
+    <content>A classic #foryou #pourtoi #comedy #humor #goviral </content>
+    <link href="https://tiktok.com/@shaunadewit/video/7382231433466613024"/>
+    <published>2024-06-19T15:08:24+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/6994791135415766278</id>
