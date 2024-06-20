@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-06-19T21:53:53+00:00</updated>
+  <updated>2024-06-20T06:20:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7380787924234718496</id>
-    <title>Antwort auf @origilina Linkes Infighting Vs. konstruktive Kritik  #reclaimtiktok #diegrünen #gegenrechts </title>
-    <updated>2024-06-15T17:46:50+00:00</updated>
-    <content>Antwort auf @origilina Linkes Infighting Vs. konstruktive Kritik  #reclaimtiktok #diegrünen #gegenrechts </content>
-    <link href="https://tiktok.com/@tandarok/video/7380787924234718496"/>
-    <published>2024-06-15T17:46:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7380944372814138656</id>
     <title>How time flies... Ich fühle mich so viel wohler mit der neuen Haarfarbe 🥰 #queer #transgirl #pridemonth </title>
@@ -67,6 +59,14 @@
     <content>I needed to hear that... Und ihr vielleicht auch  #peoplepleaser #breakup </content>
     <link href="https://tiktok.com/@tandarok/video/7382335907942124832"/>
     <published>2024-06-19T21:53:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7382466501871209761</id>
+    <title>Nein, wir hassen natürlich nicht alle Männer 🤡 #lesbian #bigirl #queer </title>
+    <updated>2024-06-20T06:20:43+00:00</updated>
+    <content>Nein, wir hassen natürlich nicht alle Männer 🤡 #lesbian #bigirl #queer </content>
+    <link href="https://tiktok.com/@tandarok/video/7382466501871209761"/>
+    <published>2024-06-20T06:20:43+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
