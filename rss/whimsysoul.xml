@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-06-20T08:56:03+00:00</updated>
+  <updated>2024-06-20T09:41:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7380824772340354346</id>
-    <title>Thank goodness I packed our rain jackets #berlin #germany #lol #rain #berlinsummer #berlinsummervibe  </title>
-    <updated>2024-06-15T20:09:49+00:00</updated>
-    <content>Thank goodness I packed our rain jackets #berlin #germany #lol #rain #berlinsummer #berlinsummervibe  </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7380824772340354346"/>
-    <published>2024-06-15T20:09:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7380972518880021806</id>
     <title>can someone take the Effiel Tower? I won't be in Paris this summer 🤧  #berlinwall #berlin #hottogo #chapellroan #hottogochappellroan #eastberlin #germany #visitberlin </title>
@@ -67,6 +59,14 @@
     <content>this is only 50 mins from Berlin ⬇️ Most people never make it out of Berlin and miss Potsdam, the cutest little town just ~50 minutes outside Berlin via train!! Sanssouci Palace is a stunning palace Built by Prussian King Frederick the Great as his summer</content>
     <link href="https://tiktok.com/@whimsysoul/video/7382506518991621418"/>
     <published>2024-06-20T08:56:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7382518114069794094</id>
+    <title>Replying to @IMJUSTAHOLE #europe #americans</title>
+    <updated>2024-06-20T09:41:19+00:00</updated>
+    <content>Replying to @IMJUSTAHOLE #europe #americans</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7382518114069794094"/>
+    <published>2024-06-20T09:41:19+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
