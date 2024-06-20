@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-06-20T13:24:14+00:00</updated>
+  <updated>2024-06-20T22:04:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7381579174189747487</id>
-    <title>no return offer, no problem  #tech #softwareengineer #amazon #intern #crowdwork #standupcomedy #comedy #techroastshow</title>
-    <updated>2024-06-17T20:57:32+00:00</updated>
-    <content>no return offer, no problem  #tech #softwareengineer #amazon #intern #crowdwork #standupcomedy #comedy #techroastshow</content>
-    <link href="https://tiktok.com/@techroastshow/video/7381579174189747487"/>
-    <published>2024-06-17T20:57:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7381579835971308831</id>
     <title>do better or else  #techie #softwareengineer #pip #sanfrancisco #programmerlife #roastbattle #techroastshow </title>
@@ -67,6 +59,14 @@
     <content>the third sigma   #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</content>
     <link href="https://tiktok.com/@techroastshow/video/7382575448296869151"/>
     <published>2024-06-20T13:24:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7382709824787729694</id>
+    <title>they don’t learn about @Sauce Labs in school #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #techroastshow #ad </title>
+    <updated>2024-06-20T22:04:52+00:00</updated>
+    <content>they don’t learn about @Sauce Labs in school #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #techroastshow #ad </content>
+    <link href="https://tiktok.com/@techroastshow/video/7382709824787729694"/>
+    <published>2024-06-20T22:04:52+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
