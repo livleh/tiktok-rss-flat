@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tallywyteee</id>
   <title>tallywyteee</title>
-  <updated>2024-06-17T21:27:52+00:00</updated>
+  <updated>2024-06-20T20:33:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tallywyteee</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tallywyteee/video/7377472792918265118</id>
-    <title>I need a bee movie romance fr… 😎👍🏻 #trans #transgirl #transwoman #transandproud </title>
-    <updated>2024-06-06T19:23:06+00:00</updated>
-    <content>I need a bee movie romance fr… 😎👍🏻 #trans #transgirl #transwoman #transandproud </content>
-    <link href="https://tiktok.com/@tallywyteee/video/7377472792918265118"/>
-    <published>2024-06-06T19:23:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7377838973831384350</id>
     <title>I’m getting hungry, so I hope you understand 😎🙏🏻 #trans #transwoman #transgirl #transandproud </title>
@@ -75,6 +67,14 @@
     <content>I did not expect homie to suggest such a strange idea. Thoughts? 👀💭🌟 #trans #transgender #transgirl #transandproud </content>
     <link href="https://tiktok.com/@tallywyteee/video/7381586978367704351"/>
     <published>2024-06-17T21:27:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tallywyteee/video/7382686160700673310</id>
+    <title>That would lowkey be funny af… 👀💙 #trans #transgirl #transandproud #transwoman #transgender </title>
+    <updated>2024-06-20T20:33:04+00:00</updated>
+    <content>That would lowkey be funny af… 👀💙 #trans #transgirl #transandproud #transwoman #transgender </content>
+    <link href="https://tiktok.com/@tallywyteee/video/7382686160700673310"/>
+    <published>2024-06-20T20:33:04+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7261699619762048298</id>

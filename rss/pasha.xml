@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@pasha</id>
   <title>pasha</title>
-  <updated>2024-06-19T12:16:03+00:00</updated>
+  <updated>2024-06-20T20:53:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pasha</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pasha/video/7379634902674722049</id>
-    <title>what living in Germany can do to you 😅 #german #germany #deutschland #lifeingermany #berlinvibes </title>
-    <updated>2024-06-12T15:12:33+00:00</updated>
-    <content>what living in Germany can do to you 😅 #german #germany #deutschland #lifeingermany #berlinvibes </content>
-    <link href="https://tiktok.com/@pasha/video/7379634902674722049"/>
-    <published>2024-06-12T15:12:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7380026965278887184</id>
     <title>we all know someone who went to Türkiye and came back in this state of mind (even when it was their layover) 😅 #türkiye #turkish #vacation #holiday #istanbul</title>
@@ -75,6 +67,14 @@
     <content>“dubai is so clean and safe, I love it here!” #dubai #dubai🇦🇪 #dubaitravel #uae #travel </content>
     <link href="https://tiktok.com/@pasha/video/7382187020883397904"/>
     <published>2024-06-19T12:16:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pasha/video/7382691339395173648</id>
+    <title>learning Spanish does wonders to you, so learn with @Unacademy Languages #unacademylanguages #spanish #spain #españa #español </title>
+    <updated>2024-06-20T20:53:14+00:00</updated>
+    <content>learning Spanish does wonders to you, so learn with @Unacademy Languages #unacademylanguages #spanish #spain #españa #español </content>
+    <link href="https://tiktok.com/@pasha/video/7382691339395173648"/>
+    <published>2024-06-20T20:53:14+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7044103633817980161</id>
