@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@norabinki</id>
   <title>norabinki</title>
-  <updated>2024-06-17T16:13:17+00:00</updated>
+  <updated>2024-06-20T16:09:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from norabinki</subtitle>
-  <entry>
-    <id>https://tiktok.com/@norabinki/video/7368514565618863393</id>
-    <title>Fantasy Basel 2024 @Bruzzli #schweiz #fyp #fantasy</title>
-    <updated>2024-05-13T15:59:57+00:00</updated>
-    <content>Fantasy Basel 2024 @Bruzzli #schweiz #fyp #fantasy</content>
-    <link href="https://tiktok.com/@norabinki/video/7368514565618863393"/>
-    <published>2024-05-13T15:59:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@norabinki/video/7369623513637965089</id>
     <title>Spargelfest in Fräschels? @Bruzzli #fyp #schweiz #CapCut </title>
@@ -67,6 +59,14 @@
     <content>Greenfield Festival 2024  @Bruzzli #schweiz #fyp #festival #CapCut </content>
     <link href="https://tiktok.com/@norabinki/video/7381505972914654496"/>
     <published>2024-06-17T16:13:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@norabinki/video/7382618105886887200</id>
+    <title>Palmenverbot  @Bruzzli #schweiz #fyp #CapCut </title>
+    <updated>2024-06-20T16:09:12+00:00</updated>
+    <content>Palmenverbot  @Bruzzli #schweiz #fyp #CapCut </content>
+    <link href="https://tiktok.com/@norabinki/video/7382618105886887200"/>
+    <published>2024-06-20T16:09:12+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@norabinki/video/7283544477661203745</id>
