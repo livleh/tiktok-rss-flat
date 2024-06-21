@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-06-20T15:11:28+00:00</updated>
+  <updated>2024-06-21T14:12:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7381346098243489070</id>
-    <title>why go to Westminster when you can blast London Boy on your way to Camden in the afternoon?? #taylorswift #londonboy #london #swiftie #lol #england #matchmyfreak #whimsysoul #theblackdogpub </title>
-    <updated>2024-06-17T05:52:56+00:00</updated>
-    <content>why go to Westminster when you can blast London Boy on your way to Camden in the afternoon?? #taylorswift #londonboy #london #swiftie #lol #england #matchmyfreak #whimsysoul #theblackdogpub </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7381346098243489070"/>
-    <published>2024-06-17T05:52:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7381495704834854186</id>
     <title>what I bought in Berlin #haul #berlin #berlinsouvenirs #germany #ampelmann #ampelmännchen #frautonis #parfum #frautonisparfum #berlinshopping @visitBerlin #whimsysoul </title>
@@ -67,6 +59,14 @@
     <content>like WHY are you all here? You all had to visit THIS spot today too?? Go away everyone but me please and thank you 😂 #tourist #lisbon #portugal #travelhumor #lol #whimsysoul #tourism #europe #europesummer #lisbonportugal </content>
     <link href="https://tiktok.com/@whimsysoul/video/7382603294067264814"/>
     <published>2024-06-20T15:11:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7382959177427143978</id>
+    <title>my food roman empire is this Turkish dish I had in Berlin in 2022 at Markthalle Neun. I dragged the whole family over to see if this Manti stand is still here, and it is!!! Turkish Manti is a delicious meat filled dumpling covered in a spicy tomato sauce </title>
+    <updated>2024-06-21T14:12:24+00:00</updated>
+    <content>my food roman empire is this Turkish dish I had in Berlin in 2022 at Markthalle Neun. I dragged the whole family over to see if this Manti stand is still here, and it is!!! Turkish Manti is a delicious meat filled dumpling covered in a spicy tomato sauce </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7382959177427143978"/>
+    <published>2024-06-21T14:12:24+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
