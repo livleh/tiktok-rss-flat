@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@celestialhuntress</id>
   <title>celestialhuntress</title>
-  <updated>2024-04-03T21:43:13+00:00</updated>
+  <updated>2024-06-21T22:59:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from celestialhuntress</subtitle>
-  <entry>
-    <id>https://tiktok.com/@celestialhuntress/video/7336719894035189034</id>
-    <title>No Title</title>
-    <updated>2024-02-17T23:40:46+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@celestialhuntress/video/7336719894035189034"/>
-    <published>2024-02-17T23:40:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@celestialhuntress/video/7342681718853471534</id>
     <title>No Title</title>
@@ -91,5 +83,13 @@
     <content>Like babes if I, the queen of forgetting meds, can do it so can you #transgender #genderfluid #transfemme </content>
     <link href="https://tiktok.com/@celestialhuntress/video/7353759518720904490"/>
     <published>2024-04-03T21:43:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@celestialhuntress/video/7383094948599483691</id>
+    <title>Honestly kinda forgot i even made content #transgender #genderfluid #transfemme </title>
+    <updated>2024-06-21T22:59:14+00:00</updated>
+    <content>Honestly kinda forgot i even made content #transgender #genderfluid #transfemme </content>
+    <link href="https://tiktok.com/@celestialhuntress/video/7383094948599483691"/>
+    <published>2024-06-21T22:59:14+00:00</published>
   </entry>
 </feed>
