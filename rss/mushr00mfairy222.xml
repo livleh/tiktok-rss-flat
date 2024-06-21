@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-06-21T12:02:25+00:00</updated>
+  <updated>2024-06-21T12:43:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7382603698020617504</id>
-    <title>just laugh it off #autism #adhd #neurodivergent </title>
-    <updated>2024-06-20T15:12:58+00:00</updated>
-    <content>just laugh it off #autism #adhd #neurodivergent </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7382603698020617504"/>
-    <published>2024-06-20T15:12:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7382605592419929376</id>
     <title>TOMORROW #erastour #swiftie </title>
@@ -67,6 +59,14 @@
     <content>SEE U SOON TAYLOR #erastour </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7382925676019567905"/>
     <published>2024-06-21T12:02:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7382936246097693985</id>
+    <title>getaway car #erastour #swiftie </title>
+    <updated>2024-06-21T12:43:26+00:00</updated>
+    <content>getaway car #erastour #swiftie </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7382936246097693985"/>
+    <published>2024-06-21T12:43:26+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
