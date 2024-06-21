@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-06-20T06:20:43+00:00</updated>
+  <updated>2024-06-21T06:14:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7380944372814138656</id>
-    <title>How time flies... Ich fühle mich so viel wohler mit der neuen Haarfarbe 🥰 #queer #transgirl #pridemonth </title>
-    <updated>2024-06-16T03:54:45+00:00</updated>
-    <content>How time flies... Ich fühle mich so viel wohler mit der neuen Haarfarbe 🥰 #queer #transgirl #pridemonth </content>
-    <link href="https://tiktok.com/@tandarok/video/7380944372814138656"/>
-    <published>2024-06-16T03:54:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7381199403693935904</id>
     <title>#itgetsbetter </title>
@@ -67,6 +59,14 @@
     <content>Nein, wir hassen natürlich nicht alle Männer 🤡 #lesbian #bigirl #queer </content>
     <link href="https://tiktok.com/@tandarok/video/7382466501871209761"/>
     <published>2024-06-20T06:20:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7382835916915641633</id>
+    <title>Rein ästhetische Anziehung. Was denn sonst? 🤡 Selbst als ich dann schon Aufklärungsarbeit zu queeren Themen (und eben verschiedenen Arten der Anziehung) gemacht habe, hatte ich meine eigene Queerness nie verstanden. Meine Anziehung zu Frauen hat erst Sinn</title>
+    <updated>2024-06-21T06:14:07+00:00</updated>
+    <content>Rein ästhetische Anziehung. Was denn sonst? 🤡 Selbst als ich dann schon Aufklärungsarbeit zu queeren Themen (und eben verschiedenen Arten der Anziehung) gemacht habe, hatte ich meine eigene Queerness nie verstanden. Meine Anziehung zu Frauen hat erst Sinn</content>
+    <link href="https://tiktok.com/@tandarok/video/7382835916915641633"/>
+    <published>2024-06-21T06:14:07+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
