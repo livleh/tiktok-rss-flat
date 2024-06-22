@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-06-12T04:18:46+00:00</updated>
+  <updated>2024-06-22T11:30:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7353470778706332936</id>
-    <title>I guess I just wanted to fit in 😔 I am drinking a lot more water tho 👍🏼 </title>
-    <updated>2024-04-03T03:02:24+00:00</updated>
-    <content>I guess I just wanted to fit in 😔 I am drinking a lot more water tho 👍🏼 </content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7353470778706332936"/>
-    <published>2024-04-03T03:02:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7354654331343342856</id>
     <title>When one door closes, another one opens.</title>
@@ -107,5 +99,13 @@
     <content>PSA: When you know you need to get out of a toxic situation, but life on your own seems way scarier, building your independence back up is the key to freedom!</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7379466439960317192"/>
     <published>2024-06-12T04:18:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7383288417376931093</id>
+    <title>No Title</title>
+    <updated>2024-06-22T11:30:07+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7383288417376931093"/>
+    <published>2024-06-22T11:30:07+00:00</published>
   </entry>
 </feed>
