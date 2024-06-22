@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-06-21T14:12:24+00:00</updated>
+  <updated>2024-06-22T06:35:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7381495704834854186</id>
-    <title>what I bought in Berlin #haul #berlin #berlinsouvenirs #germany #ampelmann #ampelmännchen #frautonis #parfum #frautonisparfum #berlinshopping @visitBerlin #whimsysoul </title>
-    <updated>2024-06-17T15:33:26+00:00</updated>
-    <content>what I bought in Berlin #haul #berlin #berlinsouvenirs #germany #ampelmann #ampelmännchen #frautonis #parfum #frautonisparfum #berlinshopping @visitBerlin #whimsysoul </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7381495704834854186"/>
-    <published>2024-06-17T15:33:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7381581180191247659</id>
     <title>long haired German girlies - how are you surviving this? I was shocked to struggle to find hair conditioner  #hair #shampoo #hairconditioner #berlin #germany #germany🇩🇪 #deutschland #berliner #berlinlife #whimsysoul #longhair #europe </title>
@@ -67,6 +59,14 @@
     <content>my food roman empire is this Turkish dish I had in Berlin in 2022 at Markthalle Neun. I dragged the whole family over to see if this Manti stand is still here, and it is!!! Turkish Manti is a delicious meat filled dumpling covered in a spicy tomato sauce </content>
     <link href="https://tiktok.com/@whimsysoul/video/7382959177427143978"/>
     <published>2024-06-21T14:12:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7383212590228409646</id>
+    <title>thank god he married a Type A Virgo 💅 ✈️ who else can relate? ⭐️ follow me for more relatable travel stories ⭐️  #travel #travelhumor #goldenretrieverhusband #airplane #travelplanner #airport #whimsysoul #lol #travellife </title>
+    <updated>2024-06-22T06:35:52+00:00</updated>
+    <content>thank god he married a Type A Virgo 💅 ✈️ who else can relate? ⭐️ follow me for more relatable travel stories ⭐️  #travel #travelhumor #goldenretrieverhusband #airplane #travelplanner #airport #whimsysoul #lol #travellife </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7383212590228409646"/>
+    <published>2024-06-22T06:35:52+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
