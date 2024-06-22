@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@celestialhuntress</id>
   <title>celestialhuntress</title>
-  <updated>2024-06-21T22:59:14+00:00</updated>
+  <updated>2024-06-21T23:55:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from celestialhuntress</subtitle>
-  <entry>
-    <id>https://tiktok.com/@celestialhuntress/video/7342681718853471534</id>
-    <title>No Title</title>
-    <updated>2024-03-05T01:15:38+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@celestialhuntress/video/7342681718853471534"/>
-    <published>2024-03-05T01:15:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@celestialhuntress/video/7343069687913221418</id>
     <title>Can yall tell that im slowly losing it? One of them asked what it was like to be in my forties… #transgender #genderfluid #transfemme </title>
@@ -91,5 +83,13 @@
     <content>Honestly kinda forgot i even made content #transgender #genderfluid #transfemme </content>
     <link href="https://tiktok.com/@celestialhuntress/video/7383094948599483691"/>
     <published>2024-06-21T22:59:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@celestialhuntress/video/7383109335968271659</id>
+    <title>Thats $40 more than i have, what the fuck </title>
+    <updated>2024-06-21T23:55:07+00:00</updated>
+    <content>Thats $40 more than i have, what the fuck </content>
+    <link href="https://tiktok.com/@celestialhuntress/video/7383109335968271659"/>
+    <published>2024-06-21T23:55:07+00:00</published>
   </entry>
 </feed>

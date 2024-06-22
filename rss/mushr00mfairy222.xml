@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-06-21T12:43:26+00:00</updated>
+  <updated>2024-06-22T00:34:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7382605592419929376</id>
-    <title>TOMORROW #erastour #swiftie </title>
-    <updated>2024-06-20T15:20:20+00:00</updated>
-    <content>TOMORROW #erastour #swiftie </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7382605592419929376"/>
-    <published>2024-06-20T15:20:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7382614862817463584</id>
-    <title>done some silly things #aurorapoints #trend </title>
-    <updated>2024-06-20T15:56:18+00:00</updated>
-    <content>done some silly things #aurorapoints #trend </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7382614862817463584"/>
-    <published>2024-06-20T15:56:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7382617250362084640</id>
     <title>cant wait to give them out / trade :) #erastour #friendshipbracelets </title>
@@ -67,6 +51,22 @@
     <content>getaway car #erastour #swiftie </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7382936246097693985"/>
     <published>2024-06-21T12:43:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7383116422425120032</id>
+    <title>only qued like 15 mins </title>
+    <updated>2024-06-22T00:22:50+00:00</updated>
+    <content>only qued like 15 mins </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7383116422425120032"/>
+    <published>2024-06-22T00:22:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7383119496699006241</id>
+    <title>WANNA RELIVE TONIGHT #erastour #swiftie </title>
+    <updated>2024-06-22T00:34:57+00:00</updated>
+    <content>WANNA RELIVE TONIGHT #erastour #swiftie </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7383119496699006241"/>
+    <published>2024-06-22T00:34:57+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>

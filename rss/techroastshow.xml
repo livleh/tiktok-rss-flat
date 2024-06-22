@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-06-21T14:28:05+00:00</updated>
+  <updated>2024-06-22T00:42:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7381818498269351198</id>
-    <title>peak capitalism vision test  #tech #softwareengineer #amazon #intern #crowdwork #standupcomedy #comedy #startuplife #techroastshow</title>
-    <updated>2024-06-18T12:26:09+00:00</updated>
-    <content>peak capitalism vision test  #tech #softwareengineer #amazon #intern #crowdwork #standupcomedy #comedy #startuplife #techroastshow</content>
-    <link href="https://tiktok.com/@techroastshow/video/7381818498269351198"/>
-    <published>2024-06-18T12:26:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7381947963175652638</id>
     <title>Aaron answers techie questions  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </title>
@@ -67,6 +59,14 @@
     <content>Web365  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </content>
     <link href="https://tiktok.com/@techroastshow/video/7382963195352255774"/>
     <published>2024-06-21T14:28:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7383121518974225694</id>
+    <title>age is an imaginary number  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</title>
+    <updated>2024-06-22T00:42:35+00:00</updated>
+    <content>age is an imaginary number  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</content>
+    <link href="https://tiktok.com/@techroastshow/video/7383121518974225694"/>
+    <published>2024-06-22T00:42:35+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
