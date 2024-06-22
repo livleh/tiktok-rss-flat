@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@starryribbons</id>
   <title>starryribbons</title>
-  <updated>2024-06-14T18:13:29+00:00</updated>
+  <updated>2024-06-22T20:40:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from starryribbons</subtitle>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7378160885115768097</id>
-    <title>the eclipse you‘ll always be famous to me #coquettecore #digitaldiary #taylorswifttok #fangirling #wlw #ao3 #fanfic #academicvalidation </title>
-    <updated>2024-06-08T15:52:34+00:00</updated>
-    <content>the eclipse you‘ll always be famous to me #coquettecore #digitaldiary #taylorswifttok #fangirling #wlw #ao3 #fanfic #academicvalidation </content>
-    <link href="https://tiktok.com/@starryribbons/video/7378160885115768097"/>
-    <published>2024-06-08T15:52:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7378223040565497120</id>
-    <title>we‘re so strawberry + raspberry but don‘t tell her I said that 🙄 #coquettecore #digitaldiary #wlw #taylorswifttok #mentalhealth #friendship #nana @stars4hachiko </title>
-    <updated>2024-06-08T19:53:46+00:00</updated>
-    <content>we‘re so strawberry + raspberry but don‘t tell her I said that 🙄 #coquettecore #digitaldiary #wlw #taylorswifttok #mentalhealth #friendship #nana @stars4hachiko </content>
-    <link href="https://tiktok.com/@starryribbons/video/7378223040565497120"/>
-    <published>2024-06-08T19:53:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7378228408389504288</id>
     <title>inspired by the lovely @ellie ౨ৎ !! #coquettecore #digitaldiary #mentalhealth #abuseawareness #recoverytok #wlw </title>
@@ -83,6 +67,22 @@
     <content>if I start collecting sv figures its over #coquettecore #digitaldiary #roomdecor #aesthetic #shoujo #sanrio #femlesbian #wlw </content>
     <link href="https://tiktok.com/@starryribbons/video/7380423715181301025"/>
     <published>2024-06-14T18:13:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7383427869067758880</id>
+    <title>I read ao3 like its the morning news paper #coquettecore #digitaldiary #femlesbian #fangirling #fanfiction #ao3 #wlw #fandom </title>
+    <updated>2024-06-22T20:31:12+00:00</updated>
+    <content>I read ao3 like its the morning news paper #coquettecore #digitaldiary #femlesbian #fangirling #fanfiction #ao3 #wlw #fandom </content>
+    <link href="https://tiktok.com/@starryribbons/video/7383427869067758880"/>
+    <published>2024-06-22T20:31:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7383430190380125473</id>
+    <title>did i mention before that i lovr cassandra #coquettecore #digitaldiary #taylorswift #ttpd #abuseawareness #wlw #cassandra </title>
+    <updated>2024-06-22T20:40:11+00:00</updated>
+    <content>did i mention before that i lovr cassandra #coquettecore #digitaldiary #taylorswift #ttpd #abuseawareness #wlw #cassandra </content>
+    <link href="https://tiktok.com/@starryribbons/video/7383430190380125473"/>
+    <published>2024-06-22T20:40:11+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7285761406664854817</id>
