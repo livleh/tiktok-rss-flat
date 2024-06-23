@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-06-20T17:44:43+00:00</updated>
+  <updated>2024-06-23T17:36:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7373369122756758816</id>
-    <title>couldnt resist. id go every day if i lived in berlin </title>
-    <updated>2024-05-26T17:58:05+00:00</updated>
-    <content>couldnt resist. id go every day if i lived in berlin </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7373369122756758816"/>
-    <published>2024-05-26T17:58:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7374121181202468129</id>
     <title>Replying to @MagsThatchertheCumSnatcher a vote for mary is a vote for slides </title>
@@ -147,5 +139,13 @@
     <content>i got this idea from reading my old ideas </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7382642799444872480"/>
     <published>2024-06-20T17:44:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7383753834478325024</id>
+    <title>i have been secretly making this for so long !!! the next video i upload will hopefully be my music video and song, but i still havent finished the video and the song is being mixed!  also since all the music has now been recorded and isnt ripped straight</title>
+    <updated>2024-06-23T17:36:08+00:00</updated>
+    <content>i have been secretly making this for so long !!! the next video i upload will hopefully be my music video and song, but i still havent finished the video and the song is being mixed!  also since all the music has now been recorded and isnt ripped straight</content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7383753834478325024"/>
+    <published>2024-06-23T17:36:08+00:00</published>
   </entry>
 </feed>
