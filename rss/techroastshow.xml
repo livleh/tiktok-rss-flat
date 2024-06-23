@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-06-22T00:42:35+00:00</updated>
+  <updated>2024-06-23T13:03:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7381947963175652638</id>
-    <title>Aaron answers techie questions  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </title>
-    <updated>2024-06-18T20:48:27+00:00</updated>
-    <content>Aaron answers techie questions  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </content>
-    <link href="https://tiktok.com/@techroastshow/video/7381947963175652638"/>
-    <published>2024-06-18T20:48:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7382208736925928734</id>
     <title>💰🤑 #techie #softwareengineer #newyork #nyc #programmerlife #roastbattle #darkhumor #techroastshow </title>
@@ -67,6 +59,14 @@
     <content>age is an imaginary number  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</content>
     <link href="https://tiktok.com/@techroastshow/video/7383121518974225694"/>
     <published>2024-06-22T00:42:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7383683212788256031</id>
+    <title>and for that, I’m out  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </title>
+    <updated>2024-06-23T13:03:13+00:00</updated>
+    <content>and for that, I’m out  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </content>
+    <link href="https://tiktok.com/@techroastshow/video/7383683212788256031"/>
+    <published>2024-06-23T13:03:13+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>

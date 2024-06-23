@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ramalauw</id>
   <title>ramalauw</title>
-  <updated>2024-06-19T17:21:45+00:00</updated>
+  <updated>2024-06-23T12:54:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ramalauw</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ramalauw/video/7376716397566627104</id>
-    <title>Should we call our landlord and tell him our ✨inner niños✨ don’t want to pay rent? 🤭🥰💅🙈🤪 #roommates #therapy #therapytalk #mentalhealth #skit #fyp #foryou #genz #tiktokusa </title>
-    <updated>2024-06-04T18:27:15+00:00</updated>
-    <content>Should we call our landlord and tell him our ✨inner niños✨ don’t want to pay rent? 🤭🥰💅🙈🤪 #roommates #therapy #therapytalk #mentalhealth #skit #fyp #foryou #genz #tiktokusa </content>
-    <link href="https://tiktok.com/@ramalauw/video/7376716397566627104"/>
-    <published>2024-06-04T18:27:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7377040585443642657</id>
     <title>Even the animals can’t resist my ✨better than everyone✨ charm 🥺🤭🙈💃✨ #BetterThanEveryone #BTEFace #maincharacter #delulu </title>
@@ -67,6 +59,14 @@
     <content>As a kid, I used to be scared of ghosts. Now, I'm scared of responsibilities 😰😔🤡</content>
     <link href="https://tiktok.com/@ramalauw/video/7382265789899951393"/>
     <published>2024-06-19T17:21:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ramalauw/video/7383681304602135841</id>
+    <title>I feel like my Joy is not fighting hard enough for me 🥲🤡 #InsideOut2</title>
+    <updated>2024-06-23T12:54:40+00:00</updated>
+    <content>I feel like my Joy is not fighting hard enough for me 🥲🤡 #InsideOut2</content>
+    <link href="https://tiktok.com/@ramalauw/video/7383681304602135841"/>
+    <published>2024-06-23T12:54:40+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7270903343638187297</id>
