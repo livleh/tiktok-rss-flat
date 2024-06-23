@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-06-22T06:35:52+00:00</updated>
+  <updated>2024-06-23T08:08:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7381581180191247659</id>
-    <title>long haired German girlies - how are you surviving this? I was shocked to struggle to find hair conditioner  #hair #shampoo #hairconditioner #berlin #germany #germany🇩🇪 #deutschland #berliner #berlinlife #whimsysoul #longhair #europe </title>
-    <updated>2024-06-17T21:05:05+00:00</updated>
-    <content>long haired German girlies - how are you surviving this? I was shocked to struggle to find hair conditioner  #hair #shampoo #hairconditioner #berlin #germany #germany🇩🇪 #deutschland #berliner #berlinlife #whimsysoul #longhair #europe </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7381581180191247659"/>
-    <published>2024-06-17T21:05:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7381862737162358058</id>
     <title>nobody warned me THIS would be the view from our Berlin hotel room!! Its extra beautiful at night when the Berlin TV tower is all lit up!  📍 Hotel Mani in Mitte  #berlin #hotelamano #germany #berliner #berlinhotel #berlintvtower #whimsysoul </title>
@@ -67,6 +59,14 @@
     <content>thank god he married a Type A Virgo 💅 ✈️ who else can relate? ⭐️ follow me for more relatable travel stories ⭐️  #travel #travelhumor #goldenretrieverhusband #airplane #travelplanner #airport #whimsysoul #lol #travellife </content>
     <link href="https://tiktok.com/@whimsysoul/video/7383212590228409646"/>
     <published>2024-06-22T06:35:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7383607576535125290</id>
+    <title>Which one are you?? 🫣 i find it so hard to sleep in on trips, i wanna see everythinggg! Follow me for more relatable travel content!  #travel #husbandandwife #lol #travelhumor #earlybird #traveltips #lisbon</title>
+    <updated>2024-06-23T08:08:47+00:00</updated>
+    <content>Which one are you?? 🫣 i find it so hard to sleep in on trips, i wanna see everythinggg! Follow me for more relatable travel content!  #travel #husbandandwife #lol #travelhumor #earlybird #traveltips #lisbon</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7383607576535125290"/>
+    <published>2024-06-23T08:08:47+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
