@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-06-23T11:50:33+00:00</updated>
+  <updated>2024-06-23T13:35:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7382506518991621418</id>
-    <title>this is only 50 mins from Berlin ⬇️ Most people never make it out of Berlin and miss Potsdam, the cutest little town just ~50 minutes outside Berlin via train!! Sanssouci Palace is a stunning palace Built by Prussian King Frederick the Great as his summer</title>
-    <updated>2024-06-20T08:56:03+00:00</updated>
-    <content>this is only 50 mins from Berlin ⬇️ Most people never make it out of Berlin and miss Potsdam, the cutest little town just ~50 minutes outside Berlin via train!! Sanssouci Palace is a stunning palace Built by Prussian King Frederick the Great as his summer</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7382506518991621418"/>
-    <published>2024-06-20T08:56:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7382518114069794094</id>
     <title>Replying to @IMJUSTAHOLE #europe #americans</title>
@@ -67,6 +59,14 @@
     <content>best Berlin summer dinner spot if you like drinks &amp; dance ⬇️  Strandbar Mitte is THE place to be on a sunny summer evening in Berlin. It's an outdoor dance hall / bar / pizza joint right along the Spree.  Totally free to come and dance, the music changes </content>
     <link href="https://tiktok.com/@whimsysoul/video/7383664698895519018"/>
     <published>2024-06-23T11:50:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7383691806598499630</id>
+    <title>hello from Lisbon 👋 here all week with @Flodesk on a creator trip! #flodesk #lisbon #portugal #emailmarketing #affiliates #influencermarketing #portugaltiktok #lisbonportugal #whimsysoul #vlog #influencertrip </title>
+    <updated>2024-06-23T13:35:33+00:00</updated>
+    <content>hello from Lisbon 👋 here all week with @Flodesk on a creator trip! #flodesk #lisbon #portugal #emailmarketing #affiliates #influencermarketing #portugaltiktok #lisbonportugal #whimsysoul #vlog #influencertrip </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7383691806598499630"/>
+    <published>2024-06-23T13:35:33+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
