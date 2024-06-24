@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-06-23T14:51:32+00:00</updated>
+  <updated>2024-06-24T12:50:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7375534496654822689</id>
-    <title>MEN WANT A MOMMY NOT A WIFE #vtuber</title>
-    <updated>2024-06-06T13:00:00+00:00</updated>
-    <content>MEN WANT A MOMMY NOT A WIFE #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7375534496654822689"/>
-    <published>2024-06-06T13:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7375534659343600929</id>
     <title>PUBERTY DOES IRREVERSIBLE HARM #vtuber</title>
@@ -155,5 +147,13 @@
     <content>FEELING BAD FOR FEMBOYS #vtuber </content>
     <link href="https://tiktok.com/@nyaravt/video/7383711433265073441"/>
     <published>2024-06-23T14:51:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7384051352432905504</id>
+    <title>NOT TRANS ENOUGH?? #vtuber </title>
+    <updated>2024-06-24T12:50:39+00:00</updated>
+    <content>NOT TRANS ENOUGH?? #vtuber </content>
+    <link href="https://tiktok.com/@nyaravt/video/7384051352432905504"/>
+    <published>2024-06-24T12:50:39+00:00</published>
   </entry>
 </feed>
