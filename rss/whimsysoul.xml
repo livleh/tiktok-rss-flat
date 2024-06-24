@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-06-23T21:18:39+00:00</updated>
+  <updated>2024-06-24T07:02:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7382603294067264814</id>
-    <title>like WHY are you all here? You all had to visit THIS spot today too?? Go away everyone but me please and thank you 😂 #tourist #lisbon #portugal #travelhumor #lol #whimsysoul #tourism #europe #europesummer #lisbonportugal </title>
-    <updated>2024-06-20T15:11:28+00:00</updated>
-    <content>like WHY are you all here? You all had to visit THIS spot today too?? Go away everyone but me please and thank you 😂 #tourist #lisbon #portugal #travelhumor #lol #whimsysoul #tourism #europe #europesummer #lisbonportugal </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7382603294067264814"/>
-    <published>2024-06-20T15:11:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7382959177427143978</id>
     <title>my food roman empire is this Turkish dish I had in Berlin in 2022 at Markthalle Neun. I dragged the whole family over to see if this Manti stand is still here, and it is!!! Turkish Manti is a delicious meat filled dumpling covered in a spicy tomato sauce </title>
@@ -67,6 +59,14 @@
     <content>a local's San Francisco guide ⬇️ 9 epic spots you can't miss... Except THIS IS NOT SAN FRANCISCO. This is Lisbon, Portugal!! 🇵🇹🇵🇹🇵🇹 Isn't it WILD how similar these two cities are?? I'm in Lisbon right now but... I could swear I didn't actually leave Calif</content>
     <link href="https://tiktok.com/@whimsysoul/video/7383811195188350254"/>
     <published>2024-06-23T21:18:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7383961694319709486</id>
+    <title>I gasped outloud when i saw this place IRL. The hallways look like Hogwarts but the whimiscal detailing makes it feel Arabian. Mosteiro dos Jerónimos and Belem Tower are stunning pieces of history in Lisbon, Portugal that you can't miss!! #lisbon #portuga</title>
+    <updated>2024-06-24T07:02:50+00:00</updated>
+    <content>I gasped outloud when i saw this place IRL. The hallways look like Hogwarts but the whimiscal detailing makes it feel Arabian. Mosteiro dos Jerónimos and Belem Tower are stunning pieces of history in Lisbon, Portugal that you can't miss!! #lisbon #portuga</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7383961694319709486"/>
+    <published>2024-06-24T07:02:50+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
