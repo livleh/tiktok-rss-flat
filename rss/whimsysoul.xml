@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-06-24T07:02:50+00:00</updated>
+  <updated>2024-06-24T15:34:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7382959177427143978</id>
-    <title>my food roman empire is this Turkish dish I had in Berlin in 2022 at Markthalle Neun. I dragged the whole family over to see if this Manti stand is still here, and it is!!! Turkish Manti is a delicious meat filled dumpling covered in a spicy tomato sauce </title>
-    <updated>2024-06-21T14:12:24+00:00</updated>
-    <content>my food roman empire is this Turkish dish I had in Berlin in 2022 at Markthalle Neun. I dragged the whole family over to see if this Manti stand is still here, and it is!!! Turkish Manti is a delicious meat filled dumpling covered in a spicy tomato sauce </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7382959177427143978"/>
-    <published>2024-06-21T14:12:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7383212590228409646</id>
     <title>thank god he married a Type A Virgo 💅 ✈️ who else can relate? ⭐️ follow me for more relatable travel stories ⭐️  #travel #travelhumor #goldenretrieverhusband #airplane #travelplanner #airport #whimsysoul #lol #travellife </title>
@@ -67,6 +59,14 @@
     <content>I gasped outloud when i saw this place IRL. The hallways look like Hogwarts but the whimiscal detailing makes it feel Arabian. Mosteiro dos Jerónimos and Belem Tower are stunning pieces of history in Lisbon, Portugal that you can't miss!! #lisbon #portuga</content>
     <link href="https://tiktok.com/@whimsysoul/video/7383961694319709486"/>
     <published>2024-06-24T07:02:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7384093570115833130</id>
+    <title>SAN FRANCISCO Pride Guide ⬇️🌈 SF is THE place to celebrate Pride!!! It's one of my favorite times to be in the city and seeing everyone out with silly grins on their faces, wearing the best outfits, dancing, spreading love and enjoying life.  There's alwa</title>
+    <updated>2024-06-24T15:34:28+00:00</updated>
+    <content>SAN FRANCISCO Pride Guide ⬇️🌈 SF is THE place to celebrate Pride!!! It's one of my favorite times to be in the city and seeing everyone out with silly grins on their faces, wearing the best outfits, dancing, spreading love and enjoying life.  There's alwa</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7384093570115833130"/>
+    <published>2024-06-24T15:34:28+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
