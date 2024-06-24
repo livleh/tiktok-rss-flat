@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@danielryanspaulding</id>
   <title>danielryanspaulding</title>
-  <updated>2024-06-21T20:05:36+00:00</updated>
+  <updated>2024-06-24T17:12:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from danielryanspaulding</subtitle>
-  <entry>
-    <id>https://tiktok.com/@danielryanspaulding/video/7378901794564492577</id>
-    <title>Noa Argamani was kidnapped by a terrorist organization &amp; held captive in Gaza by an Al Jazeera journalist. Al Jazeera is a Qatari news agency working in collaboration with the Islamic Republic of Iran to spread lies &amp; distortions about Israel &amp; the war. @</title>
-    <updated>2024-06-10T15:48:13+00:00</updated>
-    <content>Noa Argamani was kidnapped by a terrorist organization &amp; held captive in Gaza by an Al Jazeera journalist. Al Jazeera is a Qatari news agency working in collaboration with the Islamic Republic of Iran to spread lies &amp; distortions about Israel &amp; the war. @</content>
-    <link href="https://tiktok.com/@danielryanspaulding/video/7378901794564492577"/>
-    <published>2024-06-10T15:48:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@danielryanspaulding/video/7379358734255934752</id>
     <title>This is the Ideological subversion of the west through Antizionism — explained from Jon Stewart’s monologue about Iran bombing Israel. Jon scapegoated Israel for US domestic problems &amp; got his audience to cheer on the potential mass murder of millions. Th</title>
@@ -91,5 +83,13 @@
     <content>Cute Gay Guys are going save the Jewish nation &amp; Western civilization! My full talk with Fabian Maamari @fabian_maamari will be up later this weekend! He’s Lebanese Christian 🇱🇧 &amp; moved to Israel 🇮🇱 cause he fell in love with a nice Israeli Jewish guy! Th</content>
     <link href="https://tiktok.com/@danielryanspaulding/video/7383050197024116000"/>
     <published>2024-06-21T20:05:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@danielryanspaulding/video/7384118840889756961</id>
+    <title>Im with @billmaher This Is America 🇺🇸 NO ONE GETS TO BE A NAZI! We are ALL fundamentally against Nazis. From the extreme right like David Duke — to these stupid Marxist Jihadist Indoctrinated Social Justice Warriors being puppets for the Ayatollah! I love</title>
+    <updated>2024-06-24T17:12:29+00:00</updated>
+    <content>Im with @billmaher This Is America 🇺🇸 NO ONE GETS TO BE A NAZI! We are ALL fundamentally against Nazis. From the extreme right like David Duke — to these stupid Marxist Jihadist Indoctrinated Social Justice Warriors being puppets for the Ayatollah! I love</content>
+    <link href="https://tiktok.com/@danielryanspaulding/video/7384118840889756961"/>
+    <published>2024-06-24T17:12:29+00:00</published>
   </entry>
 </feed>
