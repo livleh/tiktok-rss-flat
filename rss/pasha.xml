@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@pasha</id>
   <title>pasha</title>
-  <updated>2024-06-21T11:54:53+00:00</updated>
+  <updated>2024-06-25T12:31:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pasha</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pasha/video/7380358111753702657</id>
-    <title>choose your own destiny, choose to shine - MYSLF eau de parfum gives you confidence that radiates @YSL Beauty #yslbeauty #careertiktok #corporate #giftedbyyslbeauty </title>
-    <updated>2024-06-14T13:58:54+00:00</updated>
-    <content>choose your own destiny, choose to shine - MYSLF eau de parfum gives you confidence that radiates @YSL Beauty #yslbeauty #careertiktok #corporate #giftedbyyslbeauty </content>
-    <link href="https://tiktok.com/@pasha/video/7380358111753702657"/>
-    <published>2024-06-14T13:58:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7380753871632731409</id>
     <title>this stare is the best way for you to know if an Eastern European approves of your fashion or outfits #easterneuropean #slavic #easterneuropeancomedy </title>
@@ -75,6 +67,14 @@
     <content>plastic bottles with caps that are not attached after opening are just one of the many new quirky Europe things ☺️ #europe #cultureshock #americansineurope </content>
     <link href="https://tiktok.com/@pasha/video/7382923744026643729"/>
     <published>2024-06-21T11:54:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pasha/video/7384417402563398928</id>
+    <title>whole city is a bike lane ☺️ #dutch #netherlands #amsterdam #lifeinamsterdam #nederland #netherlands🇳🇱 #amsterdamtiktok </title>
+    <updated>2024-06-25T12:31:03+00:00</updated>
+    <content>whole city is a bike lane ☺️ #dutch #netherlands #amsterdam #lifeinamsterdam #nederland #netherlands🇳🇱 #amsterdamtiktok </content>
+    <link href="https://tiktok.com/@pasha/video/7384417402563398928"/>
+    <published>2024-06-25T12:31:03+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7044103633817980161</id>
