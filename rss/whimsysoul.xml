@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-06-24T17:09:24+00:00</updated>
+  <updated>2024-06-25T06:44:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7383664698895519018</id>
-    <title>best Berlin summer dinner spot if you like drinks &amp; dance ⬇️  Strandbar Mitte is THE place to be on a sunny summer evening in Berlin. It's an outdoor dance hall / bar / pizza joint right along the Spree.  Totally free to come and dance, the music changes </title>
-    <updated>2024-06-23T11:50:33+00:00</updated>
-    <content>best Berlin summer dinner spot if you like drinks &amp; dance ⬇️  Strandbar Mitte is THE place to be on a sunny summer evening in Berlin. It's an outdoor dance hall / bar / pizza joint right along the Spree.  Totally free to come and dance, the music changes </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7383664698895519018"/>
-    <published>2024-06-23T11:50:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7383691806598499630</id>
     <title>hello from Lisbon 👋 here all week with @Flodesk on a creator trip! #flodesk #lisbon #portugal #emailmarketing #affiliates #influencermarketing #portugaltiktok #lisbonportugal #whimsysoul #vlog #influencertrip </title>
@@ -67,6 +59,14 @@
     <content>surprise knock on the hotel door! wanna see what's in this bag with me? Im in Lisbon with @Flodesk this week -follow along to see what they have planned for us (and if you want to try flodesk out you can do a free trial &amp; get 50% off a year with my link i</content>
     <link href="https://tiktok.com/@whimsysoul/video/7384118041417747755"/>
     <published>2024-06-24T17:09:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7384327952768568618</id>
+    <title>looking for the best meal in Lisbon? It's here 🦪🦪🦪  📍 Rosamar  #lisbon #portugal #lisbonfoodie #lisbonfoodguide #portugalfood #lisbontravel #lisbontips #whimsysoul #oysters </title>
+    <updated>2024-06-25T06:44:08+00:00</updated>
+    <content>looking for the best meal in Lisbon? It's here 🦪🦪🦪  📍 Rosamar  #lisbon #portugal #lisbonfoodie #lisbonfoodguide #portugalfood #lisbontravel #lisbontips #whimsysoul #oysters </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7384327952768568618"/>
+    <published>2024-06-25T06:44:08+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
