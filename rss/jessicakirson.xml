@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-06-24T23:02:41+00:00</updated>
+  <updated>2024-06-25T22:41:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7380735350043430175</id>
-    <title>Minnie Assaulted Me 😂 #timesquare #nyc #funny </title>
-    <updated>2024-06-15T14:23:34+00:00</updated>
-    <content>Minnie Assaulted Me 😂 #timesquare #nyc #funny </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7380735350043430175"/>
-    <published>2024-06-15T14:23:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7381218975910317342</id>
     <title>Lesbians Love A Vet  #veterinarian #lesbiansoftiktok #cats </title>
@@ -83,6 +75,14 @@
     <content>I tried to get them to date.  #fypage #dating #meetcute </content>
     <link href="https://tiktok.com/@jessicakirson/video/7384208982308687134"/>
     <published>2024-06-24T23:02:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7384574728213761310</id>
+    <title>Retired Mental Health Nurse has lasting effects 😅 #mentalhealth #nurse #psych</title>
+    <updated>2024-06-25T22:41:42+00:00</updated>
+    <content>Retired Mental Health Nurse has lasting effects 😅 #mentalhealth #nurse #psych</content>
+    <link href="https://tiktok.com/@jessicakirson/video/7384574728213761310"/>
+    <published>2024-06-25T22:41:42+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7370717776505294122</id>
