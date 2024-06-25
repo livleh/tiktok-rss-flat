@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-06-24T12:34:08+00:00</updated>
+  <updated>2024-06-25T03:25:42.693557+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,84 +12,4 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7370906487524265224</id>
-    <title>Beauty is pain 😗✌️</title>
-    <updated>2024-05-20T02:41:52+00:00</updated>
-    <content>Beauty is pain 😗✌️</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7370906487524265224"/>
-    <published>2024-05-20T02:41:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7371756941426642184</id>
-    <title>Functional </title>
-    <updated>2024-05-22T09:41:58+00:00</updated>
-    <content>Functional </content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7371756941426642184"/>
-    <published>2024-05-22T09:41:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7374313577030765832</id>
-    <title>I wish I could go back and hug her and tell her everything will be okay. However, her thinking that everything won’t be okay is what gave her the drive to elevate and escape her miserable life. Maybe its best if I just let her suffer.</title>
-    <updated>2024-05-29T07:03:05+00:00</updated>
-    <content>I wish I could go back and hug her and tell her everything will be okay. However, her thinking that everything won’t be okay is what gave her the drive to elevate and escape her miserable life. Maybe its best if I just let her suffer.</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7374313577030765832"/>
-    <published>2024-05-29T07:03:05+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7374674382469221650</id>
-    <title>Someone teach me how to twerrrrk 🔮🌙</title>
-    <updated>2024-05-30T06:23:09+00:00</updated>
-    <content>Someone teach me how to twerrrrk 🔮🌙</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7374674382469221650"/>
-    <published>2024-05-30T06:23:09+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7378797799703383314</id>
-    <title>Bye 👋🏼 </title>
-    <updated>2024-06-10T09:04:08+00:00</updated>
-    <content>Bye 👋🏼 </content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7378797799703383314"/>
-    <published>2024-06-10T09:04:08+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7379262431534615815</id>
-    <title>Your loss 😘</title>
-    <updated>2024-06-11T15:07:07+00:00</updated>
-    <content>Your loss 😘</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7379262431534615815"/>
-    <published>2024-06-11T15:07:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7379466439960317192</id>
-    <title>PSA: When you know you need to get out of a toxic situation, but life on your own seems way scarier, building your independence back up is the key to freedom!</title>
-    <updated>2024-06-12T04:18:46+00:00</updated>
-    <content>PSA: When you know you need to get out of a toxic situation, but life on your own seems way scarier, building your independence back up is the key to freedom!</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7379466439960317192"/>
-    <published>2024-06-12T04:18:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7383288417376931093</id>
-    <title>No Title</title>
-    <updated>2024-06-22T11:30:07+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7383288417376931093"/>
-    <published>2024-06-22T11:30:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7384036943459405077</id>
-    <title>Gypsy is everything I hoped she’d be!</title>
-    <updated>2024-06-24T11:54:48+00:00</updated>
-    <content>Gypsy is everything I hoped she’d be!</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7384036943459405077"/>
-    <published>2024-06-24T11:54:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7384047090881662229</id>
-    <title>At least I have my cats…</title>
-    <updated>2024-06-24T12:34:08+00:00</updated>
-    <content>At least I have my cats…</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7384047090881662229"/>
-    <published>2024-06-24T12:34:08+00:00</published>
-  </entry>
 </feed>
