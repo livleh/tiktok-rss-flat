@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-06-25T13:43:30+00:00</updated>
+  <updated>2024-06-25T14:45:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7383116422425120032</id>
-    <title>only qued like 15 mins </title>
-    <updated>2024-06-22T00:22:50+00:00</updated>
-    <content>only qued like 15 mins </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7383116422425120032"/>
-    <published>2024-06-22T00:22:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7383119496699006241</id>
     <title>WANNA RELIVE TONIGHT #erastour #swiftie </title>
@@ -67,6 +59,14 @@
     <content>matcha set listed below:) #matcha #matchatea </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7384436050883628320"/>
     <published>2024-06-25T13:43:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7384452130385530144</id>
+    <title>WON SUPRISE SONGS #erastour #erastourlondon </title>
+    <updated>2024-06-25T14:45:54+00:00</updated>
+    <content>WON SUPRISE SONGS #erastour #erastourlondon </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7384452130385530144"/>
+    <published>2024-06-25T14:45:54+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
