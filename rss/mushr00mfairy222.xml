@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-06-25T17:10:38+00:00</updated>
+  <updated>2024-06-25T18:39:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7384079617188990241</id>
-    <title>TELL ME U SEE IT #blythe #blythedoll   </title>
-    <updated>2024-06-24T14:40:19+00:00</updated>
-    <content>TELL ME U SEE IT #blythe #blythedoll   </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7384079617188990241"/>
-    <published>2024-06-24T14:40:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7384414465887931681</id>
     <title>heart carabina #ootd </title>
@@ -67,6 +59,14 @@
     <content>happy pride #lesbian #lgbt #lgbtq </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7384489447783681312"/>
     <published>2024-06-25T17:10:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7384512428362468640</id>
+    <title>tolerate it next? 😚 #erastour </title>
+    <updated>2024-06-25T18:39:47+00:00</updated>
+    <content>tolerate it next? 😚 #erastour </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7384512428362468640"/>
+    <published>2024-06-25T18:39:47+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
