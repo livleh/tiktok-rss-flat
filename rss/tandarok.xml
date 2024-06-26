@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-06-23T06:44:44+00:00</updated>
+  <updated>2024-06-26T06:53:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7381355810946845984</id>
-    <title>Linke Infights #reclaimtiktok #gegenrechts </title>
-    <updated>2024-06-17T06:30:45+00:00</updated>
-    <content>Linke Infights #reclaimtiktok #gegenrechts </content>
-    <link href="https://tiktok.com/@tandarok/video/7381355810946845984"/>
-    <published>2024-06-17T06:30:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7381709569891863841</id>
     <title>Linke in die Parteien! #reclaimtiktok #gegenrechts #diegrünen </title>
@@ -67,6 +59,14 @@
     <content>Das war der CSD München 🥰🌈 mit @seitansbraten @Kerstin (she/her) @Drachenkraut @Robin und ganz vielen tollen Leuten vom @Slutwalk München  #queer #pride #csd #csdmunich #pridemonth #transgirl </content>
     <link href="https://tiktok.com/@tandarok/video/7383585930348645664"/>
     <published>2024-06-23T06:44:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7384701525987314976</id>
+    <title>Why am I so slow? 🥲 #bigirl #queer </title>
+    <updated>2024-06-26T06:53:47+00:00</updated>
+    <content>Why am I so slow? 🥲 #bigirl #queer </content>
+    <link href="https://tiktok.com/@tandarok/video/7384701525987314976"/>
+    <published>2024-06-26T06:53:47+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
