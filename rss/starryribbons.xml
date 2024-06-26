@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@starryribbons</id>
   <title>starryribbons</title>
-  <updated>2024-06-22T20:40:11+00:00</updated>
+  <updated>2024-06-26T16:21:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from starryribbons</subtitle>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7378228408389504288</id>
-    <title>inspired by the lovely @ellie ౨ৎ !! #coquettecore #digitaldiary #mentalhealth #abuseawareness #recoverytok #wlw </title>
-    <updated>2024-06-08T20:14:36+00:00</updated>
-    <content>inspired by the lovely @ellie ౨ৎ !! #coquettecore #digitaldiary #mentalhealth #abuseawareness #recoverytok #wlw </content>
-    <link href="https://tiktok.com/@starryribbons/video/7378228408389504288"/>
-    <published>2024-06-08T20:14:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7378523952273968417</id>
-    <title>outfit repeater till i pass #coquettecore #digitaldiary #outfitoftheweek #shojo #wlw #femlesbian #outfitinspo </title>
-    <updated>2024-06-09T15:21:27+00:00</updated>
-    <content>outfit repeater till i pass #coquettecore #digitaldiary #outfitoftheweek #shojo #wlw #femlesbian #outfitinspo </content>
-    <link href="https://tiktok.com/@starryribbons/video/7378523952273968417"/>
-    <published>2024-06-09T15:21:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7378924659200281888</id>
     <title>PEW PEW #coquettecore #digitaldiary #femlesbian #socialanxietydisorder #relatable </title>
@@ -83,6 +67,22 @@
     <content>did i mention before that i lovr cassandra #coquettecore #digitaldiary #taylorswift #ttpd #abuseawareness #wlw #cassandra </content>
     <link href="https://tiktok.com/@starryribbons/video/7383430190380125473"/>
     <published>2024-06-22T20:40:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7384846643914444064</id>
+    <title>history DOES have its eyes on me and ik I was not the only one that did that #coquettecore #digitaldiary #tumblr2014 #fanfiction #phan #wlw #femlesbian </title>
+    <updated>2024-06-26T16:16:50+00:00</updated>
+    <content>history DOES have its eyes on me and ik I was not the only one that did that #coquettecore #digitaldiary #tumblr2014 #fanfiction #phan #wlw #femlesbian </content>
+    <link href="https://tiktok.com/@starryribbons/video/7384846643914444064"/>
+    <published>2024-06-26T16:16:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7384847885227085088</id>
+    <title>all time fav you will NEVER catch me hate on that era EVER #coquettecore #digitaldiary #bangtanboys #bts #hyyhedit #hyyh #kpop #wlw </title>
+    <updated>2024-06-26T16:21:35+00:00</updated>
+    <content>all time fav you will NEVER catch me hate on that era EVER #coquettecore #digitaldiary #bangtanboys #bts #hyyhedit #hyyh #kpop #wlw </content>
+    <link href="https://tiktok.com/@starryribbons/video/7384847885227085088"/>
+    <published>2024-06-26T16:21:35+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7285761406664854817</id>
