@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-06-26T16:23:19+00:00</updated>
+  <updated>2024-06-26T19:31:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7383683212788256031</id>
-    <title>and for that, I’m out  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </title>
-    <updated>2024-06-23T13:03:13+00:00</updated>
-    <content>and for that, I’m out  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </content>
-    <link href="https://tiktok.com/@techroastshow/video/7383683212788256031"/>
-    <published>2024-06-23T13:03:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7383856826116246815</id>
     <title>he sent a follow up paragraph  #techie #softwareengineer #siliconvalley #sanfrancisco #bayarea #intern #calberkeley #developerlife #programmerlife</title>
@@ -67,6 +59,14 @@
     <content>👫 #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </content>
     <link href="https://tiktok.com/@techroastshow/video/7384848198533221663"/>
     <published>2024-06-26T16:23:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7384896763469090090</id>
+    <title>Tech bros love seattle summers #tech #seattle </title>
+    <updated>2024-06-26T19:31:14+00:00</updated>
+    <content>Tech bros love seattle summers #tech #seattle </content>
+    <link href="https://tiktok.com/@techroastshow/video/7384896763469090090"/>
+    <published>2024-06-26T19:31:14+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
