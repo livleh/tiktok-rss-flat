@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2024-06-21T20:13:56+00:00</updated>
+  <updated>2024-06-26T21:47:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from loveletterstosf</subtitle>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7377241211142294830</id>
-    <title>had to take advantage of the warm weather today ☀️ thx to @The Nudge for organizing and helping me check this off my #sfbuckeflist #outdooryoga #sf #bakerbeach </title>
-    <updated>2024-06-06T04:23:44+00:00</updated>
-    <content>had to take advantage of the warm weather today ☀️ thx to @The Nudge for organizing and helping me check this off my #sfbuckeflist #outdooryoga #sf #bakerbeach </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7377241211142294830"/>
-    <published>2024-06-06T04:23:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7377428163636235563</id>
     <title>76 degree day in sf yesterday meant beach weather #sf #bakerbeach #summer </title>
@@ -139,5 +131,13 @@
     <content>💌</content>
     <link href="https://tiktok.com/@loveletterstosf/video/7383052350577052970"/>
     <published>2024-06-21T20:13:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7384931825459760426</id>
+    <title>It's Small Business Summer, and Downtown SF has so many awesome pop-ups to check out! Here are 3 new ones that just opened that you should check out @vacanttovibrant #Ad #VacantToVibrant #SmallBusinessSummer  #SFNewDeal #DowntownSF #ThingstoDoInSF #SFEven</title>
+    <updated>2024-06-26T21:47:17+00:00</updated>
+    <content>It's Small Business Summer, and Downtown SF has so many awesome pop-ups to check out! Here are 3 new ones that just opened that you should check out @vacanttovibrant #Ad #VacantToVibrant #SmallBusinessSummer  #SFNewDeal #DowntownSF #ThingstoDoInSF #SFEven</content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7384931825459760426"/>
+    <published>2024-06-26T21:47:17+00:00</published>
   </entry>
 </feed>
