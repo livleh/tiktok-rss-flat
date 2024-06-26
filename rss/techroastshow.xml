@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-06-25T14:56:11+00:00</updated>
+  <updated>2024-06-25T23:51:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7382709824787729694</id>
-    <title>they don’t learn about @Sauce Labs in school #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #techroastshow #ad </title>
-    <updated>2024-06-20T22:04:52+00:00</updated>
-    <content>they don’t learn about @Sauce Labs in school #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #techroastshow #ad </content>
-    <link href="https://tiktok.com/@techroastshow/video/7382709824787729694"/>
-    <published>2024-06-20T22:04:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7382963195352255774</id>
     <title>Web365  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </title>
@@ -67,6 +59,14 @@
     <content>her blockchain is the series of men who have blocked her  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</content>
     <link href="https://tiktok.com/@techroastshow/video/7384454597693295902"/>
     <published>2024-06-25T14:56:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7384592594463935775</id>
+    <title>at least he’s not in finance  #techie #softwareengineer #nyc #newyork #programmerlife #roastbattle #darkhumor #techroastshow</title>
+    <updated>2024-06-25T23:51:00+00:00</updated>
+    <content>at least he’s not in finance  #techie #softwareengineer #nyc #newyork #programmerlife #roastbattle #darkhumor #techroastshow</content>
+    <link href="https://tiktok.com/@techroastshow/video/7384592594463935775"/>
+    <published>2024-06-25T23:51:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
