@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rebelllhor</id>
   <title>rebelllhor</title>
-  <updated>2024-06-24T17:52:04+00:00</updated>
+  <updated>2024-06-26T17:50:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rebelllhor</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rebelllhor/video/7373358736892497184</id>
-    <title>Hot girl Summer: Veet x subway edition  #veet #waxing #beauty </title>
-    <updated>2024-05-26T17:17:47+00:00</updated>
-    <content>Hot girl Summer: Veet x subway edition  #veet #waxing #beauty </content>
-    <link href="https://tiktok.com/@rebelllhor/video/7373358736892497184"/>
-    <published>2024-05-26T17:17:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@rebelllhor/video/7375641564590181664</id>
-    <title>No Title</title>
-    <updated>2024-06-01T20:56:20+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@rebelllhor/video/7375641564590181664"/>
-    <published>2024-06-01T20:56:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rebelllhor/video/7377009729555483936</id>
     <title>#NewMusic </title>
@@ -75,6 +59,14 @@
     <content>@Steve M jundi </content>
     <link href="https://tiktok.com/@rebelllhor/video/7384129027621129504"/>
     <published>2024-06-24T17:52:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rebelllhor/video/7384870839923035425</id>
+    <title>No Title</title>
+    <updated>2024-06-26T17:50:56+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@rebelllhor/video/7384870839923035425"/>
+    <published>2024-06-26T17:50:56+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@rebelllhor/video/7200128964227075333</id>
