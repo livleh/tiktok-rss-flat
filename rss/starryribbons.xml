@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@starryribbons</id>
   <title>starryribbons</title>
-  <updated>2024-06-26T16:21:35+00:00</updated>
+  <updated>2024-06-26T17:15:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from starryribbons</subtitle>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7378924659200281888</id>
-    <title>PEW PEW #coquettecore #digitaldiary #femlesbian #socialanxietydisorder #relatable </title>
-    <updated>2024-06-10T17:16:27+00:00</updated>
-    <content>PEW PEW #coquettecore #digitaldiary #femlesbian #socialanxietydisorder #relatable </content>
-    <link href="https://tiktok.com/@starryribbons/video/7378924659200281888"/>
-    <published>2024-06-10T17:16:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7379282989689212192</id>
     <title>H-O-T T-O G-O #coquettecore #digitaldiary #femlesbian #chappellroan #wlw #hottpgo #relatable </title>
@@ -83,6 +75,14 @@
     <content>all time fav you will NEVER catch me hate on that era EVER #coquettecore #digitaldiary #bangtanboys #bts #hyyhedit #hyyh #kpop #wlw </content>
     <link href="https://tiktok.com/@starryribbons/video/7384847885227085088"/>
     <published>2024-06-26T16:21:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7384861783653190944</id>
+    <title>you are all dense 😰 mutual abuse is not a thing. for a relation to be abusiv there needs to be a power imbalance + self defense is not abuse #coquettecore #digitaldiary #femmelesbians #abuseawareness #mentalhealthawareness #recoverytok </title>
+    <updated>2024-06-26T17:15:31+00:00</updated>
+    <content>you are all dense 😰 mutual abuse is not a thing. for a relation to be abusiv there needs to be a power imbalance + self defense is not abuse #coquettecore #digitaldiary #femmelesbians #abuseawareness #mentalhealthawareness #recoverytok </content>
+    <link href="https://tiktok.com/@starryribbons/video/7384861783653190944"/>
+    <published>2024-06-26T17:15:31+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7285761406664854817</id>
