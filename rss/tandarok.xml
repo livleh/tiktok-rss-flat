@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-06-26T06:53:47+00:00</updated>
+  <updated>2024-06-27T05:38:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7381709569891863841</id>
-    <title>Linke in die Parteien! #reclaimtiktok #gegenrechts #diegrünen </title>
-    <updated>2024-06-18T05:23:24+00:00</updated>
-    <content>Linke in die Parteien! #reclaimtiktok #gegenrechts #diegrünen </content>
-    <link href="https://tiktok.com/@tandarok/video/7381709569891863841"/>
-    <published>2024-06-18T05:23:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7382097334726937888</id>
     <title>Nicht mit Rechten reden. Jedenfalls nicht öffentlich. Privat sieht das nochmal anders aus. #gegenrechts #reclaimtiktok </title>
@@ -67,6 +59,14 @@
     <content>Why am I so slow? 🥲 #bigirl #queer </content>
     <link href="https://tiktok.com/@tandarok/video/7384701525987314976"/>
     <published>2024-06-26T06:53:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7385053064706673953</id>
+    <title>Demokratie ist Arbeit  #demokratie #gegenrechts #reclaimtiktok </title>
+    <updated>2024-06-27T05:38:03+00:00</updated>
+    <content>Demokratie ist Arbeit  #demokratie #gegenrechts #reclaimtiktok </content>
+    <link href="https://tiktok.com/@tandarok/video/7385053064706673953"/>
+    <published>2024-06-27T05:38:03+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
