@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-06-26T10:12:51+00:00</updated>
+  <updated>2024-06-27T13:08:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7384436050883628320</id>
-    <title>matcha set listed below:) #matcha #matchatea </title>
-    <updated>2024-06-25T13:43:30+00:00</updated>
-    <content>matcha set listed below:) #matcha #matchatea </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7384436050883628320"/>
-    <published>2024-06-25T13:43:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7384452130385530144</id>
     <title>WON SUPRISE SONGS #erastour #erastourlondon </title>
@@ -67,6 +59,14 @@
     <content>@ThorpeParkOfficial sort it out its gross #disability #chronicillness #neurodivergent </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7384752837927931168"/>
     <published>2024-06-26T10:12:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7385169260747722016</id>
+    <title>and adhd 😟</title>
+    <updated>2024-06-27T13:08:42+00:00</updated>
+    <content>and adhd 😟</content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7385169260747722016"/>
+    <published>2024-06-27T13:08:42+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
