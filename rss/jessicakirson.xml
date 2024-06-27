@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-06-25T22:41:42+00:00</updated>
+  <updated>2024-06-26T22:50:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7381218975910317342</id>
-    <title>Lesbians Love A Vet  #veterinarian #lesbiansoftiktok #cats </title>
-    <updated>2024-06-16T21:39:54+00:00</updated>
-    <content>Lesbians Love A Vet  #veterinarian #lesbiansoftiktok #cats </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7381218975910317342"/>
-    <published>2024-06-16T21:39:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7381608302066568479</id>
     <title>Karaoke At A Gay Gowboy Bar 🤠</title>
@@ -83,6 +75,14 @@
     <content>Retired Mental Health Nurse has lasting effects 😅 #mentalhealth #nurse #psych</content>
     <link href="https://tiktok.com/@jessicakirson/video/7384574728213761310"/>
     <published>2024-06-25T22:41:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7384947732558974239</id>
+    <title>Ukrainian Dating A Russian  #russia #ukraine🇺🇦 #dress #dating </title>
+    <updated>2024-06-26T22:50:22+00:00</updated>
+    <content>Ukrainian Dating A Russian  #russia #ukraine🇺🇦 #dress #dating </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7384947732558974239"/>
+    <published>2024-06-26T22:50:22+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7370717776505294122</id>
