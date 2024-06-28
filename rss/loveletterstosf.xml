@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2024-06-27T05:01:21+00:00</updated>
+  <updated>2024-06-28T00:14:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from loveletterstosf</subtitle>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7377776221712698666</id>
-    <title>comment any other #sfevents to check out! #thisweekendinsf #sftok #westcoastcraft #sfmoma #juneteenth </title>
-    <updated>2024-06-07T14:59:53+00:00</updated>
-    <content>comment any other #sfevents to check out! #thisweekendinsf #sftok #westcoastcraft #sfmoma #juneteenth </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7377776221712698666"/>
-    <published>2024-06-07T14:59:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7377833864724499758</id>
     <title>10/10 would recommend✨ #sftok #sfbucketlist #sfyoga #beachyoga #outdooryogasf #bakerbeach #ggbridge #sflocal </title>
@@ -131,6 +123,14 @@
     <content>when fri is foggy but sat is sunny &amp; 70 🙌 I got to start Pride celebrations early last weekend w/ brunch hosted by the @1 Hotels &amp; @Fenty Beauty 🏳️‍🌈🎉 #dragbrunch #embarcadero #sf </content>
     <link href="https://tiktok.com/@loveletterstosf/video/7385043683797667115"/>
     <published>2024-06-27T05:01:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7385340793961205034</id>
+    <title>this #cakebytheocean trend but w/ vids in my cute city #sf #sftok #northbeachfest #embarcadero #cablecars #49ers #6monthrecap #2024recap </title>
+    <updated>2024-06-28T00:14:18+00:00</updated>
+    <content>this #cakebytheocean trend but w/ vids in my cute city #sf #sftok #northbeachfest #embarcadero #cablecars #49ers #6monthrecap #2024recap </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7385340793961205034"/>
+    <published>2024-06-28T00:14:18+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7384931825459760426</id>
