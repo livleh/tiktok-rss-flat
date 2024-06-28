@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tallywyteee</id>
   <title>tallywyteee</title>
-  <updated>2024-06-27T19:47:18+00:00</updated>
+  <updated>2024-06-28T21:17:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tallywyteee</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tallywyteee/video/7382686160700673310</id>
-    <title>That would lowkey be funny af… 👀💙 #trans #transgirl #transandproud #transwoman #transgender </title>
-    <updated>2024-06-20T20:33:04+00:00</updated>
-    <content>That would lowkey be funny af… 👀💙 #trans #transgirl #transandproud #transwoman #transgender </content>
-    <link href="https://tiktok.com/@tallywyteee/video/7382686160700673310"/>
-    <published>2024-06-20T20:33:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7383040206426901790</id>
     <title>What would your past-self say if they saw you now? 😂💬 #trans #transgender #transgirl #transandproud </title>
@@ -75,6 +67,14 @@
     <content>It’s okay bro…your secret is safe with me 😇 #trans #transgirl #transgender #transwoman #transandproud </content>
     <link href="https://tiktok.com/@tallywyteee/video/7385271994935184686"/>
     <published>2024-06-27T19:47:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tallywyteee/video/7385666209087343915</id>
+    <title>Did you pray today? Because if you didn’t… 😇🙏🏻 #trans #transgender #transgirl #transwoman #transandproud </title>
+    <updated>2024-06-28T21:17:03+00:00</updated>
+    <content>Did you pray today? Because if you didn’t… 😇🙏🏻 #trans #transgender #transgirl #transwoman #transandproud </content>
+    <link href="https://tiktok.com/@tallywyteee/video/7385666209087343915"/>
+    <published>2024-06-28T21:17:03+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7261699619762048298</id>
