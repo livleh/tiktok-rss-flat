@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ramalauw</id>
   <title>ramalauw</title>
-  <updated>2024-06-23T12:54:40+00:00</updated>
+  <updated>2024-06-29T16:58:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ramalauw</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ramalauw/video/7377040585443642657</id>
-    <title>Even the animals can’t resist my ✨better than everyone✨ charm 🥺🤭🙈💃✨ #BetterThanEveryone #BTEFace #maincharacter #delulu </title>
-    <updated>2024-06-05T15:25:14+00:00</updated>
-    <content>Even the animals can’t resist my ✨better than everyone✨ charm 🥺🤭🙈💃✨ #BetterThanEveryone #BTEFace #maincharacter #delulu </content>
-    <link href="https://tiktok.com/@ramalauw/video/7377040585443642657"/>
-    <published>2024-06-05T15:25:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7378557244679425313</id>
     <title>Happy pride month y’all 🌈🫶💃✨</title>
@@ -67,6 +59,14 @@
     <content>I feel like my Joy is not fighting hard enough for me 🥲🤡 #InsideOut2</content>
     <link href="https://tiktok.com/@ramalauw/video/7383681304602135841"/>
     <published>2024-06-23T12:54:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ramalauw/video/7385970721953959200</id>
+    <title>Calling myself out with this reel 🤭🤪 #travel #traveltok #traveling </title>
+    <updated>2024-06-29T16:58:45+00:00</updated>
+    <content>Calling myself out with this reel 🤭🤪 #travel #traveltok #traveling </content>
+    <link href="https://tiktok.com/@ramalauw/video/7385970721953959200"/>
+    <published>2024-06-29T16:58:45+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7270903343638187297</id>
