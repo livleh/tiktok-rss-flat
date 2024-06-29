@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-06-27T17:54:04+00:00</updated>
+  <updated>2024-06-29T17:43:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7374849773582421281</id>
-    <title>international potato day at gulivers world  </title>
-    <updated>2024-05-30T17:43:44+00:00</updated>
-    <content>international potato day at gulivers world  </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7374849773582421281"/>
-    <published>2024-05-30T17:43:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7375958718678060321</id>
     <title>JUSTICE FOR BREAD DOG he likes to have to wait for his drink to melt #dog </title>
@@ -147,5 +139,13 @@
     <content>corkacabana (at the corka!) unlike the last cover i did this one is 100% original IE none of poor barry manilow’s music was pinched for it! i have to thank jack en parpes and gary meanburg for helping me with the piano parts, drums and mixing !!! corky is</content>
     <link href="https://tiktok.com/@zoebreadtok/video/7385242806081637665"/>
     <published>2024-06-27T17:54:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7385982315060596001</id>
+    <title>new behind the scenes vlog guy up on my U choob channel !! if you have any interest in the progess of building new cork city you might enjoy it if not its genuinely so irritating i dont recommend it. possibly worst video ive ever made and its 1.5 hours lo</title>
+    <updated>2024-06-29T17:43:44+00:00</updated>
+    <content>new behind the scenes vlog guy up on my U choob channel !! if you have any interest in the progess of building new cork city you might enjoy it if not its genuinely so irritating i dont recommend it. possibly worst video ive ever made and its 1.5 hours lo</content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7385982315060596001"/>
+    <published>2024-06-29T17:43:44+00:00</published>
   </entry>
 </feed>
