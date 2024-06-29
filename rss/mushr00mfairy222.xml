@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-06-28T16:00:07+00:00</updated>
+  <updated>2024-06-29T10:22:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7385194925601656097</id>
-    <title>too uncoordinated to spin tbh #ootd #pink #pinkhair </title>
-    <updated>2024-06-27T14:48:18+00:00</updated>
-    <content>too uncoordinated to spin tbh #ootd #pink #pinkhair </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7385194925601656097"/>
-    <published>2024-06-27T14:48:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7385204482814070049</id>
     <title>after knowing that one pathological liar 😚🤭 </title>
@@ -67,6 +59,14 @@
     <content>when u know u were mad 😭 #steps </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7385584536437984544"/>
     <published>2024-06-28T16:00:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7385868472116350240</id>
+    <title>who else is at london pride!!! #pride </title>
+    <updated>2024-06-29T10:22:02+00:00</updated>
+    <content>who else is at london pride!!! #pride </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7385868472116350240"/>
+    <published>2024-06-29T10:22:02+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
