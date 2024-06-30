@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-06-29T17:43:44+00:00</updated>
+  <updated>2024-06-30T17:32:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7375958718678060321</id>
-    <title>JUSTICE FOR BREAD DOG he likes to have to wait for his drink to melt #dog </title>
-    <updated>2024-06-02T17:27:02+00:00</updated>
-    <content>JUSTICE FOR BREAD DOG he likes to have to wait for his drink to melt #dog </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7375958718678060321"/>
-    <published>2024-06-02T17:27:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7377078984493780256</id>
     <title>all ive got is peepee in my eye </title>
@@ -147,5 +139,13 @@
     <content>new behind the scenes vlog guy up on my U choob channel !! if you have any interest in the progess of building new cork city you might enjoy it if not its genuinely so irritating i dont recommend it. possibly worst video ive ever made and its 1.5 hours lo</content>
     <link href="https://tiktok.com/@zoebreadtok/video/7385982315060596001"/>
     <published>2024-06-29T17:43:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7386350403442461984</id>
+    <title>see you in hell is like we are both bad little sinner guys and illl see you down there!!! there will be loads of people and itll be quite hot presumably but ill try and find you, i cant wait !! </title>
+    <updated>2024-06-30T17:32:07+00:00</updated>
+    <content>see you in hell is like we are both bad little sinner guys and illl see you down there!!! there will be loads of people and itll be quite hot presumably but ill try and find you, i cant wait !! </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7386350403442461984"/>
+    <published>2024-06-30T17:32:07+00:00</published>
   </entry>
 </feed>
