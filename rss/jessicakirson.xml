@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-06-29T14:56:56+00:00</updated>
+  <updated>2024-06-30T15:06:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7380100489087700254</id>
-    <title>Cake Decorator  #cake #nyc #gaytiktok #foryou </title>
-    <updated>2024-06-13T21:19:20+00:00</updated>
-    <content>Cake Decorator  #cake #nyc #gaytiktok #foryou </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7380100489087700254"/>
-    <published>2024-06-13T21:19:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7380735350043430175</id>
     <title>Minnie Assaulted Me 😂 #timesquare #nyc #funny </title>
@@ -115,6 +107,14 @@
     <content>My Daughter Called While I Was On Stage  #mom #daughtersoftiktok #love #foryou </content>
     <link href="https://tiktok.com/@jessicakirson/video/7385939229878013215"/>
     <published>2024-06-29T14:56:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7386312876820090143</id>
+    <title>Going Through His Purse 😳 #purse #fashion #funny #foryoupage </title>
+    <updated>2024-06-30T15:06:52+00:00</updated>
+    <content>Going Through His Purse 😳 #purse #fashion #funny #foryoupage </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7386312876820090143"/>
+    <published>2024-06-30T15:06:52+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7370717776505294122</id>
