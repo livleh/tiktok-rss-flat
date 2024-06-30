@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-06-29T16:45:23+00:00</updated>
+  <updated>2024-06-30T16:27:30.903322+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,84 +12,4 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7384592594463935775</id>
-    <title>at least he’s not in finance  #techie #softwareengineer #nyc #newyork #programmerlife #roastbattle #darkhumor #techroastshow</title>
-    <updated>2024-06-25T23:51:00+00:00</updated>
-    <content>at least he’s not in finance  #techie #softwareengineer #nyc #newyork #programmerlife #roastbattle #darkhumor #techroastshow</content>
-    <link href="https://tiktok.com/@techroastshow/video/7384592594463935775"/>
-    <published>2024-06-25T23:51:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7384848198533221663</id>
-    <title>👫 #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </title>
-    <updated>2024-06-26T16:23:19+00:00</updated>
-    <content>👫 #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </content>
-    <link href="https://tiktok.com/@techroastshow/video/7384848198533221663"/>
-    <published>2024-06-26T16:23:19+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7384896763469090090</id>
-    <title>Tech bros love seattle summers #tech #seattle </title>
-    <updated>2024-06-26T19:31:14+00:00</updated>
-    <content>Tech bros love seattle summers #tech #seattle </content>
-    <link href="https://tiktok.com/@techroastshow/video/7384896763469090090"/>
-    <published>2024-06-26T19:31:14+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7385216521749974302</id>
-    <title>she’s in the dog house with her dog children #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</title>
-    <updated>2024-06-27T16:12:32+00:00</updated>
-    <content>she’s in the dog house with her dog children #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</content>
-    <link href="https://tiktok.com/@techroastshow/video/7385216521749974302"/>
-    <published>2024-06-27T16:12:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7385317313202933023</id>
-    <title>one day you can be like him  #techie #softwareengineer #siliconvalley #middlemanager #manager #comedy #funny #developerlife #programmerlife </title>
-    <updated>2024-06-27T22:43:28+00:00</updated>
-    <content>one day you can be like him  #techie #softwareengineer #siliconvalley #middlemanager #manager #comedy #funny #developerlife #programmerlife </content>
-    <link href="https://tiktok.com/@techroastshow/video/7385317313202933023"/>
-    <published>2024-06-27T22:43:28+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7385563569313680671</id>
-    <title>🪦🐕 #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</title>
-    <updated>2024-06-28T14:38:53+00:00</updated>
-    <content>🪦🐕 #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</content>
-    <link href="https://tiktok.com/@techroastshow/video/7385563569313680671"/>
-    <published>2024-06-28T14:38:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7385967196339571998</id>
-    <title>it’s a match 😍 #techie #softwareengineer #india #bangalore #AI #roastbattle #darkhumor #techroastshow</title>
-    <updated>2024-06-29T16:45:23+00:00</updated>
-    <content>it’s a match 😍 #techie #softwareengineer #india #bangalore #AI #roastbattle #darkhumor #techroastshow</content>
-    <link href="https://tiktok.com/@techroastshow/video/7385967196339571998"/>
-    <published>2024-06-29T16:45:23+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
-    <title>FIRE #techbro #techie #softwareengineer #siliconvalley #seattle #sanfrancisco #bayarea #engineeringlife #comedy #character #fyp</title>
-    <updated>2022-02-11T05:54:36+00:00</updated>
-    <content>FIRE #techbro #techie #softwareengineer #siliconvalley #seattle #sanfrancisco #bayarea #engineeringlife #comedy #character #fyp</content>
-    <link href="https://tiktok.com/@techroastshow/video/7063326581816773934"/>
-    <published>2022-02-11T05:54:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7114790525496053035</id>
-    <title>Fresh blood ✨ #techbro #techie #softwareengineer #siliconvalley #seattle #sanfrancisco #bayarea #engineeringlife #comedy #techtok #funny #fypシ゚viral</title>
-    <updated>2022-06-29T22:21:00+00:00</updated>
-    <content>Fresh blood ✨ #techbro #techie #softwareengineer #siliconvalley #seattle #sanfrancisco #bayarea #engineeringlife #comedy #techtok #funny #fypシ゚viral</content>
-    <link href="https://tiktok.com/@techroastshow/video/7114790525496053035"/>
-    <published>2022-06-29T22:21:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7299845315950021931</id>
-    <title>Micro Polo loves flexing the size of his boat #startuplife #microsoft #adobe #sailing #softwareengineer #techbro #crowdwork #funny </title>
-    <updated>2023-11-10T14:48:14+00:00</updated>
-    <content>Micro Polo loves flexing the size of his boat #startuplife #microsoft #adobe #sailing #softwareengineer #techbro #crowdwork #funny </content>
-    <link href="https://tiktok.com/@techroastshow/video/7299845315950021931"/>
-    <published>2023-11-10T14:48:14+00:00</published>
-  </entry>
 </feed>
