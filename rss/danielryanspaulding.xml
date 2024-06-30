@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@danielryanspaulding</id>
   <title>danielryanspaulding</title>
-  <updated>2024-06-30T16:07:23+00:00</updated>
+  <updated>2024-06-30T16:20:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -139,5 +139,21 @@
     <content>Happy Pride from Tel aviv #pinkwashing #telaviv #israel #gay #offernissim </content>
     <link href="https://tiktok.com/@danielryanspaulding/video/7386328563156274465"/>
     <published>2024-06-30T16:07:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@danielryanspaulding/video/7386330904555293984</id>
+    <title>Happy Pride from Tel Aviv #israel #pinkwashing #telaviv #gaypride #pride </title>
+    <updated>2024-06-30T16:16:26+00:00</updated>
+    <content>Happy Pride from Tel Aviv #israel #pinkwashing #telaviv #gaypride #pride </content>
+    <link href="https://tiktok.com/@danielryanspaulding/video/7386330904555293984"/>
+    <published>2024-06-30T16:16:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@danielryanspaulding/video/7386332034991541537</id>
+    <title>Happy pride from tel aviv #gaypride #israel #pinkwashing #pride #telaviv </title>
+    <updated>2024-06-30T16:20:52+00:00</updated>
+    <content>Happy pride from tel aviv #gaypride #israel #pinkwashing #pride #telaviv </content>
+    <link href="https://tiktok.com/@danielryanspaulding/video/7386332034991541537"/>
+    <published>2024-06-30T16:20:52+00:00</published>
   </entry>
 </feed>
