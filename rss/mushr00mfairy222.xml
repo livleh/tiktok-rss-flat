@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-06-30T08:07:13+00:00</updated>
+  <updated>2024-06-30T19:47:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7385248291706965280</id>
-    <title>No Title</title>
-    <updated>2024-06-27T18:15:20+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7385248291706965280"/>
-    <published>2024-06-27T18:15:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7385248324569320737</id>
-    <title>wrong question 🤭 #wlw #lesbian #lgbt #lgbtq </title>
-    <updated>2024-06-27T18:15:29+00:00</updated>
-    <content>wrong question 🤭 #wlw #lesbian #lgbt #lgbtq </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7385248324569320737"/>
-    <published>2024-06-27T18:15:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7385584536437984544</id>
     <title>when u know u were mad 😭 #steps </title>
@@ -67,6 +51,22 @@
     <content>i 🫶 pink hair #pinkhair #dyedhair </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7386204811567402272"/>
     <published>2024-06-30T08:07:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7386384795267255584</id>
+    <title>absolute skinny legend </title>
+    <updated>2024-06-30T19:45:32+00:00</updated>
+    <content>absolute skinny legend </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7386384795267255584"/>
+    <published>2024-06-30T19:45:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7386385201988963616</id>
+    <title>need to know what i look #british #american </title>
+    <updated>2024-06-30T19:47:08+00:00</updated>
+    <content>need to know what i look #british #american </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7386385201988963616"/>
+    <published>2024-06-30T19:47:08+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
