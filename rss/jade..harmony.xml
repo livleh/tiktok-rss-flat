@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jade..harmony</id>
   <title>jade..harmony</title>
-  <updated>2024-06-30T14:17:22+00:00</updated>
+  <updated>2024-07-01T11:23:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jade..harmony</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jade..harmony/video/7384066009621204254</id>
-    <title>#fyp #trans #michigan #michigandragqueen #transgender #performer #thebugs #showgirl #performer </title>
-    <updated>2024-06-24T13:48:24+00:00</updated>
-    <content>#fyp #trans #michigan #michigandragqueen #transgender #performer #thebugs #showgirl #performer </content>
-    <link href="https://tiktok.com/@jade..harmony/video/7384066009621204254"/>
-    <published>2024-06-24T13:48:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jade..harmony/video/7384141191572426014</id>
     <title>#fyp #trans #michigan #michigandragqueen #transgender #performer </title>
@@ -67,6 +59,14 @@
     <content>#fyp #trans #michigan #michigandragqueen #transgender #performer #showgirl #foryoupage #follow </content>
     <link href="https://tiktok.com/@jade..harmony/video/7386300099514682654"/>
     <published>2024-06-30T14:17:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jade..harmony/video/7386626307301330206</id>
+    <title>Another great pride thank you everyone #fyp #trans #michigan #michigandragqueen #transgender #performer #showgirl #foryoupage #follow </title>
+    <updated>2024-07-01T11:23:36+00:00</updated>
+    <content>Another great pride thank you everyone #fyp #trans #michigan #michigandragqueen #transgender #performer #showgirl #foryoupage #follow </content>
+    <link href="https://tiktok.com/@jade..harmony/video/7386626307301330206"/>
+    <published>2024-07-01T11:23:36+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jade..harmony/video/7375123202055408942</id>
