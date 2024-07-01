@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-06-24T11:54:48+00:00</updated>
+  <updated>2024-07-01T14:46:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -91,5 +91,13 @@
     <content>Gypsy is everything I hoped she’d be!</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7384036943459405077"/>
     <published>2024-06-24T11:54:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7386678866980375826</id>
+    <title>The reason why the dolls always look so fly</title>
+    <updated>2024-07-01T14:46:39+00:00</updated>
+    <content>The reason why the dolls always look so fly</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7386678866980375826"/>
+    <published>2024-07-01T14:46:39+00:00</published>
   </entry>
 </feed>

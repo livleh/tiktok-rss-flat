@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-07-01T14:21:19.695132+00:00</updated>
+  <updated>2024-06-30T19:47:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,4 +12,84 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7385584536437984544</id>
+    <title>when u know u were mad 😭 #steps </title>
+    <updated>2024-06-28T16:00:07+00:00</updated>
+    <content>when u know u were mad 😭 #steps </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7385584536437984544"/>
+    <published>2024-06-28T16:00:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7385868472116350240</id>
+    <title>who else is at london pride!!! #pride </title>
+    <updated>2024-06-29T10:22:02+00:00</updated>
+    <content>who else is at london pride!!! #pride </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7385868472116350240"/>
+    <published>2024-06-29T10:22:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7385965633990642977</id>
+    <title>HAPPY PRIDE #pride #londonpride </title>
+    <updated>2024-06-29T16:39:02+00:00</updated>
+    <content>HAPPY PRIDE #pride #londonpride </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7385965633990642977"/>
+    <published>2024-06-29T16:39:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7386202911677631776</id>
+    <title>lazy travel outfit #ootd </title>
+    <updated>2024-06-30T07:59:49+00:00</updated>
+    <content>lazy travel outfit #ootd </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7386202911677631776"/>
+    <published>2024-06-30T07:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7386204811567402272</id>
+    <title>i 🫶 pink hair #pinkhair #dyedhair </title>
+    <updated>2024-06-30T08:07:13+00:00</updated>
+    <content>i 🫶 pink hair #pinkhair #dyedhair </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7386204811567402272"/>
+    <published>2024-06-30T08:07:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7386384795267255584</id>
+    <title>absolute skinny legend </title>
+    <updated>2024-06-30T19:45:32+00:00</updated>
+    <content>absolute skinny legend </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7386384795267255584"/>
+    <published>2024-06-30T19:45:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7386385201988963616</id>
+    <title>need to know what i look #british #american </title>
+    <updated>2024-06-30T19:47:08+00:00</updated>
+    <content>need to know what i look #british #american </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7386385201988963616"/>
+    <published>2024-06-30T19:47:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
+    <title>its accurate dont lie #fyp #mariokart #lgbt #lgbtq #queer #pride </title>
+    <updated>2022-10-18T16:39:50+00:00</updated>
+    <content>its accurate dont lie #fyp #mariokart #lgbt #lgbtq #queer #pride </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7155893055449468166"/>
+    <published>2022-10-18T16:39:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7295791125389004065</id>
+    <title>i infact was not great at this #hellokitty #filter </title>
+    <updated>2023-10-30T16:35:50+00:00</updated>
+    <content>i infact was not great at this #hellokitty #filter </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7295791125389004065"/>
+    <published>2023-10-30T16:35:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7349714346160835872</id>
+    <title>what do you look like? stranger things takes my pink hair 😭 #strangerthings #filter </title>
+    <updated>2024-03-24T00:05:37+00:00</updated>
+    <content>what do you look like? stranger things takes my pink hair 😭 #strangerthings #filter </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7349714346160835872"/>
+    <published>2024-03-24T00:05:37+00:00</published>
+  </entry>
 </feed>
