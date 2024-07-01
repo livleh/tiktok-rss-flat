@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-06-30T13:37:18+00:00</updated>
+  <updated>2024-07-01T06:41:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7382335907942124832</id>
-    <title>I needed to hear that... Und ihr vielleicht auch  #peoplepleaser #breakup </title>
-    <updated>2024-06-19T21:53:53+00:00</updated>
-    <content>I needed to hear that... Und ihr vielleicht auch  #peoplepleaser #breakup </content>
-    <link href="https://tiktok.com/@tandarok/video/7382335907942124832"/>
-    <published>2024-06-19T21:53:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7382466501871209761</id>
     <title>Nein, wir hassen natürlich nicht alle Männer 🤡 #lesbian #bigirl #queer </title>
@@ -67,6 +59,14 @@
     <content>Erstmal Kopfnuss 🥲 #dogsoftiktok #cute #fail </content>
     <link href="https://tiktok.com/@tandarok/video/7386289885935652128"/>
     <published>2024-06-30T13:37:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7386553656734223649</id>
+    <title>#stitch mit @03hny  Ich höre auch auf Männer zu daten, ok? #queer #bigirl #gaytiktok </title>
+    <updated>2024-07-01T06:41:02+00:00</updated>
+    <content>#stitch mit @03hny  Ich höre auch auf Männer zu daten, ok? #queer #bigirl #gaytiktok </content>
+    <link href="https://tiktok.com/@tandarok/video/7386553656734223649"/>
+    <published>2024-07-01T06:41:02+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
