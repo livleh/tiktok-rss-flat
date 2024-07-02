@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@danielryanspaulding</id>
   <title>danielryanspaulding</title>
-  <updated>2024-06-30T16:20:52+00:00</updated>
+  <updated>2024-07-02T02:56:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from danielryanspaulding</subtitle>
-  <entry>
-    <id>https://tiktok.com/@danielryanspaulding/video/7375150177063095585</id>
-    <title>Part 4/4 of my interview with Yemeni human rights activist Luai Ahmed @justluai — in this segment we cover how harmful the term Pinkwashing is, his experience as a gay refugee in Sweden. We have bonus episode next week of the interview 🌈❤️💕</title>
-    <updated>2024-05-31T13:09:30+00:00</updated>
-    <content>Part 4/4 of my interview with Yemeni human rights activist Luai Ahmed @justluai — in this segment we cover how harmful the term Pinkwashing is, his experience as a gay refugee in Sweden. We have bonus episode next week of the interview 🌈❤️💕</content>
-    <link href="https://tiktok.com/@danielryanspaulding/video/7375150177063095585"/>
-    <published>2024-05-31T13:09:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@danielryanspaulding/video/7377345393979346209</id>
     <title>Joy Behar is a very smart woman. At what point did you all forget that Hamas is a terrorist regime? Or you just want to make excuses for them? Or buy into conspiracy theories? Or live in a delusion that they’re freedom fighters? You’ve been completely rad</title>
@@ -155,5 +147,13 @@
     <content>Happy pride from tel aviv #gaypride #israel #pinkwashing #pride #telaviv </content>
     <link href="https://tiktok.com/@danielryanspaulding/video/7386332034991541537"/>
     <published>2024-06-30T16:20:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@danielryanspaulding/video/7386866831744650529</id>
+    <title>Jon Stewart never mentions the American hostages kidnapped &amp; held by Hamas like Omer Neutra. He could so easily share their story — to help dispel the conspiracy theories, the raging Antisemitism &amp; the growing terrorist-sympathizing movement in the West. </title>
+    <updated>2024-07-02T02:56:15+00:00</updated>
+    <content>Jon Stewart never mentions the American hostages kidnapped &amp; held by Hamas like Omer Neutra. He could so easily share their story — to help dispel the conspiracy theories, the raging Antisemitism &amp; the growing terrorist-sympathizing movement in the West. </content>
+    <link href="https://tiktok.com/@danielryanspaulding/video/7386866831744650529"/>
+    <published>2024-07-02T02:56:15+00:00</published>
   </entry>
 </feed>
