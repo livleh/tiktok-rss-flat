@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://www.tiktok.com/@shaunaddewit</id>
+  <title>shaunaddewit</title>
+  <updated>2024-04-09T09:20:58+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="http://tiktok.com/@shaunaddewit" rel="alternate"/>
+  <link href="https://livleh.github.io/tiktok-rss-flat/rss/shaunaddewit.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
+  <subtitle>OK Boomer, all the latest TikToks from shaunaddewit</subtitle>
+  <entry>
+    <id>https://tiktok.com/@shaunaddewit/video/7347302656379014443</id>
+    <title>No Title</title>
+    <updated>2024-03-17T12:07:37+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@shaunaddewit/video/7347302656379014443"/>
+    <published>2024-03-17T12:07:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shaunaddewit/video/7349486137272028462</id>
+    <title>0307(21)</title>
+    <updated>2024-03-23T09:20:39+00:00</updated>
+    <content>0307(21)</content>
+    <link href="https://tiktok.com/@shaunaddewit/video/7349486137272028462"/>
+    <published>2024-03-23T09:20:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shaunaddewit/video/7349486195656707371</id>
+    <title>0307(41)</title>
+    <updated>2024-03-23T09:20:44+00:00</updated>
+    <content>0307(41)</content>
+    <link href="https://tiktok.com/@shaunaddewit/video/7349486195656707371"/>
+    <published>2024-03-23T09:20:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shaunaddewit/video/7349486205593062699</id>
+    <title>0307(46)</title>
+    <updated>2024-03-23T09:21:04+00:00</updated>
+    <content>0307(46)</content>
+    <link href="https://tiktok.com/@shaunaddewit/video/7349486205593062699"/>
+    <published>2024-03-23T09:21:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shaunaddewit/video/7350637072962620702</id>
+    <title>No Title</title>
+    <updated>2024-03-26T11:46:17+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@shaunaddewit/video/7350637072962620702"/>
+    <published>2024-03-26T11:46:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shaunaddewit/video/7353589926841060650</id>
+    <title>No Title</title>
+    <updated>2024-04-03T10:44:44+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@shaunaddewit/video/7353589926841060650"/>
+    <published>2024-04-03T10:44:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shaunaddewit/video/7353589915105381678</id>
+    <title>No Title</title>
+    <updated>2024-04-03T10:44:47+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@shaunaddewit/video/7353589915105381678"/>
+    <published>2024-04-03T10:44:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shaunaddewit/video/7353589978149981486</id>
+    <title>No Title</title>
+    <updated>2024-04-03T10:44:49+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@shaunaddewit/video/7353589978149981486"/>
+    <published>2024-04-03T10:44:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shaunaddewit/video/7353955819676912939</id>
+    <title>0307(74) (1)</title>
+    <updated>2024-04-04T10:24:35+00:00</updated>
+    <content>0307(74) (1)</content>
+    <link href="https://tiktok.com/@shaunaddewit/video/7353955819676912939"/>
+    <published>2024-04-04T10:24:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shaunaddewit/video/7355794859514416427</id>
+    <title>No Title</title>
+    <updated>2024-04-09T09:20:58+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@shaunaddewit/video/7355794859514416427"/>
+    <published>2024-04-09T09:20:58+00:00</published>
+  </entry>
+</feed>
