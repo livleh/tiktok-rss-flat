@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-07-25T19:21:30+00:00</updated>
+  <updated>2024-07-25T23:13:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7394909039638973739</id>
-    <title>California is the BEST state and you can't convince me otherwise ❤️🌈🌲🌊✨ PS - I have a list of 50+ unique things to do in California (that most tourists miss) linked in my bio. Look for this video icon! #california #visitcalifornia #bayarea #southerncalifo</title>
-    <updated>2024-07-23T19:04:00+00:00</updated>
-    <content>California is the BEST state and you can't convince me otherwise ❤️🌈🌲🌊✨ PS - I have a list of 50+ unique things to do in California (that most tourists miss) linked in my bio. Look for this video icon! #california #visitcalifornia #bayarea #southerncalifo</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7394909039638973739"/>
-    <published>2024-07-23T19:04:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7394912742743805226</id>
     <title>#sanfrancisco #bayarea </title>
@@ -67,6 +59,14 @@
     <content>someone is just mad we're still allowed bank accounts without permission from a man. jd vance is such a loser #jdvance #womansrights #catlady #cats #kamalaharris #bratsummer #women #equalrights </content>
     <link href="https://tiktok.com/@whimsysoul/video/7395655735910124842"/>
     <published>2024-07-25T19:21:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7395715453055716650</id>
+    <title>ngl, London solo is simply *the best* 🇬🇧  Earlier this summer I spent a weekend in London by myself and had THE BEST time just walking around listening to an audiobook (Fourth Wing in case you're curious), eating all the good food and taking in the sights</title>
+    <updated>2024-07-25T23:13:15+00:00</updated>
+    <content>ngl, London solo is simply *the best* 🇬🇧  Earlier this summer I spent a weekend in London by myself and had THE BEST time just walking around listening to an audiobook (Fourth Wing in case you're curious), eating all the good food and taking in the sights</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7395715453055716650"/>
+    <published>2024-07-25T23:13:15+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
