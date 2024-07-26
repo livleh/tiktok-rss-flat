@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-07-25T23:13:15+00:00</updated>
+  <updated>2024-07-26T14:34:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7394912742743805226</id>
-    <title>#sanfrancisco #bayarea </title>
-    <updated>2024-07-23T19:18:20+00:00</updated>
-    <content>#sanfrancisco #bayarea </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7394912742743805226"/>
-    <published>2024-07-23T19:18:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7394991452100627755</id>
     <title>Hey SF - there’s a NEW mini golf spot in the Mission!! ⛳️ Robin and I checked out @Holey Moley Golf USA new spot on South Van Ness and had SO much fun on their 18-hole mini golf course. They have so many over-the-top, creative course designs – my favorite</title>
@@ -67,6 +59,14 @@
     <content>ngl, London solo is simply *the best* 🇬🇧  Earlier this summer I spent a weekend in London by myself and had THE BEST time just walking around listening to an audiobook (Fourth Wing in case you're curious), eating all the good food and taking in the sights</content>
     <link href="https://tiktok.com/@whimsysoul/video/7395715453055716650"/>
     <published>2024-07-25T23:13:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7395952755732483374</id>
+    <title>Shakespeare's Globe Theatre is still around and you can watch plays inside it!!! Robin and I went to a show here on our honeymoon back in 2017 and during my solo trip this summer to London, I decided I wanted to go again since it's honestly so fun and so </title>
+    <updated>2024-07-26T14:34:08+00:00</updated>
+    <content>Shakespeare's Globe Theatre is still around and you can watch plays inside it!!! Robin and I went to a show here on our honeymoon back in 2017 and during my solo trip this summer to London, I decided I wanted to go again since it's honestly so fun and so </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7395952755732483374"/>
+    <published>2024-07-26T14:34:08+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
