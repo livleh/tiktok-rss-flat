@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-07-25T15:44:07+00:00</updated>
+  <updated>2024-07-26T16:55:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7394880745572928801</id>
-    <title>like what #sabrinacarpenter #shortnsweet </title>
-    <updated>2024-07-23T17:14:13+00:00</updated>
-    <content>like what #sabrinacarpenter #shortnsweet </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7394880745572928801"/>
-    <published>2024-07-23T17:14:13+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7394882737502473504</id>
-    <title>but pls don't kiss 100 boys #pinkhair #alt </title>
-    <updated>2024-07-23T17:21:54+00:00</updated>
-    <content>but pls don't kiss 100 boys #pinkhair #alt </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7394882737502473504"/>
-    <published>2024-07-23T17:21:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7394884196491103521</id>
     <title>but then basic ppl dont want you either #pinkhair #alt #alternative </title>
@@ -67,6 +51,22 @@
     <content>kinda crazy #friends #growingup #septum </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7395599703414541601"/>
     <published>2024-07-25T15:44:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7395988614372461856</id>
+    <title>get dressed with me #grwm #getdressedwithme #alt #pinkhair </title>
+    <updated>2024-07-26T16:53:20+00:00</updated>
+    <content>get dressed with me #grwm #getdressedwithme #alt #pinkhair </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7395988614372461856"/>
+    <published>2024-07-26T16:53:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7395989094918065441</id>
+    <title>what did you get #brat #filter </title>
+    <updated>2024-07-26T16:55:10+00:00</updated>
+    <content>what did you get #brat #filter </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7395989094918065441"/>
+    <published>2024-07-26T16:55:10+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
