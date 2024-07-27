@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@norabinki</id>
   <title>norabinki</title>
-  <updated>2024-07-16T15:42:44+00:00</updated>
+  <updated>2024-07-27T15:28:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from norabinki</subtitle>
-  <entry>
-    <id>https://tiktok.com/@norabinki/video/7381505972914654496</id>
-    <title>Greenfield Festival 2024  @Bruzzli #schweiz #fyp #festival #CapCut </title>
-    <updated>2024-06-17T16:13:17+00:00</updated>
-    <content>Greenfield Festival 2024  @Bruzzli #schweiz #fyp #festival #CapCut </content>
-    <link href="https://tiktok.com/@norabinki/video/7381505972914654496"/>
-    <published>2024-06-17T16:13:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@norabinki/video/7382618105886887200</id>
     <title>Palmenverbot  @Bruzzli #schweiz #fyp #CapCut </title>
@@ -67,6 +59,14 @@
     <content>Beim Abschleppdienst mit Fabian @Fabian Knecht995 @Bruzzli #schweiz #fyp #abschleppdienst #CapCut </content>
     <link href="https://tiktok.com/@norabinki/video/7392259557936024864"/>
     <published>2024-07-16T15:42:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@norabinki/video/7396337832186416416</id>
+    <title>c'est la flûte? 🌊 #schweiz #fyp #sommerferien #CapCut </title>
+    <updated>2024-07-27T15:28:27+00:00</updated>
+    <content>c'est la flûte? 🌊 #schweiz #fyp #sommerferien #CapCut </content>
+    <link href="https://tiktok.com/@norabinki/video/7396337832186416416"/>
+    <published>2024-07-27T15:28:27+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@norabinki/video/7283544477661203745</id>
