@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jade..harmony</id>
   <title>jade..harmony</title>
-  <updated>2024-07-26T12:50:31+00:00</updated>
+  <updated>2024-07-27T14:37:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jade..harmony</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jade..harmony/video/7395378132561300766</id>
-    <title>#foryoupage </title>
-    <updated>2024-07-25T01:24:26+00:00</updated>
-    <content>#foryoupage </content>
-    <link href="https://tiktok.com/@jade..harmony/video/7395378132561300766"/>
-    <published>2024-07-25T01:24:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jade..harmony/video/7395436885922893086</id>
     <title>#foryoupage </title>
@@ -67,6 +59,14 @@
     <content>#foryoupage #dragrace #thedunes #michigandrag #viral #show #lipsync #lipsyncbattle #rupaulsdragrace </content>
     <link href="https://tiktok.com/@jade..harmony/video/7395925932797693215"/>
     <published>2024-07-26T12:50:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jade..harmony/video/7396324682015739166</id>
+    <title>#foryoupage #dragrace #thedunes #michigandrag #show </title>
+    <updated>2024-07-27T14:37:38+00:00</updated>
+    <content>#foryoupage #dragrace #thedunes #michigandrag #show </content>
+    <link href="https://tiktok.com/@jade..harmony/video/7396324682015739166"/>
+    <published>2024-07-27T14:37:38+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jade..harmony/video/7375123202055408942</id>
