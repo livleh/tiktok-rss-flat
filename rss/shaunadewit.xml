@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shaunadewit</id>
   <title>shaunadewit</title>
-  <updated>2024-07-21T08:16:51+00:00</updated>
+  <updated>2024-07-27T09:57:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shaunadewit</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shaunadewit/video/7381427996478950689</id>
-    <title>#advertising Protect your skin at all times with Vinosun from @caudalie #vinosun #caudalie </title>
-    <updated>2024-06-17T11:10:39+00:00</updated>
-    <content>#advertising Protect your skin at all times with Vinosun from @caudalie #vinosun #caudalie </content>
-    <link href="https://tiktok.com/@shaunadewit/video/7381427996478950689"/>
-    <published>2024-06-17T11:10:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/7381829867148463392</id>
     <title>What is summer ? #foryou #pourtoi #comedy #humor #goviral #belgium #summer </title>
@@ -131,6 +123,14 @@
     <content>It keeps me calm #foryou #humor #therapy #music #metal #comedy #pourtoi </content>
     <link href="https://tiktok.com/@shaunadewit/video/7394000084851084576"/>
     <published>2024-07-21T08:16:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shaunadewit/video/7396252623919156512</id>
+    <title>Good vibes only #foryou #humor #goviral #music #pourtoi #comedy </title>
+    <updated>2024-07-27T09:57:50+00:00</updated>
+    <content>Good vibes only #foryou #humor #goviral #music #pourtoi #comedy </content>
+    <link href="https://tiktok.com/@shaunadewit/video/7396252623919156512"/>
+    <published>2024-07-27T09:57:50+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/6994791135415766278</id>
