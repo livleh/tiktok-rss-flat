@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-07-27T15:56:33+00:00</updated>
+  <updated>2024-07-28T00:50:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7395202318557302059</id>
-    <title>secret swimming holes are our favorite 🤩 YES you can go swimming inside Big Trees State Park! It's best to ask the rangers when you drive in, they'll point you to spots along the river that are good and also safe to swim in that day.  But my favorite is a</title>
-    <updated>2024-07-24T14:02:02+00:00</updated>
-    <content>secret swimming holes are our favorite 🤩 YES you can go swimming inside Big Trees State Park! It's best to ask the rangers when you drive in, they'll point you to spots along the river that are good and also safe to swim in that day.  But my favorite is a</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7395202318557302059"/>
-    <published>2024-07-24T14:02:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7395278372848389418</id>
     <title>won't shut up about this lunch in Napa Valley 😋  🌟 want more local tips? Give me a follow!! #napa #napavalley #yountville #northblock #northblockhotel #visitnapavalley #naparestaurant #napavalleyca #napavalleyrestaurants </title>
@@ -67,6 +59,14 @@
     <content>Replying to @maya the BEST tea service in London 🇬🇧🫖 I've been to Sketch multiple times and it's always a treat.I love stuffing myself with wee little sandwiches and desserts while sipping bubbly and endless pots of tea.  Plus, their bathroom is so iconic</content>
     <link href="https://tiktok.com/@whimsysoul/video/7396345071156776238"/>
     <published>2024-07-27T15:56:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7396482761894202666</id>
+    <title>best martini in London  ⬇️🍸 Swans Bar at Maison Assoulin is tucked inside a bookstore off Piccadilly and has the best dang martini I've sipped in a long, long time.  Dirty Gibson martini - I'll be back for you next time I'm in England 🇬🇧❤️  (send this to </title>
+    <updated>2024-07-28T00:50:50+00:00</updated>
+    <content>best martini in London  ⬇️🍸 Swans Bar at Maison Assoulin is tucked inside a bookstore off Piccadilly and has the best dang martini I've sipped in a long, long time.  Dirty Gibson martini - I'll be back for you next time I'm in England 🇬🇧❤️  (send this to </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7396482761894202666"/>
+    <published>2024-07-28T00:50:50+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
