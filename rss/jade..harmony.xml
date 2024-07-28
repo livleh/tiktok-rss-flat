@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jade..harmony</id>
   <title>jade..harmony</title>
-  <updated>2024-07-28T11:05:49+00:00</updated>
+  <updated>2024-07-28T13:00:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jade..harmony</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jade..harmony/video/7395534263921249567</id>
-    <title>#foryoupage #michigan #trending #michigandragqueen #club #showgirl #viral </title>
-    <updated>2024-07-25T11:30:20+00:00</updated>
-    <content>#foryoupage #michigan #trending #michigandragqueen #club #showgirl #viral </content>
-    <link href="https://tiktok.com/@jade..harmony/video/7395534263921249567"/>
-    <published>2024-07-25T11:30:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jade..harmony/video/7395563012653845790</id>
     <title>#foryoupage #michigan #trending #michigandragqueen #club #showgirl #viral #thedunes </title>
@@ -67,6 +59,14 @@
     <content>#foryoupage #transgender #trans </content>
     <link href="https://tiktok.com/@jade..harmony/video/7396641018612944158"/>
     <published>2024-07-28T11:05:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jade..harmony/video/7396670703434616094</id>
+    <title>#foryoupage #transgender #dragrace #trans #michigan #michigandragqueen #clubvortex </title>
+    <updated>2024-07-28T13:00:50+00:00</updated>
+    <content>#foryoupage #transgender #dragrace #trans #michigan #michigandragqueen #clubvortex </content>
+    <link href="https://tiktok.com/@jade..harmony/video/7396670703434616094"/>
+    <published>2024-07-28T13:00:50+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jade..harmony/video/7375123202055408942</id>
