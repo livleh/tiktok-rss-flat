@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-07-28T14:49:56+00:00</updated>
+  <updated>2024-07-28T21:25:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7395393772529388842</id>
-    <title>they all love failure</title>
-    <updated>2024-07-25T02:24:57+00:00</updated>
-    <content>they all love failure</content>
-    <link href="https://tiktok.com/@techroastshow/video/7395393772529388842"/>
-    <published>2024-07-25T02:24:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7395561280632802591</id>
     <title>call him Legolas  #techie #softwareengineer #chicago #programmerlife #roastbattle #darkhumor #techroastshow </title>
@@ -67,6 +59,14 @@
     <content>🦟 #techie #softwareengineer #chicago #programmerlife #roastbattle #darkhumor #techroastshow </content>
     <link href="https://tiktok.com/@techroastshow/video/7396698916990815518"/>
     <published>2024-07-28T14:49:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7396800920778001695</id>
+    <title>we don’t understand kevin but we love him  #techie #softwareengineer #kevin #programmerlife #roastbattle #darkhumor #techroastshow  </title>
+    <updated>2024-07-28T21:25:36+00:00</updated>
+    <content>we don’t understand kevin but we love him  #techie #softwareengineer #kevin #programmerlife #roastbattle #darkhumor #techroastshow  </content>
+    <link href="https://tiktok.com/@techroastshow/video/7396800920778001695"/>
+    <published>2024-07-28T21:25:36+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
