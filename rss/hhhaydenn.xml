@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@hhhaydenn</id>
   <title>hhhaydenn</title>
-  <updated>2024-06-27T20:37:19+00:00</updated>
+  <updated>2024-07-28T03:04:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from hhhaydenn</subtitle>
-  <entry>
-    <id>https://tiktok.com/@hhhaydenn/video/7303293931104783662</id>
-    <title>i think they understood #transcomedian #transfem #lgbtq #standupcomedy #transcomedy #fyp </title>
-    <updated>2023-11-19T21:50:40+00:00</updated>
-    <content>i think they understood #transcomedian #transfem #lgbtq #standupcomedy #transcomedy #fyp </content>
-    <link href="https://tiktok.com/@hhhaydenn/video/7303293931104783662"/>
-    <published>2023-11-19T21:50:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@hhhaydenn/video/7318130805979581738</id>
     <title>#trans #fyp #lgbtq </title>
@@ -69,12 +61,12 @@
     <published>2024-06-27T20:37:19+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@hhhaydenn/video/7194947420860550443</id>
-    <title>i love being affirmed 🥰 #transcomedian #transfem #standupcomedy #lgbtq #transcomedy #fyp </title>
-    <updated>2023-01-31T22:30:45+00:00</updated>
-    <content>i love being affirmed 🥰 #transcomedian #transfem #standupcomedy #lgbtq #transcomedy #fyp </content>
-    <link href="https://tiktok.com/@hhhaydenn/video/7194947420860550443"/>
-    <published>2023-01-31T22:30:45+00:00</published>
+    <id>https://tiktok.com/@hhhaydenn/video/7396517160484474143</id>
+    <title>No Title</title>
+    <updated>2024-07-28T03:04:27+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@hhhaydenn/video/7396517160484474143"/>
+    <published>2024-07-28T03:04:27+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@hhhaydenn/video/7199702500054879534</id>
@@ -91,5 +83,13 @@
     <content>woah she’s so relatable #transcomedian #transfem #lgbtq #standupcomedy #transcomedy #fyp </content>
     <link href="https://tiktok.com/@hhhaydenn/video/7270656111944961323"/>
     <published>2023-08-23T22:59:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@hhhaydenn/video/7206045636364340523</id>
+    <title>Me when I go to the midwest or a cat cafe. #transcomedian #transfem #standupcomedy #lgbtq #transcomedy #catcafe #fyp </title>
+    <updated>2023-03-02T20:17:32+00:00</updated>
+    <content>Me when I go to the midwest or a cat cafe. #transcomedian #transfem #standupcomedy #lgbtq #transcomedy #catcafe #fyp </content>
+    <link href="https://tiktok.com/@hhhaydenn/video/7206045636364340523"/>
+    <published>2023-03-02T20:17:32+00:00</published>
   </entry>
 </feed>
