@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-07-28T03:26:11+00:00</updated>
+  <updated>2024-07-28T18:31:37.107383+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,84 +12,4 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7392215507950112007</id>
-    <title>They knew 😳</title>
-    <updated>2024-07-16T12:51:38+00:00</updated>
-    <content>They knew 😳</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7392215507950112007"/>
-    <published>2024-07-16T12:51:38+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7392689359767555336</id>
-    <title>Bye phallicia ✂️ </title>
-    <updated>2024-07-17T19:30:27+00:00</updated>
-    <content>Bye phallicia ✂️ </content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7392689359767555336"/>
-    <published>2024-07-17T19:30:27+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7393310476895096072</id>
-    <title>My weakness 😳 @Annie Knight </title>
-    <updated>2024-07-19T11:40:41+00:00</updated>
-    <content>My weakness 😳 @Annie Knight </content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7393310476895096072"/>
-    <published>2024-07-19T11:40:41+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7393666122786065672</id>
-    <title>Replying to @faust011235 Changing the world one man at a time 😊</title>
-    <updated>2024-07-20T10:40:46+00:00</updated>
-    <content>Replying to @faust011235 Changing the world one man at a time 😊</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7393666122786065672"/>
-    <published>2024-07-20T10:40:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7393955112395214087</id>
-    <title>Help me secure my bagggggg</title>
-    <updated>2024-07-21T05:22:11+00:00</updated>
-    <content>Help me secure my bagggggg</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7393955112395214087"/>
-    <published>2024-07-21T05:22:11+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7394407607642934546</id>
-    <title>Once you realise you can survive on your own, you’re unstoppable!</title>
-    <updated>2024-07-22T10:38:07+00:00</updated>
-    <content>Once you realise you can survive on your own, you’re unstoppable!</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7394407607642934546"/>
-    <published>2024-07-22T10:38:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7394795242987195666</id>
-    <title>I’ll be your Morticia 🥀</title>
-    <updated>2024-07-23T11:42:19+00:00</updated>
-    <content>I’ll be your Morticia 🥀</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7394795242987195666"/>
-    <published>2024-07-23T11:42:19+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7395221121110412551</id>
-    <title>Worth everything 💫</title>
-    <updated>2024-07-24T15:14:57+00:00</updated>
-    <content>Worth everything 💫</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7395221121110412551"/>
-    <published>2024-07-24T15:14:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7396270324486016264</id>
-    <title>Something’s gotta give</title>
-    <updated>2024-07-27T11:06:23+00:00</updated>
-    <content>Something’s gotta give</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7396270324486016264"/>
-    <published>2024-07-27T11:06:23+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7396522819162492167</id>
-    <title>Im just a sweet girl 😊</title>
-    <updated>2024-07-28T03:26:11+00:00</updated>
-    <content>Im just a sweet girl 😊</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7396522819162492167"/>
-    <published>2024-07-28T03:26:11+00:00</published>
-  </entry>
 </feed>
