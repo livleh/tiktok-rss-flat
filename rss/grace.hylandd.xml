@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-07-28T03:26:11+00:00</updated>
+  <updated>2024-07-29T08:46:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7392215507950112007</id>
-    <title>They knew 😳</title>
-    <updated>2024-07-16T12:51:38+00:00</updated>
-    <content>They knew 😳</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7392215507950112007"/>
-    <published>2024-07-16T12:51:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7392689359767555336</id>
     <title>Bye phallicia ✂️ </title>
@@ -91,5 +83,13 @@
     <content>Im just a sweet girl 😊</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7396522819162492167"/>
     <published>2024-07-28T03:26:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7396976342257995015</id>
+    <title>My kitty feels so confident now! @Annie Knight </title>
+    <updated>2024-07-29T08:46:06+00:00</updated>
+    <content>My kitty feels so confident now! @Annie Knight </content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7396976342257995015"/>
+    <published>2024-07-29T08:46:06+00:00</published>
   </entry>
 </feed>
