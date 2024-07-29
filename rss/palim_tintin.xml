@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@palim_tintin</id>
   <title>palim_tintin</title>
-  <updated>2024-07-21T18:48:39+00:00</updated>
+  <updated>2024-07-29T11:20:01.094430+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,84 +12,4 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from palim_tintin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@palim_tintin/video/7379303704580689184</id>
-    <title>No Title</title>
-    <updated>2024-06-11T17:47:18+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@palim_tintin/video/7379303704580689184"/>
-    <published>2024-06-11T17:47:18+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@palim_tintin/video/7381527680681823521</id>
-    <title>Da der Sommer noch auf sich warten lässt, zeig‘ ich euch heute ein paar meiner Lieblingsoutfits aus’m letzten Jahr. 🌞😊</title>
-    <updated>2024-06-17T17:37:29+00:00</updated>
-    <content>Da der Sommer noch auf sich warten lässt, zeig‘ ich euch heute ein paar meiner Lieblingsoutfits aus’m letzten Jahr. 🌞😊</content>
-    <link href="https://tiktok.com/@palim_tintin/video/7381527680681823521"/>
-    <published>2024-06-17T17:37:29+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@palim_tintin/video/7382282465374752033</id>
-    <title>❤️🎶😸</title>
-    <updated>2024-06-19T18:26:30+00:00</updated>
-    <content>❤️🎶😸</content>
-    <link href="https://tiktok.com/@palim_tintin/video/7382282465374752033"/>
-    <published>2024-06-19T18:26:30+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@palim_tintin/video/7383954989514870049</id>
-    <title>🌿🥹🧡☀️🐌</title>
-    <updated>2024-06-24T06:36:55+00:00</updated>
-    <content>🌿🥹🧡☀️🐌</content>
-    <link href="https://tiktok.com/@palim_tintin/video/7383954989514870049"/>
-    <published>2024-06-24T06:36:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@palim_tintin/video/7386007670769093921</id>
-    <title>No Title</title>
-    <updated>2024-06-29T19:22:07+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@palim_tintin/video/7386007670769093921"/>
-    <published>2024-06-29T19:22:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@palim_tintin/video/7391868920107502881</id>
-    <title>🩵🤍🩵</title>
-    <updated>2024-07-15T14:26:55+00:00</updated>
-    <content>🩵🤍🩵</content>
-    <link href="https://tiktok.com/@palim_tintin/video/7391868920107502881"/>
-    <published>2024-07-15T14:26:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@palim_tintin/video/7394162918910184736</id>
-    <title>🧡🐈‍⬛🐈‍⬛🎶✨</title>
-    <updated>2024-07-21T18:48:39+00:00</updated>
-    <content>🧡🐈‍⬛🐈‍⬛🎶✨</content>
-    <link href="https://tiktok.com/@palim_tintin/video/7394162918910184736"/>
-    <published>2024-07-21T18:48:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@palim_tintin/video/7189301520721005829</id>
-    <title>Let‘s Play Chess 🖤🤍♟️#interiordesign #mykitchen #küche #küchenhacks #küchentricks #kücheninspiration #altbau #germaninteriorblogger #solebich #kücheninspiration #küchenidee #fyp #fy #fleetwoodmac </title>
-    <updated>2023-01-16T17:21:45+00:00</updated>
-    <content>Let‘s Play Chess 🖤🤍♟️#interiordesign #mykitchen #küche #küchenhacks #küchentricks #kücheninspiration #altbau #germaninteriorblogger #solebich #kücheninspiration #küchenidee #fyp #fy #fleetwoodmac </content>
-    <link href="https://tiktok.com/@palim_tintin/video/7189301520721005829"/>
-    <published>2023-01-16T17:21:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@palim_tintin/video/7236637875071208731</id>
-    <title>Guten Morgen! 🌻☺️🧡 #meinzuhause #altbau #altbauwohnung #bohemian #bohooutfit #bedroom #schlafzimmer #fyp #germaninteriorbloggers </title>
-    <updated>2023-05-24T06:51:32+00:00</updated>
-    <content>Guten Morgen! 🌻☺️🧡 #meinzuhause #altbau #altbauwohnung #bohemian #bohooutfit #bedroom #schlafzimmer #fyp #germaninteriorbloggers </content>
-    <link href="https://tiktok.com/@palim_tintin/video/7236637875071208731"/>
-    <published>2023-05-24T06:51:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@palim_tintin/video/7266749258399829280</id>
-    <title>KIM🧡N🧡S!!! #outfits #kimono #fashion #bohohippie #70s #70sfashion #70sinspiredfashion #schlafzimmer #ootd #wiw </title>
-    <updated>2023-08-13T10:18:34+00:00</updated>
-    <content>KIM🧡N🧡S!!! #outfits #kimono #fashion #bohohippie #70s #70sfashion #70sinspiredfashion #schlafzimmer #ootd #wiw </content>
-    <link href="https://tiktok.com/@palim_tintin/video/7266749258399829280"/>
-    <published>2023-08-13T10:18:34+00:00</published>
-  </entry>
 </feed>

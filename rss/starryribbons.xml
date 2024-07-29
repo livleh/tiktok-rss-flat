@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@starryribbons</id>
   <title>starryribbons</title>
-  <updated>2024-07-25T16:36:34+00:00</updated>
+  <updated>2024-07-29T10:39:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from starryribbons</subtitle>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7390787788800527649</id>
-    <title>the quality is so outstanding amazing cause I always record these before the sun fully rises #coquettecore #digitaldiary #wlw #shoujo #outfitsoftheweek #femmelesbian #outfitinspo #aesthetic #06 </title>
-    <updated>2024-07-12T16:31:24+00:00</updated>
-    <content>the quality is so outstanding amazing cause I always record these before the sun fully rises #coquettecore #digitaldiary #wlw #shoujo #outfitsoftheweek #femmelesbian #outfitinspo #aesthetic #06 </content>
-    <link href="https://tiktok.com/@starryribbons/video/7390787788800527649"/>
-    <published>2024-07-12T16:31:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7391198535691128096</id>
     <title>me in a nutshell #coquettecore #digitaldiary #wlw #ao3 #taylorswifttok #kpop #06 #mentalhealthmatters #recoverytok </title>
@@ -83,6 +75,14 @@
     <content>ignore the dirty mirror + pls drop rec in the comments thanks!! muawh #coquettecore #digitaldiary #fangirltok #wlw #ao3 #fanfic #fanfiction #gracieabrams </content>
     <link href="https://tiktok.com/@starryribbons/video/7395613229788957985"/>
     <published>2024-07-25T16:36:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7397005575139101984</id>
+    <title>straight from the tortured poets department #coquettecore #digitaldiary #ttpd #theerastour #taylorswift #erastouroutfits #wlw #munichn2 </title>
+    <updated>2024-07-29T10:39:38+00:00</updated>
+    <content>straight from the tortured poets department #coquettecore #digitaldiary #ttpd #theerastour #taylorswift #erastouroutfits #wlw #munichn2 </content>
+    <link href="https://tiktok.com/@starryribbons/video/7397005575139101984"/>
+    <published>2024-07-29T10:39:38+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7285761406664854817</id>
