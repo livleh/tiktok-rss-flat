@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-07-29T14:34:39+00:00</updated>
+  <updated>2024-07-29T20:44:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7388247578191662378</id>
-    <title>this California bar is Halloween 365 days a year!! 🎃 👻  The Howards’ Mystic Saloon is SUCH a vibe for anyone who loves spooky season and the occult. You would never expect this tiny mountain town to pack such a unique bar, and somehow they pack in even MO</title>
-    <updated>2024-07-05T20:14:07+00:00</updated>
-    <content>this California bar is Halloween 365 days a year!! 🎃 👻  The Howards’ Mystic Saloon is SUCH a vibe for anyone who loves spooky season and the occult. You would never expect this tiny mountain town to pack such a unique bar, and somehow they pack in even MO</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7388247578191662378"/>
-    <published>2024-07-05T20:14:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7388312513605061934</id>
     <title>we may have seasonal depression but at least we aren't living in satan's booty hole. ✌️#sanfrancisco 👉 jokes aside, I hope everyone in this heatwave is staying cool and safe!! most towns offer cooling centers if you need some free A/C, water and first aid</title>
@@ -267,6 +259,14 @@
     <content>Why did someone make this? 😂 can't wait to hang this ridiculous Christmas ornament on my tree this year. Low key think it should of been designed so anne Boleyn's head would detach but whatever #christmasornaments #toweroflondon #london #anneboleyn #humor</content>
     <link href="https://tiktok.com/@whimsysoul/video/7397066143195745582"/>
     <published>2024-07-29T14:34:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7397161331230756142</id>
+    <title>top 3 travel purses that DON'T 🛑 make you look like a tourist! I have never been pickpocketed with these antitheft travel bags and have been all over the world.  Esp that Arden Cove purse, it's my holy grail travel item!! #ardencove #travel #travelpurse #</title>
+    <updated>2024-07-29T20:44:01+00:00</updated>
+    <content>top 3 travel purses that DON'T 🛑 make you look like a tourist! I have never been pickpocketed with these antitheft travel bags and have been all over the world.  Esp that Arden Cove purse, it's my holy grail travel item!! #ardencove #travel #travelpurse #</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7397161331230756142"/>
+    <published>2024-07-29T20:44:01+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
