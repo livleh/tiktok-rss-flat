@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-07-28T17:59:25+00:00</updated>
+  <updated>2024-07-29T14:34:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7395655735910124842</id>
-    <title>someone is just mad we're still allowed bank accounts without permission from a man. jd vance is such a loser #jdvance #womansrights #catlady #cats #kamalaharris #bratsummer #women #equalrights </title>
-    <updated>2024-07-25T19:21:30+00:00</updated>
-    <content>someone is just mad we're still allowed bank accounts without permission from a man. jd vance is such a loser #jdvance #womansrights #catlady #cats #kamalaharris #bratsummer #women #equalrights </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7395655735910124842"/>
-    <published>2024-07-25T19:21:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7395715453055716650</id>
     <title>ngl, London solo is simply *the best* 🇬🇧  Earlier this summer I spent a weekend in London by myself and had THE BEST time just walking around listening to an audiobook (Fourth Wing in case you're curious), eating all the good food and taking in the sights</title>
@@ -67,6 +59,14 @@
     <content>white is boring, blue is better 💙 I did our fridge DIY 4 years ago (!!) and happy to report it's still holding up beautifully!  If you're side-eyeing your fridge (rental or owned) and wishing you could transform it literally for $20 and 2 hours of time, t</content>
     <link href="https://tiktok.com/@whimsysoul/video/7396747830704213294"/>
     <published>2024-07-28T17:59:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7397066143195745582</id>
+    <title>Why did someone make this? 😂 can't wait to hang this ridiculous Christmas ornament on my tree this year. Low key think it should of been designed so anne Boleyn's head would detach but whatever #christmasornaments #toweroflondon #london #anneboleyn #humor</title>
+    <updated>2024-07-29T14:34:39+00:00</updated>
+    <content>Why did someone make this? 😂 can't wait to hang this ridiculous Christmas ornament on my tree this year. Low key think it should of been designed so anne Boleyn's head would detach but whatever #christmasornaments #toweroflondon #london #anneboleyn #humor</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7397066143195745582"/>
+    <published>2024-07-29T14:34:39+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
