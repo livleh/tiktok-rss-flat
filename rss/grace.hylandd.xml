@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-07-29T08:46:06+00:00</updated>
+  <updated>2024-07-30T11:59:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7374674382469221650</id>
-    <title>Someone teach me how to twerrrrk 🔮🌙</title>
-    <updated>2024-05-30T06:23:09+00:00</updated>
-    <content>Someone teach me how to twerrrrk 🔮🌙</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7374674382469221650"/>
-    <published>2024-05-30T06:23:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7378797799703383314</id>
     <title>Bye 👋🏼 </title>
@@ -235,5 +227,13 @@
     <content>My kitty feels so confident now! @Annie Knight </content>
     <link href="https://tiktok.com/@grace.hylandd/video/7396976342257995015"/>
     <published>2024-07-29T08:46:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7397397186926972178</id>
+    <title>⏳</title>
+    <updated>2024-07-30T11:59:11+00:00</updated>
+    <content>⏳</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7397397186926972178"/>
+    <published>2024-07-30T11:59:11+00:00</published>
   </entry>
 </feed>
