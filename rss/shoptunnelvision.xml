@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shoptunnelvision</id>
   <title>shoptunnelvision</title>
-  <updated>2024-07-29T18:22:51+00:00</updated>
+  <updated>2024-07-30T20:39:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shoptunnelvision</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shoptunnelvision/video/7381555673705975086</id>
-    <title>No Title</title>
-    <updated>2024-06-17T19:26:08+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@shoptunnelvision/video/7381555673705975086"/>
-    <published>2024-06-17T19:26:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shoptunnelvision/video/7384546225510452523</id>
     <title>Replying to @Rooferz </title>
@@ -91,5 +83,13 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@shoptunnelvision/video/7397124949460258090"/>
     <published>2024-07-29T18:22:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shoptunnelvision/video/7397531153001057582</id>
+    <title>Replying to @aporia 16 music </title>
+    <updated>2024-07-30T20:39:07+00:00</updated>
+    <content>Replying to @aporia 16 music </content>
+    <link href="https://tiktok.com/@shoptunnelvision/video/7397531153001057582"/>
+    <published>2024-07-30T20:39:07+00:00</published>
   </entry>
 </feed>
