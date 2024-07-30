@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-07-30T14:24:25+00:00</updated>
+  <updated>2024-07-30T15:01:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7393731512253959456</id>
-    <title>we all look like our fave characters and its so cute #girlhood </title>
-    <updated>2024-07-20T14:54:35+00:00</updated>
-    <content>we all look like our fave characters and its so cute #girlhood </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7393731512253959456"/>
-    <published>2024-07-20T14:54:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7393758599455018272</id>
     <title>he loves it really #disney #siblings </title>
@@ -267,6 +259,14 @@
     <content>beach sunrise&gt;&gt; #sunrise #beach </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7397434590702439713"/>
     <published>2024-07-30T14:24:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7397444109511806241</id>
+    <title>ocean child #oceanchild #beach </title>
+    <updated>2024-07-30T15:01:23+00:00</updated>
+    <content>ocean child #oceanchild #beach </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7397444109511806241"/>
+    <published>2024-07-30T15:01:23+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
