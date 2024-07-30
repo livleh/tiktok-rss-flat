@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-07-27T06:32:51+00:00</updated>
+  <updated>2024-07-30T06:49:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7380787924234718496</id>
-    <title>Antwort auf @origilina Linkes Infighting Vs. konstruktive Kritik  #reclaimtiktok #diegrünen #gegenrechts </title>
-    <updated>2024-06-15T17:46:50+00:00</updated>
-    <content>Antwort auf @origilina Linkes Infighting Vs. konstruktive Kritik  #reclaimtiktok #diegrünen #gegenrechts </content>
-    <link href="https://tiktok.com/@tandarok/video/7380787924234718496"/>
-    <published>2024-06-15T17:46:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7380944372814138656</id>
     <title>How time flies... Ich fühle mich so viel wohler mit der neuen Haarfarbe 🥰 #queer #transgirl #pridemonth </title>
@@ -259,6 +251,14 @@
     <content>Wir lieben linke Macker 🙃 #dating #feminismus #vegan </content>
     <link href="https://tiktok.com/@tandarok/video/7396199743648451873"/>
     <published>2024-07-27T06:32:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7397317191302958369</id>
+    <title>Ich komm nicht drauf klar wie süß das ist 🥺  #dogsoftiktok #duett </title>
+    <updated>2024-07-30T06:49:04+00:00</updated>
+    <content>Ich komm nicht drauf klar wie süß das ist 🥺  #dogsoftiktok #duett </content>
+    <link href="https://tiktok.com/@tandarok/video/7397317191302958369"/>
+    <published>2024-07-30T06:49:04+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
