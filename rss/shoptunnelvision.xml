@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shoptunnelvision</id>
   <title>shoptunnelvision</title>
-  <updated>2024-07-30T20:39:07+00:00</updated>
+  <updated>2024-07-30T22:23:17.414311+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,84 +12,4 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shoptunnelvision</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shoptunnelvision/video/7384546225510452523</id>
-    <title>Replying to @Rooferz </title>
-    <updated>2024-06-25T20:50:56+00:00</updated>
-    <content>Replying to @Rooferz </content>
-    <link href="https://tiktok.com/@shoptunnelvision/video/7384546225510452523"/>
-    <published>2024-06-25T20:50:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@shoptunnelvision/video/7386505507319614762</id>
-    <title>No Title</title>
-    <updated>2024-07-01T03:34:00+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@shoptunnelvision/video/7386505507319614762"/>
-    <published>2024-07-01T03:34:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@shoptunnelvision/video/7387086712247471406</id>
-    <title>No Title</title>
-    <updated>2024-07-02T17:09:20+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@shoptunnelvision/video/7387086712247471406"/>
-    <published>2024-07-02T17:09:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@shoptunnelvision/video/7389029149098183978</id>
-    <title>Tunnel Vision jewelry subscriptions — one new iten every month for just $12!</title>
-    <updated>2024-07-07T22:47:01+00:00</updated>
-    <content>Tunnel Vision jewelry subscriptions — one new iten every month for just $12!</content>
-    <link href="https://tiktok.com/@shoptunnelvision/video/7389029149098183978"/>
-    <published>2024-07-07T22:47:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@shoptunnelvision/video/7390133688648076590</id>
-    <title>#greenscreen </title>
-    <updated>2024-07-10T22:13:14+00:00</updated>
-    <content>#greenscreen </content>
-    <link href="https://tiktok.com/@shoptunnelvision/video/7390133688648076590"/>
-    <published>2024-07-10T22:13:14+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@shoptunnelvision/video/7394172284719648042</id>
-    <title>No Title</title>
-    <updated>2024-07-21T19:24:58+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@shoptunnelvision/video/7394172284719648042"/>
-    <published>2024-07-21T19:24:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@shoptunnelvision/video/7394877501736029482</id>
-    <title>No Title</title>
-    <updated>2024-07-23T17:01:37+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@shoptunnelvision/video/7394877501736029482"/>
-    <published>2024-07-23T17:01:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@shoptunnelvision/video/7394934524729265454</id>
-    <title>No Title</title>
-    <updated>2024-07-23T20:42:52+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@shoptunnelvision/video/7394934524729265454"/>
-    <published>2024-07-23T20:42:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@shoptunnelvision/video/7397124949460258090</id>
-    <title>No Title</title>
-    <updated>2024-07-29T18:22:51+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@shoptunnelvision/video/7397124949460258090"/>
-    <published>2024-07-29T18:22:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@shoptunnelvision/video/7397531153001057582</id>
-    <title>Replying to @aporia 16 music </title>
-    <updated>2024-07-30T20:39:07+00:00</updated>
-    <content>Replying to @aporia 16 music </content>
-    <link href="https://tiktok.com/@shoptunnelvision/video/7397531153001057582"/>
-    <published>2024-07-30T20:39:07+00:00</published>
-  </entry>
 </feed>
