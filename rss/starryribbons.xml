@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@starryribbons</id>
   <title>starryribbons</title>
-  <updated>2024-07-30T17:26:05+00:00</updated>
+  <updated>2024-07-31T18:19:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from starryribbons</subtitle>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7377457967274151200</id>
-    <title>PSPSPSP #coquettecore #digitaldiary #catsoftiktok #girlhood #relatable #femmelesbian </title>
-    <updated>2024-06-06T18:24:55+00:00</updated>
-    <content>PSPSPSP #coquettecore #digitaldiary #catsoftiktok #girlhood #relatable #femmelesbian </content>
-    <link href="https://tiktok.com/@starryribbons/video/7377457967274151200"/>
-    <published>2024-06-06T18:24:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7377460891366870304</id>
-    <title>I love Cassandra SO MUCH #coquettecore #digitaldiary #taylorswifttok #abuseawareness #wlw #cassandracomplex #swiftietok #</title>
-    <updated>2024-06-06T18:36:14+00:00</updated>
-    <content>I love Cassandra SO MUCH #coquettecore #digitaldiary #taylorswifttok #abuseawareness #wlw #cassandracomplex #swiftietok #</content>
-    <link href="https://tiktok.com/@starryribbons/video/7377460891366870304"/>
-    <published>2024-06-06T18:36:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7378160885115768097</id>
     <title>the eclipse you‘ll always be famous to me #coquettecore #digitaldiary #taylorswifttok #fangirling #wlw #ao3 #fanfic #academicvalidation </title>
@@ -283,6 +267,22 @@
     <content>ignore the stain on my shirt what #coquettecore #digitaldiary #fangirl #taylorswift #theerastour #nostalgia #swiftietok #wlw </content>
     <link href="https://tiktok.com/@starryribbons/video/7397481404474379553"/>
     <published>2024-07-30T17:26:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7397866255564311841</id>
+    <title>I NEVER NEEDED ANYTHING MORE #coquettecore #digitaldiary #taylorswift #august #wlw #folklore #folkloretaylorswift </title>
+    <updated>2024-07-31T18:19:28+00:00</updated>
+    <content>I NEVER NEEDED ANYTHING MORE #coquettecore #digitaldiary #taylorswift #august #wlw #folklore #folkloretaylorswift </content>
+    <link href="https://tiktok.com/@starryribbons/video/7397866255564311841"/>
+    <published>2024-07-31T18:19:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7397866376733478176</id>
+    <title>there are a thousand more ways but the heat outside is making it impossible for me to move #coquettecore #digitaldiary #theerastour #outfitinspo #concertmerch #wlw </title>
+    <updated>2024-07-31T18:19:58+00:00</updated>
+    <content>there are a thousand more ways but the heat outside is making it impossible for me to move #coquettecore #digitaldiary #theerastour #outfitinspo #concertmerch #wlw </content>
+    <link href="https://tiktok.com/@starryribbons/video/7397866376733478176"/>
+    <published>2024-07-31T18:19:58+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7285761406664854817</id>
