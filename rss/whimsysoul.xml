@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-07-30T16:59:31+00:00</updated>
+  <updated>2024-07-31T14:27:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7388925472001871147</id>
-    <title>6 places to escape the heat in CA ⬇️ I saw some places in California reaching over 119 degrees this week?? 😵‍💫 If you need to cool off, here are my fave places to escape to.  💦 American River: a short drive from Sacramento, there are tons of swimming hole</title>
-    <updated>2024-07-07T16:04:44+00:00</updated>
-    <content>6 places to escape the heat in CA ⬇️ I saw some places in California reaching over 119 degrees this week?? 😵‍💫 If you need to cool off, here are my fave places to escape to.  💦 American River: a short drive from Sacramento, there are tons of swimming hole</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7388925472001871147"/>
-    <published>2024-07-07T16:04:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7389396322975075627</id>
     <title>I ALMOST skipped Sintra since I've only heard it's overrun with tourists and is basically Portugal Disney.  But, on our last day in Lisbon for the @Flodesk retreat, @Mya | Business Coach and I did a day trip out to Sintra on a whim. We had zero expectatio</title>
@@ -267,6 +259,14 @@
     <content>Replying to @grant6064 the best carryon backpack for under $50! 😱 this doesn't even show off how much you can fit into the exterior pockets #travel #travelbag #travelbackpack #travelhack #carryonbag #carryononly #whimsysoul </content>
     <link href="https://tiktok.com/@whimsysoul/video/7397474553099996462"/>
     <published>2024-07-30T16:59:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7397806562217135406</id>
+    <title>Replying to @Ashley only flaw - everything else is perfection ❤️ #travel #travelbag #travelbackpack #travelhack #carryonbag #carryononly #whimsysoul </title>
+    <updated>2024-07-31T14:27:49+00:00</updated>
+    <content>Replying to @Ashley only flaw - everything else is perfection ❤️ #travel #travelbag #travelbackpack #travelhack #carryonbag #carryononly #whimsysoul </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7397806562217135406"/>
+    <published>2024-07-31T14:27:49+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>

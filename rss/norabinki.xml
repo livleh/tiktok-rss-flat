@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@norabinki</id>
   <title>norabinki</title>
-  <updated>2024-07-27T15:28:27+00:00</updated>
+  <updated>2024-07-31T15:19:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from norabinki</subtitle>
-  <entry>
-    <id>https://tiktok.com/@norabinki/video/7321773275611204897</id>
-    <title>Ab jetzt immer im Hochzeitskleid? #fyp #schweiz #CapCut </title>
-    <updated>2024-01-08T16:59:51+00:00</updated>
-    <content>Ab jetzt immer im Hochzeitskleid? #fyp #schweiz #CapCut </content>
-    <link href="https://tiktok.com/@norabinki/video/7321773275611204897"/>
-    <published>2024-01-08T16:59:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@norabinki/video/7328080899491253537</id>
     <title>„de maybach unter de ski“ #fyp #schweiz #CapCut </title>
@@ -259,6 +251,14 @@
     <content>c'est la flûte 🌊 #schweiz #fyp #sommerferien #CapCut </content>
     <link href="https://tiktok.com/@norabinki/video/7396337832186416416"/>
     <published>2024-07-27T15:28:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@norabinki/video/7397819789655264545</id>
+    <title>Im Pyrptechnik-Laden @Bruzzli #schweiz #fyp #CapCut </title>
+    <updated>2024-07-31T15:19:17+00:00</updated>
+    <content>Im Pyrptechnik-Laden @Bruzzli #schweiz #fyp #CapCut </content>
+    <link href="https://tiktok.com/@norabinki/video/7397819789655264545"/>
+    <published>2024-07-31T15:19:17+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@norabinki/video/7283544477661203745</id>
