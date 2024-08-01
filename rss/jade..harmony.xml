@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jade..harmony</id>
   <title>jade..harmony</title>
-  <updated>2024-08-01T12:55:38+00:00</updated>
+  <updated>2024-08-01T19:37:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jade..harmony</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jade..harmony/video/7392230151389596958</id>
-    <title>#hercules #herculesdisney #foryoupage #michigan #michigandragqueen #funny #viral #disney #arianagrande #barscene #club #showgirl #jadeharmony </title>
-    <updated>2024-07-16T13:49:04+00:00</updated>
-    <content>#hercules #herculesdisney #foryoupage #michigan #michigandragqueen #funny #viral #disney #arianagrande #barscene #club #showgirl #jadeharmony </content>
-    <link href="https://tiktok.com/@jade..harmony/video/7392230151389596958"/>
-    <published>2024-07-16T13:49:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jade..harmony/video/7392351791616134431</id>
     <title>#hercules #megcosplay #disney #pretty </title>
@@ -267,6 +259,14 @@
     <content>#foryoupage #trans #michigan #michigandragqueen #lipsync #rupaulsdragrace #dragbattle #lipsyncbattle #queens #michigandrag #broadway #fyp #viral </content>
     <link href="https://tiktok.com/@jade..harmony/video/7398153787476577567"/>
     <published>2024-08-01T12:55:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jade..harmony/video/7398257391013203231</id>
+    <title>#foryoupage #trans #michigan #michigandragqueen #dragbattle </title>
+    <updated>2024-08-01T19:37:17+00:00</updated>
+    <content>#foryoupage #trans #michigan #michigandragqueen #dragbattle </content>
+    <link href="https://tiktok.com/@jade..harmony/video/7398257391013203231"/>
+    <published>2024-08-01T19:37:17+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jade..harmony/video/7375123202055408942</id>
