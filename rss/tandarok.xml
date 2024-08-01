@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-07-31T06:37:01+00:00</updated>
+  <updated>2024-08-01T06:22:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7381355810946845984</id>
-    <title>Linke Infights #reclaimtiktok #gegenrechts </title>
-    <updated>2024-06-17T06:30:45+00:00</updated>
-    <content>Linke Infights #reclaimtiktok #gegenrechts </content>
-    <link href="https://tiktok.com/@tandarok/video/7381355810946845984"/>
-    <published>2024-06-17T06:30:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7381709569891863841</id>
     <title>Linke in die Parteien! #reclaimtiktok #gegenrechts #diegrünen </title>
@@ -251,6 +243,14 @@
     <content>#stitch mit @Danielle das war aber glaube ich auch so das schlimmste Date für mich bisher  #singlelife #datinglife #dating </content>
     <link href="https://tiktok.com/@tandarok/video/7397685217571392800"/>
     <published>2024-07-31T06:37:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7398052509652159776</id>
+    <title>#friends #twitchgermany #ratingthings </title>
+    <updated>2024-08-01T06:22:33+00:00</updated>
+    <content>#friends #twitchgermany #ratingthings </content>
+    <link href="https://tiktok.com/@tandarok/video/7398052509652159776"/>
+    <published>2024-08-01T06:22:33+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
