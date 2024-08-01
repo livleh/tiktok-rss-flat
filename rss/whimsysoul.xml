@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-07-31T14:27:49+00:00</updated>
+  <updated>2024-08-01T04:19:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7389396322975075627</id>
-    <title>I ALMOST skipped Sintra since I've only heard it's overrun with tourists and is basically Portugal Disney.  But, on our last day in Lisbon for the @Flodesk retreat, @Mya | Business Coach and I did a day trip out to Sintra on a whim. We had zero expectatio</title>
-    <updated>2024-07-08T22:31:49+00:00</updated>
-    <content>I ALMOST skipped Sintra since I've only heard it's overrun with tourists and is basically Portugal Disney.  But, on our last day in Lisbon for the @Flodesk retreat, @Mya | Business Coach and I did a day trip out to Sintra on a whim. We had zero expectatio</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7389396322975075627"/>
-    <published>2024-07-08T22:31:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7390106680329194798</id>
     <title>Calling all "The Bear" Fans ⬇️ I couldn't resist finding a bunch of The Bear filming spots while in Copenhagen - including the houseboat that Marcus lives on with the invisible cat!! 🐈🤣 👉 Link in bio to get the FULL list of all the locations you can also </title>
@@ -267,6 +259,14 @@
     <content>Replying to @Ashley only flaw - everything else is perfection ❤️ #travel #travelbag #travelbackpack #travelhack #carryonbag #carryononly #whimsysoul </content>
     <link href="https://tiktok.com/@whimsysoul/video/7397806562217135406"/>
     <published>2024-07-31T14:27:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7398020779960585514</id>
+    <title>Salt air, and the rust on your door... august slipped away like this bottle of wine will tonight 😉 🍷 #august #augustslippedaway #taylorswift #wine #sanfrancisco #summer #taylorswiftedits #augusteve </title>
+    <updated>2024-08-01T04:19:08+00:00</updated>
+    <content>Salt air, and the rust on your door... august slipped away like this bottle of wine will tonight 😉 🍷 #august #augustslippedaway #taylorswift #wine #sanfrancisco #summer #taylorswiftedits #augusteve </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7398020779960585514"/>
+    <published>2024-08-01T04:19:08+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
