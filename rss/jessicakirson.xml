@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-07-31T22:30:41+00:00</updated>
+  <updated>2024-08-01T22:29:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7390118324660620574</id>
-    <title>Desperate to get engaged  #engaged #engagement #couple #foryou </title>
-    <updated>2024-07-10T21:13:47+00:00</updated>
-    <content>Desperate to get engaged  #engaged #engagement #couple #foryou </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7390118324660620574"/>
-    <published>2024-07-10T21:13:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7391113950529686815</id>
     <title>I’d have to be cut out of a room! #bakery #dessert #bread #foryou </title>
@@ -155,6 +147,14 @@
     <content>Lesbian Dating App #lesbiansoftiktok #datingapps #fypage </content>
     <link href="https://tiktok.com/@jessicakirson/video/7397930955597417758"/>
     <published>2024-07-31T22:30:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7398301881988074783</id>
+    <title>Have You Been To This Coffee Shop?  #nyc #coffee #foryou </title>
+    <updated>2024-08-01T22:29:59+00:00</updated>
+    <content>Have You Been To This Coffee Shop?  #nyc #coffee #foryou </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7398301881988074783"/>
+    <published>2024-08-01T22:29:59+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7390410734674431262</id>
