@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-08-01T21:30:33+00:00</updated>
+  <updated>2024-08-02T13:13:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7391981869207653662</id>
-    <title>next time just test with @Sauce Labs #softwareengineerlife#softwareengineersanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow #ad  </title>
-    <updated>2024-07-15T21:45:14+00:00</updated>
-    <content>next time just test with @Sauce Labs #softwareengineerlife#softwareengineersanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow #ad  </content>
-    <link href="https://tiktok.com/@techroastshow/video/7391981869207653662"/>
-    <published>2024-07-15T21:45:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7392185780082445598</id>
     <title>Rest in Peace 🪦💔 #techie #softwareengineer #nyc #newyork #programmerlife #roastbattle #darkhumor #techroastshow </title>
@@ -267,6 +259,14 @@
     <content>the code is always unreadable  #techie #softwareengineer #siliconvalley #techdebt #programmerlife #techroastshow </content>
     <link href="https://tiktok.com/@techroastshow/video/7398286579141184798"/>
     <published>2024-08-01T21:30:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7398529476734307614</id>
+    <title>Jesse went full Bryan Johnson here  #techie #softwareengineer #chicago #programmerlife #roastbattle #darkhumor #techroastshow</title>
+    <updated>2024-08-02T13:13:13+00:00</updated>
+    <content>Jesse went full Bryan Johnson here  #techie #softwareengineer #chicago #programmerlife #roastbattle #darkhumor #techroastshow</content>
+    <link href="https://tiktok.com/@techroastshow/video/7398529476734307614"/>
+    <published>2024-08-02T13:13:13+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
