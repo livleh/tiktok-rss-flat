@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jade..harmony</id>
   <title>jade..harmony</title>
-  <updated>2024-08-02T09:08:21+00:00</updated>
+  <updated>2024-08-03T22:00:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jade..harmony</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jade..harmony/video/7392616816633187614</id>
-    <title>#foryoupage #michigan #michigandragqueen #funny #viral #girlbye #parody </title>
-    <updated>2024-07-17T14:48:59+00:00</updated>
-    <content>#foryoupage #michigan #michigandragqueen #funny #viral #girlbye #parody </content>
-    <link href="https://tiktok.com/@jade..harmony/video/7392616816633187614"/>
-    <published>2024-07-17T14:48:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jade..harmony/video/7392725969573825823</id>
     <title>#foryoupage #michigan #michigandragqueen </title>
@@ -267,6 +259,14 @@
     <content>#foryoupage #broadway #dragqueenmakeup #michigan #michigandragqueen #dragbattle #lipsync #rupaulsdragrace #lipsyncbattle #queens </content>
     <link href="https://tiktok.com/@jade..harmony/video/7398466199102754079"/>
     <published>2024-08-02T09:08:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jade..harmony/video/7399036390903778591</id>
+    <title>#foryoupage #dragqueenmakeup #michigan #michigandragqueen </title>
+    <updated>2024-08-03T22:00:26+00:00</updated>
+    <content>#foryoupage #dragqueenmakeup #michigan #michigandragqueen </content>
+    <link href="https://tiktok.com/@jade..harmony/video/7399036390903778591"/>
+    <published>2024-08-03T22:00:26+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jade..harmony/video/7375123202055408942</id>
