@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-08-03T16:23:50+00:00</updated>
+  <updated>2024-08-03T22:48:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7390479903881202987</id>
-    <title>What I wore for 2 months in Europe ⬇️ These were my favorite outfits that I wore during my Europe travels this year!!! I'm a checked bag girlie and had way more outfits but these are the ones I would 100% pack all over again.  🇳🇱 🇬🇧@sezane jumpsuit in Ams</title>
-    <updated>2024-07-11T20:36:39+00:00</updated>
-    <content>What I wore for 2 months in Europe ⬇️ These were my favorite outfits that I wore during my Europe travels this year!!! I'm a checked bag girlie and had way more outfits but these are the ones I would 100% pack all over again.  🇳🇱 🇬🇧@sezane jumpsuit in Ams</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7390479903881202987"/>
-    <published>2024-07-11T20:36:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7390809778932501803</id>
     <title>Bay Area's BEST summer party ⬇️ Did you know @Filoli Historic House &amp; Garden throws Summer Nights parties every Wednesday and Thursday during the summer? You can come and stay until 8pm to enjoy food trucks, drinks, live music in hidden corners of the gar</title>
@@ -267,6 +259,14 @@
     <content>Shark in Pacifica 😱 🦈 #shark #pacifica #pacificaca #beach #sharkspotting #dog #dogsurfing </content>
     <link href="https://tiktok.com/@whimsysoul/video/7398949693457239338"/>
     <published>2024-08-03T16:23:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7399048859013369130</id>
+    <title>dogs - who SURF!! 🏄🐶🌊 Headed down to Pacifica today to catch the world dog surfing competition. It's full of cuteness and athleticism (100% makes up for not being in Paris to catch the Olympics!)  Here's how dog surfing works:  Dogs in each heat have 10 m</title>
+    <updated>2024-08-03T22:48:35+00:00</updated>
+    <content>dogs - who SURF!! 🏄🐶🌊 Headed down to Pacifica today to catch the world dog surfing competition. It's full of cuteness and athleticism (100% makes up for not being in Paris to catch the Olympics!)  Here's how dog surfing works:  Dogs in each heat have 10 m</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7399048859013369130"/>
+    <published>2024-08-03T22:48:35+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
