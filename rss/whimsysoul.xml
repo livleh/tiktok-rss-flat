@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-08-01T04:19:08+00:00</updated>
+  <updated>2024-08-03T16:23:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7390106680329194798</id>
-    <title>Calling all "The Bear" Fans ⬇️ I couldn't resist finding a bunch of The Bear filming spots while in Copenhagen - including the houseboat that Marcus lives on with the invisible cat!! 🐈🤣 👉 Link in bio to get the FULL list of all the locations you can also </title>
-    <updated>2024-07-10T20:28:24+00:00</updated>
-    <content>Calling all "The Bear" Fans ⬇️ I couldn't resist finding a bunch of The Bear filming spots while in Copenhagen - including the houseboat that Marcus lives on with the invisible cat!! 🐈🤣 👉 Link in bio to get the FULL list of all the locations you can also </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7390106680329194798"/>
-    <published>2024-07-10T20:28:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7390479903881202987</id>
     <title>What I wore for 2 months in Europe ⬇️ These were my favorite outfits that I wore during my Europe travels this year!!! I'm a checked bag girlie and had way more outfits but these are the ones I would 100% pack all over again.  🇳🇱 🇬🇧@sezane jumpsuit in Ams</title>
@@ -267,6 +259,14 @@
     <content>Salt air, and the rust on your door... august slipped away like this bottle of wine will tonight 😉 🍷 #august #augustslippedaway #taylorswift #wine #sanfrancisco #summer #taylorswiftedits #augusteve </content>
     <link href="https://tiktok.com/@whimsysoul/video/7398020779960585514"/>
     <published>2024-08-01T04:19:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7398949693457239338</id>
+    <title>Shark in Pacifica 😱 🦈 #shark #pacifica #pacificaca #beach #sharkspotting #dog #dogsurfing </title>
+    <updated>2024-08-03T16:23:50+00:00</updated>
+    <content>Shark in Pacifica 😱 🦈 #shark #pacifica #pacificaca #beach #sharkspotting #dog #dogsurfing </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7398949693457239338"/>
+    <published>2024-08-03T16:23:50+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
