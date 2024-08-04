@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2024-08-03T15:22:11+00:00</updated>
+  <updated>2024-08-04T23:03:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from loveletterstosf</subtitle>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7381251393497222442</id>
-    <title>✨art therapy✨ more info about the classes in my other vid  @love letters to SF ❤️ @Art Funk #sf #paintingclass #girltherapy #oceanbeach #sunset #thingstodoinsf #watercolorpainting </title>
-    <updated>2024-06-16T23:45:20+00:00</updated>
-    <content>✨art therapy✨ more info about the classes in my other vid  @love letters to SF ❤️ @Art Funk #sf #paintingclass #girltherapy #oceanbeach #sunset #thingstodoinsf #watercolorpainting </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7381251393497222442"/>
-    <published>2024-06-16T23:45:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7381879818868084011</id>
     <title>So many cool pop ups coming to #downtownsf! Check out some of the awesome juneteenth events + FREE events happening THIS thursday in #sf #sfevents #thingstodoinsf #sftok #boba #eastcut #fidi #financialdistrict #yerbabuena </title>
@@ -211,5 +203,13 @@
     <content>If you were to create a love letter to San Francisco, what would you include? I think @ucsfhealth and @maxfieldbala nailed it with this new mural on Hayes and Octavia, which is a lovely reminder of how special San Francisco is 💌 Definitely check it out! #</content>
     <link href="https://tiktok.com/@loveletterstosf/video/7398933816028450090"/>
     <published>2024-08-03T15:22:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7399423710257581355</id>
+    <title>dog surfing competition was the highlight of my weekend for sure 🐶❤️ #sf #vlog #pacifica #dogsurfing #fogust </title>
+    <updated>2024-08-04T23:03:12+00:00</updated>
+    <content>dog surfing competition was the highlight of my weekend for sure 🐶❤️ #sf #vlog #pacifica #dogsurfing #fogust </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7399423710257581355"/>
+    <published>2024-08-04T23:03:12+00:00</published>
   </entry>
 </feed>
