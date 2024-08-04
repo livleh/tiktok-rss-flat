@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ramalauw</id>
   <title>ramalauw</title>
-  <updated>2024-08-03T16:18:25+00:00</updated>
+  <updated>2024-08-04T14:17:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ramalauw</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ramalauw/video/7361070935161474337</id>
-    <title>How to support @Taylor Swift 🥰✨ #Free99 #taylorswift #torturedpoetsdepartment #swiftie </title>
-    <updated>2024-04-23T14:34:49+00:00</updated>
-    <content>How to support @Taylor Swift 🥰✨ #Free99 #taylorswift #torturedpoetsdepartment #swiftie </content>
-    <link href="https://tiktok.com/@ramalauw/video/7361070935161474337"/>
-    <published>2024-04-23T14:34:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7361462016315247905</id>
     <title>I give you the best relationship advice for ✨$FREE.99✨ 🥰</title>
@@ -261,12 +253,12 @@
     <published>2024-07-31T13:30:10+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@ramalauw/video/7398948308191874336</id>
-    <title>Is somebody gonna match my freak (getting philosophical and question the entire human existence whenever I have 🍺 in my system)? 🤭🥺😮‍💨🤡</title>
-    <updated>2024-08-03T16:18:25+00:00</updated>
-    <content>Is somebody gonna match my freak (getting philosophical and question the entire human existence whenever I have 🍺 in my system)? 🤭🥺😮‍💨🤡</content>
-    <link href="https://tiktok.com/@ramalauw/video/7398948308191874336"/>
-    <published>2024-08-03T16:18:25+00:00</published>
+    <id>https://tiktok.com/@ramalauw/video/7399288348151418144</id>
+    <title>Story of my life (this happens every night 😖😮‍💨🤡) #fyp #foryou #skit #kamalaharris #sleep #lifeadvice #motivation </title>
+    <updated>2024-08-04T14:17:59+00:00</updated>
+    <content>Story of my life (this happens every night 😖😮‍💨🤡) #fyp #foryou #skit #kamalaharris #sleep #lifeadvice #motivation </content>
+    <link href="https://tiktok.com/@ramalauw/video/7399288348151418144"/>
+    <published>2024-08-04T14:17:59+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7270903343638187297</id>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@palim_tintin</id>
   <title>palim_tintin</title>
-  <updated>2024-07-21T18:48:39+00:00</updated>
+  <updated>2024-08-04T13:59:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from palim_tintin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@palim_tintin/video/7331706503335824672</id>
-    <title>Ohne Schmuck ist ein Outfit irgendwie nicht komplett. 😊🧡Oder wie seht ihr das?  #wiw #ootdshare #outfit #fashioninspo #bohohippie #dailyoutfits #accessories #secondhand #fairfashion #mystyle </title>
-    <updated>2024-02-04T11:25:52+00:00</updated>
-    <content>Ohne Schmuck ist ein Outfit irgendwie nicht komplett. 😊🧡Oder wie seht ihr das?  #wiw #ootdshare #outfit #fashioninspo #bohohippie #dailyoutfits #accessories #secondhand #fairfashion #mystyle </content>
-    <link href="https://tiktok.com/@palim_tintin/video/7331706503335824672"/>
-    <published>2024-02-04T11:25:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@palim_tintin/video/7332973842123558176</id>
     <title>✨🐈‍⬛🐈‍⬛ #gutenacht #interior #wohnzimmer #cozy #cozyathome #cats </title>
@@ -267,6 +259,14 @@
     <content>🧡🐈‍⬛🐈‍⬛🎶✨</content>
     <link href="https://tiktok.com/@palim_tintin/video/7394162918910184736"/>
     <published>2024-07-21T18:48:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@palim_tintin/video/7399283473535601953</id>
+    <title>No Title</title>
+    <updated>2024-08-04T13:59:03+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@palim_tintin/video/7399283473535601953"/>
+    <published>2024-08-04T13:59:03+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@palim_tintin/video/7189301520721005829</id>
