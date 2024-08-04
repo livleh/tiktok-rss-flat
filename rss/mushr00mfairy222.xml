@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-08-03T16:15:10+00:00</updated>
+  <updated>2024-08-04T10:18:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7395599703414541601</id>
-    <title>kinda crazy #friends #growingup #septum </title>
-    <updated>2024-07-25T15:44:07+00:00</updated>
-    <content>kinda crazy #friends #growingup #septum </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7395599703414541601"/>
-    <published>2024-07-25T15:44:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7395988614372461856</id>
-    <title>get dressed with me #grwm #getdressedwithme #alt #pinkhair </title>
-    <updated>2024-07-26T16:53:20+00:00</updated>
-    <content>get dressed with me #grwm #getdressedwithme #alt #pinkhair </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7395988614372461856"/>
-    <published>2024-07-26T16:53:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7395989094918065441</id>
     <title>what did you get #brat #filter </title>
@@ -267,6 +251,22 @@
     <content>taylor gets it </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7398947465044495649"/>
     <published>2024-08-03T16:15:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7399225199482113313</id>
+    <title>sorry guys #ootd #swiftie </title>
+    <updated>2024-08-04T10:12:56+00:00</updated>
+    <content>sorry guys #ootd #swiftie </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7399225199482113313"/>
+    <published>2024-08-04T10:12:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7399226671351549217</id>
+    <title>i know i have good taste #music #spotify </title>
+    <updated>2024-08-04T10:18:38+00:00</updated>
+    <content>i know i have good taste #music #spotify </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7399226671351549217"/>
+    <published>2024-08-04T10:18:38+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
