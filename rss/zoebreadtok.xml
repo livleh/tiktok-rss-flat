@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-08-01T17:23:44+00:00</updated>
+  <updated>2024-08-05T17:42:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -227,5 +227,13 @@
     <content>this day ruined me financially but i  have a lot of souls at least #lemonadestand </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7398222976107220256"/>
     <published>2024-08-01T17:23:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7399712140455677216</id>
+    <title>i am super normal </title>
+    <updated>2024-08-05T17:42:27+00:00</updated>
+    <content>i am super normal </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7399712140455677216"/>
+    <published>2024-08-05T17:42:27+00:00</published>
   </entry>
 </feed>
