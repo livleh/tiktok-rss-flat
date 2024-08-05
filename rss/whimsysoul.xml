@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-08-03T22:48:35+00:00</updated>
+  <updated>2024-08-05T21:53:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7390809778932501803</id>
-    <title>Bay Area's BEST summer party ⬇️ Did you know @Filoli Historic House &amp; Garden throws Summer Nights parties every Wednesday and Thursday during the summer? You can come and stay until 8pm to enjoy food trucks, drinks, live music in hidden corners of the gar</title>
-    <updated>2024-07-12T17:56:45+00:00</updated>
-    <content>Bay Area's BEST summer party ⬇️ Did you know @Filoli Historic House &amp; Garden throws Summer Nights parties every Wednesday and Thursday during the summer? You can come and stay until 8pm to enjoy food trucks, drinks, live music in hidden corners of the gar</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7390809778932501803"/>
-    <published>2024-07-12T17:56:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7390889345063865643</id>
     <title>i wasn't expecting THIS from the viral carryon bag 😒😱 #travel #travelbag #productreview #carryononly #carryonbag #whitebackpack #backpack #travelbackpack #backpack #traveltip #travelhacks #travelpurse #whimsysoul </title>
@@ -267,6 +259,14 @@
     <content>dogs - who SURF!! 🏄🐶🌊 Headed down to Pacifica today to catch the world dog surfing competition. It's full of cuteness and athleticism (100% makes up for not being in Paris to catch the Olympics!)  Here's how dog surfing works:  Dogs in each heat have 10 m</content>
     <link href="https://tiktok.com/@whimsysoul/video/7399048859013369130"/>
     <published>2024-08-03T22:48:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7399776896323521834</id>
+    <title>California fall road trip itinerary ⬇️🍁 leaves + hot springs + luxury hotels + apples + pumpkins! LINK IN BIO for my full California fall colors guide with allll the places to spot fall leaves.  But, if you're looking for an epic road trip across the best</title>
+    <updated>2024-08-05T21:53:46+00:00</updated>
+    <content>California fall road trip itinerary ⬇️🍁 leaves + hot springs + luxury hotels + apples + pumpkins! LINK IN BIO for my full California fall colors guide with allll the places to spot fall leaves.  But, if you're looking for an epic road trip across the best</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7399776896323521834"/>
+    <published>2024-08-05T21:53:46+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
