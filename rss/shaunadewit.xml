@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shaunadewit</id>
   <title>shaunadewit</title>
-  <updated>2024-07-31T11:15:35+00:00</updated>
+  <updated>2024-08-05T08:16:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shaunadewit</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shaunadewit/video/7370992584707132705</id>
-    <title>Intrusive thought #foryou #pourtoi #comedy #humor #goviral </title>
-    <updated>2024-05-20T08:16:01+00:00</updated>
-    <content>Intrusive thought #foryou #pourtoi #comedy #humor #goviral </content>
-    <link href="https://tiktok.com/@shaunadewit/video/7370992584707132705"/>
-    <published>2024-05-20T08:16:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/7371451964095270176</id>
     <title>I’m scared of getting 1 million #foryou #pourtoi #comedy #humor #goviral </title>
@@ -251,6 +243,14 @@
     <content>For real #foryou #humor #goviral #pourtoi #comedy #kids #children </content>
     <link href="https://tiktok.com/@shaunadewit/video/7397757012227968288"/>
     <published>2024-07-31T11:15:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shaunadewit/video/7399566320318156064</id>
+    <title>WARNING emetophobia ! Also poop #foryou #humor #goviral #pourtoi #comedy #bird #poop </title>
+    <updated>2024-08-05T08:16:44+00:00</updated>
+    <content>WARNING emetophobia ! Also poop #foryou #humor #goviral #pourtoi #comedy #bird #poop </content>
+    <link href="https://tiktok.com/@shaunadewit/video/7399566320318156064"/>
+    <published>2024-08-05T08:16:44+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/6994791135415766278</id>
