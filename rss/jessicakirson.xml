@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-08-04T21:43:19+00:00</updated>
+  <updated>2024-08-05T22:48:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7391113950529686815</id>
-    <title>I’d have to be cut out of a room! #bakery #dessert #bread #foryou </title>
-    <updated>2024-07-13T13:37:46+00:00</updated>
-    <content>I’d have to be cut out of a room! #bakery #dessert #bread #foryou </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7391113950529686815"/>
-    <published>2024-07-13T13:37:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7391625164875631903</id>
     <title>That will bring up the energy in the room  #foryou </title>
@@ -171,6 +163,14 @@
     <content>A Nutritionist and A Counselor Couple</content>
     <link href="https://tiktok.com/@jessicakirson/video/7399403079688408350"/>
     <published>2024-08-04T21:43:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7399790990548077855</id>
+    <title>They were so tired  #foryou #lesbiansoftiktok </title>
+    <updated>2024-08-05T22:48:36+00:00</updated>
+    <content>They were so tired  #foryou #lesbiansoftiktok </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7399790990548077855"/>
+    <published>2024-08-05T22:48:36+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7390410734674431262</id>
