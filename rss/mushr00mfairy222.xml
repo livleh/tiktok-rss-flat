@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-08-04T17:13:17+00:00</updated>
+  <updated>2024-08-05T10:49:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7396157432822517025</id>
-    <title>No Title</title>
-    <updated>2024-07-27T03:48:59+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7396157432822517025"/>
-    <published>2024-07-27T03:48:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7396335243839491360</id>
-    <title>yeah #trauma </title>
-    <updated>2024-07-27T15:18:24+00:00</updated>
-    <content>yeah #trauma </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7396335243839491360"/>
-    <published>2024-07-27T15:18:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7396373278773824801</id>
-    <title>like actually what #reconnectingwithnature </title>
-    <updated>2024-07-27T17:46:00+00:00</updated>
-    <content>like actually what #reconnectingwithnature </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7396373278773824801"/>
-    <published>2024-07-27T17:46:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7396705549892537633</id>
     <title>so happy i found another #studioghibli #filter #CapCut </title>
@@ -267,6 +243,30 @@
     <content>even with no flowers #melaniemartinez </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7399333532377697568"/>
     <published>2024-08-04T17:13:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7399602645297630496</id>
+    <title>ok i love #taylorswift #swiftie #erastour </title>
+    <updated>2024-08-05T10:37:38+00:00</updated>
+    <content>ok i love #taylorswift #swiftie #erastour </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7399602645297630496"/>
+    <published>2024-08-05T10:37:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7399604751542783265</id>
+    <title>but then sometimes im forgetting to reply 😭😭 </title>
+    <updated>2024-08-05T10:45:45+00:00</updated>
+    <content>but then sometimes im forgetting to reply 😭😭 </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7399604751542783265"/>
+    <published>2024-08-05T10:45:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7399605793311493408</id>
+    <title>happy lesbian take on this trend 😭🫶 #lesbian #wlw #lgbt #lgbtq #girlfriends </title>
+    <updated>2024-08-05T10:49:49+00:00</updated>
+    <content>happy lesbian take on this trend 😭🫶 #lesbian #wlw #lgbt #lgbtq #girlfriends </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7399605793311493408"/>
+    <published>2024-08-05T10:49:49+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
