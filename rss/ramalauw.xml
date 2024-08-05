@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ramalauw</id>
   <title>ramalauw</title>
-  <updated>2024-08-04T14:17:59+00:00</updated>
+  <updated>2024-08-05T16:25:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ramalauw</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ramalauw/video/7361462016315247905</id>
-    <title>I give you the best relationship advice for ✨$FREE.99✨ 🥰</title>
-    <updated>2024-04-24T15:52:26+00:00</updated>
-    <content>I give you the best relationship advice for ✨$FREE.99✨ 🥰</content>
-    <link href="https://tiktok.com/@ramalauw/video/7361462016315247905"/>
-    <published>2024-04-24T15:52:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7362951887726906656</id>
     <title>Like I don’t even have the energy to be sad anymore 🤪🤡 </title>
@@ -259,6 +251,14 @@
     <content>Story of my life (this happens every night 😖😮‍💨🤡) #fyp #foryou #skit #kamalaharris #sleep #lifeadvice #motivation </content>
     <link href="https://tiktok.com/@ramalauw/video/7399288348151418144"/>
     <published>2024-08-04T14:17:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ramalauw/video/7399692232518929696</id>
+    <title>I bet everyone thinks I’m a local 🥺🤭☺️💃✨ #BetterThanEveryone #BTEFace #maincharacter #delulu #travel #traveling #traveltok #fyp #foryou</title>
+    <updated>2024-08-05T16:25:12+00:00</updated>
+    <content>I bet everyone thinks I’m a local 🥺🤭☺️💃✨ #BetterThanEveryone #BTEFace #maincharacter #delulu #travel #traveling #traveltok #fyp #foryou</content>
+    <link href="https://tiktok.com/@ramalauw/video/7399692232518929696"/>
+    <published>2024-08-05T16:25:12+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7270903343638187297</id>
