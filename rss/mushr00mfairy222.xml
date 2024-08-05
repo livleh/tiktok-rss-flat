@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-08-05T10:49:49+00:00</updated>
+  <updated>2024-08-05T16:40:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7396705549892537633</id>
-    <title>so happy i found another #studioghibli #filter #CapCut </title>
-    <updated>2024-07-28T15:15:23+00:00</updated>
-    <content>so happy i found another #studioghibli #filter #CapCut </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7396705549892537633"/>
-    <published>2024-07-28T15:15:23+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7397082134718074145</id>
-    <title>like oh your actually happy? #mh #mentalhealth </title>
-    <updated>2024-07-29T15:36:45+00:00</updated>
-    <content>like oh your actually happy? #mh #mentalhealth </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7397082134718074145"/>
-    <published>2024-07-29T15:36:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7397083162221776160</id>
     <title>to my judgy lesbian self #wlw </title>
@@ -267,6 +251,22 @@
     <content>happy lesbian take on this trend 😭🫶 #lesbian #wlw #lgbt #lgbtq #girlfriends </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7399605793311493408"/>
     <published>2024-08-05T10:49:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7399694986704456992</id>
+    <title>eyeliner is addictive 😭 #eyeliner #alt </title>
+    <updated>2024-08-05T16:35:57+00:00</updated>
+    <content>eyeliner is addictive 😭 #eyeliner #alt </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7399694986704456992"/>
+    <published>2024-08-05T16:35:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7399696121586601248</id>
+    <title>OK I LOVE IT (conch piercing) #conch #conchpiercing #piercing </title>
+    <updated>2024-08-05T16:40:19+00:00</updated>
+    <content>OK I LOVE IT (conch piercing) #conch #conchpiercing #piercing </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7399696121586601248"/>
+    <published>2024-08-05T16:40:19+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
