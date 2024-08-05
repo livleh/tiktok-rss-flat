@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-08-04T20:59:03+00:00</updated>
+  <updated>2024-08-05T21:09:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7392953573056793886</id>
-    <title>validation engineer in the streets, excel in the sheets  #techie #softwareengineer #chicago #programmerlife #roastbattle #darkhumor #techroastshow </title>
-    <updated>2024-07-18T12:35:52+00:00</updated>
-    <content>validation engineer in the streets, excel in the sheets  #techie #softwareengineer #chicago #programmerlife #roastbattle #darkhumor #techroastshow </content>
-    <link href="https://tiktok.com/@techroastshow/video/7392953573056793886"/>
-    <published>2024-07-18T12:35:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7393073607980748063</id>
-    <title>It was extremely necessary #techbro #techie #softwareengineer #siliconvalley #seattle #sanfrancisco #bayarea #engineeringlife #comedy #tesla #cybertruck #elonmusk</title>
-    <updated>2024-07-18T20:21:36+00:00</updated>
-    <content>It was extremely necessary #techbro #techie #softwareengineer #siliconvalley #seattle #sanfrancisco #bayarea #engineeringlife #comedy #tesla #cybertruck #elonmusk</content>
-    <link href="https://tiktok.com/@techroastshow/video/7393073607980748063"/>
-    <published>2024-07-18T20:21:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7393335228816755998</id>
     <title>👴🏻🎤 #techie #softwareengineer #chicago #programmerlife #roastbattle #darkhumor #techroastshow </title>
@@ -267,6 +251,22 @@
     <content>alpha male  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #techroastshow </content>
     <link href="https://tiktok.com/@techroastshow/video/7399391674096520478"/>
     <published>2024-08-04T20:59:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7399765303367961887</id>
+    <title>Speaking in rich, the average American salary is .063 #techie #softwareengineer #crypto #chicago #programmerlife #roastbattle #darkhumor #techroastshow </title>
+    <updated>2024-08-05T21:08:59+00:00</updated>
+    <content>Speaking in rich, the average American salary is .063 #techie #softwareengineer #crypto #chicago #programmerlife #roastbattle #darkhumor #techroastshow </content>
+    <link href="https://tiktok.com/@techroastshow/video/7399765303367961887"/>
+    <published>2024-08-05T21:08:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7399765325891325214</id>
+    <title>don’t test in production. test with @Sauce Labs  #techie #softwareengineer #programmerlife #techroastshow #ad </title>
+    <updated>2024-08-05T21:09:00+00:00</updated>
+    <content>don’t test in production. test with @Sauce Labs  #techie #softwareengineer #programmerlife #techroastshow #ad </content>
+    <link href="https://tiktok.com/@techroastshow/video/7399765325891325214"/>
+    <published>2024-08-05T21:09:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
