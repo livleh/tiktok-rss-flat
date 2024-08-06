@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-08-06T16:47:50+00:00</updated>
+  <updated>2024-08-06T20:47:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7391242508266753322</id>
-    <title>I won FREE tickets to the Giants game!! 😱⚾️ Shoutout to the @Pink Onion Pizza -- I was having dinner there on Wednesday since I'm in love with their truffle pasta, and saw they were giving away some tickets on their IG and was lucky enough to win a pair! </title>
-    <updated>2024-07-13T21:56:02+00:00</updated>
-    <content>I won FREE tickets to the Giants game!! 😱⚾️ Shoutout to the @Pink Onion Pizza -- I was having dinner there on Wednesday since I'm in love with their truffle pasta, and saw they were giving away some tickets on their IG and was lucky enough to win a pair! </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7391242508266753322"/>
-    <published>2024-07-13T21:56:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7391942428497923370</id>
     <title>prettiest secret beach in California ❤️ Link in bio for my blog post with more info on visiting this beach!! 🦈  #sharkfincove #davenport #santacruz #beach #california #visitcalifornia #secretbeach #hiddengems #norcal #northerncaliforia #centralcoast #whim</title>
@@ -267,6 +259,14 @@
     <content>a folding walking pad!!!! 😱  I've been wanting a walking pad for AGES (I've been working from home since 2017 after all!) but our small San Francisco apartment is just... well... small!  We don't have floor space for a normal walking pad. But after a ton </content>
     <link href="https://tiktok.com/@whimsysoul/video/7400069145754160426"/>
     <published>2024-08-06T16:47:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7400130957266734378</id>
+    <title>the BEST coast in California!! Sonoma Coast is one of my favorite places to have a slow weekend in California soaking in views, nature, and really good food. 🍸🌊🦪🍬☕️🛶🍷 Link in bio for my Sonoma Coast road trip guide (look for this icon in the grid!) 👀 Thes</title>
+    <updated>2024-08-06T20:47:41+00:00</updated>
+    <content>the BEST coast in California!! Sonoma Coast is one of my favorite places to have a slow weekend in California soaking in views, nature, and really good food. 🍸🌊🦪🍬☕️🛶🍷 Link in bio for my Sonoma Coast road trip guide (look for this icon in the grid!) 👀 Thes</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7400130957266734378"/>
+    <published>2024-08-06T20:47:41+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
