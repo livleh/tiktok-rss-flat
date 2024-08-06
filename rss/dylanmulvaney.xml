@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@dylanmulvaney</id>
   <title>dylanmulvaney</title>
-  <updated>2024-08-05T15:36:30+00:00</updated>
+  <updated>2024-08-06T12:36:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylanmulvaney</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylanmulvaney/video/7351222306485603627</id>
-    <title>THANK GOD!!!! Dress is @reformation 💙</title>
-    <updated>2024-03-28T01:37:10+00:00</updated>
-    <content>THANK GOD!!!! Dress is @reformation 💙</content>
-    <link href="https://tiktok.com/@dylanmulvaney/video/7351222306485603627"/>
-    <published>2024-03-28T01:37:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7351597381533601067</id>
     <title>First live performance of my single to support @TrevorProject  💓💖👯‍♀️ </title>
@@ -219,6 +211,14 @@
     <content>18 shows left in Scotland 💓 #fringe #onewomanshow #costumes </content>
     <link href="https://tiktok.com/@dylanmulvaney/video/7399679673191435566"/>
     <published>2024-08-05T15:36:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylanmulvaney/video/7400004337289809194</id>
+    <title>One day stan right here #oneday #edinburgh </title>
+    <updated>2024-08-06T12:36:26+00:00</updated>
+    <content>One day stan right here #oneday #edinburgh </content>
+    <link href="https://tiktok.com/@dylanmulvaney/video/7400004337289809194"/>
+    <published>2024-08-06T12:36:26+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7193364487171444014</id>

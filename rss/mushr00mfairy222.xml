@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-08-05T16:40:19+00:00</updated>
+  <updated>2024-08-06T12:15:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7397083162221776160</id>
-    <title>to my judgy lesbian self #wlw </title>
-    <updated>2024-07-29T15:40:43+00:00</updated>
-    <content>to my judgy lesbian self #wlw </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7397083162221776160"/>
-    <published>2024-07-29T15:40:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7397087550852042017</id>
     <title>theyre low key off putting #lesbian #wlw</title>
@@ -267,6 +259,14 @@
     <content>OK I LOVE IT (conch piercing) #conch #conchpiercing #piercing </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7399696121586601248"/>
     <published>2024-08-05T16:40:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7399999082325871904</id>
+    <title>GAY #lesbian #wlw #lgbt #lgbtq #nmlnm </title>
+    <updated>2024-08-06T12:15:58+00:00</updated>
+    <content>GAY #lesbian #wlw #lgbt #lgbtq #nmlnm </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7399999082325871904"/>
+    <published>2024-08-06T12:15:58+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
