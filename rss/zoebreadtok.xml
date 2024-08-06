@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-08-05T17:42:27+00:00</updated>
+  <updated>2024-08-06T17:29:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7380077097705884960</id>
-    <title>SORRY I FILMED A VIDEO TODAY BUT I RAN OUT OF TIME TO EDIT IT SO I MADE THIS instead I GOT THIS BEAr TODAY WHY IS IT SO MASSIVE </title>
-    <updated>2024-06-13T19:48:26+00:00</updated>
-    <content>SORRY I FILMED A VIDEO TODAY BUT I RAN OUT OF TIME TO EDIT IT SO I MADE THIS instead I GOT THIS BEAr TODAY WHY IS IT SO MASSIVE </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7380077097705884960"/>
-    <published>2024-06-13T19:48:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7381152977089826081</id>
     <title>arcade </title>
@@ -235,5 +227,13 @@
     <content>i am super normal </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7399712140455677216"/>
     <published>2024-08-05T17:42:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7400079777970916641</id>
+    <title>life hack at the hair dressers </title>
+    <updated>2024-08-06T17:29:08+00:00</updated>
+    <content>life hack at the hair dressers </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7400079777970916641"/>
+    <published>2024-08-06T17:29:08+00:00</published>
   </entry>
 </feed>
