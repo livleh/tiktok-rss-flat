@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@andreasfashiongalaxy</id>
   <title>andreasfashiongalaxy</title>
-  <updated>2024-08-05T20:21:41+00:00</updated>
+  <updated>2024-08-06T19:58:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -227,5 +227,13 @@
     <content>Styling this metallic midi skirt as a dress #letsgetdressed ad</content>
     <link href="https://tiktok.com/@andreasfashiongalaxy/video/7399753168290123041"/>
     <published>2024-08-05T20:21:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@andreasfashiongalaxy/video/7400118275071413537</id>
+    <title>Which ballet dress outfit would you wear? #letsgetdressed ad</title>
+    <updated>2024-08-06T19:58:30+00:00</updated>
+    <content>Which ballet dress outfit would you wear? #letsgetdressed ad</content>
+    <link href="https://tiktok.com/@andreasfashiongalaxy/video/7400118275071413537"/>
+    <published>2024-08-06T19:58:30+00:00</published>
   </entry>
 </feed>
