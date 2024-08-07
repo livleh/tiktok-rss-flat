@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-08-07T19:09:18+00:00</updated>
+  <updated>2024-08-07T19:31:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7397822375359761696</id>
-    <title>uhaul #lgbt #lgbtq #wlw #lesbian </title>
-    <updated>2024-07-31T15:29:16+00:00</updated>
-    <content>uhaul #lgbt #lgbtq #wlw #lesbian </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7397822375359761696"/>
-    <published>2024-07-31T15:29:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7397839035642744096</id>
     <title>I LOVE MY BUTTERFLIES #tattoo #tattoomeaning #butterflytattoo </title>
@@ -267,6 +259,14 @@
     <content>wonder who has to pay 😟😋 </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7400476687005240608"/>
     <published>2024-08-07T19:09:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7400482305912917281</id>
+    <title>i &lt;3 spoons #spoons </title>
+    <updated>2024-08-07T19:31:06+00:00</updated>
+    <content>i &lt;3 spoons #spoons </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7400482305912917281"/>
+    <published>2024-08-07T19:31:06+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
