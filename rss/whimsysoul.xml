@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-08-07T18:24:48+00:00</updated>
+  <updated>2024-08-07T19:14:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7391988217635015979</id>
-    <title>ready to ditch the California crowds this summer? Come to my favorite mountain town: Arnold 💚 There's plenty of alpine lakes, Big Trees State Park for stunning giant sequoias, charming towns for shopping &amp; dining, tons of hiking trails, mountain biking, w</title>
-    <updated>2024-07-15T22:09:44+00:00</updated>
-    <content>ready to ditch the California crowds this summer? Come to my favorite mountain town: Arnold 💚 There's plenty of alpine lakes, Big Trees State Park for stunning giant sequoias, charming towns for shopping &amp; dining, tons of hiking trails, mountain biking, w</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7391988217635015979"/>
-    <published>2024-07-15T22:09:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7392291880635059498</id>
     <title>FREE summer concerts in the most magical forest in San Francisco ✨ Send this to someone you want to go to a free forest concert with!!   #sanfrancisco #sterngrovefestival #freeconcert #secretsanfrancisco #californiahiddengems #bayarea #sanfranciscolife #s</title>
@@ -267,6 +259,14 @@
     <content>this pink building has my heart ❤️ 🍬 Whenever we're driving through Bodega Bay in California, we always pull over at Patrick's pink and white taffy hut. It's filled with so many unique and tasty taffy flavors and we ALWAYS eat at least once bag by the tim</content>
     <link href="https://tiktok.com/@whimsysoul/video/7400465229483691310"/>
     <published>2024-08-07T18:24:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7400477961276656939</id>
+    <title>oh, &amp; whale watching from you room!! California bucket list hotel!! 😱🌊 Always a good time at @timbercoveresort --  I adore their rooms overlooking the oceans (we saw whales right from our deck one morning!! 🐋), hazy sunsets from their restaurant patio, ta</title>
+    <updated>2024-08-07T19:14:13+00:00</updated>
+    <content>oh, &amp; whale watching from you room!! California bucket list hotel!! 😱🌊 Always a good time at @timbercoveresort --  I adore their rooms overlooking the oceans (we saw whales right from our deck one morning!! 🐋), hazy sunsets from their restaurant patio, ta</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7400477961276656939"/>
+    <published>2024-08-07T19:14:13+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
