@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-08-07T13:14:50+00:00</updated>
+  <updated>2024-08-07T20:54:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7393723616057167135</id>
-    <title>911 what is your emergency  #techie #softwareengineer #chicago  #programmerlife #roastbattle #darkhumor #techroastshow </title>
-    <updated>2024-07-20T14:24:12+00:00</updated>
-    <content>911 what is your emergency  #techie #softwareengineer #chicago  #programmerlife #roastbattle #darkhumor #techroastshow </content>
-    <link href="https://tiktok.com/@techroastshow/video/7393723616057167135"/>
-    <published>2024-07-20T14:24:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7394079303224364318</id>
     <title>👨🏻‍🦲👨🏽‍🦲 #tech #softwareengineer #AMD #nvidia #crowdwork #standupcomedy #comedy #startuplife #techroastshow</title>
@@ -267,6 +259,14 @@
     <content>the only phone call I’m making is to 911 #techie #softwareengineer #chicago #programmerlife #roastbattle #darkhumor #techroastshow </content>
     <link href="https://tiktok.com/@techroastshow/video/7400385320920927519"/>
     <published>2024-08-07T13:14:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7400503793210625310</id>
+    <title>it’s settlers of catan but hiring  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #techroastshow </title>
+    <updated>2024-08-07T20:54:35+00:00</updated>
+    <content>it’s settlers of catan but hiring  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #techroastshow </content>
+    <link href="https://tiktok.com/@techroastshow/video/7400503793210625310"/>
+    <published>2024-08-07T20:54:35+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
