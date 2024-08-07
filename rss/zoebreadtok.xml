@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-08-06T17:29:08+00:00</updated>
+  <updated>2024-08-07T17:28:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7381152977089826081</id>
-    <title>arcade </title>
-    <updated>2024-06-16T17:23:25+00:00</updated>
-    <content>arcade </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7381152977089826081"/>
-    <published>2024-06-16T17:23:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7381524274449796385</id>
     <title>Replying to @Tomo 5222 they got take away (which is cheaper) but then sat down with it is the gist. several morals here: 1. always be kind to people just doing their jobs  2. you never know who youre sat next to it might just be zoë bread pretending to fi</title>
@@ -235,5 +227,13 @@
     <content>life hack at the hair dressers </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7400079777970916641"/>
     <published>2024-08-06T17:29:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7400450707045862688</id>
+    <title>getting my nails painted  </title>
+    <updated>2024-08-07T17:28:32+00:00</updated>
+    <content>getting my nails painted  </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7400450707045862688"/>
+    <published>2024-08-07T17:28:32+00:00</published>
   </entry>
 </feed>
