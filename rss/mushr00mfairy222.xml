@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-08-07T13:25:56+00:00</updated>
+  <updated>2024-08-07T15:16:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7397434590702439713</id>
-    <title>beach sunrise&gt;&gt; #sunrise #beach </title>
-    <updated>2024-07-30T14:24:25+00:00</updated>
-    <content>beach sunrise&gt;&gt; #sunrise #beach </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7397434590702439713"/>
-    <published>2024-07-30T14:24:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7397444109511806241</id>
-    <title>ocean child #oceanchild #beach </title>
-    <updated>2024-07-30T15:01:23+00:00</updated>
-    <content>ocean child #oceanchild #beach </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7397444109511806241"/>
-    <published>2024-07-30T15:01:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7397820251813039393</id>
     <title>get dressed with me </title>
@@ -267,6 +251,22 @@
     <content>sorry if my future child sees this #filter #ranking </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7400388205129895201"/>
     <published>2024-08-07T13:25:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7400408389764877601</id>
+    <title>No Title</title>
+    <updated>2024-08-07T14:44:15+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7400408389764877601"/>
+    <published>2024-08-07T14:44:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7400416654695353632</id>
+    <title>the ttpd on repeat always #ttpd #swiftie </title>
+    <updated>2024-08-07T15:16:19+00:00</updated>
+    <content>the ttpd on repeat always #ttpd #swiftie </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7400416654695353632"/>
+    <published>2024-08-07T15:16:19+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
