@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-08-07T20:54:35+00:00</updated>
+  <updated>2024-08-08T14:00:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7394079303224364318</id>
-    <title>👨🏻‍🦲👨🏽‍🦲 #tech #softwareengineer #AMD #nvidia #crowdwork #standupcomedy #comedy #startuplife #techroastshow</title>
-    <updated>2024-07-21T13:24:47+00:00</updated>
-    <content>👨🏻‍🦲👨🏽‍🦲 #tech #softwareengineer #AMD #nvidia #crowdwork #standupcomedy #comedy #startuplife #techroastshow</content>
-    <link href="https://tiktok.com/@techroastshow/video/7394079303224364318"/>
-    <published>2024-07-21T13:24:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7394219839847533854</id>
     <title>he only brought shorts  #techie #softwareengineer #chicago #programmerlife #techroastshow </title>
@@ -267,6 +259,14 @@
     <content>it’s settlers of catan but hiring  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #techroastshow </content>
     <link href="https://tiktok.com/@techroastshow/video/7400503793210625310"/>
     <published>2024-08-07T20:54:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7400768282233457950</id>
+    <title>🐍 #techie #softwareengineer #chicago #programmerlife #roastbattle #darkhumor #techroastshow </title>
+    <updated>2024-08-08T14:00:52+00:00</updated>
+    <content>🐍 #techie #softwareengineer #chicago #programmerlife #roastbattle #darkhumor #techroastshow </content>
+    <link href="https://tiktok.com/@techroastshow/video/7400768282233457950"/>
+    <published>2024-08-08T14:00:52+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
