@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-08-08T02:20:13+00:00</updated>
+  <updated>2024-08-08T15:25:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7392342376196410670</id>
-    <title>the ultimate world cruise is about to be in Lisbon and i was JUST there, so here's a bingo girl approved itinerary for your port day!! #ultimateworldcruise #worldcruise #royalcaribbean #worldcruisetok #whimsysoul #lisboaportugal #lisboa #lisbonportugal #l</title>
-    <updated>2024-07-16T21:04:01+00:00</updated>
-    <content>the ultimate world cruise is about to be in Lisbon and i was JUST there, so here's a bingo girl approved itinerary for your port day!! #ultimateworldcruise #worldcruise #royalcaribbean #worldcruisetok #whimsysoul #lisboaportugal #lisboa #lisbonportugal #l</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7392342376196410670"/>
-    <published>2024-07-16T21:04:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7392401781621411115</id>
     <title>Lisbon and San Francisco really are twins 🫶 #sanfrancisco #lisbon #portugal #bayarea #sf #onlyinsf #usa #california #lisbonlovers </title>
@@ -267,6 +259,14 @@
     <content>Please please please wear a jacket or something 🤧 dont freeze your b00ty off #outsidelands #sanfrancisco #festival #outsidelands2024 #goldengatepark </content>
     <link href="https://tiktok.com/@whimsysoul/video/7400587746965769515"/>
     <published>2024-08-08T02:20:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7400790189779455275</id>
+    <title>this cafe has the BEST view in California ✨ And low-key the best sandwiches in the county.  I just adore Cafe Aquatica and always stop here when I'm passing through Hwy 1 on the Sonoma Coast!! #jennercalifornia #visitsonoma #coffeeshop #whimsysoul #califo</title>
+    <updated>2024-08-08T15:25:50+00:00</updated>
+    <content>this cafe has the BEST view in California ✨ And low-key the best sandwiches in the county.  I just adore Cafe Aquatica and always stop here when I'm passing through Hwy 1 on the Sonoma Coast!! #jennercalifornia #visitsonoma #coffeeshop #whimsysoul #califo</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7400790189779455275"/>
+    <published>2024-08-08T15:25:50+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
