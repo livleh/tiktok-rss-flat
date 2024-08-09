@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-08-09T17:01:18+00:00</updated>
+  <updated>2024-08-09T17:43:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7398176870446927137</id>
-    <title>tag ur pookie #pookie </title>
-    <updated>2024-08-01T14:24:49+00:00</updated>
-    <content>tag ur pookie #pookie </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7398176870446927137"/>
-    <published>2024-08-01T14:24:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7398539325253700896</id>
-    <title>just relatable content #lesbian #wlw #lgbt #lgbtq </title>
-    <updated>2024-08-02T13:51:24+00:00</updated>
-    <content>just relatable content #lesbian #wlw #lgbt #lgbtq </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7398539325253700896"/>
-    <published>2024-08-02T13:51:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7398545314577272096</id>
     <title>10/10 traumatic 😋😍</title>
@@ -267,6 +251,22 @@
     <content>jk it's accurate #wlw #lesbian </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7401185867475307808"/>
     <published>2024-08-09T17:01:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7401195561510112545</id>
+    <title>she wouldn't have wanted this for me </title>
+    <updated>2024-08-09T17:38:56+00:00</updated>
+    <content>she wouldn't have wanted this for me </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7401195561510112545"/>
+    <published>2024-08-09T17:38:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7401196750788218144</id>
+    <title>need more 😭 #tattoo #tattoos </title>
+    <updated>2024-08-09T17:43:31+00:00</updated>
+    <content>need more 😭 #tattoo #tattoos </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7401196750788218144"/>
+    <published>2024-08-09T17:43:31+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
