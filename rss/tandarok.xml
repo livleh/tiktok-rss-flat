@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-08-07T06:47:12+00:00</updated>
+  <updated>2024-08-09T07:33:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7382835916915641633</id>
-    <title>Rein ästhetische Anziehung. Was denn sonst? 🤡 Selbst als ich dann schon Aufklärungsarbeit zu queeren Themen (und eben verschiedenen Arten der Anziehung) gemacht habe, hatte ich meine eigene Queerness nie verstanden. Meine Anziehung zu Frauen hat erst Sinn</title>
-    <updated>2024-06-21T06:14:07+00:00</updated>
-    <content>Rein ästhetische Anziehung. Was denn sonst? 🤡 Selbst als ich dann schon Aufklärungsarbeit zu queeren Themen (und eben verschiedenen Arten der Anziehung) gemacht habe, hatte ich meine eigene Queerness nie verstanden. Meine Anziehung zu Frauen hat erst Sinn</content>
-    <link href="https://tiktok.com/@tandarok/video/7382835916915641633"/>
-    <published>2024-06-21T06:14:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7383585930348645664</id>
     <title>Das war der CSD München 🥰🌈 mit @seitansbraten @Kerstin (she/her) @Drachenkraut @Robin und ganz vielen tollen Leuten vom @Slutwalk München  #queer #pride #csd #csdmunich #pridemonth #transgirl </title>
@@ -235,6 +227,14 @@
     <content>Always the "don't worry, I know you're stupid", when I was talking about my feelings 🚩 #datinglife #dating #singlelife </content>
     <link href="https://tiktok.com/@tandarok/video/7400285442681081121"/>
     <published>2024-08-07T06:47:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7401039617236978977</id>
+    <title>Wieso gibt's online immer so viel Drama? #twitchgermany #twitchde #twitchstreamer </title>
+    <updated>2024-08-09T07:33:46+00:00</updated>
+    <content>Wieso gibt's online immer so viel Drama? #twitchgermany #twitchde #twitchstreamer </content>
+    <link href="https://tiktok.com/@tandarok/video/7401039617236978977"/>
+    <published>2024-08-09T07:33:46+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
