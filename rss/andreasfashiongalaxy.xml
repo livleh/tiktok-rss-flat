@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@andreasfashiongalaxy</id>
   <title>andreasfashiongalaxy</title>
-  <updated>2024-08-07T21:07:40+00:00</updated>
+  <updated>2024-08-09T20:11:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -235,5 +235,13 @@
     <content>How to style an outfit to fight crime #letsgetdressed ad</content>
     <link href="https://tiktok.com/@andreasfashiongalaxy/video/7400507195181239584"/>
     <published>2024-08-07T21:07:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@andreasfashiongalaxy/video/7401234881537183008</id>
+    <title>How to style a vintage Laura Ashley dress #letsgetdressed </title>
+    <updated>2024-08-09T20:11:30+00:00</updated>
+    <content>How to style a vintage Laura Ashley dress #letsgetdressed </content>
+    <link href="https://tiktok.com/@andreasfashiongalaxy/video/7401234881537183008"/>
+    <published>2024-08-09T20:11:30+00:00</published>
   </entry>
 </feed>
