@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-08-08T13:03:21+00:00</updated>
+  <updated>2024-08-09T01:06:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -235,5 +235,13 @@
     <content>Do you guys like that I sped it up or no?</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7400753487706967304"/>
     <published>2024-08-08T13:03:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7400939749126458631</id>
+    <title>This trend but I used to look 10 years older 😳</title>
+    <updated>2024-08-09T01:06:10+00:00</updated>
+    <content>This trend but I used to look 10 years older 😳</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7400939749126458631"/>
+    <published>2024-08-09T01:06:10+00:00</published>
   </entry>
 </feed>
