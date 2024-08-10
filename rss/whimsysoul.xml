@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-08-08T20:49:45+00:00</updated>
+  <updated>2024-08-10T05:21:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7394909039638973739</id>
-    <title>California is the BEST state and you can't convince me otherwise ❤️🌈🌲🌊✨ PS - I have a list of 50+ unique things to do in California (that most tourists miss) linked in my bio. Look for this video icon! #california #visitcalifornia #bayarea #southerncalifo</title>
-    <updated>2024-07-23T19:04:00+00:00</updated>
-    <content>California is the BEST state and you can't convince me otherwise ❤️🌈🌲🌊✨ PS - I have a list of 50+ unique things to do in California (that most tourists miss) linked in my bio. Look for this video icon! #california #visitcalifornia #bayarea #southerncalifo</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7394909039638973739"/>
-    <published>2024-07-23T19:04:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7394912742743805226</id>
-    <title>#sanfrancisco #bayarea </title>
-    <updated>2024-07-23T19:18:20+00:00</updated>
-    <content>#sanfrancisco #bayarea </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7394912742743805226"/>
-    <published>2024-07-23T19:18:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7394991452100627755</id>
     <title>Hey SF - there’s a NEW mini golf spot in the Mission!! ⛳️ Robin and I checked out @Holey Moley Golf USA new spot on South Van Ness and had SO much fun on their 18-hole mini golf course. They have so many over-the-top, creative course designs – my favorite</title>
@@ -259,6 +243,14 @@
     <content>New gift card just dropped in San Francisco!!! $50 to Radhaus, a rad german restaurant &amp; tap room in Fort Mason. If you find this LET ME KNOW so i can update everyone playing. Good luck! #sanfrancisco #sanfranciscolife #fortmason #bayareacheck #bayareafoo</content>
     <link href="https://tiktok.com/@whimsysoul/video/7400873667846081835"/>
     <published>2024-08-08T20:49:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7401376553474575659</id>
+    <title>Replying to @Bridget OSL day 1 fit check. My 🍒 were only cold at the very end, this duster was pretty solid. What should i wear tomorrow for Sabrina?? #sanfrancisco #bayareacheck #outsidelands #outsidelands2024 #outsidelandsoutfits #whimsysoul #osl2024 #s</title>
+    <updated>2024-08-10T05:21:16+00:00</updated>
+    <content>Replying to @Bridget OSL day 1 fit check. My 🍒 were only cold at the very end, this duster was pretty solid. What should i wear tomorrow for Sabrina?? #sanfrancisco #bayareacheck #outsidelands #outsidelands2024 #outsidelandsoutfits #whimsysoul #osl2024 #s</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7401376553474575659"/>
+    <published>2024-08-10T05:21:16+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>

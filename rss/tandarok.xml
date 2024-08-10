@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-08-09T07:33:46+00:00</updated>
+  <updated>2024-08-10T07:49:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7383585930348645664</id>
-    <title>Das war der CSD München 🥰🌈 mit @seitansbraten @Kerstin (she/her) @Drachenkraut @Robin und ganz vielen tollen Leuten vom @Slutwalk München  #queer #pride #csd #csdmunich #pridemonth #transgirl </title>
-    <updated>2024-06-23T06:44:44+00:00</updated>
-    <content>Das war der CSD München 🥰🌈 mit @seitansbraten @Kerstin (she/her) @Drachenkraut @Robin und ganz vielen tollen Leuten vom @Slutwalk München  #queer #pride #csd #csdmunich #pridemonth #transgirl </content>
-    <link href="https://tiktok.com/@tandarok/video/7383585930348645664"/>
-    <published>2024-06-23T06:44:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7384701525987314976</id>
     <title>Why am I so slow? 🥲 #bigirl #queer </title>
@@ -235,6 +227,14 @@
     <content>Wieso gibt's online immer so viel Drama? #twitchgermany #twitchde #twitchstreamer </content>
     <link href="https://tiktok.com/@tandarok/video/7401039617236978977"/>
     <published>2024-08-09T07:33:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7401414588039793953</id>
+    <title>Ich war anfangs schon ein bisschen so ein Pick Me 😅 #trans #transgendergermany #transgirl #fashion </title>
+    <updated>2024-08-10T07:49:02+00:00</updated>
+    <content>Ich war anfangs schon ein bisschen so ein Pick Me 😅 #trans #transgendergermany #transgirl #fashion </content>
+    <link href="https://tiktok.com/@tandarok/video/7401414588039793953"/>
+    <published>2024-08-10T07:49:02+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>

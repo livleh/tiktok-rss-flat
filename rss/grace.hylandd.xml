@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-08-09T01:06:10+00:00</updated>
+  <updated>2024-08-10T05:12:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7378797799703383314</id>
-    <title>Bye 👋🏼 </title>
-    <updated>2024-06-10T09:04:08+00:00</updated>
-    <content>Bye 👋🏼 </content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7378797799703383314"/>
-    <published>2024-06-10T09:04:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7379262431534615815</id>
     <title>Your loss 😘</title>
@@ -243,5 +235,13 @@
     <content>This trend but I used to look 10 years older 😳</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7400939749126458631"/>
     <published>2024-08-09T01:06:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7401374441969683719</id>
+    <title>I don’t judge religious people anymore! </title>
+    <updated>2024-08-10T05:12:59+00:00</updated>
+    <content>I don’t judge religious people anymore! </content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7401374441969683719"/>
+    <published>2024-08-10T05:12:59+00:00</published>
   </entry>
 </feed>
