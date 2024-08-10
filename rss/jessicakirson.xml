@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-08-08T22:39:58+00:00</updated>
+  <updated>2024-08-10T14:57:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7392743720036076831</id>
-    <title>Bears Meet Cute #gaytiktok #dating #meet #foryou </title>
-    <updated>2024-07-17T23:01:25+00:00</updated>
-    <content>Bears Meet Cute #gaytiktok #dating #meet #foryou </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7392743720036076831"/>
-    <published>2024-07-17T23:01:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7393098068830326046</id>
-    <title>Gay in Mississippi </title>
-    <updated>2024-07-18T21:56:31+00:00</updated>
-    <content>Gay in Mississippi </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7393098068830326046"/>
-    <published>2024-07-18T21:56:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7393723391578017055</id>
     <title>My new name </title>
@@ -163,6 +147,14 @@
     <content>He is my biggest fan  #foryou #fyp </content>
     <link href="https://tiktok.com/@jessicakirson/video/7400902050017578270"/>
     <published>2024-08-08T22:39:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7401524916178160927</id>
+    <title>He has never had a woman on top of him 😂 #fy </title>
+    <updated>2024-08-10T14:57:10+00:00</updated>
+    <content>He has never had a woman on top of him 😂 #fy </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7401524916178160927"/>
+    <published>2024-08-10T14:57:10+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7400160149110918431</id>
