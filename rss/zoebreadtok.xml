@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-08-08T17:58:41+00:00</updated>
+  <updated>2024-08-11T18:00:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7381903982018514209</id>
-    <title>some people have come from stoke lynn </title>
-    <updated>2024-06-18T17:57:42+00:00</updated>
-    <content>some people have come from stoke lynn </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7381903982018514209"/>
-    <published>2024-06-18T17:57:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7382308884653804832</id>
     <title>i would do anything for her </title>
@@ -235,5 +227,13 @@
     <content>i have been so pampered this week 🥰 </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7400829583261437217"/>
     <published>2024-08-08T17:58:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7401943203198504224</id>
+    <title>a video about a ladder and a hypothetical cat </title>
+    <updated>2024-08-11T18:00:08+00:00</updated>
+    <content>a video about a ladder and a hypothetical cat </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7401943203198504224"/>
+    <published>2024-08-11T18:00:08+00:00</published>
   </entry>
 </feed>

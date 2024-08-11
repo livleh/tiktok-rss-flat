@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ramalauw</id>
   <title>ramalauw</title>
-  <updated>2024-08-07T14:16:15+00:00</updated>
+  <updated>2024-08-11T15:02:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ramalauw</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ramalauw/video/7365184990335880481</id>
-    <title>I’m a work of art 🥹</title>
-    <updated>2024-05-04T16:39:29+00:00</updated>
-    <content>I’m a work of art 🥹</content>
-    <link href="https://tiktok.com/@ramalauw/video/7365184990335880481"/>
-    <published>2024-05-04T16:39:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7365535633055550753</id>
     <title>I be fighting for my life during the double cleanse 😵‍💫</title>
@@ -259,6 +251,14 @@
     <content>I’m convinced the only reason anyone would do a ✨master’s degree✨ is to delay adult responsibilities 😤😮‍💨🫠🤡💃✨ #Free99 #mastersdegree #school #studentlife #fyp #foryou</content>
     <link href="https://tiktok.com/@ramalauw/video/7400401174463057185"/>
     <published>2024-08-07T14:16:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ramalauw/video/7401897392355953952</id>
+    <title>Me: I’m not dramatique Also me:</title>
+    <updated>2024-08-11T15:02:24+00:00</updated>
+    <content>Me: I’m not dramatique Also me:</content>
+    <link href="https://tiktok.com/@ramalauw/video/7401897392355953952"/>
+    <published>2024-08-11T15:02:24+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7270903343638187297</id>
