@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jade..harmony</id>
   <title>jade..harmony</title>
-  <updated>2024-08-10T13:44:12+00:00</updated>
+  <updated>2024-08-11T12:10:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jade..harmony</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jade..harmony/video/7392971980405837087</id>
-    <title>#foryoupage #michigan #michigandragqueen </title>
-    <updated>2024-07-18T13:47:16+00:00</updated>
-    <content>#foryoupage #michigan #michigandragqueen </content>
-    <link href="https://tiktok.com/@jade..harmony/video/7392971980405837087"/>
-    <published>2024-07-18T13:47:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jade..harmony/video/7393068727740255519</id>
-    <title>#foryoupage #michigan #michigandragqueen </title>
-    <updated>2024-07-18T20:02:40+00:00</updated>
-    <content>#foryoupage #michigan #michigandragqueen </content>
-    <link href="https://tiktok.com/@jade..harmony/video/7393068727740255519"/>
-    <published>2024-07-18T20:02:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jade..harmony/video/7393118952911605023</id>
     <title>#foryoupage #michigan #mermaid #trending #viral </title>
@@ -275,6 +259,22 @@
     <content>#foryoupage </content>
     <link href="https://tiktok.com/@jade..harmony/video/7401506064358788383"/>
     <published>2024-08-10T13:44:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jade..harmony/video/7401850447155186974</id>
+    <title>#foryoupage </title>
+    <updated>2024-08-11T12:00:53+00:00</updated>
+    <content>#foryoupage </content>
+    <link href="https://tiktok.com/@jade..harmony/video/7401850447155186974"/>
+    <published>2024-08-11T12:00:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jade..harmony/video/7401852928123817247</id>
+    <title>#foryoupage #michigandragqueen #dragqueenmakeup #fyp </title>
+    <updated>2024-08-11T12:10:35+00:00</updated>
+    <content>#foryoupage #michigandragqueen #dragqueenmakeup #fyp </content>
+    <link href="https://tiktok.com/@jade..harmony/video/7401852928123817247"/>
+    <published>2024-08-11T12:10:35+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jade..harmony/video/7375123202055408942</id>
