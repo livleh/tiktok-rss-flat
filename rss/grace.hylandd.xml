@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-08-10T05:12:59+00:00</updated>
+  <updated>2024-08-11T09:08:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7379262431534615815</id>
-    <title>Your loss 😘</title>
-    <updated>2024-06-11T15:07:07+00:00</updated>
-    <content>Your loss 😘</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7379262431534615815"/>
-    <published>2024-06-11T15:07:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7383288417376931093</id>
     <title>No Title</title>
@@ -243,5 +235,13 @@
     <content>I don’t judge religious people anymore! </content>
     <link href="https://tiktok.com/@grace.hylandd/video/7401374441969683719"/>
     <published>2024-08-10T05:12:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7401806089794178312</id>
+    <title>I belong to a different time x</title>
+    <updated>2024-08-11T09:08:00+00:00</updated>
+    <content>I belong to a different time x</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7401806089794178312"/>
+    <published>2024-08-11T09:08:00+00:00</published>
   </entry>
 </feed>

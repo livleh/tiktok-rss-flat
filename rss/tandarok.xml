@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-08-10T07:49:02+00:00</updated>
+  <updated>2024-08-11T07:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7385053064706673953</id>
-    <title>Demokratie ist Arbeit  #demokratie #gegenrechts #reclaimtiktok </title>
-    <updated>2024-06-27T05:38:03+00:00</updated>
-    <content>Demokratie ist Arbeit  #demokratie #gegenrechts #reclaimtiktok </content>
-    <link href="https://tiktok.com/@tandarok/video/7385053064706673953"/>
-    <published>2024-06-27T05:38:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7386289885935652128</id>
     <title>Erstmal Kopfnuss 🥲 #dogsoftiktok #cute #fail </title>
@@ -227,6 +219,14 @@
     <content>Ich war anfangs schon ein bisschen so ein Pick Me 😅 #trans #transgendergermany #transgirl #fashion </content>
     <link href="https://tiktok.com/@tandarok/video/7401414588039793953"/>
     <published>2024-08-10T07:49:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7401062689088245024</id>
+    <title>Und wie ess ihr euer Eis so? #twitchgermany #twitchde #twitchclips</title>
+    <updated>2024-08-11T07:00:00+00:00</updated>
+    <content>Und wie ess ihr euer Eis so? #twitchgermany #twitchde #twitchclips</content>
+    <link href="https://tiktok.com/@tandarok/video/7401062689088245024"/>
+    <published>2024-08-11T07:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
