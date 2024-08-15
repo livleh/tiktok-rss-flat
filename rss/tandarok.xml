@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-08-15T06:40:49+00:00</updated>
+  <updated>2024-08-15T21:44:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7390263096847207713</id>
-    <title>Es hat seine Gründe, dass ich keinen Führerschein mehr habe... Aber LocoLea und @Nina einfach beste Beifahrerinnen EU-West. #twitchgermany #twitchclips #fail #chainedtogether </title>
-    <updated>2024-07-11T06:35:32+00:00</updated>
-    <content>Es hat seine Gründe, dass ich keinen Führerschein mehr habe... Aber LocoLea und @Nina einfach beste Beifahrerinnen EU-West. #twitchgermany #twitchclips #fail #chainedtogether </content>
-    <link href="https://tiktok.com/@tandarok/video/7390263096847207713"/>
-    <published>2024-07-11T06:35:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7390988455464963360</id>
     <title>Ich geb denen eine 5/10 Wenn @seitansbraten das nicht postet, dann mach ich's halt 🤷‍♀️ #vegan #vegantastetest </title>
@@ -211,6 +203,14 @@
     <content>Kleiner Rant über Animes #anime #detektivconan </content>
     <link href="https://tiktok.com/@tandarok/video/7403252484510092576"/>
     <published>2024-08-15T06:40:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7403485266159193376</id>
+    <title>Darf ich Präferenzen haben? #dating #datinglife #singlelife </title>
+    <updated>2024-08-15T21:44:09+00:00</updated>
+    <content>Darf ich Präferenzen haben? #dating #datinglife #singlelife </content>
+    <link href="https://tiktok.com/@tandarok/video/7403485266159193376"/>
+    <published>2024-08-15T21:44:09+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>

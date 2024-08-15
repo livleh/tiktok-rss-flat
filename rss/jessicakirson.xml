@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-08-14T23:18:43+00:00</updated>
+  <updated>2024-08-15T22:18:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7394996551103401246</id>
-    <title>This is gonna take forever </title>
-    <updated>2024-07-24T00:43:41+00:00</updated>
-    <content>This is gonna take forever </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7394996551103401246"/>
-    <published>2024-07-24T00:43:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7395330849383714079</id>
     <title>He’s a Jewish American Princess</title>
@@ -171,6 +163,14 @@
     <content>Im so medicated 😐 #lesbiansoftiktok </content>
     <link href="https://tiktok.com/@jessicakirson/video/7403138516839959839"/>
     <published>2024-08-14T23:18:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7403494170935037215</id>
+    <title>I swear she wanted me to find her a boyfriend in the moment #single #fy #foryou </title>
+    <updated>2024-08-15T22:18:50+00:00</updated>
+    <content>I swear she wanted me to find her a boyfriend in the moment #single #fy #foryou </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7403494170935037215"/>
+    <published>2024-08-15T22:18:50+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7400160149110918431</id>
