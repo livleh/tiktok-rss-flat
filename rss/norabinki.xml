@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@norabinki</id>
   <title>norabinki</title>
-  <updated>2024-08-10T19:58:50+00:00</updated>
+  <updated>2024-08-13T15:09:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from norabinki</subtitle>
-  <entry>
-    <id>https://tiktok.com/@norabinki/video/7328080899491253537</id>
-    <title>„de maybach unter de ski“ #fyp #schweiz #CapCut </title>
-    <updated>2024-01-25T16:56:38+00:00</updated>
-    <content>„de maybach unter de ski“ #fyp #schweiz #CapCut </content>
-    <link href="https://tiktok.com/@norabinki/video/7328080899491253537"/>
-    <published>2024-01-25T16:56:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@norabinki/video/7332537754775031073</id>
     <title>Hundemesse #schweiz #fyp #CapCut </title>
@@ -267,6 +259,14 @@
     <content>Street Parade 2024 #schweiz #fyp #streetparade #CapCut </content>
     <link href="https://tiktok.com/@norabinki/video/7401602663554485536"/>
     <published>2024-08-10T19:58:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@norabinki/video/7402641317190208801</id>
+    <title>kleinstes Dorf der Schweiz @Bruzzli #schweiz #fyp #CapCut </title>
+    <updated>2024-08-13T15:09:11+00:00</updated>
+    <content>kleinstes Dorf der Schweiz @Bruzzli #schweiz #fyp #CapCut </content>
+    <link href="https://tiktok.com/@norabinki/video/7402641317190208801"/>
+    <published>2024-08-13T15:09:11+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@norabinki/video/7283544477661203745</id>

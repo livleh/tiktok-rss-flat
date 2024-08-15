@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shaunadewit</id>
   <title>shaunadewit</title>
-  <updated>2024-08-11T16:57:22+00:00</updated>
+  <updated>2024-08-12T16:20:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shaunadewit</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shaunadewit/video/7374874758988467489</id>
-    <title>I can relate to this everyday #foryou #pourtoi #comedy #humor #goviral </title>
-    <updated>2024-05-30T19:20:42+00:00</updated>
-    <content>I can relate to this everyday #foryou #pourtoi #comedy #humor #goviral </content>
-    <link href="https://tiktok.com/@shaunadewit/video/7374874758988467489"/>
-    <published>2024-05-30T19:20:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@shaunadewit/video/7376226350161677601</id>
-    <title>#advertising Try to win those tasty @Burger King Belgium sneakers ! #giveaway #burgerkingsneakers #foryou #pourtoi #comedy #humor #goviral #burgerkinggiveaway </title>
-    <updated>2024-06-03T10:45:40+00:00</updated>
-    <content>#advertising Try to win those tasty @Burger King Belgium sneakers ! #giveaway #burgerkingsneakers #foryou #pourtoi #comedy #humor #goviral #burgerkinggiveaway </content>
-    <link href="https://tiktok.com/@shaunadewit/video/7376226350161677601"/>
-    <published>2024-06-03T10:45:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/7376969233210576161</id>
     <title>Phase 3 🤝🏻 #foryou #pourtoi #comedy #humor #goviral </title>
@@ -235,6 +219,14 @@
     <content>Its works try it out #foryou #humor #goviral #pourtoi #comedy </content>
     <link href="https://tiktok.com/@shaunadewit/video/7401927034575834401"/>
     <published>2024-08-11T16:57:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shaunadewit/video/7402288560067448096</id>
+    <title>Send this to someone that needs to drink more, also put this in slowmo its so funny #foryou #humor #goviral #pourtoi #comedy </title>
+    <updated>2024-08-12T16:20:17+00:00</updated>
+    <content>Send this to someone that needs to drink more, also put this in slowmo its so funny #foryou #humor #goviral #pourtoi #comedy </content>
+    <link href="https://tiktok.com/@shaunadewit/video/7402288560067448096"/>
+    <published>2024-08-12T16:20:17+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/6994791135415766278</id>

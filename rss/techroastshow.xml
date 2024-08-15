@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-08-11T15:07:01+00:00</updated>
+  <updated>2024-08-15T13:45:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,70 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7394986388048989470</id>
-    <title>He sees his kids once per quarter #techie #softwareengineer #siliconvalley #sanfrancisco #bayarea #comedy #funny #developerlife #programmerlife</title>
-    <updated>2024-07-24T00:04:18+00:00</updated>
-    <content>He sees his kids once per quarter #techie #softwareengineer #siliconvalley #sanfrancisco #bayarea #comedy #funny #developerlife #programmerlife</content>
-    <link href="https://tiktok.com/@techroastshow/video/7394986388048989470"/>
-    <published>2024-07-24T00:04:18+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7395180585439825183</id>
-    <title>they do still exist  #techie #softwareengineer #siliconvalley #SVB #chicago #programmerlife #roastbattle #darkhumor #techroastshow</title>
-    <updated>2024-07-24T12:37:50+00:00</updated>
-    <content>they do still exist  #techie #softwareengineer #siliconvalley #SVB #chicago #programmerlife #roastbattle #darkhumor #techroastshow</content>
-    <link href="https://tiktok.com/@techroastshow/video/7395180585439825183"/>
-    <published>2024-07-24T12:37:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7395393772529388842</id>
-    <title>they all love failure</title>
-    <updated>2024-07-25T02:24:57+00:00</updated>
-    <content>they all love failure</content>
-    <link href="https://tiktok.com/@techroastshow/video/7395393772529388842"/>
-    <published>2024-07-25T02:24:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7395561280632802591</id>
-    <title>call him Legolas  #techie #softwareengineer #chicago #programmerlife #roastbattle #darkhumor #techroastshow </title>
-    <updated>2024-07-25T13:15:07+00:00</updated>
-    <content>call him Legolas  #techie #softwareengineer #chicago #programmerlife #roastbattle #darkhumor #techroastshow </content>
-    <link href="https://tiktok.com/@techroastshow/video/7395561280632802591"/>
-    <published>2024-07-25T13:15:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7395774039433678123</id>
-    <title>It is return offer time #techie #softwareengineer #IT #intern #programmerlife #roastbattle #darkhumor #techroastshow #swe</title>
-    <updated>2024-07-26T03:00:35+00:00</updated>
-    <content>It is return offer time #techie #softwareengineer #IT #intern #programmerlife #roastbattle #darkhumor #techroastshow #swe</content>
-    <link href="https://tiktok.com/@techroastshow/video/7395774039433678123"/>
-    <published>2024-07-26T03:00:35+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7395938928248884511</id>
-    <title>it’s confirmed  #techie #softwareengineer #chicago #programmerlife #roastbattle #darkhumor #techroastshow </title>
-    <updated>2024-07-26T13:41:00+00:00</updated>
-    <content>it’s confirmed  #techie #softwareengineer #chicago #programmerlife #roastbattle #darkhumor #techroastshow </content>
-    <link href="https://tiktok.com/@techroastshow/video/7395938928248884511"/>
-    <published>2024-07-26T13:41:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7396049036219829534</id>
-    <title>everyone has a packed weekend #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #darkhumor #techroastshow </title>
-    <updated>2024-07-26T20:47:51+00:00</updated>
-    <content>everyone has a packed weekend #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #darkhumor #techroastshow </content>
-    <link href="https://tiktok.com/@techroastshow/video/7396049036219829534"/>
-    <published>2024-07-26T20:47:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7396310573580848414</id>
-    <title>zuck 2024  #techie #softwareengineer #meta #chicago #programmerlife #roastbattle #darkhumor #techroastshow </title>
-    <updated>2024-07-27T13:43:03+00:00</updated>
-    <content>zuck 2024  #techie #softwareengineer #meta #chicago #programmerlife #roastbattle #darkhumor #techroastshow </content>
-    <link href="https://tiktok.com/@techroastshow/video/7396310573580848414"/>
-    <published>2024-07-27T13:43:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7396698916990815518</id>
     <title>🦟 #techie #softwareengineer #chicago #programmerlife #roastbattle #darkhumor #techroastshow </title>
@@ -267,6 +203,70 @@
     <content>left comic con to come to tech roast   #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</content>
     <link href="https://tiktok.com/@techroastshow/video/7401898535035112734"/>
     <published>2024-08-11T15:07:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7402018015274896671</id>
+    <title>🏋🏻 #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </title>
+    <updated>2024-08-11T22:50:31+00:00</updated>
+    <content>🏋🏻 #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </content>
+    <link href="https://tiktok.com/@techroastshow/video/7402018015274896671"/>
+    <published>2024-08-11T22:50:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7402240204003626270</id>
+    <title>It does indeed suck  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</title>
+    <updated>2024-08-12T13:13:04+00:00</updated>
+    <content>It does indeed suck  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</content>
+    <link href="https://tiktok.com/@techroastshow/video/7402240204003626270"/>
+    <published>2024-08-12T13:13:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7402369438965632287</id>
+    <title>test your code. use @Sauce Labs  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #techroastshow #ad </title>
+    <updated>2024-08-12T21:34:18+00:00</updated>
+    <content>test your code. use @Sauce Labs  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #techroastshow #ad </content>
+    <link href="https://tiktok.com/@techroastshow/video/7402369438965632287"/>
+    <published>2024-08-12T21:34:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7402643364606151966</id>
+    <title>grandma got run over by a cruise car #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</title>
+    <updated>2024-08-13T15:17:11+00:00</updated>
+    <content>grandma got run over by a cruise car #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</content>
+    <link href="https://tiktok.com/@techroastshow/video/7402643364606151966"/>
+    <published>2024-08-13T15:17:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7402748837879631135</id>
+    <title>this guy is really passionate  #techie #softwareengineer #siliconvalley #investor #pitch #roastbattle #darkhumor #techroastshow</title>
+    <updated>2024-08-13T22:06:30+00:00</updated>
+    <content>this guy is really passionate  #techie #softwareengineer #siliconvalley #investor #pitch #roastbattle #darkhumor #techroastshow</content>
+    <link href="https://tiktok.com/@techroastshow/video/7402748837879631135"/>
+    <published>2024-08-13T22:06:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7402974591871634719</id>
+    <title>time to google a new job  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </title>
+    <updated>2024-08-14T12:42:29+00:00</updated>
+    <content>time to google a new job  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </content>
+    <link href="https://tiktok.com/@techroastshow/video/7402974591871634719"/>
+    <published>2024-08-14T12:42:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7403126415568293150</id>
+    <title>kudos! #techie #softwareengineer #siliconvalley #linkedin #CEO #darkhumor #techroastshow </title>
+    <updated>2024-08-14T22:31:47+00:00</updated>
+    <content>kudos! #techie #softwareengineer #siliconvalley #linkedin #CEO #darkhumor #techroastshow </content>
+    <link href="https://tiktok.com/@techroastshow/video/7403126415568293150"/>
+    <published>2024-08-14T22:31:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7403361890245610782</id>
+    <title>looks like data to me  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </title>
+    <updated>2024-08-15T13:45:26+00:00</updated>
+    <content>looks like data to me  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </content>
+    <link href="https://tiktok.com/@techroastshow/video/7403361890245610782"/>
+    <published>2024-08-15T13:45:26+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>

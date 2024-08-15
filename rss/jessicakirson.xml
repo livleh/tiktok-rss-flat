@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-08-10T14:57:10+00:00</updated>
+  <updated>2024-08-14T23:18:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7393723391578017055</id>
-    <title>My new name </title>
-    <updated>2024-07-20T14:23:21+00:00</updated>
-    <content>My new name </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7393723391578017055"/>
-    <published>2024-07-20T14:23:21+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7394218933861059871</id>
-    <title>This is the dumbest thing I’ve ever said at a comedy show 😂</title>
-    <updated>2024-07-21T22:26:10+00:00</updated>
-    <content>This is the dumbest thing I’ve ever said at a comedy show 😂</content>
-    <link href="https://tiktok.com/@jessicakirson/video/7394218933861059871"/>
-    <published>2024-07-21T22:26:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7394996551103401246</id>
     <title>This is gonna take forever </title>
@@ -155,6 +139,38 @@
     <content>He has never had a woman on top of him 😂 #fy </content>
     <link href="https://tiktok.com/@jessicakirson/video/7401524916178160927"/>
     <published>2024-08-10T14:57:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7402006443051863327</id>
+    <title>Husband Wants To Take His New Wife To A 🍍Club and She Wont Go #justmarried #couplegoals #wow </title>
+    <updated>2024-08-11T22:05:42+00:00</updated>
+    <content>Husband Wants To Take His New Wife To A 🍍Club and She Wont Go #justmarried #couplegoals #wow </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7402006443051863327"/>
+    <published>2024-08-11T22:05:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7402385488209923359</id>
+    <title>I think shes going to do just fine</title>
+    <updated>2024-08-12T22:36:37+00:00</updated>
+    <content>I think shes going to do just fine</content>
+    <link href="https://tiktok.com/@jessicakirson/video/7402385488209923359"/>
+    <published>2024-08-12T22:36:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7402756860048051487</id>
+    <title>They are all damaged 😅 #bearsoftiktok #gaytiktok #fy </title>
+    <updated>2024-08-13T22:37:39+00:00</updated>
+    <content>They are all damaged 😅 #bearsoftiktok #gaytiktok #fy </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7402756860048051487"/>
+    <published>2024-08-13T22:37:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7403138516839959839</id>
+    <title>Im so medicated 😐 #lesbiansoftiktok </title>
+    <updated>2024-08-14T23:18:43+00:00</updated>
+    <content>Im so medicated 😐 #lesbiansoftiktok </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7403138516839959839"/>
+    <published>2024-08-14T23:18:43+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7400160149110918431</id>

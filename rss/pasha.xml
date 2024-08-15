@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@pasha</id>
   <title>pasha</title>
-  <updated>2024-08-04T10:17:46+00:00</updated>
+  <updated>2024-08-13T18:33:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pasha</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pasha/video/7374404745827503361</id>
-    <title>life is a long bicycle race. at the start of the race, we’re all together - enthusiastic and determined. but as the race progresses, the initial joy gives way to the real challenges: tiredness, boredom, self-doubt.  we notice that some friends have alread</title>
-    <updated>2024-05-29T12:56:52+00:00</updated>
-    <content>life is a long bicycle race. at the start of the race, we’re all together - enthusiastic and determined. but as the race progresses, the initial joy gives way to the real challenges: tiredness, boredom, self-doubt.  we notice that some friends have alread</content>
-    <link href="https://tiktok.com/@pasha/video/7374404745827503361"/>
-    <published>2024-05-29T12:56:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@pasha/video/7374768694355873025</id>
-    <title>please stop romanticising trаuma aesthetic 😭 #easterneuropean #comedy </title>
-    <updated>2024-05-30T12:29:07+00:00</updated>
-    <content>please stop romanticising trаuma aesthetic 😭 #easterneuropean #comedy </content>
-    <link href="https://tiktok.com/@pasha/video/7374768694355873025"/>
-    <published>2024-05-30T12:29:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7375498717987671313</id>
     <title>does anyone else ever feel this way?</title>
@@ -283,5 +267,21 @@
     <content>France does wonders to you #france #traveltiktok #paris #nice #strasbourg #francetravel </content>
     <link href="https://tiktok.com/@pasha/video/7399226469118905620"/>
     <published>2024-08-04T10:17:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pasha/video/7402257073184001301</id>
+    <title>these Paris games were not what I expected… @Orange 🧡</title>
+    <updated>2024-08-12T14:18:05+00:00</updated>
+    <content>these Paris games were not what I expected… @Orange 🧡</content>
+    <link href="https://tiktok.com/@pasha/video/7402257073184001301"/>
+    <published>2024-08-12T14:18:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pasha/video/7402693921005899028</id>
+    <title>this is your reminder to appreciate every step in your career and to remember that in the end, it’s all going to work out ❤️ Start searching for your dream career with @LinkedIn today! #careerjourney #careertalk #careerarvice #recruiter #jobsearch #Linked</title>
+    <updated>2024-08-13T18:33:19+00:00</updated>
+    <content>this is your reminder to appreciate every step in your career and to remember that in the end, it’s all going to work out ❤️ Start searching for your dream career with @LinkedIn today! #careerjourney #careertalk #careerarvice #recruiter #jobsearch #Linked</content>
+    <link href="https://tiktok.com/@pasha/video/7402693921005899028"/>
+    <published>2024-08-13T18:33:19+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lillytino_</id>
   <title>lillytino_</title>
-  <updated>2024-08-01T20:13:40+00:00</updated>
+  <updated>2024-08-12T01:00:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from lillytino_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@lillytino_/video/7371808419914829099</id>
-    <title>Best day of the month ⚡️ Shoutout to my friends at @City Laser Clinic &amp; @skinxbrie ❤️</title>
-    <updated>2024-05-22T13:01:52+00:00</updated>
-    <content>Best day of the month ⚡️ Shoutout to my friends at @City Laser Clinic &amp; @skinxbrie ❤️</content>
-    <link href="https://tiktok.com/@lillytino_/video/7371808419914829099"/>
-    <published>2024-05-22T13:01:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@lillytino_/video/7372183791680490795</id>
-    <title>We claim her 👆🏳️‍⚧️</title>
-    <updated>2024-05-23T13:18:25+00:00</updated>
-    <content>We claim her 👆🏳️‍⚧️</content>
-    <link href="https://tiktok.com/@lillytino_/video/7372183791680490795"/>
-    <published>2024-05-23T13:18:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@lillytino_/video/7373660981664337198</id>
     <title>🤯🤯🤯</title>
@@ -123,5 +107,13 @@
     <content>Ms. Lilly teaches pronouns! 🏳️‍⚧️</content>
     <link href="https://tiktok.com/@lillytino_/video/7398266736900017454"/>
     <published>2024-08-01T20:13:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lillytino_/video/7402051538056645930</id>
+    <title>@Colleen 🌸 </title>
+    <updated>2024-08-12T01:00:30+00:00</updated>
+    <content>@Colleen 🌸 </content>
+    <link href="https://tiktok.com/@lillytino_/video/7402051538056645930"/>
+    <published>2024-08-12T01:00:30+00:00</published>
   </entry>
 </feed>

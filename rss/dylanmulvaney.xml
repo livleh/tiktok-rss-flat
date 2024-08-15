@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@dylanmulvaney</id>
   <title>dylanmulvaney</title>
-  <updated>2024-08-06T12:36:26+00:00</updated>
+  <updated>2024-08-14T01:07:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylanmulvaney</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylanmulvaney/video/7351597381533601067</id>
-    <title>First live performance of my single to support @TrevorProject  💓💖👯‍♀️ </title>
-    <updated>2024-03-29T01:52:52+00:00</updated>
-    <content>First live performance of my single to support @TrevorProject  💓💖👯‍♀️ </content>
-    <link href="https://tiktok.com/@dylanmulvaney/video/7351597381533601067"/>
-    <published>2024-03-29T01:52:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7351915725218647342</id>
     <title>@Heather Dubrow playing my mom? Too perfect. #rhoc #mom </title>
@@ -219,6 +211,14 @@
     <content>One day stan right here #oneday #edinburgh </content>
     <link href="https://tiktok.com/@dylanmulvaney/video/7400004337289809194"/>
     <published>2024-08-06T12:36:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylanmulvaney/video/7402795562753625390</id>
+    <title>2 more weeks of shows 💓🪽 also @Jools Lebron is the MOMENT 👯‍♀️🎉❣️#edinburgh #fringe </title>
+    <updated>2024-08-14T01:07:43+00:00</updated>
+    <content>2 more weeks of shows 💓🪽 also @Jools Lebron is the MOMENT 👯‍♀️🎉❣️#edinburgh #fringe </content>
+    <link href="https://tiktok.com/@dylanmulvaney/video/7402795562753625390"/>
+    <published>2024-08-14T01:07:43+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7193364487171444014</id>

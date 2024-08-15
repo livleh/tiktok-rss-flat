@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jade..harmony</id>
   <title>jade..harmony</title>
-  <updated>2024-08-11T12:10:35+00:00</updated>
+  <updated>2024-08-15T18:25:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,38 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jade..harmony</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jade..harmony/video/7393118952911605023</id>
-    <title>#foryoupage #michigan #mermaid #trending #viral </title>
-    <updated>2024-07-18T23:17:31+00:00</updated>
-    <content>#foryoupage #michigan #mermaid #trending #viral </content>
-    <link href="https://tiktok.com/@jade..harmony/video/7393118952911605023"/>
-    <published>2024-07-18T23:17:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jade..harmony/video/7393306440577994015</id>
-    <title>#foryoupage #michigan #mermaid #h20 </title>
-    <updated>2024-07-19T11:25:50+00:00</updated>
-    <content>#foryoupage #michigan #mermaid #h20 </content>
-    <link href="https://tiktok.com/@jade..harmony/video/7393306440577994015"/>
-    <published>2024-07-19T11:25:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jade..harmony/video/7393341217838320926</id>
-    <title>#foryoupage #michigan #mermaid </title>
-    <updated>2024-07-19T13:40:28+00:00</updated>
-    <content>#foryoupage #michigan #mermaid </content>
-    <link href="https://tiktok.com/@jade..harmony/video/7393341217838320926"/>
-    <published>2024-07-19T13:40:28+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jade..harmony/video/7394449557859405087</id>
-    <title>#foryoupage #michigan #trending #michigandragqueen #club #showgirl #arianagrande </title>
-    <updated>2024-07-22T13:21:22+00:00</updated>
-    <content>#foryoupage #michigan #trending #michigandragqueen #club #showgirl #arianagrande </content>
-    <link href="https://tiktok.com/@jade..harmony/video/7394449557859405087"/>
-    <published>2024-07-22T13:21:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jade..harmony/video/7394544510077799710</id>
     <title>#foryoupage #michigan #trending #michigandragqueen #club #showgirl #viral </title>
@@ -277,12 +245,36 @@
     <published>2024-08-11T12:10:35+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@jade..harmony/video/7375123202055408942</id>
-    <title>#fyp #viral #trending #fypシ゚viral #foryoupage #trending </title>
-    <updated>2024-05-31T11:24:55+00:00</updated>
-    <content>#fyp #viral #trending #fypシ゚viral #foryoupage #trending </content>
-    <link href="https://tiktok.com/@jade..harmony/video/7375123202055408942"/>
-    <published>2024-05-31T11:24:55+00:00</published>
+    <id>https://tiktok.com/@jade..harmony/video/7402302200766074142</id>
+    <title>#foryoupage #transwoman </title>
+    <updated>2024-08-12T17:13:24+00:00</updated>
+    <content>#foryoupage #transwoman </content>
+    <link href="https://tiktok.com/@jade..harmony/video/7402302200766074142"/>
+    <published>2024-08-12T17:13:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jade..harmony/video/7403081452402773278</id>
+    <title>#foryoupage </title>
+    <updated>2024-08-14T19:37:08+00:00</updated>
+    <content>#foryoupage </content>
+    <link href="https://tiktok.com/@jade..harmony/video/7403081452402773278"/>
+    <published>2024-08-14T19:37:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jade..harmony/video/7403167272568769822</id>
+    <title>#foryoupage </title>
+    <updated>2024-08-15T01:10:17+00:00</updated>
+    <content>#foryoupage </content>
+    <link href="https://tiktok.com/@jade..harmony/video/7403167272568769822"/>
+    <published>2024-08-15T01:10:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jade..harmony/video/7403433946647743775</id>
+    <title>#foryoupage </title>
+    <updated>2024-08-15T18:25:03+00:00</updated>
+    <content>#foryoupage </content>
+    <link href="https://tiktok.com/@jade..harmony/video/7403433946647743775"/>
+    <published>2024-08-15T18:25:03+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jade..harmony/video/7388937889968688414</id>
@@ -291,5 +283,13 @@
     <content>#fyp #trans #michigandragqueen #performer #showgirl #jadeharmony #foryoupage #rupaulsdragrace #dragqueen #kalamazoo #michigan #follow #bar #barscene #club #clublife </content>
     <link href="https://tiktok.com/@jade..harmony/video/7388937889968688414"/>
     <published>2024-07-07T16:53:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jade..harmony/video/7402313635298561310</id>
+    <title>#foryoupage #transwoman #michigandragqueen #dragqueenmakeup #transgender #michigan </title>
+    <updated>2024-08-12T17:57:44+00:00</updated>
+    <content>#foryoupage #transwoman #michigandragqueen #dragqueenmakeup #transgender #michigan </content>
+    <link href="https://tiktok.com/@jade..harmony/video/7402313635298561310"/>
+    <published>2024-08-12T17:57:44+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2024-08-09T01:52:53+00:00</updated>
+  <updated>2024-08-15T00:38:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from loveletterstosf</subtitle>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7383052350577052970</id>
-    <title>💌</title>
-    <updated>2024-06-21T20:13:56+00:00</updated>
-    <content>💌</content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7383052350577052970"/>
-    <published>2024-06-21T20:13:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7384931825459760426</id>
     <title>It's Small Business Summer, and Downtown SF has so many awesome pop-ups to check out! Here are 3 new ones that just opened that you should check out @vacanttovibrant #Ad #VacantToVibrant #SmallBusinessSummer  #SFNewDeal #DowntownSF #ThingstoDoInSF #SFEven</title>
@@ -203,6 +195,30 @@
     <content>Loved checking out Holbrook House, a restaurant and bar downtown that has coffee &amp; pastries during the day and caviar, martinis and champagne at night. Shout out to the @Yelp Bay Area team for hosting such a great event for the #sffoodies! #sfdowntown #sf</content>
     <link href="https://tiktok.com/@loveletterstosf/video/7400951779728379178"/>
     <published>2024-08-09T01:52:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7402462567748095274</id>
+    <title>you can see how windy it is from the sand in the beginning #sf #sfsunset #crissyfield #august #ggbridge </title>
+    <updated>2024-08-13T03:35:30+00:00</updated>
+    <content>you can see how windy it is from the sand in the beginning #sf #sfsunset #crissyfield #august #ggbridge </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7402462567748095274"/>
+    <published>2024-08-13T03:35:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7402801232735128878</id>
+    <title>PSA caltrain electric trains coming sept 21 ⚡️ this is huge esp for my #sfbayarea commuters livin that life  #caltrain #sf #electrictrains #bayarea #commuterlife </title>
+    <updated>2024-08-14T01:29:41+00:00</updated>
+    <content>PSA caltrain electric trains coming sept 21 ⚡️ this is huge esp for my #sfbayarea commuters livin that life  #caltrain #sf #electrictrains #bayarea #commuterlife </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7402801232735128878"/>
+    <published>2024-08-14T01:29:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7403158995420089642</id>
+    <title>we left no crumbs (wouldve licked the plate clean too if we weren’t in public) because Itria is that good 👏 love their pasta! Def check it out #sf #sftok #sfeats #sfrestaurant #italianrestaurant </title>
+    <updated>2024-08-15T00:38:00+00:00</updated>
+    <content>we left no crumbs (wouldve licked the plate clean too if we weren’t in public) because Itria is that good 👏 love their pasta! Def check it out #sf #sftok #sfeats #sfrestaurant #italianrestaurant </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7403158995420089642"/>
+    <published>2024-08-15T00:38:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7400589981795831083</id>

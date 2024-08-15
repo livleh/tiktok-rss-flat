@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-08-11T18:00:08+00:00</updated>
+  <updated>2024-08-15T17:28:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7382308884653804832</id>
-    <title>i would do anything for her </title>
-    <updated>2024-06-19T20:08:54+00:00</updated>
-    <content>i would do anything for her </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7382308884653804832"/>
-    <published>2024-06-19T20:08:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7382642799444872480</id>
-    <title>i got this idea from reading my old ideas </title>
-    <updated>2024-06-20T17:44:43+00:00</updated>
-    <content>i got this idea from reading my old ideas </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7382642799444872480"/>
-    <published>2024-06-20T17:44:43+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7383753834478325024</id>
-    <title>i have been secretly making this for so long !!! the next video i upload will hopefully be my music video and song, but i still havent finished the video and the song is being mixed!  also since all the music has now been recorded and isnt ripped straight</title>
-    <updated>2024-06-23T17:36:08+00:00</updated>
-    <content>i have been secretly making this for so long !!! the next video i upload will hopefully be my music video and song, but i still havent finished the video and the song is being mixed!  also since all the music has now been recorded and isnt ripped straight</content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7383753834478325024"/>
-    <published>2024-06-23T17:36:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7385242806081637665</id>
     <title>corkacabana (at the corka!) unlike the last cover i did this one is 100% original IE none of poor barry manilow’s music was pinched for it! i have to thank jack en parpes and gary meanburg for helping me with the piano parts, drums and mixing !!! corky is</title>
@@ -235,5 +211,21 @@
     <content>a video about a ladder and a hypothetical cat </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7401943203198504224"/>
     <published>2024-08-11T18:00:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7402304358077058336</id>
+    <title>theyre just deaf. theyre not deaf offenders </title>
+    <updated>2024-08-12T17:21:35+00:00</updated>
+    <content>theyre just deaf. theyre not deaf offenders </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7402304358077058336"/>
+    <published>2024-08-12T17:21:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7403419313895443745</id>
+    <title>je suis sleepy!!!! my day at the eiffel tower </title>
+    <updated>2024-08-15T17:28:09+00:00</updated>
+    <content>je suis sleepy!!!! my day at the eiffel tower </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7403419313895443745"/>
+    <published>2024-08-15T17:28:09+00:00</published>
   </entry>
 </feed>
