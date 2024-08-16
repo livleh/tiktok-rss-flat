@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@dylanmulvaney</id>
   <title>dylanmulvaney</title>
-  <updated>2024-08-14T01:07:43+00:00</updated>
+  <updated>2024-08-16T18:11:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylanmulvaney</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylanmulvaney/video/7351915725218647342</id>
-    <title>@Heather Dubrow playing my mom? Too perfect. #rhoc #mom </title>
-    <updated>2024-03-29T22:28:20+00:00</updated>
-    <content>@Heather Dubrow playing my mom? Too perfect. #rhoc #mom </content>
-    <link href="https://tiktok.com/@dylanmulvaney/video/7351915725218647342"/>
-    <published>2024-03-29T22:28:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7354166434521484587</id>
     <title>My cover of the Joke (live) is now streaming on all platforms. Thank you to @Brandi Carlile for this incredible song and @Our Lady J for accompanying me ❤️❤️❤️ #singing #cover </title>
@@ -219,6 +211,14 @@
     <content>2 more weeks of shows 💓🪽 also @Jools Lebron is the MOMENT 👯‍♀️🎉❣️#edinburgh #fringe </content>
     <link href="https://tiktok.com/@dylanmulvaney/video/7402795562753625390"/>
     <published>2024-08-14T01:07:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylanmulvaney/video/7403801526310833451</id>
+    <title>This was a ride </title>
+    <updated>2024-08-16T18:11:23+00:00</updated>
+    <content>This was a ride </content>
+    <link href="https://tiktok.com/@dylanmulvaney/video/7403801526310833451"/>
+    <published>2024-08-16T18:11:23+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7193364487171444014</id>
