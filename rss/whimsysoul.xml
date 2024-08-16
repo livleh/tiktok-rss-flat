@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-08-12T19:32:40+00:00</updated>
+  <updated>2024-08-16T21:52:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7397474553099996462</id>
-    <title>Replying to @grant6064 the best carryon backpack for under $50! 😱 this doesn't even show off how much you can fit into the exterior pockets #travel #travelbag #travelbackpack #travelhack #carryonbag #carryononly #whimsysoul </title>
-    <updated>2024-07-30T16:59:31+00:00</updated>
-    <content>Replying to @grant6064 the best carryon backpack for under $50! 😱 this doesn't even show off how much you can fit into the exterior pockets #travel #travelbag #travelbackpack #travelhack #carryonbag #carryononly #whimsysoul </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7397474553099996462"/>
-    <published>2024-07-30T16:59:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7397806562217135406</id>
     <title>Replying to @Ashley only flaw - everything else is perfection ❤️ #travel #travelbag #travelbackpack #travelhack #carryonbag #carryononly #whimsysoul </title>
@@ -195,6 +187,14 @@
     <content>Replying to @Cass 🦇 had so much fun with my outside lands outfits this year!! Linked them all in my LTK profile link in bio!! #outsidelands #outsidelands2024 #outsidelandsoutfits #bayareacheck #sanfrancisco #onlyinsf #musicfestival #osl2024 </content>
     <link href="https://tiktok.com/@whimsysoul/video/7402338136937811243"/>
     <published>2024-08-12T19:32:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7403858546984553770</id>
+    <title>hidden in plain sight! This SF speakeasy looks like a bus stop from the outside, but is actually an upscale speakeasy serving up one of the best martinis in San Francisco.  I'm a martini girl, and loved their Dirty featuring Hog Island sea brine and Monte</title>
+    <updated>2024-08-16T21:52:37+00:00</updated>
+    <content>hidden in plain sight! This SF speakeasy looks like a bus stop from the outside, but is actually an upscale speakeasy serving up one of the best martinis in San Francisco.  I'm a martini girl, and loved their Dirty featuring Hog Island sea brine and Monte</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7403858546984553770"/>
+    <published>2024-08-16T21:52:37+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
