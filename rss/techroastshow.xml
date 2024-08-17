@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-08-16T12:40:20+00:00</updated>
+  <updated>2024-08-17T12:43:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7397069180538768671</id>
-    <title>chat clip that   #techie #softwareengineer #chicago #programmerlife #roastbattle #darkhumor #techroastshow  </title>
-    <updated>2024-07-29T14:46:42+00:00</updated>
-    <content>chat clip that   #techie #softwareengineer #chicago #programmerlife #roastbattle #darkhumor #techroastshow  </content>
-    <link href="https://tiktok.com/@techroastshow/video/7397069180538768671"/>
-    <published>2024-07-29T14:46:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7397434070512307486</id>
     <title>the wonder twins! #techie #softwareengineer #twins #chicago #programmerlife #roastbattle #darkhumor #techroastshow</title>
@@ -267,6 +259,14 @@
     <content>all he needs is CrossFit to complete the insufferable starter pack  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </content>
     <link href="https://tiktok.com/@techroastshow/video/7403716090481675551"/>
     <published>2024-08-16T12:40:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7404088026244156703</id>
+    <title>Elon is too busy tweeting to notice you breaking NDAs #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </title>
+    <updated>2024-08-17T12:43:47+00:00</updated>
+    <content>Elon is too busy tweeting to notice you breaking NDAs #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </content>
+    <link href="https://tiktok.com/@techroastshow/video/7404088026244156703"/>
+    <published>2024-08-17T12:43:47+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
