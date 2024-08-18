@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@pasha</id>
   <title>pasha</title>
-  <updated>2024-08-13T18:33:19+00:00</updated>
+  <updated>2024-08-18T11:42:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pasha</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pasha/video/7375498717987671313</id>
-    <title>does anyone else ever feel this way?</title>
-    <updated>2024-06-01T11:42:03+00:00</updated>
-    <content>does anyone else ever feel this way?</content>
-    <link href="https://tiktok.com/@pasha/video/7375498717987671313"/>
-    <published>2024-06-01T11:42:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7375902614682094864</id>
     <title>why hasn’t anyone told me about this? 😭 #german #germany #travelinggermany ##deutschland #lifeingermany #berlin </title>
@@ -275,6 +267,14 @@
     <content>these Paris games were not what I expected… @Orange 🧡</content>
     <link href="https://tiktok.com/@pasha/video/7402257073184001301"/>
     <published>2024-08-12T14:18:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pasha/video/7404443429616307477</id>
+    <title>dear London, try me. #london </title>
+    <updated>2024-08-18T11:42:14+00:00</updated>
+    <content>dear London, try me. #london </content>
+    <link href="https://tiktok.com/@pasha/video/7404443429616307477"/>
+    <published>2024-08-18T11:42:14+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7402693921005899028</id>
