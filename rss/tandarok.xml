@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-08-18T13:01:36+00:00</updated>
+  <updated>2024-08-18T21:06:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7392122640082734368</id>
-    <title>Ist das Selbstliebe?</title>
-    <updated>2024-07-16T06:51:27+00:00</updated>
-    <content>Ist das Selbstliebe?</content>
-    <link href="https://tiktok.com/@tandarok/video/7392122640082734368"/>
-    <published>2024-07-16T06:51:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7392474616201071905</id>
     <title>First ever TikTok Dance for me 🙈 Hab die ganze Zeit so einen Ohrwurm davon und fand den Tanz ganz lustig, also wollte ich das mal probieren 😄 #charliexcx #brat #apple #bratsummer </title>
@@ -211,6 +203,14 @@
     <content>Antwort auf @flotschiiii Viele unserer Dating Präferenzen sind einfach sozial konstruiert und nicht unbedingt unsere persönlichen Vorlieben. #dating #datinglife #singlelife </content>
     <link href="https://tiktok.com/@tandarok/video/7404463862487010593"/>
     <published>2024-08-18T13:01:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7404588714938158369</id>
+    <title>Ich hoffe ihr akzeptiert meine aufrichtige Entschuldigung 🥲 #haareschneiden #haircut </title>
+    <updated>2024-08-18T21:06:06+00:00</updated>
+    <content>Ich hoffe ihr akzeptiert meine aufrichtige Entschuldigung 🥲 #haareschneiden #haircut </content>
+    <link href="https://tiktok.com/@tandarok/video/7404588714938158369"/>
+    <published>2024-08-18T21:06:06+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
