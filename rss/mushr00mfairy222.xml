@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-08-17T16:53:04+00:00</updated>
+  <updated>2024-08-18T13:43:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7400731098558270752</id>
-    <title>you are what you did</title>
-    <updated>2024-08-08T11:36:30+00:00</updated>
-    <content>you are what you did</content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7400731098558270752"/>
-    <published>2024-08-08T11:36:30+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7401128251713719584</id>
-    <title>anyway need a new tattoo #tattoo #hairdye #alt </title>
-    <updated>2024-08-09T13:17:42+00:00</updated>
-    <content>anyway need a new tattoo #tattoo #hairdye #alt </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7401128251713719584"/>
-    <published>2024-08-09T13:17:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7401130393392483616</id>
     <title>its funny dont lie #lgbt #lgbtq </title>
@@ -267,6 +251,22 @@
     <content>very cutesty #aesthetic </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7404152424925007136"/>
     <published>2024-08-17T16:53:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7404472991582604576</id>
+    <title>ootd #ootd #alt #pinkhair #indie </title>
+    <updated>2024-08-18T13:37:02+00:00</updated>
+    <content>ootd #ootd #alt #pinkhair #indie </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7404472991582604576"/>
+    <published>2024-08-18T13:37:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7404474592162581793</id>
+    <title>like ok?? #taylorswift #swiftie </title>
+    <updated>2024-08-18T13:43:13+00:00</updated>
+    <content>like ok?? #taylorswift #swiftie </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7404474592162581793"/>
+    <published>2024-08-18T13:43:13+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@dylanmulvaney</id>
   <title>dylanmulvaney</title>
-  <updated>2024-08-16T18:11:23+00:00</updated>
+  <updated>2024-08-18T13:43:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylanmulvaney</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylanmulvaney/video/7354166434521484587</id>
-    <title>My cover of the Joke (live) is now streaming on all platforms. Thank you to @Brandi Carlile for this incredible song and @Our Lady J for accompanying me ❤️❤️❤️ #singing #cover </title>
-    <updated>2024-04-05T00:01:57+00:00</updated>
-    <content>My cover of the Joke (live) is now streaming on all platforms. Thank you to @Brandi Carlile for this incredible song and @Our Lady J for accompanying me ❤️❤️❤️ #singing #cover </content>
-    <link href="https://tiktok.com/@dylanmulvaney/video/7354166434521484587"/>
-    <published>2024-04-05T00:01:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7355260111826373930</id>
     <title>“hold on” for @TrevorProject concert with @Carnie Wilson @lola bonfiglio&lt;3 👯‍♀️❤️</title>
@@ -219,6 +211,14 @@
     <content>This was a ride </content>
     <link href="https://tiktok.com/@dylanmulvaney/video/7403801526310833451"/>
     <published>2024-08-16T18:11:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylanmulvaney/video/7404474742536801578</id>
+    <title>BOATING IN SCOTLAND?! #boats #edinburgh #travel #northberwick </title>
+    <updated>2024-08-18T13:43:53+00:00</updated>
+    <content>BOATING IN SCOTLAND?! #boats #edinburgh #travel #northberwick </content>
+    <link href="https://tiktok.com/@dylanmulvaney/video/7404474742536801578"/>
+    <published>2024-08-18T13:43:53+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7193364487171444014</id>
