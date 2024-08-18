@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tallywyteee</id>
   <title>tallywyteee</title>
-  <updated>2024-08-07T19:19:28+00:00</updated>
+  <updated>2024-08-18T22:42:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tallywyteee</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tallywyteee/video/7364866563993898282</id>
-    <title>Why did homie leave? 😭</title>
-    <updated>2024-05-03T20:03:58+00:00</updated>
-    <content>Why did homie leave? 😭</content>
-    <link href="https://tiktok.com/@tallywyteee/video/7364866563993898282"/>
-    <published>2024-05-03T20:03:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7365241555046747435</id>
     <title>Is homie valid? 😂</title>
@@ -275,6 +267,14 @@
     <content>Be honest bro…what are you doing in this situation? 😅 #trans #transgender #transgirl #transwoman #transandproud </content>
     <link href="https://tiktok.com/@tallywyteee/video/7400479314933714218"/>
     <published>2024-08-07T19:19:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tallywyteee/video/7404613686821752110</id>
+    <title>Because if it is…you know where to find me 😁👍🏻 #trans #transgender #transwoman #transgirl #transandproud</title>
+    <updated>2024-08-18T22:42:57+00:00</updated>
+    <content>Because if it is…you know where to find me 😁👍🏻 #trans #transgender #transwoman #transgirl #transandproud</content>
+    <link href="https://tiktok.com/@tallywyteee/video/7404613686821752110"/>
+    <published>2024-08-18T22:42:57+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7261699619762048298</id>
