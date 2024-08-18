@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-08-18T16:23:59+00:00</updated>
+  <updated>2024-08-18T16:39:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7401185454181092640</id>
-    <title>based of how well i remember #filter #ranking </title>
-    <updated>2024-08-09T16:59:40+00:00</updated>
-    <content>based of how well i remember #filter #ranking </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7401185454181092640"/>
-    <published>2024-08-09T16:59:40+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7401185867475307808</id>
-    <title>jk it's accurate #wlw #lesbian </title>
-    <updated>2024-08-09T17:01:18+00:00</updated>
-    <content>jk it's accurate #wlw #lesbian </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7401185867475307808"/>
-    <published>2024-08-09T17:01:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7401196750788218144</id>
     <title>need more 😭 #tattoo #tattoos </title>
@@ -267,6 +251,22 @@
     <content>nostalgia ranking #ranking #trend #nostalgia </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7404516023031893281"/>
     <published>2024-08-18T16:23:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7404516976292302113</id>
+    <title>room tour :) #roomtour #pinkroom #fangirl </title>
+    <updated>2024-08-18T16:27:42+00:00</updated>
+    <content>room tour :) #roomtour #pinkroom #fangirl </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7404516976292302113"/>
+    <published>2024-08-18T16:27:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7404519897579015456</id>
+    <title>blue pink kinda outfits @Aliya #ootd #pink </title>
+    <updated>2024-08-18T16:39:03+00:00</updated>
+    <content>blue pink kinda outfits @Aliya #ootd #pink </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7404519897579015456"/>
+    <published>2024-08-18T16:39:03+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
