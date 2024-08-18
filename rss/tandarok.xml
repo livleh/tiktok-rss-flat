@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-08-16T19:21:47+00:00</updated>
+  <updated>2024-08-18T13:01:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7391393014804942113</id>
-    <title>Werde jetzt einfach Foodbloggerin wie @Lala  In den Dill-Kräutern ist einfach Milchzucker drin 😭 Warum ist das wieder so unnötig nicht #vegan ?</title>
-    <updated>2024-07-14T07:40:07+00:00</updated>
-    <content>Werde jetzt einfach Foodbloggerin wie @Lala  In den Dill-Kräutern ist einfach Milchzucker drin 😭 Warum ist das wieder so unnötig nicht #vegan ?</content>
-    <link href="https://tiktok.com/@tandarok/video/7391393014804942113"/>
-    <published>2024-07-14T07:40:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7392122640082734368</id>
     <title>Ist das Selbstliebe?</title>
@@ -211,6 +203,14 @@
     <content>#pokemon #style #umbreon </content>
     <link href="https://tiktok.com/@tandarok/video/7403819661659327776"/>
     <published>2024-08-16T19:21:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7404463862487010593</id>
+    <title>Antwort auf @flotschiiii Viele unserer Dating Präferenzen sind einfach sozial konstruiert und nicht unbedingt unsere persönlichen Vorlieben. #dating #datinglife #singlelife </title>
+    <updated>2024-08-18T13:01:36+00:00</updated>
+    <content>Antwort auf @flotschiiii Viele unserer Dating Präferenzen sind einfach sozial konstruiert und nicht unbedingt unsere persönlichen Vorlieben. #dating #datinglife #singlelife </content>
+    <link href="https://tiktok.com/@tandarok/video/7404463862487010593"/>
+    <published>2024-08-18T13:01:36+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>

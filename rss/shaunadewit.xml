@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shaunadewit</id>
   <title>shaunadewit</title>
-  <updated>2024-08-17T17:15:29+00:00</updated>
+  <updated>2024-08-18T13:14:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shaunadewit</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shaunadewit/video/7379190136451501345</id>
-    <title>Even the phone died #foryou #pourtoi #comedy #humor #goviral </title>
-    <updated>2024-06-11T10:26:38+00:00</updated>
-    <content>Even the phone died #foryou #pourtoi #comedy #humor #goviral </content>
-    <link href="https://tiktok.com/@shaunadewit/video/7379190136451501345"/>
-    <published>2024-06-11T10:26:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/7380349679940144416</id>
     <title>A little self laugh #foryou #pourtoi #comedy #humor #goviral </title>
@@ -211,6 +203,14 @@
     <content>I got stuck by a bee if you’re wondering #foryou #humor #goviral #pourtoi #comedy </content>
     <link href="https://tiktok.com/@shaunadewit/video/7404158205594438944"/>
     <published>2024-08-17T17:15:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shaunadewit/video/7404467156936658208</id>
+    <title>She’s out again welp #foryou #humor #goviral #pourtoi #comedy </title>
+    <updated>2024-08-18T13:14:21+00:00</updated>
+    <content>She’s out again welp #foryou #humor #goviral #pourtoi #comedy </content>
+    <link href="https://tiktok.com/@shaunadewit/video/7404467156936658208"/>
+    <published>2024-08-18T13:14:21+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/6994791135415766278</id>
