@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-08-18T16:39:03+00:00</updated>
+  <updated>2024-08-19T11:57:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7401196750788218144</id>
-    <title>need more 😭 #tattoo #tattoos </title>
-    <updated>2024-08-09T17:43:31+00:00</updated>
-    <content>need more 😭 #tattoo #tattoos </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7401196750788218144"/>
-    <published>2024-08-09T17:43:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7401849956992077088</id>
     <title>i dont get why ppl care 😭 #lgbt #lgbtq </title>
@@ -267,6 +259,14 @@
     <content>blue pink kinda outfits @Aliya #ootd #pink </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7404519897579015456"/>
     <published>2024-08-18T16:39:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7404818398556785953</id>
+    <title>cause if they won't travel 30hrs to see u what's the point @userrouxx </title>
+    <updated>2024-08-19T11:57:25+00:00</updated>
+    <content>cause if they won't travel 30hrs to see u what's the point @userrouxx </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7404818398556785953"/>
+    <published>2024-08-19T11:57:25+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
