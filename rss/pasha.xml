@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@pasha</id>
   <title>pasha</title>
-  <updated>2024-08-18T11:42:14+00:00</updated>
+  <updated>2024-08-19T11:01:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pasha</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pasha/video/7375902614682094864</id>
-    <title>why hasn’t anyone told me about this? 😭 #german #germany #travelinggermany ##deutschland #lifeingermany #berlin </title>
-    <updated>2024-06-02T13:49:19+00:00</updated>
-    <content>why hasn’t anyone told me about this? 😭 #german #germany #travelinggermany ##deutschland #lifeingermany #berlin </content>
-    <link href="https://tiktok.com/@pasha/video/7375902614682094864"/>
-    <published>2024-06-02T13:49:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7376298650097536272</id>
     <title>❌ spreadsheet  ✅ spread happiness, joy and blessings ✅ spread your wings #comedy #jobs </title>
@@ -275,6 +267,14 @@
     <content>dear London, try me. #london </content>
     <link href="https://tiktok.com/@pasha/video/7404443429616307477"/>
     <published>2024-08-18T11:42:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pasha/video/7404804132760030485</id>
+    <title>not worried about seeing my fake friends in business class </title>
+    <updated>2024-08-19T11:01:57+00:00</updated>
+    <content>not worried about seeing my fake friends in business class </content>
+    <link href="https://tiktok.com/@pasha/video/7404804132760030485"/>
+    <published>2024-08-19T11:01:57+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7402693921005899028</id>
