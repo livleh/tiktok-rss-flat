@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-08-18T21:06:06+00:00</updated>
+  <updated>2024-08-19T18:17:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7393232333312232736</id>
-    <title>Demisexualität, Dysphorie und Trauma ✨ #demisexuality #queer #transgirl </title>
-    <updated>2024-07-19T06:37:42+00:00</updated>
-    <content>Demisexualität, Dysphorie und Trauma ✨ #demisexuality #queer #transgirl </content>
-    <link href="https://tiktok.com/@tandarok/video/7393232333312232736"/>
-    <published>2024-07-19T06:37:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7393598705305128225</id>
     <title>#queer #transgirl #leftist #twitchgermany #vegan #gamer </title>
@@ -195,6 +187,14 @@
     <content>Ich hoffe ihr akzeptiert meine aufrichtige Entschuldigung 🥲 #haareschneiden #haircut </content>
     <link href="https://tiktok.com/@tandarok/video/7404588714938158369"/>
     <published>2024-08-18T21:06:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7404916422343757089</id>
+    <title>Jedes. Verdammte. Mal 😐</title>
+    <updated>2024-08-19T18:17:43+00:00</updated>
+    <content>Jedes. Verdammte. Mal 😐</content>
+    <link href="https://tiktok.com/@tandarok/video/7404916422343757089"/>
+    <published>2024-08-19T18:17:43+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
