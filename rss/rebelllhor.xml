@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rebelllhor</id>
   <title>rebelllhor</title>
-  <updated>2024-08-08T16:55:33+00:00</updated>
+  <updated>2024-08-20T15:09:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -75,6 +75,14 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@rebelllhor/video/7400813313803783456"/>
     <published>2024-08-08T16:55:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rebelllhor/video/7405239022152453409</id>
+    <title>#NewMusic </title>
+    <updated>2024-08-20T15:09:38+00:00</updated>
+    <content>#NewMusic </content>
+    <link href="https://tiktok.com/@rebelllhor/video/7405239022152453409"/>
+    <published>2024-08-20T15:09:38+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@rebelllhor/video/7200128964227075333</id>
