@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-08-19T21:46:40+00:00</updated>
+  <updated>2024-08-20T23:02:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7396827017183759647</id>
-    <title>Virginia Gay </title>
-    <updated>2024-07-28T23:06:48+00:00</updated>
-    <content>Virginia Gay </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7396827017183759647"/>
-    <published>2024-07-28T23:06:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7397182518157380895</id>
     <title>Ex-Husbands Together At My Show  #gaytiktok #husband #foryou </title>
@@ -163,6 +155,14 @@
     <content>Whats The Worst Thing Thats Happened To You At Work?  #bird #fy </content>
     <link href="https://tiktok.com/@jessicakirson/video/7404970221477416222"/>
     <published>2024-08-19T21:46:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7405360872459177246</id>
+    <title>How do you make insurance interesting?  #insurance #fy </title>
+    <updated>2024-08-20T23:02:31+00:00</updated>
+    <content>How do you make insurance interesting?  #insurance #fy </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7405360872459177246"/>
+    <published>2024-08-20T23:02:31+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7400160149110918431</id>
