@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-08-18T17:54:49+00:00</updated>
+  <updated>2024-08-20T17:37:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7385982315060596001</id>
-    <title>new behind the scenes vlog guy up on my U choob channel !! if you have any interest in the progess of building new cork city you might enjoy it if not its genuinely so irritating i dont recommend it. possibly worst video ive ever made and its 1.5 hours lo</title>
-    <updated>2024-06-29T17:43:44+00:00</updated>
-    <content>new behind the scenes vlog guy up on my U choob channel !! if you have any interest in the progess of building new cork city you might enjoy it if not its genuinely so irritating i dont recommend it. possibly worst video ive ever made and its 1.5 hours lo</content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7385982315060596001"/>
-    <published>2024-06-29T17:43:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7386350403442461984</id>
     <title>see you in hell is like we are both bad little sinner guys and illl see you down there!!! there will be loads of people and itll be quite hot presumably but ill try and find you, i cant wait !! </title>
@@ -227,5 +219,13 @@
     <content>Replying to @m 24 hours in paris</content>
     <link href="https://tiktok.com/@zoebreadtok/video/7404539432973503777"/>
     <published>2024-08-18T17:54:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7405277250926513440</id>
+    <title>charity shopping or thrifting if you are that way inclined </title>
+    <updated>2024-08-20T17:37:58+00:00</updated>
+    <content>charity shopping or thrifting if you are that way inclined </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7405277250926513440"/>
+    <published>2024-08-20T17:37:58+00:00</published>
   </entry>
 </feed>
