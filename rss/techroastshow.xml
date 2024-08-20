@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-08-20T12:14:09+00:00</updated>
+  <updated>2024-08-20T21:07:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7398286579141184798</id>
-    <title>the code is always unreadable  #techie #softwareengineer #siliconvalley #techdebt #programmerlife #techroastshow </title>
-    <updated>2024-08-01T21:30:33+00:00</updated>
-    <content>the code is always unreadable  #techie #softwareengineer #siliconvalley #techdebt #programmerlife #techroastshow </content>
-    <link href="https://tiktok.com/@techroastshow/video/7398286579141184798"/>
-    <published>2024-08-01T21:30:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7398529476734307614</id>
     <title>Jesse went full Bryan Johnson here  #techie #softwareengineer #chicago #programmerlife #roastbattle #darkhumor #techroastshow</title>
@@ -267,6 +259,14 @@
     <content>Sad #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #techroastshow </content>
     <link href="https://tiktok.com/@techroastshow/video/7405193710117408031"/>
     <published>2024-08-20T12:14:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7405331276711906590</id>
+    <title>will Aaron get the return offer? #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #flirting #intern #techroastshow </title>
+    <updated>2024-08-20T21:07:44+00:00</updated>
+    <content>will Aaron get the return offer? #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #flirting #intern #techroastshow </content>
+    <link href="https://tiktok.com/@techroastshow/video/7405331276711906590"/>
+    <published>2024-08-20T21:07:44+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
