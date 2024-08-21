@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-08-20T12:13:04+00:00</updated>
+  <updated>2024-08-21T11:14:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7402273001871265056</id>
-    <title>what would you win #filter #trend </title>
-    <updated>2024-08-12T15:19:57+00:00</updated>
-    <content>what would you win #filter #trend </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7402273001871265056"/>
-    <published>2024-08-12T15:19:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7402293520762948896</id>
     <title>tell someone who cares #pinkhair #dyedhair </title>
@@ -267,6 +259,14 @@
     <content>SEE U SOON TAYLOR SWIFTTTTT #erastour #swiftie #taylorswift </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7405193515904322848"/>
     <published>2024-08-20T12:13:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7405549462459878689</id>
+    <title>like WHAT #swiftie #taylorswift </title>
+    <updated>2024-08-21T11:14:19+00:00</updated>
+    <content>like WHAT #swiftie #taylorswift </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7405549462459878689"/>
+    <published>2024-08-21T11:14:19+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
