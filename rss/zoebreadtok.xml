@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-08-20T17:37:58+00:00</updated>
+  <updated>2024-08-21T17:25:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7386350403442461984</id>
-    <title>see you in hell is like we are both bad little sinner guys and illl see you down there!!! there will be loads of people and itll be quite hot presumably but ill try and find you, i cant wait !! </title>
-    <updated>2024-06-30T17:32:07+00:00</updated>
-    <content>see you in hell is like we are both bad little sinner guys and illl see you down there!!! there will be loads of people and itll be quite hot presumably but ill try and find you, i cant wait !! </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7386350403442461984"/>
-    <published>2024-06-30T17:32:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7387461484600626465</id>
     <title>😡😡😡😡😡😡😡😡😡🍞</title>
@@ -227,5 +219,13 @@
     <content>charity shopping or thrifting if you are that way inclined </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7405277250926513440"/>
     <published>2024-08-20T17:37:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7405645166230490400</id>
+    <title>i cant believe i found a 12 year old fossil !!!  you mean 12 million years? no, just 12</title>
+    <updated>2024-08-21T17:25:41+00:00</updated>
+    <content>i cant believe i found a 12 year old fossil !!!  you mean 12 million years? no, just 12</content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7405645166230490400"/>
+    <published>2024-08-21T17:25:41+00:00</published>
   </entry>
 </feed>
