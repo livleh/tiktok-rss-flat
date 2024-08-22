@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-08-21T18:55:40+00:00</updated>
+  <updated>2024-08-22T20:48:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7394713844842614048</id>
-    <title>Was können die eigentlich? 🙄 #twitchclips #twitchde #chainedtogether </title>
-    <updated>2024-07-23T06:26:47+00:00</updated>
-    <content>Was können die eigentlich? 🙄 #twitchclips #twitchde #chainedtogether </content>
-    <link href="https://tiktok.com/@tandarok/video/7394713844842614048"/>
-    <published>2024-07-23T06:26:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7395452455644876064</id>
     <title>Because that totally makes sense 🤡 #dating #datinglife #singlelife </title>
@@ -187,6 +179,14 @@
     <content>Ich bin happy 😊  #fashion #alternative #style </content>
     <link href="https://tiktok.com/@tandarok/video/7405668350589750560"/>
     <published>2024-08-21T18:55:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7406068567952690464</id>
+    <title>Antwort auf @gabevanape  Anzeige | Squid Studios ist ein ethisches Schmucklabel aus München. Sie stehen für Nachhaltigkeit, Inklusion und Diversität, und bieten lebenslange Reperaturen. Mit dem Code TANDAROK10 bekommt ihr 10% Rabatt. #nachhaltigkeit #schm</title>
+    <updated>2024-08-22T20:48:41+00:00</updated>
+    <content>Antwort auf @gabevanape  Anzeige | Squid Studios ist ein ethisches Schmucklabel aus München. Sie stehen für Nachhaltigkeit, Inklusion und Diversität, und bieten lebenslange Reperaturen. Mit dem Code TANDAROK10 bekommt ihr 10% Rabatt. #nachhaltigkeit #schm</content>
+    <link href="https://tiktok.com/@tandarok/video/7406068567952690464"/>
+    <published>2024-08-22T20:48:41+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>

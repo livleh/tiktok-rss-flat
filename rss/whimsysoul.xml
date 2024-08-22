@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-08-17T17:43:24+00:00</updated>
+  <updated>2024-08-22T20:56:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7398020779960585514</id>
-    <title>Salt air, and the rust on your door... august slipped away like this bottle of wine will tonight 😉 🍷 #august #augustslippedaway #taylorswift #wine #sanfrancisco #summer #taylorswiftedits #augusteve </title>
-    <updated>2024-08-01T04:19:08+00:00</updated>
-    <content>Salt air, and the rust on your door... august slipped away like this bottle of wine will tonight 😉 🍷 #august #augustslippedaway #taylorswift #wine #sanfrancisco #summer #taylorswiftedits #augusteve </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7398020779960585514"/>
-    <published>2024-08-01T04:19:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7398949693457239338</id>
     <title>Shark in Pacifica 😱 🦈 #shark #pacifica #pacificaca #beach #sharkspotting #dog #dogsurfing </title>
@@ -195,6 +187,14 @@
     <content>#duet with @Hot Gay Nerd still so wild to me that I actually made a vacation rental for fellow Californians to enoy and cool people come!? And have dance parties there? And enjoy the county recreation!? A dream!!!  Thank you Santiago!! 💚💚💚 Learn more abou</content>
     <link href="https://tiktok.com/@whimsysoul/video/7404165398435876139"/>
     <published>2024-08-17T17:43:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7406070700903058731</id>
+    <title>calling all fall lovers - this is your PERFECT fall day out in Sonoma County ❤️🍁🍎 🍎 Ratzlaff Ranch apple picking to stock up on tons of apples for fall baking!!  🥧Mom's Apple Pie for 16 different types of freshly baked pies 🥂 Iron Horse Vineyards has amaz</title>
+    <updated>2024-08-22T20:56:55+00:00</updated>
+    <content>calling all fall lovers - this is your PERFECT fall day out in Sonoma County ❤️🍁🍎 🍎 Ratzlaff Ranch apple picking to stock up on tons of apples for fall baking!!  🥧Mom's Apple Pie for 16 different types of freshly baked pies 🥂 Iron Horse Vineyards has amaz</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7406070700903058731"/>
+    <published>2024-08-22T20:56:55+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
