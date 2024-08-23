@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-08-22T22:52:39+00:00</updated>
+  <updated>2024-08-23T20:26:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7398301881988074783</id>
-    <title>Have You Been To This Coffee Shop?  #nyc #coffee #foryou </title>
-    <updated>2024-08-01T22:29:59+00:00</updated>
-    <content>Have You Been To This Coffee Shop?  #nyc #coffee #foryou </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7398301881988074783"/>
-    <published>2024-08-01T22:29:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7398907148165549343</id>
     <title>All 4 Siblings Are Gay  #foryou #funny #siblings </title>
@@ -155,6 +147,14 @@
     <content>He Found The ⭐️😂 #startup #fy #foryou </content>
     <link href="https://tiktok.com/@jessicakirson/video/7406100483347139871"/>
     <published>2024-08-22T22:52:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7406433839632960799</id>
+    <title>I am so grateful for all of you!!! Clme to a show if you can! The energy is insane!!! 🙏🏼❤️#fyp #jessicakirson #mentalillness </title>
+    <updated>2024-08-23T20:26:15+00:00</updated>
+    <content>I am so grateful for all of you!!! Clme to a show if you can! The energy is insane!!! 🙏🏼❤️#fyp #jessicakirson #mentalillness </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7406433839632960799"/>
+    <published>2024-08-23T20:26:15+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7400160149110918431</id>
