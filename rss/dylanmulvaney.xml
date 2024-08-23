@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@dylanmulvaney</id>
   <title>dylanmulvaney</title>
-  <updated>2024-08-20T12:26:14+00:00</updated>
+  <updated>2024-08-23T16:23:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylanmulvaney</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylanmulvaney/video/7355260111826373930</id>
-    <title>“hold on” for @TrevorProject concert with @Carnie Wilson @lola bonfiglio&lt;3 👯‍♀️❤️</title>
-    <updated>2024-04-07T22:46:05+00:00</updated>
-    <content>“hold on” for @TrevorProject concert with @Carnie Wilson @lola bonfiglio&lt;3 👯‍♀️❤️</content>
-    <link href="https://tiktok.com/@dylanmulvaney/video/7355260111826373930"/>
-    <published>2024-04-07T22:46:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7356038548178357546</id>
     <title>Mob wife glam ? Headed to the opening of @reformation beverly hills then dinner with @PAPER Magazine 💋 #refbeverlyhills </title>
@@ -227,6 +219,14 @@
     <content>Happy scale? 78 out of 10. One week left of shows!!</content>
     <link href="https://tiktok.com/@dylanmulvaney/video/7405196883938905386"/>
     <published>2024-08-20T12:26:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylanmulvaney/video/7406371293903211819</id>
+    <title>🦅🇺🇸🦅🇺🇸🦅</title>
+    <updated>2024-08-23T16:23:24+00:00</updated>
+    <content>🦅🇺🇸🦅🇺🇸🦅</content>
+    <link href="https://tiktok.com/@dylanmulvaney/video/7406371293903211819"/>
+    <published>2024-08-23T16:23:24+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7193364487171444014</id>

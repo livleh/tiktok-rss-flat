@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2024-08-22T18:00:12+00:00</updated>
+  <updated>2024-08-23T16:04:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from loveletterstosf</subtitle>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7385043683797667115</id>
-    <title>when fri is foggy but sat is sunny &amp; 70 🙌 I got to start Pride celebrations early last weekend w/ brunch hosted by the @1 Hotels &amp; @Fenty Beauty 🏳️‍🌈🎉 #dragbrunch #embarcadero #sf </title>
-    <updated>2024-06-27T05:01:21+00:00</updated>
-    <content>when fri is foggy but sat is sunny &amp; 70 🙌 I got to start Pride celebrations early last weekend w/ brunch hosted by the @1 Hotels &amp; @Fenty Beauty 🏳️‍🌈🎉 #dragbrunch #embarcadero #sf </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7385043683797667115"/>
-    <published>2024-06-27T05:01:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7385340793961205034</id>
     <title>this #cakebytheocean trend but w/ vids in my cute city #sf #sftok #northbeachfest #embarcadero #cablecars #49ers #6monthrecap #2024recap </title>
@@ -227,6 +219,14 @@
     <content>n judah is that girl 🏙️🌊 @SFMTA Muni #sf #muni #sfviews #baybridge #publictransportation </content>
     <link href="https://tiktok.com/@loveletterstosf/video/7405247407195163950"/>
     <published>2024-08-20T15:42:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7406366499352415530</id>
+    <title>sf summer loading!! #sf #sftok #thisweekendinsf #thingstodoinsf #sfevents #sfbars #salsadancing #museum #sfshopping #westcoastcraft </title>
+    <updated>2024-08-23T16:04:49+00:00</updated>
+    <content>sf summer loading!! #sf #sftok #thisweekendinsf #thingstodoinsf #sfevents #sfbars #salsadancing #museum #sfshopping #westcoastcraft </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7406366499352415530"/>
+    <published>2024-08-23T16:04:49+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7400589981795831083</id>
