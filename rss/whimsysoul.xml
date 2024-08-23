@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-08-22T20:56:55+00:00</updated>
+  <updated>2024-08-23T20:24:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7398949693457239338</id>
-    <title>Shark in Pacifica 😱 🦈 #shark #pacifica #pacificaca #beach #sharkspotting #dog #dogsurfing </title>
-    <updated>2024-08-03T16:23:50+00:00</updated>
-    <content>Shark in Pacifica 😱 🦈 #shark #pacifica #pacificaca #beach #sharkspotting #dog #dogsurfing </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7398949693457239338"/>
-    <published>2024-08-03T16:23:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7399048859013369130</id>
     <title>dogs - who SURF!! 🏄🐶🌊 Headed down to Pacifica today to catch the world dog surfing competition. It's full of cuteness and athleticism (100% makes up for not being in Paris to catch the Olympics!)  Here's how dog surfing works:  Dogs in each heat have 10 m</title>
@@ -195,6 +187,14 @@
     <content>calling all fall lovers - this is your PERFECT fall day out in Sonoma County ❤️🍁🍎 🍎 Ratzlaff Ranch apple picking to stock up on tons of apples for fall baking!!  🥧Mom's Apple Pie for 16 different types of freshly baked pies 🥂 Iron Horse Vineyards has amaz</content>
     <link href="https://tiktok.com/@whimsysoul/video/7406070700903058731"/>
     <published>2024-08-22T20:56:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7406433326946372906</id>
+    <title>the MOST insane Airbnb in California!! 😱If you love cool decor, cedar hot tubs, and amenities like a record player and espresso machine, all within proximity to Big Trees State Park, wineries, lakes and a ski hill - you NEED to book Whimsy Homes (yes, i a</title>
+    <updated>2024-08-23T20:24:07+00:00</updated>
+    <content>the MOST insane Airbnb in California!! 😱If you love cool decor, cedar hot tubs, and amenities like a record player and espresso machine, all within proximity to Big Trees State Park, wineries, lakes and a ski hill - you NEED to book Whimsy Homes (yes, i a</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7406433326946372906"/>
+    <published>2024-08-23T20:24:07+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
