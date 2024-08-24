@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-08-24T03:15:58+00:00</updated>
+  <updated>2024-08-23T22:19:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7400069145754160426</id>
+    <title>a folding walking pad!!!! 😱  I've been wanting a walking pad for AGES (I've been working from home since 2017 after all!) but our small San Francisco apartment is just... well... small!  We don't have floor space for a normal walking pad. But after a ton </title>
+    <updated>2024-08-06T16:47:50+00:00</updated>
+    <content>a folding walking pad!!!! 😱  I've been wanting a walking pad for AGES (I've been working from home since 2017 after all!) but our small San Francisco apartment is just... well... small!  We don't have floor space for a normal walking pad. But after a ton </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7400069145754160426"/>
+    <published>2024-08-06T16:47:50+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7400130957266734378</id>
     <title>the BEST coast in California!! Sonoma Coast is one of my favorite places to have a slow weekend in California soaking in views, nature, and really good food. 🍸🌊🦪🍬☕️🛶🍷 Link in bio for my Sonoma Coast road trip guide (look for this icon in the grid!) 👀 Thes</title>
@@ -179,14 +187,6 @@
     <content>just spent a week in Arnold to do an owners checkin on my Airbnb up there but also to see friends, have meetings and enjoy the mountains during the end of summer at @Whimsy Homes Cabin  Have you ever been to Calaveras County?? #vlog #travelvlog #calaveras</content>
     <link href="https://tiktok.com/@whimsysoul/video/7406462978100399406"/>
     <published>2024-08-23T22:19:09+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7406539470679346478</id>
-    <title>take me back to Portugal #yap #girlhood #lisbon #portugal </title>
-    <updated>2024-08-24T03:15:58+00:00</updated>
-    <content>take me back to Portugal #yap #girlhood #lisbon #portugal </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7406539470679346478"/>
-    <published>2024-08-24T03:15:58+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
