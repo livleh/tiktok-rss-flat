@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-08-24T12:32:26+00:00</updated>
+  <updated>2024-08-24T13:18:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7402346305147718945</id>
-    <title>HELP??? #adhd #neurodivergent </title>
-    <updated>2024-08-12T20:04:20+00:00</updated>
-    <content>HELP??? #adhd #neurodivergent </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7402346305147718945"/>
-    <published>2024-08-12T20:04:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7402622352909028640</id>
     <title>wasted the free go 😭😟 #ai #sims #filter</title>
@@ -267,6 +259,14 @@
     <content>HAD THE BEST TIME IN THE BLACK DOG #theblackdog #swiftie #taylorswift #ttpd </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7406682858628205856"/>
     <published>2024-08-24T12:32:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7406694832275606817</id>
+    <title>loveeeee u @Sabrina Carpenter #shortnsweet #sabrinacarpenter </title>
+    <updated>2024-08-24T13:18:55+00:00</updated>
+    <content>loveeeee u @Sabrina Carpenter #shortnsweet #sabrinacarpenter </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7406694832275606817"/>
+    <published>2024-08-24T13:18:55+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
