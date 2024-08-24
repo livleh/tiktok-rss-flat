@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jade..harmony</id>
   <title>jade..harmony</title>
-  <updated>2024-08-24T12:21:08+00:00</updated>
+  <updated>2024-08-24T16:14:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jade..harmony</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jade..harmony/video/7396751014944132382</id>
-    <title>#foryoupage #trans #michigan #michigandragqueen #clubvortex #lipsync #jadeharmony #queer #queertiktok </title>
-    <updated>2024-07-28T18:11:58+00:00</updated>
-    <content>#foryoupage #trans #michigan #michigandragqueen #clubvortex #lipsync #jadeharmony #queer #queertiktok </content>
-    <link href="https://tiktok.com/@jade..harmony/video/7396751014944132382"/>
-    <published>2024-07-28T18:11:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jade..harmony/video/7397193150407757086</id>
     <title>#foryoupage </title>
@@ -275,6 +267,14 @@
     <content>#foryoupage </content>
     <link href="https://tiktok.com/@jade..harmony/video/7406679799843900703"/>
     <published>2024-08-24T12:21:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jade..harmony/video/7406739952601402654</id>
+    <title>#foryoupage #transwoman #michigandragqueen #queen #gay #queer </title>
+    <updated>2024-08-24T16:14:03+00:00</updated>
+    <content>#foryoupage #transwoman #michigandragqueen #queen #gay #queer </content>
+    <link href="https://tiktok.com/@jade..harmony/video/7406739952601402654"/>
+    <published>2024-08-24T16:14:03+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jade..harmony/video/7388937889968688414</id>
