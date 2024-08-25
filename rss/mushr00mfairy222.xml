@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-08-24T17:11:40+00:00</updated>
+  <updated>2024-08-25T11:56:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7402624740013182240</id>
-    <title>Replying to @🌸willow🌸 more lesbisn names 😋 what names would you add #lgbt #lgbtq #lesbian #wlw </title>
-    <updated>2024-08-13T14:04:49+00:00</updated>
-    <content>Replying to @🌸willow🌸 more lesbisn names 😋 what names would you add #lgbt #lgbtq #lesbian #wlw </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7402624740013182240"/>
-    <published>2024-08-13T14:04:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7402943447834938656</id>
     <title>is your favourite here? #lesbian #wlw #lgbt #lgbtq </title>
@@ -267,6 +259,14 @@
     <content>thank you miniso!! @MINISO UK linked below!! #sanrio #unboxing #hellokitty #haul </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7406754813544910113"/>
     <published>2024-08-24T17:11:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7407044788614090017</id>
+    <title>least im self aware #airport </title>
+    <updated>2024-08-25T11:56:56+00:00</updated>
+    <content>least im self aware #airport </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7407044788614090017"/>
+    <published>2024-08-25T11:56:56+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
