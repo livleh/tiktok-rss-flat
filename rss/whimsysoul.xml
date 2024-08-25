@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-08-25T03:13:03+00:00</updated>
+  <updated>2024-08-25T19:37:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7400130957266734378</id>
-    <title>the BEST coast in California!! Sonoma Coast is one of my favorite places to have a slow weekend in California soaking in views, nature, and really good food. 🍸🌊🦪🍬☕️🛶🍷 Link in bio for my Sonoma Coast road trip guide (look for this icon in the grid!) 👀 Thes</title>
-    <updated>2024-08-06T20:47:41+00:00</updated>
-    <content>the BEST coast in California!! Sonoma Coast is one of my favorite places to have a slow weekend in California soaking in views, nature, and really good food. 🍸🌊🦪🍬☕️🛶🍷 Link in bio for my Sonoma Coast road trip guide (look for this icon in the grid!) 👀 Thes</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7400130957266734378"/>
-    <published>2024-08-06T20:47:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7400465229483691310</id>
     <title>this pink building has my heart ❤️ 🍬 Whenever we're driving through Bodega Bay in California, we always pull over at Patrick's pink and white taffy hut. It's filled with so many unique and tasty taffy flavors and we ALWAYS eat at least once bag by the tim</title>
@@ -195,6 +187,14 @@
     <content>Put this SF wine bar on your foodie bucket list!! Take the N out to the Outer Sunset next time it's sunny, grab a table outside and bask in the sunshine with a glass of wine at palm city wines 🍷✨ you might just see me there - it's one of our fave places f</content>
     <link href="https://tiktok.com/@whimsysoul/video/7406909805551619374"/>
     <published>2024-08-25T03:13:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7407163404642782506</id>
+    <title>this CA hotel as the BEST fall colors!! I went to Desolation Hotel a few Octobers ago and still can't shut up about this magical place.  @Justina Vanessa and I stayed in one of their glamping yurts that are decked out with luxury amenities like a soaking </title>
+    <updated>2024-08-25T19:37:10+00:00</updated>
+    <content>this CA hotel as the BEST fall colors!! I went to Desolation Hotel a few Octobers ago and still can't shut up about this magical place.  @Justina Vanessa and I stayed in one of their glamping yurts that are decked out with luxury amenities like a soaking </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7407163404642782506"/>
+    <published>2024-08-25T19:37:10+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
