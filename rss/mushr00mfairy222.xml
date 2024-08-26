@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-08-25T21:30:28+00:00</updated>
+  <updated>2024-08-26T09:41:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7402972118197062945</id>
-    <title>anyway see you soon taylor #swiftie #taylorswift </title>
-    <updated>2024-08-14T12:32:49+00:00</updated>
-    <content>anyway see you soon taylor #swiftie #taylorswift </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7402972118197062945"/>
-    <published>2024-08-14T12:32:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7403305968328641824</id>
-    <title>what's your coming out story #comingout #lgbt #lgbtq #lesbian </title>
-    <updated>2024-08-15T10:08:22+00:00</updated>
-    <content>what's your coming out story #comingout #lgbt #lgbtq #lesbian </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7403305968328641824"/>
-    <published>2024-08-15T10:08:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7403330771286510881</id>
     <title>was your hobby here #lgbt #lgbtq #lesbian #wlw </title>
@@ -267,6 +251,22 @@
     <content>OH MY GOD?? :,)&lt;3 @userrouxx #paris #eiffeltower #france </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7407192577876757793"/>
     <published>2024-08-25T21:30:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7407379386841828640</id>
+    <title>ootds #ootd #pinkhair @userrouxx </title>
+    <updated>2024-08-26T09:35:17+00:00</updated>
+    <content>ootds #ootd #pinkhair @userrouxx </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7407379386841828640"/>
+    <published>2024-08-26T09:35:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7407380938855861537</id>
+    <title>better give me the short n sweet frame #sabrinacarpenter #shortnsweet </title>
+    <updated>2024-08-26T09:41:21+00:00</updated>
+    <content>better give me the short n sweet frame #sabrinacarpenter #shortnsweet </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7407380938855861537"/>
+    <published>2024-08-26T09:41:21+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
