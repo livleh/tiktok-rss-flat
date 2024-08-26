@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-08-26T12:17:02+00:00</updated>
+  <updated>2024-08-26T16:16:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7403379841380224289</id>
-    <title>ootd :) #ootd #lgbt #lgbtq #lesbian </title>
-    <updated>2024-08-15T14:54:58+00:00</updated>
-    <content>ootd :) #ootd #lgbt #lgbtq #lesbian </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7403379841380224289"/>
-    <published>2024-08-15T14:54:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7403404610255293729</id>
     <title>what is this 😭😭 #filter </title>
@@ -267,6 +259,14 @@
     <content>why was this so hard to film 😭🫶 @userrouxx #paris #eiffeltower </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7407421073018473760"/>
     <published>2024-08-26T12:17:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7407482828943887648</id>
+    <title>had to be done @userrouxx #lorde #paris #louvre </title>
+    <updated>2024-08-26T16:16:42+00:00</updated>
+    <content>had to be done @userrouxx #lorde #paris #louvre </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7407482828943887648"/>
+    <published>2024-08-26T16:16:42+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
