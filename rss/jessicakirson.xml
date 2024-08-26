@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-08-25T22:27:02+00:00</updated>
+  <updated>2024-08-26T22:39:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7400160149110918431</id>
-    <title>Hiiii Like and Comment for to algorithm thingy. I have a lot of new dates coming up. Seats are available now on my site. </title>
-    <updated>2024-08-06T22:41:12+00:00</updated>
-    <content>Hiiii Like and Comment for to algorithm thingy. I have a lot of new dates coming up. Seats are available now on my site. </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7400160149110918431"/>
-    <published>2024-08-06T22:41:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7400533557967342879</id>
     <title>So Many Accepting Familes at the show.  #lgbtq #foryou #fypage </title>
@@ -155,6 +147,14 @@
     <content>Semi Truck Driver was so fun 😂😂 #fy #semi #trucker </content>
     <link href="https://tiktok.com/@jessicakirson/video/7407207162851642655"/>
     <published>2024-08-25T22:27:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7407581357112708383</id>
+    <title>They met 15 years ago and this is how 😂. Comment your city 👇. Planning my 2025 tour xoxo #dating #story </title>
+    <updated>2024-08-26T22:39:14+00:00</updated>
+    <content>They met 15 years ago and this is how 😂. Comment your city 👇. Planning my 2025 tour xoxo #dating #story </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7407581357112708383"/>
+    <published>2024-08-26T22:39:14+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7406711443023826206</id>
