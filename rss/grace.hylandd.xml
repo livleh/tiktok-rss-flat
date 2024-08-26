@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-08-24T06:13:43+00:00</updated>
+  <updated>2024-08-26T03:33:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7388162706492149010</id>
-    <title>Entering her party gorl era</title>
-    <updated>2024-07-05T14:44:43+00:00</updated>
-    <content>Entering her party gorl era</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7388162706492149010"/>
-    <published>2024-07-05T14:44:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7388393816404839698</id>
     <title>Being trans is so lonely FR</title>
@@ -275,5 +267,13 @@
     <content>I just realised how weird my life is</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7406585285418568967"/>
     <published>2024-08-24T06:13:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7407286106279955719</id>
+    <title>Thank you guys for sticking by me through all of my hair changes in the last year!!! Boy there were some doozies! Now I know for CERTAIN that natural is always best. But I believe that sometimes you’re gotta live and learn 🩷🩷</title>
+    <updated>2024-08-26T03:33:16+00:00</updated>
+    <content>Thank you guys for sticking by me through all of my hair changes in the last year!!! Boy there were some doozies! Now I know for CERTAIN that natural is always best. But I believe that sometimes you’re gotta live and learn 🩷🩷</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7407286106279955719"/>
+    <published>2024-08-26T03:33:16+00:00</published>
   </entry>
 </feed>
