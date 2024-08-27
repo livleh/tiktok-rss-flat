@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ramalauw</id>
   <title>ramalauw</title>
-  <updated>2024-08-22T15:29:38+00:00</updated>
+  <updated>2024-08-27T19:29:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ramalauw</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ramalauw/video/7368494804596002081</id>
-    <title>Never rest without feeling guilty ever again with ✨StressLaxing✨ 🫶 #Free99 </title>
-    <updated>2024-05-13T14:43:17+00:00</updated>
-    <content>Never rest without feeling guilty ever again with ✨StressLaxing✨ 🫶 #Free99 </content>
-    <link href="https://tiktok.com/@ramalauw/video/7368494804596002081"/>
-    <published>2024-05-13T14:43:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7373315906039975200</id>
     <title>Me: I have my own opinions 😤 Also me: </title>
@@ -259,6 +251,14 @@
     <content>✨Jumping to Conclusions✨ is my favorite form of exercise. What’s yours? 🥰 #fitness #gym #gymmotivation #lifestyle #free99 #fyp #tiktokusa #foryou </content>
     <link href="https://tiktok.com/@ramalauw/video/7405986338257866017"/>
     <published>2024-08-22T15:29:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ramalauw/video/7407903622392073505</id>
+    <title>Be careful what you wish for 😔🥸</title>
+    <updated>2024-08-27T19:29:36+00:00</updated>
+    <content>Be careful what you wish for 😔🥸</content>
+    <link href="https://tiktok.com/@ramalauw/video/7407903622392073505"/>
+    <published>2024-08-27T19:29:36+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7270903343638187297</id>

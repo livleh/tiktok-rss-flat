@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-08-26T21:43:26+00:00</updated>
+  <updated>2024-08-27T19:41:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7397685217571392800</id>
-    <title>#stitch mit @Danielle das war aber glaube ich auch so das schlimmste Date für mich bisher  #singlelife #datinglife #dating </title>
-    <updated>2024-07-31T06:37:01+00:00</updated>
-    <content>#stitch mit @Danielle das war aber glaube ich auch so das schlimmste Date für mich bisher  #singlelife #datinglife #dating </content>
-    <link href="https://tiktok.com/@tandarok/video/7397685217571392800"/>
-    <published>2024-07-31T06:37:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7398052509652159776</id>
     <title>#friends #twitchgermany #ratingthings </title>
@@ -203,6 +195,14 @@
     <content>Würde ein Mann meiner Brand schaden??? #datinglife #singlelife #dating </content>
     <link href="https://tiktok.com/@tandarok/video/7407566973774695712"/>
     <published>2024-08-26T21:43:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7407906632002276640</id>
+    <title>Mein Content ist so viel mehr als trans Themen. ICH bin so viel mehr als trans. Aber ich werde schon immer sehr in diese Nische gesteckt und manchmal ist das einfach ziemlich frustrierend. #twitchstreamer #twitchde #twitchgermany </title>
+    <updated>2024-08-27T19:41:19+00:00</updated>
+    <content>Mein Content ist so viel mehr als trans Themen. ICH bin so viel mehr als trans. Aber ich werde schon immer sehr in diese Nische gesteckt und manchmal ist das einfach ziemlich frustrierend. #twitchstreamer #twitchde #twitchgermany </content>
+    <link href="https://tiktok.com/@tandarok/video/7407906632002276640"/>
+    <published>2024-08-27T19:41:19+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
