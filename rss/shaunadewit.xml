@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shaunadewit</id>
   <title>shaunadewit</title>
-  <updated>2024-08-22T13:03:14+00:00</updated>
+  <updated>2024-08-27T12:59:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shaunadewit</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shaunadewit/video/7382231433466613024</id>
-    <title>A classic #foryou #pourtoi #comedy #humor #goviral </title>
-    <updated>2024-06-19T15:08:24+00:00</updated>
-    <content>A classic #foryou #pourtoi #comedy #humor #goviral </content>
-    <link href="https://tiktok.com/@shaunadewit/video/7382231433466613024"/>
-    <published>2024-06-19T15:08:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/7382890917390339360</id>
     <title>Im crying inside #foryou #pourtoi #comedy #humor #goviral #belgium </title>
@@ -203,6 +195,14 @@
     <content>Never try really it’s impossible 😎 #foryou #humor #goviral #pourtoi #comedy </content>
     <link href="https://tiktok.com/@shaunadewit/video/7405948627144740128"/>
     <published>2024-08-22T13:03:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shaunadewit/video/7407803130144001313</id>
+    <title>call me if you need help ##foryou##humor##goviral##pourtoi##comedy</title>
+    <updated>2024-08-27T12:59:39+00:00</updated>
+    <content>call me if you need help ##foryou##humor##goviral##pourtoi##comedy</content>
+    <link href="https://tiktok.com/@shaunadewit/video/7407803130144001313"/>
+    <published>2024-08-27T12:59:39+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/6994791135415766278</id>
