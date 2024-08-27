@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rebelllhor</id>
   <title>rebelllhor</title>
-  <updated>2024-08-26T17:18:31+00:00</updated>
+  <updated>2024-08-27T17:36:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rebelllhor</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rebelllhor/video/7386738134853143841</id>
-    <title>No Title</title>
-    <updated>2024-07-01T18:36:40+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@rebelllhor/video/7386738134853143841"/>
-    <published>2024-07-01T18:36:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rebelllhor/video/7388225660185103648</id>
     <title>No Title</title>
@@ -91,6 +83,14 @@
     <content>@Talika Cosmetics @Anastasia Beverly Hills @Catrice Cosmetics @essence cosmetics @flaconi @Huda Beauty @lorealparisuk @Makeup Revolution @Redken @revlon @Max Factor @nyxcosmetics_de @Olaplex @sephora @Windsor Smith Women @Weleda USA @wetnwildbeauty </content>
     <link href="https://tiktok.com/@rebelllhor/video/7407498754082852128"/>
     <published>2024-08-26T17:18:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rebelllhor/video/7407874570608250145</id>
+    <title>Makeup @Leana Ardeleanu Hair @rubyhowes</title>
+    <updated>2024-08-27T17:36:50+00:00</updated>
+    <content>Makeup @Leana Ardeleanu Hair @rubyhowes</content>
+    <link href="https://tiktok.com/@rebelllhor/video/7407874570608250145"/>
+    <published>2024-08-27T17:36:50+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@rebelllhor/video/7200128964227075333</id>
