@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-08-27T00:08:51+00:00</updated>
+  <updated>2024-08-28T11:08:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7389123329505889554</id>
-    <title>This only applies to fully healed T girls</title>
-    <updated>2024-07-08T04:52:25+00:00</updated>
-    <content>This only applies to fully healed T girls</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7389123329505889554"/>
-    <published>2024-07-08T04:52:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7389454994103192850</id>
     <title>What I tell myself</title>
@@ -275,5 +267,13 @@
     <content>Replying to @1greydog its literally dormant babe 🤨</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7407604496681028871"/>
     <published>2024-08-27T00:08:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7408145618616487186</id>
+    <title>I’m taking a break from giving birth for now ☺️</title>
+    <updated>2024-08-28T11:08:35+00:00</updated>
+    <content>I’m taking a break from giving birth for now ☺️</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7408145618616487186"/>
+    <published>2024-08-28T11:08:35+00:00</published>
   </entry>
 </feed>
