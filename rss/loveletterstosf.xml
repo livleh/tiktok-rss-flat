@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2024-08-23T16:04:49+00:00</updated>
+  <updated>2024-08-28T04:53:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from loveletterstosf</subtitle>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7385397088043027742</id>
-    <title>when they played Chappell Roan at drag brunch 🙌🏳️‍🌈 such a fun event, thx for having me @1 Hotels &amp; @Fenty Beauty #sf #dragbrunch #sfbrunch #embarcadero #sfeats #sfweekend </title>
-    <updated>2024-06-28T03:52:55+00:00</updated>
-    <content>when they played Chappell Roan at drag brunch 🙌🏳️‍🌈 such a fun event, thx for having me @1 Hotels &amp; @Fenty Beauty #sf #dragbrunch #sfbrunch #embarcadero #sfeats #sfweekend </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7385397088043027742"/>
-    <published>2024-06-28T03:52:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7386435665111649579</id>
     <title>laser rainbow flag down market st for #pride #pridemonth #sfpride #rainbowlaser #marketst #sfdowntown #sftok </title>
@@ -227,6 +219,14 @@
     <content>sf summer loading!! #sf #sftok #thisweekendinsf #thingstodoinsf #sfevents #sfbars #salsadancing #museum #sfshopping #westcoastcraft </content>
     <link href="https://tiktok.com/@loveletterstosf/video/7406366499352415530"/>
     <published>2024-08-23T16:04:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7408048912394620206</id>
+    <title>No Title</title>
+    <updated>2024-08-28T04:53:23+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7408048912394620206"/>
+    <published>2024-08-28T04:53:23+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7400589981795831083</id>
