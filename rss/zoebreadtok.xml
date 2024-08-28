@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-08-27T17:51:04+00:00</updated>
+  <updated>2024-08-28T18:09:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -227,5 +227,13 @@
     <content>commuting to work on a pink hello kitty trunki suitcase </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7407878224262303009"/>
     <published>2024-08-27T17:51:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7408254053387373856</id>
+    <title>Replying to @Lennon horbury insuring my pink hello kitty trunki </title>
+    <updated>2024-08-28T18:09:28+00:00</updated>
+    <content>Replying to @Lennon horbury insuring my pink hello kitty trunki </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7408254053387373856"/>
+    <published>2024-08-28T18:09:28+00:00</published>
   </entry>
 </feed>
