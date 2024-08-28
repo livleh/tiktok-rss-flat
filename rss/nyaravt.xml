@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-08-28T13:00:00+00:00</updated>
+  <updated>2024-08-28T20:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7377486899344100641</id>
-    <title>CYBERBULLYING IS NOT REAL!? #vtuber</title>
-    <updated>2024-06-16T13:00:00+00:00</updated>
-    <content>CYBERBULLYING IS NOT REAL!? #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7377486899344100641"/>
-    <published>2024-06-16T13:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7381452366685441312</id>
     <title>WAKING UP AFTER SURGERY #vtuber </title>
@@ -259,5 +251,13 @@
     <content>FOX GIRL BREAKS THE INTERNET #vtuber #trans</content>
     <link href="https://tiktok.com/@nyaravt/video/7408157647976828193"/>
     <published>2024-08-28T13:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7408158277118348576</id>
+    <title>THEY CALL MY EYES MALE?? #vtuber #trans</title>
+    <updated>2024-08-28T20:00:00+00:00</updated>
+    <content>THEY CALL MY EYES MALE?? #vtuber #trans</content>
+    <link href="https://tiktok.com/@nyaravt/video/7408158277118348576"/>
+    <published>2024-08-28T20:00:00+00:00</published>
   </entry>
 </feed>
