@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-08-27T15:43:17+00:00</updated>
+  <updated>2024-08-29T00:15:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7400587746965769515</id>
-    <title>Please please please wear a jacket or something 🤧 dont freeze your b00ty off #outsidelands #sanfrancisco #festival #outsidelands2024 #goldengatepark </title>
-    <updated>2024-08-08T02:20:13+00:00</updated>
-    <content>Please please please wear a jacket or something 🤧 dont freeze your b00ty off #outsidelands #sanfrancisco #festival #outsidelands2024 #goldengatepark </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7400587746965769515"/>
-    <published>2024-08-08T02:20:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7400790189779455275</id>
     <title>this cafe has the BEST view in California ✨ And low-key the best sandwiches in the county.  I just adore Cafe Aquatica and always stop here when I'm passing through Hwy 1 on the Sonoma Coast!! #jennercalifornia #visitsonoma #coffeeshop #whimsysoul #califo</title>
@@ -187,6 +179,14 @@
     <content>Fly to Louisville with me!! Basically on a hometown date with my bestie, she grew up here and we’re staying with her sister for the week. A lot of restaurants, pool time and doggy snuggles planned but drop recs if you have them!! NGL I was gagged by the h</content>
     <link href="https://tiktok.com/@whimsysoul/video/7407845286196006190"/>
     <published>2024-08-27T15:43:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7408348460920917294</id>
+    <title>minimal fall decor ideas 🍁🎃 as much as I want to do all out each autumn and Chrismas with fun decor, we simply lack space in our city apartment to store everything.  So instead, I lean on more minimal ways to bring the seasons in. I heavily rely on scent </title>
+    <updated>2024-08-29T00:15:46+00:00</updated>
+    <content>minimal fall decor ideas 🍁🎃 as much as I want to do all out each autumn and Chrismas with fun decor, we simply lack space in our city apartment to store everything.  So instead, I lean on more minimal ways to bring the seasons in. I heavily rely on scent </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7408348460920917294"/>
+    <published>2024-08-29T00:15:46+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
