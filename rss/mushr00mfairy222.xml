@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-08-29T09:28:58+00:00</updated>
+  <updated>2024-08-29T17:10:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7403773585619209504</id>
-    <title>why do they smell so strong 😭 #alt #friends </title>
-    <updated>2024-08-16T16:22:57+00:00</updated>
-    <content>why do they smell so strong 😭 #alt #friends </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7403773585619209504"/>
-    <published>2024-08-16T16:22:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7404152424925007136</id>
-    <title>very cutesty #aesthetic </title>
-    <updated>2024-08-17T16:53:04+00:00</updated>
-    <content>very cutesty #aesthetic </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7404152424925007136"/>
-    <published>2024-08-17T16:53:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7404472991582604576</id>
     <title>ootd #ootd #alt #pinkhair #indie </title>
@@ -267,6 +251,22 @@
     <content>this filter is so cute #filter #trend </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7408490996922731809"/>
     <published>2024-08-29T09:28:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7408602790676712736</id>
+    <title>tell me u get it 😭 crazy i was crazy once </title>
+    <updated>2024-08-29T16:42:42+00:00</updated>
+    <content>tell me u get it 😭 crazy i was crazy once </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7408602790676712736"/>
+    <published>2024-08-29T16:42:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7408609932641176865</id>
+    <title>nugget ice alll the way #coke #dietcoke </title>
+    <updated>2024-08-29T17:10:27+00:00</updated>
+    <content>nugget ice alll the way #coke #dietcoke </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7408609932641176865"/>
+    <published>2024-08-29T17:10:27+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
