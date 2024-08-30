@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ramalauw</id>
   <title>ramalauw</title>
-  <updated>2024-08-29T15:10:27+00:00</updated>
+  <updated>2024-08-30T10:31:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ramalauw</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ramalauw/video/7373315906039975200</id>
-    <title>Me: I have my own opinions 😤 Also me: </title>
-    <updated>2024-05-26T14:31:33+00:00</updated>
-    <content>Me: I have my own opinions 😤 Also me: </content>
-    <link href="https://tiktok.com/@ramalauw/video/7373315906039975200"/>
-    <published>2024-05-26T14:31:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7374067071107353888</id>
     <title>Tag that friend! 🤭 Thanks @Ubigi App for keeping me connected in Japan so I didn’t have to miss out on my brain rot sessions 🥹🫶😘 #japan #travel #traveling #travelhack #fyp #foryou #asia </title>
@@ -259,6 +251,14 @@
     <content>My whole personality in one video 🥺 #travel #traveling #skit #traveltok #fyp #foryou #tiktokusa #maincharacter #delulu #pov </content>
     <link href="https://tiktok.com/@ramalauw/video/7408579016342424865"/>
     <published>2024-08-29T15:10:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ramalauw/video/7408878118317870368</id>
+    <title>I’m always the diversity in the room wherever I go 🥵💃✨ #parents #names #trend #fyp #foryou </title>
+    <updated>2024-08-30T10:31:08+00:00</updated>
+    <content>I’m always the diversity in the room wherever I go 🥵💃✨ #parents #names #trend #fyp #foryou </content>
+    <link href="https://tiktok.com/@ramalauw/video/7408878118317870368"/>
+    <published>2024-08-30T10:31:08+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7270903343638187297</id>
