@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-08-29T17:24:14+00:00</updated>
+  <updated>2024-08-30T18:26:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7390437753529437473</id>
-    <title>i will never let anyone send me anything ever again because it is too nice it makes me sick 😡</title>
-    <updated>2024-07-11T17:53:06+00:00</updated>
-    <content>i will never let anyone send me anything ever again because it is too nice it makes me sick 😡</content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7390437753529437473"/>
-    <published>2024-07-11T17:53:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7391078276183215392</id>
     <title>i tired everything to get the sound back but i cant so i hope this works </title>
@@ -235,5 +227,13 @@
     <content>Replying to @Festegios riding a trunki suitcase through a drive thru</content>
     <link href="https://tiktok.com/@zoebreadtok/video/7408613499477200161"/>
     <published>2024-08-29T17:24:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7409000646998838560</id>
+    <title>ill level with you. im really scared </title>
+    <updated>2024-08-30T18:26:36+00:00</updated>
+    <content>ill level with you. im really scared </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7409000646998838560"/>
+    <published>2024-08-30T18:26:36+00:00</published>
   </entry>
 </feed>
