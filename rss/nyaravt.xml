@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-08-29T20:00:00+00:00</updated>
+  <updated>2024-08-30T13:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -267,5 +267,13 @@
     <content>DILATING AFTER MTF SURGERY #vtuber #trans</content>
     <link href="https://tiktok.com/@nyaravt/video/7408500291701689633"/>
     <published>2024-08-29T20:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7408883971100118304</id>
+    <title>WHEN VTUBERS ARE TRANSPHOBIC #vtuber #trans</title>
+    <updated>2024-08-30T13:00:00+00:00</updated>
+    <content>WHEN VTUBERS ARE TRANSPHOBIC #vtuber #trans</content>
+    <link href="https://tiktok.com/@nyaravt/video/7408883971100118304"/>
+    <published>2024-08-30T13:00:00+00:00</published>
   </entry>
 </feed>
