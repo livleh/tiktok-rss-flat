@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-08-30T13:46:03+00:00</updated>
+  <updated>2024-08-30T21:25:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7402369438965632287</id>
-    <title>test your code. use @Sauce Labs  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #techroastshow #ad </title>
-    <updated>2024-08-12T21:34:18+00:00</updated>
-    <content>test your code. use @Sauce Labs  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #techroastshow #ad </content>
-    <link href="https://tiktok.com/@techroastshow/video/7402369438965632287"/>
-    <published>2024-08-12T21:34:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7402643364606151966</id>
     <title>grandma got run over by a cruise car #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</title>
@@ -267,6 +259,14 @@
     <content>Washington DC techies are scary 🚀 #techie #softwareengineer #washingtondc #dc #programmerlife #roastbattle #darkhumor #techroastshow </content>
     <link href="https://tiktok.com/@techroastshow/video/7408928324971498783"/>
     <published>2024-08-30T13:46:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7409046657188236575</id>
+    <title>Loved him in Stranger Things 😍 #techie #facebook #meta #sanfrancisco #bayarea #manonthestreet #streetinterview #comedy #funnyvideos #programmerlife</title>
+    <updated>2024-08-30T21:25:14+00:00</updated>
+    <content>Loved him in Stranger Things 😍 #techie #facebook #meta #sanfrancisco #bayarea #manonthestreet #streetinterview #comedy #funnyvideos #programmerlife</content>
+    <link href="https://tiktok.com/@techroastshow/video/7409046657188236575"/>
+    <published>2024-08-30T21:25:14+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-08-28T22:33:44+00:00</updated>
+  <updated>2024-08-30T21:31:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7401524916178160927</id>
-    <title>He has never had a woman on top of him 😂 #fy </title>
-    <updated>2024-08-10T14:57:10+00:00</updated>
-    <content>He has never had a woman on top of him 😂 #fy </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7401524916178160927"/>
-    <published>2024-08-10T14:57:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7402006443051863327</id>
     <title>Husband Wants To Take His New Wife To A 🍍Club and She Wont Go #justmarried #couplegoals #wow </title>
@@ -155,6 +147,14 @@
     <content>She is so excited 😂 #foryou #fy #happiness </content>
     <link href="https://tiktok.com/@jessicakirson/video/7408322149867359518"/>
     <published>2024-08-28T22:33:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7409048283504577823</id>
+    <title>A Hot Military Hook Up  #navy #military #dating </title>
+    <updated>2024-08-30T21:31:37+00:00</updated>
+    <content>A Hot Military Hook Up  #navy #military #dating </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7409048283504577823"/>
+    <published>2024-08-30T21:31:37+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7406711443023826206</id>
