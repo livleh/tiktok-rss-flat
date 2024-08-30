@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-08-28T11:08:35+00:00</updated>
+  <updated>2024-08-30T02:38:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7389454994103192850</id>
-    <title>What I tell myself</title>
-    <updated>2024-07-09T02:19:30+00:00</updated>
-    <content>What I tell myself</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7389454994103192850"/>
-    <published>2024-07-09T02:19:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7389813223232408839</id>
     <title>Well… technically my dad bought one of them 🏳️‍⚧️ </title>
@@ -275,5 +267,13 @@
     <content>I’m taking a break from giving birth for now ☺️</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7408145618616487186"/>
     <published>2024-08-28T11:08:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7408756342078311698</id>
+    <title>Let’s normalise putting in effort. Australia needs it. The way some of yall be leaving the house 🙅🏼‍♀️ </title>
+    <updated>2024-08-30T02:38:31+00:00</updated>
+    <content>Let’s normalise putting in effort. Australia needs it. The way some of yall be leaving the house 🙅🏼‍♀️ </content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7408756342078311698"/>
+    <published>2024-08-30T02:38:31+00:00</published>
   </entry>
 </feed>
