@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@starryribbons</id>
   <title>starryribbons</title>
-  <updated>2024-08-29T19:50:52+00:00</updated>
+  <updated>2024-08-31T16:40:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from starryribbons</subtitle>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7395274122248408352</id>
-    <title>anything goes with emma chamberlain comfort podcast #coquettecore #digitaldiary #taylorswift #emmachamberlain #podcast #wlw </title>
-    <updated>2024-07-24T18:40:40+00:00</updated>
-    <content>anything goes with emma chamberlain comfort podcast #coquettecore #digitaldiary #taylorswift #emmachamberlain #podcast #wlw </content>
-    <link href="https://tiktok.com/@starryribbons/video/7395274122248408352"/>
-    <published>2024-07-24T18:40:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7395612315242056993</id>
     <title>trick question its both #coquettecore #digitaldiary #taylorswift #gracieabrams #fangirltok #wlw #tsou #theerastour </title>
@@ -267,6 +259,14 @@
     <content>i haven’t done of of these in a moment, but i miss doing them sm #digitaldiary #coquetteaesthetic #taylorswifttok #vlog #spendthedaywithme #romanticizeyourlife #wlw </content>
     <link href="https://tiktok.com/@starryribbons/video/7408651280186428704"/>
     <published>2024-08-29T19:50:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7409344477384527137</id>
+    <title>if only it wasn’t 34 Celcius #digitaldiary #coquetteaesthetic #outfitsoftheweeks #romanticizeschool #autumnaesthetic #wlw </title>
+    <updated>2024-08-31T16:40:51+00:00</updated>
+    <content>if only it wasn’t 34 Celcius #digitaldiary #coquetteaesthetic #outfitsoftheweeks #romanticizeschool #autumnaesthetic #wlw </content>
+    <link href="https://tiktok.com/@starryribbons/video/7409344477384527137"/>
+    <published>2024-08-31T16:40:51+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7285761406664854817</id>
