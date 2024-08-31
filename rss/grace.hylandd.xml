@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-08-30T02:38:31+00:00</updated>
+  <updated>2024-08-31T08:39:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7389813223232408839</id>
-    <title>Well… technically my dad bought one of them 🏳️‍⚧️ </title>
-    <updated>2024-07-10T01:29:35+00:00</updated>
-    <content>Well… technically my dad bought one of them 🏳️‍⚧️ </content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7389813223232408839"/>
-    <published>2024-07-10T01:29:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7390186284368563474</id>
     <title>Trans women come in all different forms. Trans women can be naturally beautiful, but they can also have had tweaks without meaning they once looked like a man. Even if a trans woman once did look like a man, that also doesn’t discredit her current beauty!</title>
@@ -275,5 +267,13 @@
     <content>Let’s normalise putting in effort. Australia needs it. The way some of yall be leaving the house 🙅🏼‍♀️ </content>
     <link href="https://tiktok.com/@grace.hylandd/video/7408756342078311698"/>
     <published>2024-08-30T02:38:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7409220528591965447</id>
+    <title>If you can love us in private, but you can’t defend us publicly… WE DON’T WANT YOU! Ladies, I know some of y’all be settling for these kinda men. Knock it off! You deserve so much better 😙🏳️‍⚧️</title>
+    <updated>2024-08-31T08:39:49+00:00</updated>
+    <content>If you can love us in private, but you can’t defend us publicly… WE DON’T WANT YOU! Ladies, I know some of y’all be settling for these kinda men. Knock it off! You deserve so much better 😙🏳️‍⚧️</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7409220528591965447"/>
+    <published>2024-08-31T08:39:49+00:00</published>
   </entry>
 </feed>
