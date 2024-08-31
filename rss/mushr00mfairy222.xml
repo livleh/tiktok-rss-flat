@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-08-30T16:26:53+00:00</updated>
+  <updated>2024-08-31T12:13:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7404486060740300065</id>
-    <title>swiftie kinda wall #taylorswift #swiftie </title>
-    <updated>2024-08-18T14:27:43+00:00</updated>
-    <content>swiftie kinda wall #taylorswift #swiftie </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7404486060740300065"/>
-    <published>2024-08-18T14:27:43+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7404516023031893281</id>
-    <title>nostalgia ranking #ranking #trend #nostalgia </title>
-    <updated>2024-08-18T16:23:59+00:00</updated>
-    <content>nostalgia ranking #ranking #trend #nostalgia </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7404516023031893281"/>
-    <published>2024-08-18T16:23:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7404516976292302113</id>
     <title>room tour :) #roomtour #pinkroom #fangirl </title>
@@ -267,6 +251,22 @@
     <content>NEEDDDD to go back 😭 #erastour #swiftie </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7408969787386203424"/>
     <published>2024-08-30T16:26:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7409273234023009569</id>
+    <title>for everyone who wants updates</title>
+    <updated>2024-08-31T12:04:22+00:00</updated>
+    <content>for everyone who wants updates</content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7409273234023009569"/>
+    <published>2024-08-31T12:04:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7409275582220881184</id>
+    <title>the two pop girli prophecies #swiftie #sabrinacarpenter #taylorswift </title>
+    <updated>2024-08-31T12:13:30+00:00</updated>
+    <content>the two pop girli prophecies #swiftie #sabrinacarpenter #taylorswift </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7409275582220881184"/>
+    <published>2024-08-31T12:13:30+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
