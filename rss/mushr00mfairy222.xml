@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-08-31T12:13:30+00:00</updated>
+  <updated>2024-08-31T13:55:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7404516976292302113</id>
-    <title>room tour :) #roomtour #pinkroom #fangirl </title>
-    <updated>2024-08-18T16:27:42+00:00</updated>
-    <content>room tour :) #roomtour #pinkroom #fangirl </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7404516976292302113"/>
-    <published>2024-08-18T16:27:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7404519897579015456</id>
-    <title>blue pink kinda outfits @Aliya #ootd #pink </title>
-    <updated>2024-08-18T16:39:03+00:00</updated>
-    <content>blue pink kinda outfits @Aliya #ootd #pink </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7404519897579015456"/>
-    <published>2024-08-18T16:39:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7404818398556785953</id>
     <title>cause if they won't travel 30hrs to see u what's the point @userrouxx </title>
@@ -267,6 +251,22 @@
     <content>the two pop girli prophecies #swiftie #sabrinacarpenter #taylorswift </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7409275582220881184"/>
     <published>2024-08-31T12:13:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7409294764685659425</id>
+    <title>don't even wanna know how much #swiftie #taylorswift #erastour </title>
+    <updated>2024-08-31T13:27:58+00:00</updated>
+    <content>don't even wanna know how much #swiftie #taylorswift #erastour </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7409294764685659425"/>
+    <published>2024-08-31T13:27:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7409301957317250336</id>
+    <title>shopping haul from paris and amsterdam!! #shoppinghaul #europe #travel </title>
+    <updated>2024-08-31T13:55:51+00:00</updated>
+    <content>shopping haul from paris and amsterdam!! #shoppinghaul #europe #travel </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7409301957317250336"/>
+    <published>2024-08-31T13:55:51+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
