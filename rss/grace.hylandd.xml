@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-08-31T08:39:49+00:00</updated>
+  <updated>2024-08-31T11:13:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7390186284368563474</id>
-    <title>Trans women come in all different forms. Trans women can be naturally beautiful, but they can also have had tweaks without meaning they once looked like a man. Even if a trans woman once did look like a man, that also doesn’t discredit her current beauty!</title>
-    <updated>2024-07-11T01:37:16+00:00</updated>
-    <content>Trans women come in all different forms. Trans women can be naturally beautiful, but they can also have had tweaks without meaning they once looked like a man. Even if a trans woman once did look like a man, that also doesn’t discredit her current beauty!</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7390186284368563474"/>
-    <published>2024-07-11T01:37:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7391015123244092680</id>
     <title>Replying to @rvmsteaandfights0 the girls aint havin it</title>
@@ -275,5 +267,13 @@
     <content>If you can love us in private, but you can’t defend us publicly… WE DON’T WANT YOU! Ladies, I know some of y’all be settling for these kinda men. Knock it off! You deserve so much better 😙🏳️‍⚧️</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7409220528591965447"/>
     <published>2024-08-31T08:39:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7409260016944860434</id>
+    <title>#stitch with @Mikaela Testa had to respond to this as soon as I saw it</title>
+    <updated>2024-08-31T11:13:03+00:00</updated>
+    <content>#stitch with @Mikaela Testa had to respond to this as soon as I saw it</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7409260016944860434"/>
+    <published>2024-08-31T11:13:03+00:00</published>
   </entry>
 </feed>
