@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-08-30T20:00:00+00:00</updated>
+  <updated>2024-08-31T13:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7382197118095707425</id>
-    <title>I WISH I WASNT TRANS #vtuber #trans </title>
-    <updated>2024-06-19T12:55:16+00:00</updated>
-    <content>I WISH I WASNT TRANS #vtuber #trans </content>
-    <link href="https://tiktok.com/@nyaravt/video/7382197118095707425"/>
-    <published>2024-06-19T12:55:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7382564739102051617</id>
     <title>TRANSITIONING SAVED MY LIFE #vtuber </title>
@@ -275,5 +267,13 @@
     <content>AMERICAN PROPAGANDA IS TOO GOOD #vtuber</content>
     <link href="https://tiktok.com/@nyaravt/video/7408884467613437216"/>
     <published>2024-08-30T20:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7409281717107772705</id>
+    <title>THEY ARE NOT YOUR FRIENDS #vtuber</title>
+    <updated>2024-08-31T13:00:00+00:00</updated>
+    <content>THEY ARE NOT YOUR FRIENDS #vtuber</content>
+    <link href="https://tiktok.com/@nyaravt/video/7409281717107772705"/>
+    <published>2024-08-31T13:00:00+00:00</published>
   </entry>
 </feed>
