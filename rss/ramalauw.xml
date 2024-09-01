@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ramalauw</id>
   <title>ramalauw</title>
-  <updated>2024-08-31T14:35:53+00:00</updated>
+  <updated>2024-09-01T14:54:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ramalauw</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ramalauw/video/7376345101997575457</id>
-    <title>My best friend’s heart rate when she sees my incoming call 📈📈📈 </title>
-    <updated>2024-06-03T18:26:25+00:00</updated>
-    <content>My best friend’s heart rate when she sees my incoming call 📈📈📈 </content>
-    <link href="https://tiktok.com/@ramalauw/video/7376345101997575457"/>
-    <published>2024-06-03T18:26:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7376716397566627104</id>
     <title>Should we call our landlord and tell him our ✨inner niños✨ don’t want to pay rent? 🤭🥰💅🙈🤪 #roommates #therapy #therapytalk #mentalhealth #skit #fyp #foryou #genz #tiktokusa </title>
@@ -259,6 +251,14 @@
     <content>tag that friend! 🙊 Thanks to @Ubigi App for always keeping me connected wherever I go so I can keep my status as the ✨overprepared friend✨  hihi 🥵 #travel #traveling #travelhacks #traveltok #fyp #foryou #skit </content>
     <link href="https://tiktok.com/@ramalauw/video/7409312264118914337"/>
     <published>2024-08-31T14:35:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ramalauw/video/7409688177176218913</id>
+    <title>I’m always the ✨diversity✨ in the room everywhere I go 🥰💃✨ #parents #name #trending #fyp #foryou </title>
+    <updated>2024-09-01T14:54:34+00:00</updated>
+    <content>I’m always the ✨diversity✨ in the room everywhere I go 🥰💃✨ #parents #name #trending #fyp #foryou </content>
+    <link href="https://tiktok.com/@ramalauw/video/7409688177176218913"/>
+    <published>2024-09-01T14:54:34+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7270903343638187297</id>

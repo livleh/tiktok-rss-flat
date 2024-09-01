@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-08-31T14:48:22+00:00</updated>
+  <updated>2024-09-01T14:46:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7402385488209923359</id>
-    <title>I think shes going to do just fine</title>
-    <updated>2024-08-12T22:36:37+00:00</updated>
-    <content>I think shes going to do just fine</content>
-    <link href="https://tiktok.com/@jessicakirson/video/7402385488209923359"/>
-    <published>2024-08-12T22:36:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7402756860048051487</id>
     <title>They are all damaged 😅 #bearsoftiktok #gaytiktok #fy </title>
@@ -155,6 +147,14 @@
     <content>Thumb Pics?!? 👍 #thumb #fy </content>
     <link href="https://tiktok.com/@jessicakirson/video/7409315444844268831"/>
     <published>2024-08-31T14:48:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7409686059560258847</id>
+    <title>Can someone please explain what she does for a living in the comments 😂 #foodandbeverage #fyp </title>
+    <updated>2024-09-01T14:46:28+00:00</updated>
+    <content>Can someone please explain what she does for a living in the comments 😂 #foodandbeverage #fyp </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7409686059560258847"/>
+    <published>2024-09-01T14:46:28+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7406711443023826206</id>
