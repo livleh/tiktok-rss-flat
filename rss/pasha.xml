@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@pasha</id>
   <title>pasha</title>
-  <updated>2024-08-30T11:56:07+00:00</updated>
+  <updated>2024-09-01T10:51:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pasha</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pasha/video/7377734768080751889</id>
-    <title>✨ I can see myself living here ✨ nothing can contain the millennials travel excitement ☺️ #travel #holidays #traveltiktok #millennial </title>
-    <updated>2024-06-07T12:19:01+00:00</updated>
-    <content>✨ I can see myself living here ✨ nothing can contain the millennials travel excitement ☺️ #travel #holidays #traveltiktok #millennial </content>
-    <link href="https://tiktok.com/@pasha/video/7377734768080751889"/>
-    <published>2024-06-07T12:19:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7378069936008203536</id>
     <title>“are you in front of a computer?” 😩of course I am not, bye!  #careertiktok #corporate #toxicmanager #manager </title>
@@ -275,6 +267,14 @@
     <content>when you have ran out of excuses for your friends…. #comedy </content>
     <link href="https://tiktok.com/@pasha/video/7408900032927239431"/>
     <published>2024-08-30T11:56:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pasha/video/7409625595417513237</id>
+    <title>based on a true story… #comedy </title>
+    <updated>2024-09-01T10:51:47+00:00</updated>
+    <content>based on a true story… #comedy </content>
+    <link href="https://tiktok.com/@pasha/video/7409625595417513237"/>
+    <published>2024-09-01T10:51:47+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7402693921005899028</id>
