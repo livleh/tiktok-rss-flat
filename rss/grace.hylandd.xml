@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-08-31T11:13:03+00:00</updated>
+  <updated>2024-09-01T06:54:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7391015123244092680</id>
-    <title>Replying to @rvmsteaandfights0 the girls aint havin it</title>
-    <updated>2024-07-13T07:13:33+00:00</updated>
-    <content>Replying to @rvmsteaandfights0 the girls aint havin it</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7391015123244092680"/>
-    <published>2024-07-13T07:13:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7391754827581148424</id>
     <title>Violence is never the answer but like you wanted guns, you got guns. Not to mention the turmoil he has caused my sisters 🏳️‍⚧️</title>
@@ -275,5 +267,13 @@
     <content>#stitch with @Mikaela Testa had to respond to this as soon as I saw it</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7409260016944860434"/>
     <published>2024-08-31T11:13:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7409564569162583304</id>
+    <title>Persephone is very scared. She has come from horrible living conditions where she even got Giardia due to neglect. Shes all healed now and ready to join my squad 🐱</title>
+    <updated>2024-09-01T06:54:54+00:00</updated>
+    <content>Persephone is very scared. She has come from horrible living conditions where she even got Giardia due to neglect. Shes all healed now and ready to join my squad 🐱</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7409564569162583304"/>
+    <published>2024-09-01T06:54:54+00:00</published>
   </entry>
 </feed>
