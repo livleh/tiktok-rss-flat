@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-09-02T13:00:00+00:00</updated>
+  <updated>2024-09-02T20:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7384435792552234272</id>
-    <title>GENDER AFFIRMING CARE IS NOT JUST FOR TRANS PEOPLE #vtuber </title>
-    <updated>2024-06-25T13:42:28+00:00</updated>
-    <content>GENDER AFFIRMING CARE IS NOT JUST FOR TRANS PEOPLE #vtuber </content>
-    <link href="https://tiktok.com/@nyaravt/video/7384435792552234272"/>
-    <published>2024-06-25T13:42:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7384800517110680864</id>
     <title>NOT WANTING TO BE SEEN AS LGBTQ #vtuber </title>
@@ -267,5 +259,13 @@
     <content>WHY DO HISTORY TEACHERS NEVER MENTION TRANS PEOPLE #vtuber</content>
     <link href="https://tiktok.com/@nyaravt/video/7410013180576959776"/>
     <published>2024-09-02T13:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7410013453869468960</id>
+    <title>HAVING TO PROVE YOU'RE A WOMAN ON THE INTERNET #vtuber</title>
+    <updated>2024-09-02T20:00:00+00:00</updated>
+    <content>HAVING TO PROVE YOU'RE A WOMAN ON THE INTERNET #vtuber</content>
+    <link href="https://tiktok.com/@nyaravt/video/7410013453869468960"/>
+    <published>2024-09-02T20:00:00+00:00</published>
   </entry>
 </feed>
