@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@palim_tintin</id>
   <title>palim_tintin</title>
-  <updated>2024-08-18T17:53:52+00:00</updated>
+  <updated>2024-09-02T17:34:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from palim_tintin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@palim_tintin/video/7336245110511832352</id>
-    <title>Konzert-Outfits⚡️🖤🎸 #secondhandfashion #concertoutfit #wiw #mystyle #outfitideas #outfits #outfitinspo </title>
-    <updated>2024-02-16T16:57:59+00:00</updated>
-    <content>Konzert-Outfits⚡️🖤🎸 #secondhandfashion #concertoutfit #wiw #mystyle #outfitideas #outfits #outfitinspo </content>
-    <link href="https://tiktok.com/@palim_tintin/video/7336245110511832352"/>
-    <published>2024-02-16T16:57:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@palim_tintin/video/7339968320801705248</id>
     <title>🐈‍⬛🐈‍⬛🖤✨ #schlafzimmer #catsoftiktok #cat #bedroom #interiordesign #plants #pflanzen #plantsoftiktok </title>
@@ -267,6 +259,14 @@
     <content>🤎🖤</content>
     <link href="https://tiktok.com/@palim_tintin/video/7404539175749389600"/>
     <published>2024-08-18T17:53:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@palim_tintin/video/7410100424650411296</id>
+    <title>🧡🕯️✨</title>
+    <updated>2024-09-02T17:34:19+00:00</updated>
+    <content>🧡🕯️✨</content>
+    <link href="https://tiktok.com/@palim_tintin/video/7410100424650411296"/>
+    <published>2024-09-02T17:34:19+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@palim_tintin/video/7189301520721005829</id>
