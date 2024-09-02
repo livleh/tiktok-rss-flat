@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ramalauw</id>
   <title>ramalauw</title>
-  <updated>2024-09-01T18:29:28+00:00</updated>
+  <updated>2024-09-02T14:40:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ramalauw</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ramalauw/video/7377040585443642657</id>
-    <title>Even the animals can’t resist my ✨better than everyone✨ charm 🥺🤭🙈💃✨ #BetterThanEveryone #BTEFace #maincharacter #delulu </title>
-    <updated>2024-06-05T15:25:14+00:00</updated>
-    <content>Even the animals can’t resist my ✨better than everyone✨ charm 🥺🤭🙈💃✨ #BetterThanEveryone #BTEFace #maincharacter #delulu </content>
-    <link href="https://tiktok.com/@ramalauw/video/7377040585443642657"/>
-    <published>2024-06-05T15:25:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7378557244679425313</id>
     <title>Happy pride month y’all 🌈🫶💃✨</title>
@@ -251,6 +243,14 @@
     <content>The real reason why I like running 🥰🥵🏃‍♂️💨 #running #gym #fitness #gymnotivation #lifehack #lifeadvice #motivational #fyp #foryou</content>
     <link href="https://tiktok.com/@ramalauw/video/7409743546057592097"/>
     <published>2024-09-01T18:29:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ramalauw/video/7410055499644751136</id>
+    <title>When you want sleep but sleep doesn’t want you 🤡🫠 #free99 #lifeadvice #lifehacks #motivational </title>
+    <updated>2024-09-02T14:40:00+00:00</updated>
+    <content>When you want sleep but sleep doesn’t want you 🤡🫠 #free99 #lifeadvice #lifehacks #motivational </content>
+    <link href="https://tiktok.com/@ramalauw/video/7410055499644751136"/>
+    <published>2024-09-02T14:40:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7270903343638187297</id>
