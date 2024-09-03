@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-09-02T20:00:00+00:00</updated>
+  <updated>2024-09-03T13:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7384800517110680864</id>
-    <title>NOT WANTING TO BE SEEN AS LGBTQ #vtuber </title>
-    <updated>2024-06-26T13:17:48+00:00</updated>
-    <content>NOT WANTING TO BE SEEN AS LGBTQ #vtuber </content>
-    <link href="https://tiktok.com/@nyaravt/video/7384800517110680864"/>
-    <published>2024-06-26T13:17:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7385160601749835040</id>
     <title>GENDER EXPECTATIONS ARE ALL MADE UP #vtuber </title>
@@ -267,5 +259,13 @@
     <content>HAVING TO PROVE YOU'RE A WOMAN ON THE INTERNET #vtuber</content>
     <link href="https://tiktok.com/@nyaravt/video/7410013453869468960"/>
     <published>2024-09-02T20:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7410383013655203105</id>
+    <title>WANTING TO GET STEPPED ON BY VYSE #valorant #vtuber</title>
+    <updated>2024-09-03T13:00:00+00:00</updated>
+    <content>WANTING TO GET STEPPED ON BY VYSE #valorant #vtuber</content>
+    <link href="https://tiktok.com/@nyaravt/video/7410383013655203105"/>
+    <published>2024-09-03T13:00:00+00:00</published>
   </entry>
 </feed>
