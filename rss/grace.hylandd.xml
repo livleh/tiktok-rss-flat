@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-09-02T05:59:20+00:00</updated>
+  <updated>2024-09-03T07:57:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7391754827581148424</id>
-    <title>Violence is never the answer but like you wanted guns, you got guns. Not to mention the turmoil he has caused my sisters 🏳️‍⚧️</title>
-    <updated>2024-07-15T07:03:58+00:00</updated>
-    <content>Violence is never the answer but like you wanted guns, you got guns. Not to mention the turmoil he has caused my sisters 🏳️‍⚧️</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7391754827581148424"/>
-    <published>2024-07-15T07:03:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7392215507950112007</id>
     <title>They knew 😳</title>
@@ -283,5 +275,13 @@
     <content>Replying to @69ninjaturtle1 Many years ago the goal was to make people believe that I am a woman. As I’ve grown older I’ve really had to let go of that. It’s a fight that I will never win. Now all I care about is living a life that fulfills me. Surround y</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7409921325130616071"/>
     <published>2024-09-02T05:59:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7410322758925651201</id>
+    <title>Wore this to mass this morning ✝️🖤</title>
+    <updated>2024-09-03T07:57:13+00:00</updated>
+    <content>Wore this to mass this morning ✝️🖤</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7410322758925651201"/>
+    <published>2024-09-03T07:57:13+00:00</published>
   </entry>
 </feed>
