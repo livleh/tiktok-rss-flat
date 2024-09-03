@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jade..harmony</id>
   <title>jade..harmony</title>
-  <updated>2024-08-31T15:45:45+00:00</updated>
+  <updated>2024-09-03T13:54:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jade..harmony</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jade..harmony/video/7399036390903778591</id>
-    <title>#foryoupage #dragqueenmakeup #michigan #michigandragqueen </title>
-    <updated>2024-08-03T22:00:26+00:00</updated>
-    <content>#foryoupage #dragqueenmakeup #michigan #michigandragqueen </content>
-    <link href="https://tiktok.com/@jade..harmony/video/7399036390903778591"/>
-    <published>2024-08-03T22:00:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jade..harmony/video/7399724138123840798</id>
     <title>#foryoupage #dragqueenmakeup #michigandragqueen #michigan </title>
@@ -275,6 +267,14 @@
     <content>Replying to @Messiah #fyp #dragshow #dragbattle #transperformer #nightlife #viral #bully </content>
     <link href="https://tiktok.com/@jade..harmony/video/7409330251270016286"/>
     <published>2024-08-31T15:45:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jade..harmony/video/7410414754583383327</id>
+    <title>#fyp #dragshow #dragbattle #transperformer </title>
+    <updated>2024-09-03T13:54:11+00:00</updated>
+    <content>#fyp #dragshow #dragbattle #transperformer </content>
+    <link href="https://tiktok.com/@jade..harmony/video/7410414754583383327"/>
+    <published>2024-09-03T13:54:11+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jade..harmony/video/7388937889968688414</id>
