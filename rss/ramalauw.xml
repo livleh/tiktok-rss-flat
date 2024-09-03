@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ramalauw</id>
   <title>ramalauw</title>
-  <updated>2024-09-02T14:40:00+00:00</updated>
+  <updated>2024-09-03T16:30:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ramalauw</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ramalauw/video/7378557244679425313</id>
-    <title>Happy pride month y’all 🌈🫶💃✨</title>
-    <updated>2024-06-09T17:30:38+00:00</updated>
-    <content>Happy pride month y’all 🌈🫶💃✨</content>
-    <link href="https://tiktok.com/@ramalauw/video/7378557244679425313"/>
-    <published>2024-06-09T17:30:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7379300191079288096</id>
     <title>Greek summer is here and there ain’t nothing like it 🥺🇬🇷🌊🌺🥙🏛️🌈💃✨ #Greece #summer #europe #travel #traveling #traveltok #greecetiktok #fyp #foryou </title>
@@ -251,6 +243,14 @@
     <content>When you want sleep but sleep doesn’t want you 🤡🫠 #free99 #lifeadvice #lifehacks #motivational </content>
     <link href="https://tiktok.com/@ramalauw/video/7410055499644751136"/>
     <published>2024-09-02T14:40:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ramalauw/video/7410454928205892896</id>
+    <title>Can you guess how many years apart these clips were taken? 🥵🥰🥹🫶✨</title>
+    <updated>2024-09-03T16:30:00+00:00</updated>
+    <content>Can you guess how many years apart these clips were taken? 🥵🥰🥹🫶✨</content>
+    <link href="https://tiktok.com/@ramalauw/video/7410454928205892896"/>
+    <published>2024-09-03T16:30:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7270903343638187297</id>
