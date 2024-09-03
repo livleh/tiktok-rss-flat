@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-09-02T21:32:20+00:00</updated>
+  <updated>2024-09-03T23:08:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7403138516839959839</id>
-    <title>Im so medicated 😐 #lesbiansoftiktok </title>
-    <updated>2024-08-14T23:18:43+00:00</updated>
-    <content>Im so medicated 😐 #lesbiansoftiktok </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7403138516839959839"/>
-    <published>2024-08-14T23:18:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7403494170935037215</id>
     <title>I swear she wanted me to find her a boyfriend in the moment #single #fy #foryou </title>
@@ -155,6 +147,14 @@
     <content>What was that? The staff didn’t warn me 😂 #cat #fyp </content>
     <link href="https://tiktok.com/@jessicakirson/video/7410161743135083807"/>
     <published>2024-09-02T21:32:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7410557668068216095</id>
+    <title>Emergency Doctor Finds A Ken Doll in someones 😳  #emergency #room #dr </title>
+    <updated>2024-09-03T23:08:39+00:00</updated>
+    <content>Emergency Doctor Finds A Ken Doll in someones 😳  #emergency #room #dr </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7410557668068216095"/>
+    <published>2024-09-03T23:08:39+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7406711443023826206</id>
