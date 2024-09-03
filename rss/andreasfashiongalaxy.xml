@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@andreasfashiongalaxy</id>
   <title>andreasfashiongalaxy</title>
-  <updated>2024-08-29T20:01:46+00:00</updated>
+  <updated>2024-09-03T20:08:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -243,5 +243,13 @@
     <content>How to style mini ruffle shorts #letsgetdressed </content>
     <link href="https://tiktok.com/@andreasfashiongalaxy/video/7408654091192225056"/>
     <published>2024-08-29T20:01:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@andreasfashiongalaxy/video/7410511264918687009</id>
+    <title>How to style sparkly jewellery outfits ft Heidi Daus #letsgetdressed AD</title>
+    <updated>2024-09-03T20:08:37+00:00</updated>
+    <content>How to style sparkly jewellery outfits ft Heidi Daus #letsgetdressed AD</content>
+    <link href="https://tiktok.com/@andreasfashiongalaxy/video/7410511264918687009"/>
+    <published>2024-09-03T20:08:37+00:00</published>
   </entry>
 </feed>
