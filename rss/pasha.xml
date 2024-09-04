@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@pasha</id>
   <title>pasha</title>
-  <updated>2024-09-01T10:51:47+00:00</updated>
+  <updated>2024-09-04T12:32:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pasha</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pasha/video/7378069936008203536</id>
-    <title>“are you in front of a computer?” 😩of course I am not, bye!  #careertiktok #corporate #toxicmanager #manager </title>
-    <updated>2024-06-08T09:59:42+00:00</updated>
-    <content>“are you in front of a computer?” 😩of course I am not, bye!  #careertiktok #corporate #toxicmanager #manager </content>
-    <link href="https://tiktok.com/@pasha/video/7378069936008203536"/>
-    <published>2024-06-08T09:59:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7378448673295863056</id>
     <title>they really do do that 😭 based on a true story… #german #germany #deutschland #lifeingermany #germanstare </title>
@@ -275,6 +267,14 @@
     <content>based on a true story… #comedy </content>
     <link href="https://tiktok.com/@pasha/video/7409625595417513237"/>
     <published>2024-09-01T10:51:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pasha/video/7410764854526545160</id>
+    <title>what your favourite LinkedIn phrases ACTUALLY MEAN: “so proud of everything you’ve achieved!” - I have no idea what you actually did in this role, but this sounds supportive, right? “I am leaving this role to focus on what truly matters - my family” - the</title>
+    <updated>2024-09-04T12:32:36+00:00</updated>
+    <content>what your favourite LinkedIn phrases ACTUALLY MEAN: “so proud of everything you’ve achieved!” - I have no idea what you actually did in this role, but this sounds supportive, right? “I am leaving this role to focus on what truly matters - my family” - the</content>
+    <link href="https://tiktok.com/@pasha/video/7410764854526545160"/>
+    <published>2024-09-04T12:32:36+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7402693921005899028</id>
