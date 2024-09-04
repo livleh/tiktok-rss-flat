@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-09-03T17:35:36+00:00</updated>
+  <updated>2024-09-04T17:26:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7392660518919507233</id>
-    <title>hiya vicky </title>
-    <updated>2024-07-17T17:38:32+00:00</updated>
-    <content>hiya vicky </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7392660518919507233"/>
-    <published>2024-07-17T17:38:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7393403636291751200</id>
     <title>my least popular tshirt designs by zoe bread, tshirt designer and piece of bread and playmobil enthusiast </title>
@@ -235,5 +227,13 @@
     <content>i am in space so it might take me longer to reply to comments, signal aint great up here </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7410471845880728864"/>
     <published>2024-09-03T17:35:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7410840693557529889</id>
+    <title>thank you very much for the inspiration @Hannah Brackenbury no thank you to the pigeon who did unspeakable things to me</title>
+    <updated>2024-09-04T17:26:56+00:00</updated>
+    <content>thank you very much for the inspiration @Hannah Brackenbury no thank you to the pigeon who did unspeakable things to me</content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7410840693557529889"/>
+    <published>2024-09-04T17:26:56+00:00</published>
   </entry>
 </feed>
