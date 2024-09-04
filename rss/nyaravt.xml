@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-09-03T20:00:00+00:00</updated>
+  <updated>2024-09-04T13:03:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7385538787398389025</id>
-    <title>MOST CIS PEOPLE DONT CARE ABOUT US #vtuber </title>
-    <updated>2024-06-28T13:02:37+00:00</updated>
-    <content>MOST CIS PEOPLE DONT CARE ABOUT US #vtuber </content>
-    <link href="https://tiktok.com/@nyaravt/video/7385538787398389025"/>
-    <published>2024-06-28T13:02:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7385909470150298913</id>
     <title>REQUIREMENTS FOR TRANS HEALTHCARE ARE AWFUL #vtuber </title>
@@ -267,5 +259,13 @@
     <content>I CAN SMELL THE VALORANT ON YOU #vtuber</content>
     <link href="https://tiktok.com/@nyaravt/video/7410383366442339616"/>
     <published>2024-09-03T20:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7410772696641883424</id>
+    <title>DOING A GUY VOICE AS A TRANS WOMAN #vtuber</title>
+    <updated>2024-09-04T13:03:03+00:00</updated>
+    <content>DOING A GUY VOICE AS A TRANS WOMAN #vtuber</content>
+    <link href="https://tiktok.com/@nyaravt/video/7410772696641883424"/>
+    <published>2024-09-04T13:03:03+00:00</published>
   </entry>
 </feed>
