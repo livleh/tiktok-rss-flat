@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-09-05T13:00:00+00:00</updated>
+  <updated>2024-09-05T20:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7386658800125742369</id>
-    <title>BACK FROM GENDER REASSIGNMENT SURGERY #vtuber #trans</title>
-    <updated>2024-07-01T13:30:27+00:00</updated>
-    <content>BACK FROM GENDER REASSIGNMENT SURGERY #vtuber #trans</content>
-    <link href="https://tiktok.com/@nyaravt/video/7386658800125742369"/>
-    <published>2024-07-01T13:30:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7393713085330099488</id>
     <title>TEASING THE NEW VTUBER MODEL #vtuber</title>
@@ -267,5 +259,13 @@
     <content>average trans experience in valorant #vtuber #trans</content>
     <link href="https://tiktok.com/@nyaravt/video/7411118812025703713"/>
     <published>2024-09-05T13:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7411125655619833121</id>
+    <title>having to hide behind a mask to fit in #trans #vtuber</title>
+    <updated>2024-09-05T20:00:00+00:00</updated>
+    <content>having to hide behind a mask to fit in #trans #vtuber</content>
+    <link href="https://tiktok.com/@nyaravt/video/7411125655619833121"/>
+    <published>2024-09-05T20:00:00+00:00</published>
   </entry>
 </feed>
