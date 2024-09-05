@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shoptunnelvision</id>
   <title>shoptunnelvision</title>
-  <updated>2024-09-05T00:36:57+00:00</updated>
+  <updated>2024-09-05T22:49:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shoptunnelvision</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shoptunnelvision/video/7394172284719648042</id>
-    <title>No Title</title>
-    <updated>2024-07-21T19:24:58+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@shoptunnelvision/video/7394172284719648042"/>
-    <published>2024-07-21T19:24:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shoptunnelvision/video/7394877501736029482</id>
     <title>No Title</title>
@@ -203,5 +195,13 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@shoptunnelvision/video/7410951509367901486"/>
     <published>2024-09-05T00:36:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shoptunnelvision/video/7411295017811103018</id>
+    <title>Siren skirts have landed! </title>
+    <updated>2024-09-05T22:49:53+00:00</updated>
+    <content>Siren skirts have landed! </content>
+    <link href="https://tiktok.com/@shoptunnelvision/video/7411295017811103018"/>
+    <published>2024-09-05T22:49:53+00:00</published>
   </entry>
 </feed>
