@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-09-04T18:15:57+00:00</updated>
+  <updated>2024-09-05T17:31:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7394142651970276640</id>
-    <title>am cork now </title>
-    <updated>2024-07-21T17:30:01+00:00</updated>
-    <content>am cork now </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7394142651970276640"/>
-    <published>2024-07-21T17:30:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7394886422638890273</id>
     <title>my first big news scoop!!!! featuring gary the gorilla!!! </title>
@@ -227,5 +219,13 @@
     <content>thank you very much for the inspiration @Hannah Brackenbury </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7410853320710966560"/>
     <published>2024-09-04T18:15:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7411212990487301408</id>
+    <title>how did you celebrate national be late for something day? i hope cory sees this video </title>
+    <updated>2024-09-05T17:31:35+00:00</updated>
+    <content>how did you celebrate national be late for something day? i hope cory sees this video </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7411212990487301408"/>
+    <published>2024-09-05T17:31:35+00:00</published>
   </entry>
 </feed>
