@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2024-08-29T03:15:23+00:00</updated>
+  <updated>2024-09-05T16:48:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from loveletterstosf</subtitle>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7388685557817167146</id>
-    <title>#sftok #ggbridge #abovetheclouds #karlthefog </title>
-    <updated>2024-07-07T00:33:41+00:00</updated>
-    <content>#sftok #ggbridge #abovetheclouds #karlthefog </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7388685557817167146"/>
-    <published>2024-07-07T00:33:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7389678464833506606</id>
     <title>just some thoughts 💭 #sf </title>
@@ -235,5 +227,13 @@
     <content>comment any other cool #sfevents happening this #ldw #longweekend #sftok #thisweekendinsf #sanfrancisco #livemusic #nightmarket </content>
     <link href="https://tiktok.com/@loveletterstosf/video/7408394737335487786"/>
     <published>2024-08-29T03:15:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7411201753338694955</id>
+    <title>september off to a good start 💐🌅 #september #dahlias #ggpark #oceanbeach #sfweekend  </title>
+    <updated>2024-09-05T16:48:01+00:00</updated>
+    <content>september off to a good start 💐🌅 #september #dahlias #ggpark #oceanbeach #sfweekend  </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7411201753338694955"/>
+    <published>2024-09-05T16:48:01+00:00</published>
   </entry>
 </feed>
