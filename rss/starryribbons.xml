@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@starryribbons</id>
   <title>starryribbons</title>
-  <updated>2024-09-03T19:21:55+00:00</updated>
+  <updated>2024-09-05T19:14:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from starryribbons</subtitle>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7395613229788957985</id>
-    <title>ignore the dirty mirror + pls drop rec in the comments thanks!! muawh #coquettecore #digitaldiary #fangirltok #wlw #ao3 #fanfic #fanfiction #gracieabrams </title>
-    <updated>2024-07-25T16:36:34+00:00</updated>
-    <content>ignore the dirty mirror + pls drop rec in the comments thanks!! muawh #coquettecore #digitaldiary #fangirltok #wlw #ao3 #fanfic #fanfiction #gracieabrams </content>
-    <link href="https://tiktok.com/@starryribbons/video/7395613229788957985"/>
-    <published>2024-07-25T16:36:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7397005575139101984</id>
     <title>straight from the tortured poets department #coquettecore #digitaldiary #ttpd #theerastour #taylorswift #erastouroutfits #wlw #munichn2 </title>
@@ -267,6 +259,14 @@
     <content>two idiots one thought ! #digitaldiary #coquetteaesthetic #taylorswift #swiftietok #wlw #fangirl #taylorswiftedit </content>
     <link href="https://tiktok.com/@starryribbons/video/7410499236581608736"/>
     <published>2024-09-03T19:21:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7411239401554021665</id>
+    <title>#ad : how are my hands so shakey @ersanails #digitaldiary #coquetteaesthetic #shoujo #wlw #pressonnails #swiftietok #femmelesbian </title>
+    <updated>2024-09-05T19:14:05+00:00</updated>
+    <content>#ad : how are my hands so shakey @ersanails #digitaldiary #coquetteaesthetic #shoujo #wlw #pressonnails #swiftietok #femmelesbian </content>
+    <link href="https://tiktok.com/@starryribbons/video/7411239401554021665"/>
+    <published>2024-09-05T19:14:05+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7285761406664854817</id>
