@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-09-04T21:37:21+00:00</updated>
+  <updated>2024-09-05T06:33:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7401414588039793953</id>
-    <title>Ich war anfangs schon ein bisschen so ein Pick Me 😅 #trans #transgendergermany #transgirl #fashion </title>
-    <updated>2024-08-10T07:49:02+00:00</updated>
-    <content>Ich war anfangs schon ein bisschen so ein Pick Me 😅 #trans #transgendergermany #transgirl #fashion </content>
-    <link href="https://tiktok.com/@tandarok/video/7401414588039793953"/>
-    <published>2024-08-10T07:49:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7401062689088245024</id>
     <title>Und wie ess ihr euer Eis so? #twitchgermany #twitchde #twitchclips</title>
@@ -227,6 +219,14 @@
     <content>Antwort auf @seitansbraten.com bisschen bezeichnend... #dating #datinglife #singlelife </content>
     <link href="https://tiktok.com/@tandarok/video/7410905222454758688"/>
     <published>2024-09-04T21:37:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7411043351929031968</id>
+    <title>Bin gespannt, wie die Kommentare hier aussehen werden. 🫠 #friendzone </title>
+    <updated>2024-09-05T06:33:43+00:00</updated>
+    <content>Bin gespannt, wie die Kommentare hier aussehen werden. 🫠 #friendzone </content>
+    <link href="https://tiktok.com/@tandarok/video/7411043351929031968"/>
+    <published>2024-09-05T06:33:43+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
