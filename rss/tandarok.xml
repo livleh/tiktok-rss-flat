@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-09-05T21:05:47+00:00</updated>
+  <updated>2024-09-06T06:06:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7402123033059593504</id>
-    <title>Bisschen München Magic ✨ </title>
-    <updated>2024-08-12T05:38:19+00:00</updated>
-    <content>Bisschen München Magic ✨ </content>
-    <link href="https://tiktok.com/@tandarok/video/7402123033059593504"/>
-    <published>2024-08-12T05:38:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7402511722885483809</id>
     <title>I may or may not have watched to much glee  #glee </title>
@@ -235,6 +227,14 @@
     <content>Antwort auf @seitansbraten.comthe disrespect 😭😭😭 #datinglife </content>
     <link href="https://tiktok.com/@tandarok/video/7411268170952084768"/>
     <published>2024-09-05T21:05:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7411407379893325089</id>
+    <title>Töte ✨ #twitchclips #twitchgermany #twitchde </title>
+    <updated>2024-09-06T06:06:03+00:00</updated>
+    <content>Töte ✨ #twitchclips #twitchgermany #twitchde </content>
+    <link href="https://tiktok.com/@tandarok/video/7411407379893325089"/>
+    <published>2024-09-06T06:06:03+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
