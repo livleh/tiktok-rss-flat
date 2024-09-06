@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lillytino_</id>
   <title>lillytino_</title>
-  <updated>2024-09-04T18:20:40+00:00</updated>
+  <updated>2024-09-06T00:27:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from lillytino_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@lillytino_/video/7374499424262704426</id>
-    <title>Thats a spicy tortellini 🍝</title>
-    <updated>2024-05-29T19:04:13+00:00</updated>
-    <content>Thats a spicy tortellini 🍝</content>
-    <link href="https://tiktok.com/@lillytino_/video/7374499424262704426"/>
-    <published>2024-05-29T19:04:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@lillytino_/video/7375200975096810798</id>
     <title>We just gotta go 🤷‍♀️</title>
@@ -115,5 +107,13 @@
     <content>One of our greatest leaders 🙏</content>
     <link href="https://tiktok.com/@lillytino_/video/7410854539961716010"/>
     <published>2024-09-04T18:20:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lillytino_/video/7411320118241889582</id>
+    <title>🫳🎤</title>
+    <updated>2024-09-06T00:27:17+00:00</updated>
+    <content>🫳🎤</content>
+    <link href="https://tiktok.com/@lillytino_/video/7411320118241889582"/>
+    <published>2024-09-06T00:27:17+00:00</published>
   </entry>
 </feed>
