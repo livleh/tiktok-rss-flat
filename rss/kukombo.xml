@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@kukombo</id>
   <title>kukombo</title>
-  <updated>2024-07-31T21:45:09+00:00</updated>
+  <updated>2024-09-06T20:49:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from kukombo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kukombo/video/7154429419111714049</id>
-    <title>oh darling, we do not touch auntie Edna’s glasses 😈 MAKE SURE TO CHECK OUT OUR OTHER VIDEO ON @jessechrisss’s PAGE! 🫶🏼 #ednamode #violetparr #incredibles </title>
-    <updated>2022-10-14T18:00:19+00:00</updated>
-    <content>oh darling, we do not touch auntie Edna’s glasses 😈 MAKE SURE TO CHECK OUT OUR OTHER VIDEO ON @jessechrisss’s PAGE! 🫶🏼 #ednamode #violetparr #incredibles </content>
-    <link href="https://tiktok.com/@kukombo/video/7154429419111714049"/>
-    <published>2022-10-14T18:00:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kukombo/video/7158544024347888898</id>
     <title>Transcending reality with @Calvin Klein Defy Eau de Parfum #ckdefy </title>
@@ -259,6 +251,14 @@
     <content>#AD The way this game scratches that part of my brain… I fear I may be obsessed @Match Factory! </content>
     <link href="https://tiktok.com/@kukombo/video/7397919230282173727"/>
     <published>2024-07-31T21:45:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kukombo/video/7411635004096269598</id>
+    <title>Time for Teletubbies! #Teletubbies</title>
+    <updated>2024-09-06T20:49:24+00:00</updated>
+    <content>Time for Teletubbies! #Teletubbies</content>
+    <link href="https://tiktok.com/@kukombo/video/7411635004096269598"/>
+    <published>2024-09-06T20:49:24+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@kukombo/video/6985183691433659650</id>
