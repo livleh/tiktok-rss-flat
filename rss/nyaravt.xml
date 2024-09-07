@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-09-06T20:00:00+00:00</updated>
+  <updated>2024-09-07T13:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7401921609725938977</id>
-    <title>F:\NYARA\DEBUT\ANNOUNCEMENT.MP4 - 19.08.2024 5PM CEST</title>
-    <updated>2024-08-11T16:37:48+00:00</updated>
-    <content>F:\NYARA\DEBUT\ANNOUNCEMENT.MP4 - 19.08.2024 5PM CEST</content>
-    <link href="https://tiktok.com/@nyaravt/video/7401921609725938977"/>
-    <published>2024-08-11T16:37:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7405217202623892768</id>
     <title>VTUBER FORGETS HOW STREAMING WORKS #vtuber</title>
@@ -275,5 +267,13 @@
     <content>transitioning is a painful process #vtuber #trans</content>
     <link href="https://tiktok.com/@nyaravt/video/7411497901286870304"/>
     <published>2024-09-06T20:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7411877578463628577</id>
+    <title>misogyny as a transitioning goal #vtuber #trans</title>
+    <updated>2024-09-07T13:00:00+00:00</updated>
+    <content>misogyny as a transitioning goal #vtuber #trans</content>
+    <link href="https://tiktok.com/@nyaravt/video/7411877578463628577"/>
+    <published>2024-09-07T13:00:00+00:00</published>
   </entry>
 </feed>
