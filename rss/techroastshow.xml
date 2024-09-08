@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-09-07T13:01:15+00:00</updated>
+  <updated>2024-09-07T19:47:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7404967693637389599</id>
-    <title>every tech bro who works from home  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #techroastshow </title>
-    <updated>2024-08-19T21:36:51+00:00</updated>
-    <content>every tech bro who works from home  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #techroastshow </content>
-    <link href="https://tiktok.com/@techroastshow/video/7404967693637389599"/>
-    <published>2024-08-19T21:36:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7405193710117408031</id>
     <title>Sad #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #techroastshow </title>
@@ -267,6 +259,14 @@
     <content>he’s rich  #techie #softwareengineer #newyork #nyc #programmerlife #roastbattle #darkhumor #techroastshow</content>
     <link href="https://tiktok.com/@techroastshow/video/7411885418330787103"/>
     <published>2024-09-07T13:01:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7411990221799181598</id>
+    <title>every tech intern vlog  #techie #softwareengineer #intern #newyork #programmerlife #techroastshow</title>
+    <updated>2024-09-07T19:47:48+00:00</updated>
+    <content>every tech intern vlog  #techie #softwareengineer #intern #newyork #programmerlife #techroastshow</content>
+    <link href="https://tiktok.com/@techroastshow/video/7411990221799181598"/>
+    <published>2024-09-07T19:47:48+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
