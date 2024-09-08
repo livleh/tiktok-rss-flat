@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@pasha</id>
   <title>pasha</title>
-  <updated>2024-09-04T12:32:36+00:00</updated>
+  <updated>2024-09-08T11:40:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pasha</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pasha/video/7378448673295863056</id>
-    <title>they really do do that 😭 based on a true story… #german #germany #deutschland #lifeingermany #germanstare </title>
-    <updated>2024-06-09T10:29:20+00:00</updated>
-    <content>they really do do that 😭 based on a true story… #german #germany #deutschland #lifeingermany #germanstare </content>
-    <link href="https://tiktok.com/@pasha/video/7378448673295863056"/>
-    <published>2024-06-09T10:29:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7378822248838286593</id>
     <title>this stare is the best way to know if an Eastern European approves of your fashion choice #easterneuropean #slavic #easterneuropeancomedy</title>
@@ -275,6 +267,14 @@
     <content>what your favourite LinkedIn phrases ACTUALLY MEAN: “so proud of everything you’ve achieved!” - I have no idea what you actually did in this role, but this sounds supportive, right? “I am leaving this role to focus on what truly matters - my family” - the</content>
     <link href="https://tiktok.com/@pasha/video/7410764854526545160"/>
     <published>2024-09-04T12:32:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pasha/video/7412235878346673426</id>
+    <title>with the mighty decree bestowed upon me by Emily in Paris, hereby declare the official end of 2024 European summer!  it’s time to pack up those swimsuits and sun hats. summmer is over, and Europe bids you farewell - for now! dear Europeans, take a deep br</title>
+    <updated>2024-09-08T11:40:56+00:00</updated>
+    <content>with the mighty decree bestowed upon me by Emily in Paris, hereby declare the official end of 2024 European summer!  it’s time to pack up those swimsuits and sun hats. summmer is over, and Europe bids you farewell - for now! dear Europeans, take a deep br</content>
+    <link href="https://tiktok.com/@pasha/video/7412235878346673426"/>
+    <published>2024-09-08T11:40:56+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7402693921005899028</id>
