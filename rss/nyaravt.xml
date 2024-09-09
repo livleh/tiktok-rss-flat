@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-09-08T20:00:00+00:00</updated>
+  <updated>2024-09-09T13:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7406293001456110880</id>
-    <title>WHY DO TRANS GIRLS PICK DOG NAMES?? #vtuber</title>
-    <updated>2024-08-23T13:00:00+00:00</updated>
-    <content>WHY DO TRANS GIRLS PICK DOG NAMES?? #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7406293001456110880"/>
-    <published>2024-08-23T13:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7406690149888757025</id>
     <title>DO I GIVE DOMMY VIBES?? #vtuber</title>
@@ -283,5 +275,13 @@
     <content>why trans people are scared of voice calls #vtuber</content>
     <link href="https://tiktok.com/@nyaravt/video/7412255198694968609"/>
     <published>2024-09-08T20:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7412603188446121248</id>
+    <title>when your teammates gaslight you in valorant #vtuber</title>
+    <updated>2024-09-09T13:00:00+00:00</updated>
+    <content>when your teammates gaslight you in valorant #vtuber</content>
+    <link href="https://tiktok.com/@nyaravt/video/7412603188446121248"/>
+    <published>2024-09-09T13:00:00+00:00</published>
   </entry>
 </feed>
