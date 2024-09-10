@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@pasha</id>
   <title>pasha</title>
-  <updated>2024-09-08T11:40:56+00:00</updated>
+  <updated>2024-09-10T10:07:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pasha</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pasha/video/7378822248838286593</id>
-    <title>this stare is the best way to know if an Eastern European approves of your fashion choice #easterneuropean #slavic #easterneuropeancomedy</title>
-    <updated>2024-06-10T10:39:03+00:00</updated>
-    <content>this stare is the best way to know if an Eastern European approves of your fashion choice #easterneuropean #slavic #easterneuropeancomedy</content>
-    <link href="https://tiktok.com/@pasha/video/7378822248838286593"/>
-    <published>2024-06-10T10:39:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7379173361743678721</id>
     <title>how about we visit London this summer? this is the right way to do London with @Hotel Café Royal #london #londontrip #londonhotel #hotelcaferoyal #thesetcollection </title>
@@ -275,6 +267,14 @@
     <content>with the mighty decree bestowed upon me by Emily in Paris, hereby declare the official end of 2024 European summer!  it’s time to pack up those swimsuits and sun hats. summmer is over, and Europe bids you farewell - for now! dear Europeans, take a deep br</content>
     <link href="https://tiktok.com/@pasha/video/7412235878346673426"/>
     <published>2024-09-08T11:40:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pasha/video/7412954016868502792</id>
+    <title>IKEA is our happy place #ikea #ikeavisit #ikeatok #homedecor #comedy #funnyvideos</title>
+    <updated>2024-09-10T10:07:43+00:00</updated>
+    <content>IKEA is our happy place #ikea #ikeavisit #ikeatok #homedecor #comedy #funnyvideos</content>
+    <link href="https://tiktok.com/@pasha/video/7412954016868502792"/>
+    <published>2024-09-10T10:07:43+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7402693921005899028</id>
