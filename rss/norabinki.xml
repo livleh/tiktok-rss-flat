@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@norabinki</id>
   <title>norabinki</title>
-  <updated>2024-09-02T17:30:38+00:00</updated>
+  <updated>2024-09-10T16:23:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from norabinki</subtitle>
-  <entry>
-    <id>https://tiktok.com/@norabinki/video/7333274081715899680</id>
-    <title>Mit Kameramann @Bruzzli #schweiz #fyp #CapCut </title>
-    <updated>2024-02-08T16:48:52+00:00</updated>
-    <content>Mit Kameramann @Bruzzli #schweiz #fyp #CapCut </content>
-    <link href="https://tiktok.com/@norabinki/video/7333274081715899680"/>
-    <published>2024-02-08T16:48:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@norabinki/video/7338097660458487073</id>
-    <title>Basler Fasnacht - mit Kameramann @Bruzzli #fasnacht #schweiz #fyp #CapCut </title>
-    <updated>2024-02-21T16:46:49+00:00</updated>
-    <content>Basler Fasnacht - mit Kameramann @Bruzzli #fasnacht #schweiz #fyp #CapCut </content>
-    <link href="https://tiktok.com/@norabinki/video/7338097660458487073"/>
-    <published>2024-02-21T16:46:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@norabinki/video/7342547672085122336</id>
     <title>Motofestival #schweiz #fyp #motorrad #CapCut </title>
@@ -267,6 +251,14 @@
     <content>Handmähmeisterschaft in Brunnen #schweiz #fyp #meisterschaft #CapCut </content>
     <link href="https://tiktok.com/@norabinki/video/7410099463269780768"/>
     <published>2024-09-02T17:30:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@norabinki/video/7413050861724650785</id>
+    <title>Mittelaltermarkt in Lenzburg  @Bruzzli #schweiz #fyp #mittelalter #CapCut </title>
+    <updated>2024-09-10T16:23:30+00:00</updated>
+    <content>Mittelaltermarkt in Lenzburg  @Bruzzli #schweiz #fyp #mittelalter #CapCut </content>
+    <link href="https://tiktok.com/@norabinki/video/7413050861724650785"/>
+    <published>2024-09-10T16:23:30+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@norabinki/video/7283544477661203745</id>
