@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ramalauw</id>
   <title>ramalauw</title>
-  <updated>2024-09-03T16:30:00+00:00</updated>
+  <updated>2024-09-09T15:53:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ramalauw</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ramalauw/video/7379300191079288096</id>
-    <title>Greek summer is here and there ain’t nothing like it 🥺🇬🇷🌊🌺🥙🏛️🌈💃✨ #Greece #summer #europe #travel #traveling #traveltok #greecetiktok #fyp #foryou </title>
-    <updated>2024-06-11T17:33:40+00:00</updated>
-    <content>Greek summer is here and there ain’t nothing like it 🥺🇬🇷🌊🌺🥙🏛️🌈💃✨ #Greece #summer #europe #travel #traveling #traveltok #greecetiktok #fyp #foryou </content>
-    <link href="https://tiktok.com/@ramalauw/video/7379300191079288096"/>
-    <published>2024-06-11T17:33:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7381475526990499105</id>
     <title>✨Toxiqué Masculinity ✨ has been passed down for many many generations in my familia. How about yours? June is Men's Mental Health Awareness Month so I wanted to make this video to remind ourselves that there's no right way to be a man. A man can be tough,</title>
@@ -251,6 +243,14 @@
     <content>Can you guess how many years apart these clips were taken? 🥵🥰🥹🫶✨</content>
     <link href="https://tiktok.com/@ramalauw/video/7410454928205892896"/>
     <published>2024-09-03T16:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ramalauw/video/7412671978206809377</id>
+    <title>I’m working late (stayed up till 4am) cause I’m a singer (spent 4 hours r0tt1ng in bed doomscrolling 🤡)</title>
+    <updated>2024-09-09T15:53:18+00:00</updated>
+    <content>I’m working late (stayed up till 4am) cause I’m a singer (spent 4 hours r0tt1ng in bed doomscrolling 🤡)</content>
+    <link href="https://tiktok.com/@ramalauw/video/7412671978206809377"/>
+    <published>2024-09-09T15:53:18+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7270903343638187297</id>

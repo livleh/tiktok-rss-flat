@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-09-09T13:00:00+00:00</updated>
+  <updated>2024-09-09T20:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7406690149888757025</id>
-    <title>DO I GIVE DOMMY VIBES?? #vtuber</title>
-    <updated>2024-08-24T13:00:44+00:00</updated>
-    <content>DO I GIVE DOMMY VIBES?? #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7406690149888757025"/>
-    <published>2024-08-24T13:00:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7406690529527909665</id>
     <title>WHEN YOU GET BULLIED BY CHAT #vtuber</title>
@@ -283,5 +275,13 @@
     <content>when your teammates gaslight you in valorant #vtuber</content>
     <link href="https://tiktok.com/@nyaravt/video/7412603188446121248"/>
     <published>2024-09-09T13:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7412603873648594209</id>
+    <title>transitioning is for the comfort of others #trans</title>
+    <updated>2024-09-09T20:00:00+00:00</updated>
+    <content>transitioning is for the comfort of others #trans</content>
+    <link href="https://tiktok.com/@nyaravt/video/7412603873648594209"/>
+    <published>2024-09-09T20:00:00+00:00</published>
   </entry>
 </feed>

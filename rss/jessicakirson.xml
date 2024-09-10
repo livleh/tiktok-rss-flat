@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-09-08T21:03:49+00:00</updated>
+  <updated>2024-09-09T22:07:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7405724353419103519</id>
-    <title>My fans know me so well ❤️ #fy </title>
-    <updated>2024-08-21T22:33:05+00:00</updated>
-    <content>My fans know me so well ❤️ #fy </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7405724353419103519"/>
-    <published>2024-08-21T22:33:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7406100483347139871</id>
     <title>He Found The ⭐️😂 #startup #fy #foryou </title>
@@ -139,6 +131,14 @@
     <content>She wants to free them all 😂 #fy #foryou </content>
     <link href="https://tiktok.com/@jessicakirson/video/7412380901662821663"/>
     <published>2024-09-08T21:03:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7412768458284305694</id>
+    <title>Couple met on Craigslist!  #craigslist #dating #lgbtq </title>
+    <updated>2024-09-09T22:07:46+00:00</updated>
+    <content>Couple met on Craigslist!  #craigslist #dating #lgbtq </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7412768458284305694"/>
+    <published>2024-09-09T22:07:46+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7406711443023826206</id>
