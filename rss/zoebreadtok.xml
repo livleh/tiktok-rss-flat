@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-09-08T17:56:36+00:00</updated>
+  <updated>2024-09-10T18:00:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7394886422638890273</id>
-    <title>my first big news scoop!!!! featuring gary the gorilla!!! </title>
-    <updated>2024-07-23T17:36:12+00:00</updated>
-    <content>my first big news scoop!!!! featuring gary the gorilla!!! </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7394886422638890273"/>
-    <published>2024-07-23T17:36:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7395256211614027041</id>
     <title>Replying to @FestivalShed the conclusion to the flat gary the gorilla saga. gary’s front is still out there somehwere and i Will Find it </title>
@@ -235,5 +227,13 @@
     <content>[bird noises]</content>
     <link href="https://tiktok.com/@zoebreadtok/video/7412332689832824097"/>
     <published>2024-09-08T17:56:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7413075917263637793</id>
+    <title>me, banksy, phil and the model village in beaconsfield: together at last </title>
+    <updated>2024-09-10T18:00:42+00:00</updated>
+    <content>me, banksy, phil and the model village in beaconsfield: together at last </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7413075917263637793"/>
+    <published>2024-09-10T18:00:42+00:00</published>
   </entry>
 </feed>

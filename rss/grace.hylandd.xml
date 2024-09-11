@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-09-10T06:26:35+00:00</updated>
+  <updated>2024-09-11T04:50:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7394407607642934546</id>
-    <title>Once you realise you can survive on your own, you’re unstoppable!</title>
-    <updated>2024-07-22T10:38:07+00:00</updated>
-    <content>Once you realise you can survive on your own, you’re unstoppable!</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7394407607642934546"/>
-    <published>2024-07-22T10:38:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7394795242987195666</id>
     <title>I’ll be your Morticia 🥀</title>
@@ -275,5 +267,13 @@
     <content>There was a time where i used to ‘hunt’ men. All it got me was a broken heart and time ill never get back. Women were not made to hunt, men were, so let them. They enjoy it, we don’t.</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7412897023256579334"/>
     <published>2024-09-10T06:26:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7413243475262524692</id>
+    <title>🥀 who cares</title>
+    <updated>2024-09-11T04:50:58+00:00</updated>
+    <content>🥀 who cares</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7413243475262524692"/>
+    <published>2024-09-11T04:50:58+00:00</published>
   </entry>
 </feed>
