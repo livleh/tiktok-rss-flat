@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-09-11T04:50:58+00:00</updated>
+  <updated>2024-09-11T08:26:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7394795242987195666</id>
-    <title>I’ll be your Morticia 🥀</title>
-    <updated>2024-07-23T11:42:19+00:00</updated>
-    <content>I’ll be your Morticia 🥀</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7394795242987195666"/>
-    <published>2024-07-23T11:42:19+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7395221121110412551</id>
-    <title>Worth everything 💫</title>
-    <updated>2024-07-24T15:14:57+00:00</updated>
-    <content>Worth everything 💫</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7395221121110412551"/>
-    <published>2024-07-24T15:14:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7396270324486016264</id>
     <title>Something’s gotta give</title>
@@ -275,5 +259,21 @@
     <content>🥀 who cares</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7413243475262524692"/>
     <published>2024-09-11T04:50:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7413280815997603092</id>
+    <title>She fd me up fr</title>
+    <updated>2024-09-11T07:15:53+00:00</updated>
+    <content>She fd me up fr</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7413280815997603092"/>
+    <published>2024-09-11T07:15:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7413299094308867349</id>
+    <title>Am I crazy???</title>
+    <updated>2024-09-11T08:26:49+00:00</updated>
+    <content>Am I crazy???</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7413299094308867349"/>
+    <published>2024-09-11T08:26:49+00:00</published>
   </entry>
 </feed>

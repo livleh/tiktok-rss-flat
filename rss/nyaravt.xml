@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-09-10T18:00:00+00:00</updated>
+  <updated>2024-09-11T12:35:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7407415713805176097</id>
-    <title>REGRETTING MEDICALLY TRANSITIONING #trans #vtuber</title>
-    <updated>2024-08-26T13:00:00+00:00</updated>
-    <content>REGRETTING MEDICALLY TRANSITIONING #trans #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7407415713805176097"/>
-    <published>2024-08-26T13:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7407416068626566433</id>
     <title>FINALLY WOKE UP AS A GIRL #vtuber #trans</title>
@@ -283,6 +275,14 @@
     <content>raising the larynx without hurting yourself #vtuber #trans</content>
     <link href="https://tiktok.com/@nyaravt/video/7413002118551850272"/>
     <published>2024-09-10T18:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7413358772363480352</id>
+    <title>estrogen turned me into a clumsy puppy #vtuber</title>
+    <updated>2024-09-11T12:35:00+00:00</updated>
+    <content>estrogen turned me into a clumsy puppy #vtuber</content>
+    <link href="https://tiktok.com/@nyaravt/video/7413358772363480352"/>
+    <published>2024-09-11T12:35:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>
