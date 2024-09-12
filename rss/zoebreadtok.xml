@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-09-11T17:49:22+00:00</updated>
+  <updated>2024-09-12T17:37:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7395623770184076577</id>
-    <title>i thought the numbers were funny. i just think theyre neat. also they still suck for stressing me out and passing me to a debt collector 😡😡😡 check your bills make sense 😡😡😡</title>
-    <updated>2024-07-25T17:17:29+00:00</updated>
-    <content>i thought the numbers were funny. i just think theyre neat. also they still suck for stressing me out and passing me to a debt collector 😡😡😡 check your bills make sense 😡😡😡</content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7395623770184076577"/>
-    <published>2024-07-25T17:17:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7396742972324203808</id>
     <title>four i mean five i mean fire </title>
@@ -235,5 +227,13 @@
     <content>this is what happened when i went to legoland in windsor</content>
     <link href="https://tiktok.com/@zoebreadtok/video/7413444064420400416"/>
     <published>2024-09-11T17:49:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7413812069201464608</id>
+    <title>save the teddy bears!!!!</title>
+    <updated>2024-09-12T17:37:20+00:00</updated>
+    <content>save the teddy bears!!!!</content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7413812069201464608"/>
+    <published>2024-09-12T17:37:20+00:00</published>
   </entry>
 </feed>
