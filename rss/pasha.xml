@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@pasha</id>
   <title>pasha</title>
-  <updated>2024-09-10T10:07:43+00:00</updated>
+  <updated>2024-09-12T12:04:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pasha</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pasha/video/7379173361743678721</id>
-    <title>how about we visit London this summer? this is the right way to do London with @Hotel Café Royal #london #londontrip #londonhotel #hotelcaferoyal #thesetcollection </title>
-    <updated>2024-06-11T09:21:32+00:00</updated>
-    <content>how about we visit London this summer? this is the right way to do London with @Hotel Café Royal #london #londontrip #londonhotel #hotelcaferoyal #thesetcollection </content>
-    <link href="https://tiktok.com/@pasha/video/7379173361743678721"/>
-    <published>2024-06-11T09:21:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7379634902674722049</id>
     <title>what living in Germany can do to you 😅 #german #germany #deutschland #lifeingermany #berlinvibes </title>
@@ -275,6 +267,14 @@
     <content>IKEA is our happy place #ikea #ikeavisit #ikeatok #homedecor #comedy #funnyvideos</content>
     <link href="https://tiktok.com/@pasha/video/7412954016868502792"/>
     <published>2024-09-10T10:07:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pasha/video/7413726384012430600</id>
+    <title>your reminder to keep focusing on yourself until the focus will be on you… #comedy </title>
+    <updated>2024-09-12T12:04:52+00:00</updated>
+    <content>your reminder to keep focusing on yourself until the focus will be on you… #comedy </content>
+    <link href="https://tiktok.com/@pasha/video/7413726384012430600"/>
+    <published>2024-09-12T12:04:52+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7402693921005899028</id>
