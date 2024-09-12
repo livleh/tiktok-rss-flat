@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-09-11T07:58:53+00:00</updated>
+  <updated>2024-09-11T18:18:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7403485266159193376</id>
-    <title>Darf ich Präferenzen haben? #dating #datinglife #singlelife </title>
-    <updated>2024-08-15T21:44:09+00:00</updated>
-    <content>Darf ich Präferenzen haben? #dating #datinglife #singlelife </content>
-    <link href="https://tiktok.com/@tandarok/video/7403485266159193376"/>
-    <published>2024-08-15T21:44:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7403819661659327776</id>
     <title>#pokemon #style #umbreon </title>
@@ -251,6 +243,14 @@
     <content>New insecurity unlocked #twitchde #twitchgermany #twitchclips </content>
     <link href="https://tiktok.com/@tandarok/video/7413291900058209569"/>
     <published>2024-09-11T07:58:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7413451580252409121</id>
+    <title>Und gleich doppelt 🚮 wenn du selbst trans bist und meinst gegen nicht binäre Leute schießen zu müssen. #nonbinary #queertok </title>
+    <updated>2024-09-11T18:18:29+00:00</updated>
+    <content>Und gleich doppelt 🚮 wenn du selbst trans bist und meinst gegen nicht binäre Leute schießen zu müssen. #nonbinary #queertok </content>
+    <link href="https://tiktok.com/@tandarok/video/7413451580252409121"/>
+    <published>2024-09-11T18:18:29+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>

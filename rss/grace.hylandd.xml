@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-09-11T08:26:49+00:00</updated>
+  <updated>2024-09-11T13:28:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7396270324486016264</id>
-    <title>Something’s gotta give</title>
-    <updated>2024-07-27T11:06:23+00:00</updated>
-    <content>Something’s gotta give</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7396270324486016264"/>
-    <published>2024-07-27T11:06:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7396522819162492167</id>
     <title>Im just a sweet girl 😊</title>
@@ -275,5 +267,13 @@
     <content>Am I crazy???</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7413299094308867349"/>
     <published>2024-09-11T08:26:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7413376702753148176</id>
+    <title>Always a humbling experience </title>
+    <updated>2024-09-11T13:28:01+00:00</updated>
+    <content>Always a humbling experience </content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7413376702753148176"/>
+    <published>2024-09-11T13:28:01+00:00</published>
   </entry>
 </feed>
