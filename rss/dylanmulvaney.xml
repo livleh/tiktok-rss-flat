@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@dylanmulvaney</id>
   <title>dylanmulvaney</title>
-  <updated>2024-09-09T20:53:14+00:00</updated>
+  <updated>2024-09-12T07:30:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylanmulvaney</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylanmulvaney/video/7357836927208541486</id>
-    <title>Headed to opening night of @LEMPICKA on broadway 🖤@reformation @LaurelCharleston @zenobiateague </title>
-    <updated>2024-04-14T21:25:39+00:00</updated>
-    <content>Headed to opening night of @LEMPICKA on broadway 🖤@reformation @LaurelCharleston @zenobiateague </content>
-    <link href="https://tiktok.com/@dylanmulvaney/video/7357836927208541486"/>
-    <published>2024-04-14T21:25:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7359600089515560234</id>
     <title>Niche but felt right #sexandthecity #charlotteyork @Kristin Davis </title>
@@ -235,6 +227,14 @@
     <content>Trigger warning: @JoJo Siwa and I met and it was just as chaotic as you would have imagined. @christiancowan </content>
     <link href="https://tiktok.com/@dylanmulvaney/video/7412749273336515882"/>
     <published>2024-09-09T20:53:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylanmulvaney/video/7413655688477461803</id>
+    <title>Day 915- browgate </title>
+    <updated>2024-09-12T07:30:37+00:00</updated>
+    <content>Day 915- browgate </content>
+    <link href="https://tiktok.com/@dylanmulvaney/video/7413655688477461803"/>
+    <published>2024-09-12T07:30:37+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7193364487171444014</id>

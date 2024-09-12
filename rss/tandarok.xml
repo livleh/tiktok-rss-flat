@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-09-11T18:18:29+00:00</updated>
+  <updated>2024-09-12T06:25:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7403819661659327776</id>
-    <title>#pokemon #style #umbreon </title>
-    <updated>2024-08-16T19:21:47+00:00</updated>
-    <content>#pokemon #style #umbreon </content>
-    <link href="https://tiktok.com/@tandarok/video/7403819661659327776"/>
-    <published>2024-08-16T19:21:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7404463862487010593</id>
     <title>Antwort auf @flotschiiii Viele unserer Dating Präferenzen sind einfach sozial konstruiert und nicht unbedingt unsere persönlichen Vorlieben. #dating #datinglife #singlelife </title>
@@ -251,6 +243,14 @@
     <content>Und gleich doppelt 🚮 wenn du selbst trans bist und meinst gegen nicht binäre Leute schießen zu müssen. #nonbinary #queertok </content>
     <link href="https://tiktok.com/@tandarok/video/7413451580252409121"/>
     <published>2024-09-11T18:18:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7413150105760435488</id>
+    <title>Datet ihr mehr als eine Person gleichzeitig oder immer eine nach der anderen? #dating #datinglife #singlelife</title>
+    <updated>2024-09-12T06:25:00+00:00</updated>
+    <content>Datet ihr mehr als eine Person gleichzeitig oder immer eine nach der anderen? #dating #datinglife #singlelife</content>
+    <link href="https://tiktok.com/@tandarok/video/7413150105760435488"/>
+    <published>2024-09-12T06:25:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
