@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@danielryanspaulding</id>
   <title>danielryanspaulding</title>
-  <updated>2024-09-12T19:49:18+00:00</updated>
+  <updated>2024-09-13T14:51:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from danielryanspaulding</subtitle>
-  <entry>
-    <id>https://tiktok.com/@danielryanspaulding/video/7377369782535867680</id>
-    <title>Hamas is a Islamic Terrorist regime that has held the Gazan people hostages for 18yrs &amp; has radicalized them. Their goal is the destruction of Israel, not "freeing" anyone. Hamas is a Proxy regime of the Islamic Republic of Iran that wants to destroy the </title>
-    <updated>2024-06-06T12:42:42+00:00</updated>
-    <content>Hamas is a Islamic Terrorist regime that has held the Gazan people hostages for 18yrs &amp; has radicalized them. Their goal is the destruction of Israel, not "freeing" anyone. Hamas is a Proxy regime of the Islamic Republic of Iran that wants to destroy the </content>
-    <link href="https://tiktok.com/@danielryanspaulding/video/7377369782535867680"/>
-    <published>2024-06-06T12:42:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@danielryanspaulding/video/7378071206064311585</id>
     <title>Interview with i24 news </title>
@@ -267,5 +259,13 @@
     <content>Sorry Cori Bush, you arent going to destroy #aipac &amp; the holy jewish nation #israel #usa #coribush #ilanaglazer #middleeast #irgc #hezbollah #houthis </content>
     <link href="https://tiktok.com/@danielryanspaulding/video/7413846074785434913"/>
     <published>2024-09-12T19:49:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@danielryanspaulding/video/7414140351977491745</id>
+    <title>So many fucking living rooms #powergay #highlandpark #gay #comedy #chicago #suburbs </title>
+    <updated>2024-09-13T14:51:22+00:00</updated>
+    <content>So many fucking living rooms #powergay #highlandpark #gay #comedy #chicago #suburbs </content>
+    <link href="https://tiktok.com/@danielryanspaulding/video/7414140351977491745"/>
+    <published>2024-09-13T14:51:22+00:00</published>
   </entry>
 </feed>

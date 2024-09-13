@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2024-09-06T17:30:40+00:00</updated>
+  <updated>2024-09-13T15:10:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from loveletterstosf</subtitle>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7389678464833506606</id>
-    <title>just some thoughts 💭 #sf </title>
-    <updated>2024-07-09T16:46:42+00:00</updated>
-    <content>just some thoughts 💭 #sf </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7389678464833506606"/>
-    <published>2024-07-09T16:46:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7389788231384059179</id>
-    <title>This is your sign to go see a comedy show at Punch Line, SF's oldest-running comedy club! They feature both big-name comics (like Hasan Minaj and Taylor Tomlinson this month!) and up-and-comers in an intimate setting. #ThingsToDoInSF ##SFTok #ComedyShow </title>
-    <updated>2024-07-09T23:52:39+00:00</updated>
-    <content>This is your sign to go see a comedy show at Punch Line, SF's oldest-running comedy club! They feature both big-name comics (like Hasan Minaj and Taylor Tomlinson this month!) and up-and-comers in an intimate setting. #ThingsToDoInSF ##SFTok #ComedyShow </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7389788231384059179"/>
-    <published>2024-07-09T23:52:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7390786073187634475</id>
     <title>happy weekend #sf go out &amp; do something fun 💕 #sftok #thingstodoinsf #sfevents #thisweekendinsf #sanfrancisco </title>
@@ -243,5 +227,21 @@
     <content>comment other fun tings to do #thisweekendinsf #sfevents #sftok #sanfrancisco #nightmarket #filmscreening #thingstodoinsf </content>
     <link href="https://tiktok.com/@loveletterstosf/video/7411583815119850795"/>
     <published>2024-09-06T17:30:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7414137227522886954</id>
+    <title>loved last night’s #transamericapyramid #lightshow #sf #skysline #sfnight #sflights #sfdowntown #transamericabuilding #shotondrone </title>
+    <updated>2024-09-13T14:39:08+00:00</updated>
+    <content>loved last night’s #transamericapyramid #lightshow #sf #skysline #sfnight #sflights #sfdowntown #transamericabuilding #shotondrone </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7414137227522886954"/>
+    <published>2024-09-13T14:39:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7414145389051383082</id>
+    <title>lots to do in #sf this weekend! I’m personally excited flower piano is back 🌸 #thisweekendinsf #sfevents #thingstodoinsf #nightmarket #sfdowntown #haightashbury #chinatown </title>
+    <updated>2024-09-13T15:10:52+00:00</updated>
+    <content>lots to do in #sf this weekend! I’m personally excited flower piano is back 🌸 #thisweekendinsf #sfevents #thingstodoinsf #nightmarket #sfdowntown #haightashbury #chinatown </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7414145389051383082"/>
+    <published>2024-09-13T15:10:52+00:00</published>
   </entry>
 </feed>
