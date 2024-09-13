@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tallywyteee</id>
   <title>tallywyteee</title>
-  <updated>2024-09-09T18:26:37+00:00</updated>
+  <updated>2024-09-13T01:07:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tallywyteee</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tallywyteee/video/7366002548345539886</id>
-    <title>What counrty are you frim? 😎</title>
-    <updated>2024-05-06T21:32:08+00:00</updated>
-    <content>What counrty are you frim? 😎</content>
-    <link href="https://tiktok.com/@tallywyteee/video/7366002548345539886"/>
-    <published>2024-05-06T21:32:08+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@tallywyteee/video/7366731827077188910</id>
-    <title>Are you gæ? 😝💙</title>
-    <updated>2024-05-08T20:42:04+00:00</updated>
-    <content>Are you gæ? 😝💙</content>
-    <link href="https://tiktok.com/@tallywyteee/video/7366731827077188910"/>
-    <published>2024-05-08T20:42:04+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@tallywyteee/video/7367471982884982059</id>
-    <title>Will you remember homie? 💀💔</title>
-    <updated>2024-05-10T20:34:17+00:00</updated>
-    <content>Will you remember homie? 💀💔</content>
-    <link href="https://tiktok.com/@tallywyteee/video/7367471982884982059"/>
-    <published>2024-05-10T20:34:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7374523483109281054</id>
     <title>Be honest bro 😂👍🏻</title>
@@ -269,12 +245,12 @@
     <published>2024-08-18T22:42:57+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@tallywyteee/video/7412711502429375787</id>
-    <title>What would you do if I was on your screen and homie tried covering it? 😂💙 #trans #transgirl #transwoman #transgender #transandproud </title>
-    <updated>2024-09-09T18:26:37+00:00</updated>
-    <content>What would you do if I was on your screen and homie tried covering it? 😂💙 #trans #transgirl #transwoman #transgender #transandproud </content>
-    <link href="https://tiktok.com/@tallywyteee/video/7412711502429375787"/>
-    <published>2024-09-09T18:26:37+00:00</published>
+    <id>https://tiktok.com/@tallywyteee/video/7413928097210174762</id>
+    <title>#trans #transgender #transgirl #transwoman #transandproud #transisbeautiful #transpride #lgbtq</title>
+    <updated>2024-09-13T01:07:34+00:00</updated>
+    <content>#trans #transgender #transgirl #transwoman #transandproud #transisbeautiful #transpride #lgbtq</content>
+    <link href="https://tiktok.com/@tallywyteee/video/7413928097210174762"/>
+    <published>2024-09-13T01:07:34+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7261699619762048298</id>
