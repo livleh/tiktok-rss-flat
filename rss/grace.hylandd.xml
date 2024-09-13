@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-09-11T13:28:01+00:00</updated>
+  <updated>2024-09-13T08:13:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7396522819162492167</id>
-    <title>Im just a sweet girl 😊</title>
-    <updated>2024-07-28T03:26:11+00:00</updated>
-    <content>Im just a sweet girl 😊</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7396522819162492167"/>
-    <published>2024-07-28T03:26:11+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7396976342257995015</id>
-    <title>My kitty feels so confident now! @Annie Knight </title>
-    <updated>2024-07-29T08:46:06+00:00</updated>
-    <content>My kitty feels so confident now! @Annie Knight </content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7396976342257995015"/>
-    <published>2024-07-29T08:46:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7397743827227888914</id>
     <title>Replying to @Jack transitioned too young for that babe 😙</title>
@@ -275,5 +259,29 @@
     <content>Always a humbling experience </content>
     <link href="https://tiktok.com/@grace.hylandd/video/7413376702753148176"/>
     <published>2024-09-11T13:28:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7414032053773126928</id>
+    <title>This lives in my head rent free</title>
+    <updated>2024-09-13T07:51:09+00:00</updated>
+    <content>This lives in my head rent free</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7414032053773126928"/>
+    <published>2024-09-13T07:51:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7414036997876043024</id>
+    <title>At what point does it end???</title>
+    <updated>2024-09-13T08:10:20+00:00</updated>
+    <content>At what point does it end???</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7414036997876043024"/>
+    <published>2024-09-13T08:10:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7414037831858801921</id>
+    <title>Cvnt</title>
+    <updated>2024-09-13T08:13:35+00:00</updated>
+    <content>Cvnt</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7414037831858801921"/>
+    <published>2024-09-13T08:13:35+00:00</published>
   </entry>
 </feed>
