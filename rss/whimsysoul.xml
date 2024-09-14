@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-09-13T21:57:05+00:00</updated>
+  <updated>2024-09-14T22:37:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7401376553474575659</id>
-    <title>Replying to @Bridget OSL day 1 fit check. My 🍒 were only cold at the very end, this duster was pretty solid. What should i wear tomorrow for Sabrina?? #sanfrancisco #bayareacheck #outsidelands #outsidelands2024 #outsidelandsoutfits #whimsysoul #osl2024 #s</title>
-    <updated>2024-08-10T05:21:16+00:00</updated>
-    <content>Replying to @Bridget OSL day 1 fit check. My 🍒 were only cold at the very end, this duster was pretty solid. What should i wear tomorrow for Sabrina?? #sanfrancisco #bayareacheck #outsidelands #outsidelands2024 #outsidelandsoutfits #whimsysoul #osl2024 #s</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7401376553474575659"/>
-    <published>2024-08-10T05:21:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7401555438921190698</id>
     <title>Replying to @mariah got barricade &amp; free lobster rolls so this was a successful day 1 at outside lands!! Can't wait for sabrina tonight ❤️ #sanfrancisco #outsidelands #outsidelands2024 #bayareacheck #outsidelandsoutfits #whimsysoul #osl2024 #sanfranciscol</title>
@@ -219,6 +211,14 @@
     <content>San Francisco, the best FREE event just started!! 😱 Every year, the San Francisco Botanical Garden throws Flower Piano, an event where they hide grand pianos all over the gardens so guests can go and listen to music. 🎵🌷🎹 There's scheduled shows but also p</content>
     <link href="https://tiktok.com/@whimsysoul/video/7414250079655185707"/>
     <published>2024-09-13T21:57:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7414631651109506346</id>
+    <title>i have eyebrows again 👏 #brows #sanfrancisco #eyebrows #browlaminationandtint #bayarea #beautytreatments #sanfranciscolife #browtint #spa #whimsysoul </title>
+    <updated>2024-09-14T22:37:44+00:00</updated>
+    <content>i have eyebrows again 👏 #brows #sanfrancisco #eyebrows #browlaminationandtint #bayarea #beautytreatments #sanfranciscolife #browtint #spa #whimsysoul </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7414631651109506346"/>
+    <published>2024-09-14T22:37:44+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
