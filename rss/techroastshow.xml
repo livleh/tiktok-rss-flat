@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-09-13T17:18:19+00:00</updated>
+  <updated>2024-09-13T23:00:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7406507110462262558</id>
-    <title>you worked hard all year for this  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</title>
-    <updated>2024-08-24T01:10:33+00:00</updated>
-    <content>you worked hard all year for this  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</content>
-    <link href="https://tiktok.com/@techroastshow/video/7406507110462262558"/>
-    <published>2024-08-24T01:10:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7407117039879425311</id>
     <title>he should put a pin in it for now  #techie #softwareengineer #washingtondc #dc #programmerlife #roastbattle #darkhumor #techroastshow </title>
@@ -267,6 +259,14 @@
     <content>she’s a female data scientist  #techie #softwareengineer #newyork #nyc #programmerlife #roastbattle #darkhumor #techroastshow</content>
     <link href="https://tiktok.com/@techroastshow/video/7414178169885936927"/>
     <published>2024-09-13T17:18:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7414266512027962667</id>
+    <title>Tim Cook unveils latest iphone #apple #iphone #timcook #imoressions #comedy #tech #engineer</title>
+    <updated>2024-09-13T23:00:49+00:00</updated>
+    <content>Tim Cook unveils latest iphone #apple #iphone #timcook #imoressions #comedy #tech #engineer</content>
+    <link href="https://tiktok.com/@techroastshow/video/7414266512027962667"/>
+    <published>2024-09-13T23:00:49+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
