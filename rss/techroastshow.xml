@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-09-13T23:00:49+00:00</updated>
+  <updated>2024-09-14T16:11:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7407117039879425311</id>
-    <title>he should put a pin in it for now  #techie #softwareengineer #washingtondc #dc #programmerlife #roastbattle #darkhumor #techroastshow </title>
-    <updated>2024-08-25T16:37:23+00:00</updated>
-    <content>he should put a pin in it for now  #techie #softwareengineer #washingtondc #dc #programmerlife #roastbattle #darkhumor #techroastshow </content>
-    <link href="https://tiktok.com/@techroastshow/video/7407117039879425311"/>
-    <published>2024-08-25T16:37:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7407117421133221150</id>
     <title>say his company’s name three times and a demon appears  #techie #softwareengineer #dc #washingtondc #programmerlife #roastbattle #darkhumor #techroastshow</title>
@@ -267,6 +259,14 @@
     <content>Tim Cook unveils latest iphone #apple #iphone #timcook #imoressions #comedy #tech #engineer</content>
     <link href="https://tiktok.com/@techroastshow/video/7414266512027962667"/>
     <published>2024-09-13T23:00:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7414532032891456798</id>
+    <title>sweatiest guy in the room does not need a jacket  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</title>
+    <updated>2024-09-14T16:11:20+00:00</updated>
+    <content>sweatiest guy in the room does not need a jacket  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</content>
+    <link href="https://tiktok.com/@techroastshow/video/7414532032891456798"/>
+    <published>2024-09-14T16:11:20+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>

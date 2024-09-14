@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-09-13T08:13:35+00:00</updated>
+  <updated>2024-09-14T13:11:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7400753487706967304</id>
-    <title>Do you guys like that I sped it up or no?</title>
-    <updated>2024-08-08T13:03:21+00:00</updated>
-    <content>Do you guys like that I sped it up or no?</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7400753487706967304"/>
-    <published>2024-08-08T13:03:21+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7400939749126458631</id>
-    <title>This trend but I used to look 10 years older 😳</title>
-    <updated>2024-08-09T01:06:10+00:00</updated>
-    <content>This trend but I used to look 10 years older 😳</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7400939749126458631"/>
-    <published>2024-08-09T01:06:10+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7401374441969683719</id>
-    <title>I don’t judge religious people anymore! </title>
-    <updated>2024-08-10T05:12:59+00:00</updated>
-    <content>I don’t judge religious people anymore! </content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7401374441969683719"/>
-    <published>2024-08-10T05:12:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7401806089794178312</id>
     <title>I belong to a different time x</title>
@@ -267,5 +243,29 @@
     <content>Cvnt</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7414037831858801921"/>
     <published>2024-09-13T08:13:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7414333095370837264</id>
+    <title>Enjoy some big sister advice on men 💕</title>
+    <updated>2024-09-14T03:19:57+00:00</updated>
+    <content>Enjoy some big sister advice on men 💕</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7414333095370837264"/>
+    <published>2024-09-14T03:19:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7414345437634645249</id>
+    <title>Can we not be used as political ammo? Thanks! </title>
+    <updated>2024-09-14T04:07:41+00:00</updated>
+    <content>Can we not be used as political ammo? Thanks! </content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7414345437634645249"/>
+    <published>2024-09-14T04:07:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7414485544580713729</id>
+    <title>The things they’ve called me over the years #trans #glowup #transformation </title>
+    <updated>2024-09-14T13:11:13+00:00</updated>
+    <content>The things they’ve called me over the years #trans #glowup #transformation </content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7414485544580713729"/>
+    <published>2024-09-14T13:11:13+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-09-13T18:00:00+00:00</updated>
+  <updated>2024-09-14T15:56:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7408564910495370528</id>
-    <title>THESES FAKE FEMINISTS ARE BULLYING ME #vtuber #trans</title>
-    <updated>2024-08-29T14:15:40+00:00</updated>
-    <content>THESES FAKE FEMINISTS ARE BULLYING ME #vtuber #trans</content>
-    <link href="https://tiktok.com/@nyaravt/video/7408564910495370528"/>
-    <published>2024-08-29T14:15:40+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7408500291701689633</id>
-    <title>DILATING AFTER MTF SURGERY #vtuber #trans</title>
-    <updated>2024-08-29T20:00:00+00:00</updated>
-    <content>DILATING AFTER MTF SURGERY #vtuber #trans</content>
-    <link href="https://tiktok.com/@nyaravt/video/7408500291701689633"/>
-    <published>2024-08-29T20:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7408883971100118304</id>
     <title>WHEN VTUBERS ARE TRANSPHOBIC #vtuber #trans</title>
@@ -283,6 +267,22 @@
     <content>you do not have free will #vtuber</content>
     <link href="https://tiktok.com/@nyaravt/video/7414095224894426400"/>
     <published>2024-09-13T18:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7414445846206500128</id>
+    <title>wanting to get gendered properly #trans</title>
+    <updated>2024-09-14T13:00:00+00:00</updated>
+    <content>wanting to get gendered properly #trans</content>
+    <link href="https://tiktok.com/@nyaravt/video/7414445846206500128"/>
+    <published>2024-09-14T13:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7414528181140606241</id>
+    <title>what it's like to be trans in valorant #vtuber</title>
+    <updated>2024-09-14T15:56:19+00:00</updated>
+    <content>what it's like to be trans in valorant #vtuber</content>
+    <link href="https://tiktok.com/@nyaravt/video/7414528181140606241"/>
+    <published>2024-09-14T15:56:19+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>
