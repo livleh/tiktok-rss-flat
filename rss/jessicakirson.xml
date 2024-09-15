@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-09-14T14:22:01+00:00</updated>
+  <updated>2024-09-15T15:46:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7407207162851642655</id>
-    <title>Semi Truck Driver was so fun 😂😂 #fy #semi #trucker </title>
-    <updated>2024-08-25T22:27:02+00:00</updated>
-    <content>Semi Truck Driver was so fun 😂😂 #fy #semi #trucker </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7407207162851642655"/>
-    <published>2024-08-25T22:27:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7407581357112708383</id>
     <title>They met 15 years ago and this is how 😂. Comment your city 👇. Planning my 2025 tour xoxo #dating #story </title>
@@ -147,6 +139,14 @@
     <content>Couple traveled from Romania to Berlin to see me  #berlin #romania #fy </content>
     <link href="https://tiktok.com/@jessicakirson/video/7414503848070384927"/>
     <published>2024-09-14T14:22:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7414896605884599582</id>
+    <title>Is Her Accent English Or Australian?  #english #aussie #australia #england </title>
+    <updated>2024-09-15T15:46:03+00:00</updated>
+    <content>Is Her Accent English Or Australian?  #english #aussie #australia #england </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7414896605884599582"/>
+    <published>2024-09-15T15:46:03+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7406711443023826206</id>

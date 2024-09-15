@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-09-14T13:11:13+00:00</updated>
+  <updated>2024-09-15T14:58:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7401806089794178312</id>
-    <title>I belong to a different time x</title>
-    <updated>2024-08-11T09:08:00+00:00</updated>
-    <content>I belong to a different time x</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7401806089794178312"/>
-    <published>2024-08-11T09:08:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7402147201859783944</id>
-    <title>Replying to @Kristy Tanner “puffy, barrel bodied, big girl…” y’all better stop 😂😭</title>
-    <updated>2024-08-12T07:11:42+00:00</updated>
-    <content>Replying to @Kristy Tanner “puffy, barrel bodied, big girl…” y’all better stop 😂😭</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7402147201859783944"/>
-    <published>2024-08-12T07:11:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7402487487848779015</id>
     <title>She was my fave teacher too! She even showed videos of me as a boy!!</title>
@@ -267,5 +251,21 @@
     <content>The things they’ve called me over the years #trans #glowup #transformation </content>
     <link href="https://tiktok.com/@grace.hylandd/video/7414485544580713729"/>
     <published>2024-09-14T13:11:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7414768215512861968</id>
+    <title>I was in a disgustingly stuck up mood throughout this video! It was the outfit, not me 👀</title>
+    <updated>2024-09-15T07:28:18+00:00</updated>
+    <content>I was in a disgustingly stuck up mood throughout this video! It was the outfit, not me 👀</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7414768215512861968"/>
+    <published>2024-09-15T07:28:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7414884384651644161</id>
+    <title>Replying to @ryank620 Would you deny a diabetic child insulin? #trans #model #runway </title>
+    <updated>2024-09-15T14:58:53+00:00</updated>
+    <content>Replying to @ryank620 Would you deny a diabetic child insulin? #trans #model #runway </content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7414884384651644161"/>
+    <published>2024-09-15T14:58:53+00:00</published>
   </entry>
 </feed>

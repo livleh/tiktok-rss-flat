@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-09-14T15:56:19+00:00</updated>
+  <updated>2024-09-15T17:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7408883971100118304</id>
-    <title>WHEN VTUBERS ARE TRANSPHOBIC #vtuber #trans</title>
-    <updated>2024-08-30T13:00:00+00:00</updated>
-    <content>WHEN VTUBERS ARE TRANSPHOBIC #vtuber #trans</content>
-    <link href="https://tiktok.com/@nyaravt/video/7408883971100118304"/>
-    <published>2024-08-30T13:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7408884467613437216</id>
-    <title>AMERICAN PROPAGANDA IS TOO GOOD #vtuber</title>
-    <updated>2024-08-30T20:00:00+00:00</updated>
-    <content>AMERICAN PROPAGANDA IS TOO GOOD #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7408884467613437216"/>
-    <published>2024-08-30T20:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7409281717107772705</id>
     <title>THEY ARE NOT YOUR FRIENDS #vtuber</title>
@@ -283,6 +267,22 @@
     <content>what it's like to be trans in valorant #vtuber</content>
     <link href="https://tiktok.com/@nyaravt/video/7414528181140606241"/>
     <published>2024-09-14T15:56:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7414847051336322336</id>
+    <title>if your cat could talk #vtuber #asmr</title>
+    <updated>2024-09-15T12:33:40+00:00</updated>
+    <content>if your cat could talk #vtuber #asmr</content>
+    <link href="https://tiktok.com/@nyaravt/video/7414847051336322336"/>
+    <published>2024-09-15T12:33:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7414847333843733792</id>
+    <title>trans people are not the issue #trans</title>
+    <updated>2024-09-15T17:00:00+00:00</updated>
+    <content>trans people are not the issue #trans</content>
+    <link href="https://tiktok.com/@nyaravt/video/7414847333843733792"/>
+    <published>2024-09-15T17:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>
