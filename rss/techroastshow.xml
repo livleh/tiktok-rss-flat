@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-09-15T16:44:32+00:00</updated>
+  <updated>2024-09-15T20:53:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7407449273752653087</id>
-    <title>just a throuple of founders  #techie #softwareengineer #WashingtonDC #DC #programmerlife #roastbattle #darkhumor #techroastshow</title>
-    <updated>2024-08-26T14:06:41+00:00</updated>
-    <content>just a throuple of founders  #techie #softwareengineer #WashingtonDC #DC #programmerlife #roastbattle #darkhumor #techroastshow</content>
-    <link href="https://tiktok.com/@techroastshow/video/7407449273752653087"/>
-    <published>2024-08-26T14:06:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7407584337874423070</id>
     <title>he loves Hudson Yards  #techie #softwareengineer #newyork #nyc #programmerlife  #techroastshow</title>
@@ -267,6 +259,14 @@
     <content>the genre is 5’5 #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</content>
     <link href="https://tiktok.com/@techroastshow/video/7414911665424174366"/>
     <published>2024-09-15T16:44:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7414975707236879647</id>
+    <title>please hire him at once #techie #softwareengineer #siliconvalley #sanfrancisco #bayarea #comedy #funny #developerlife #programmerlife</title>
+    <updated>2024-09-15T20:53:01+00:00</updated>
+    <content>please hire him at once #techie #softwareengineer #siliconvalley #sanfrancisco #bayarea #comedy #funny #developerlife #programmerlife</content>
+    <link href="https://tiktok.com/@techroastshow/video/7414975707236879647"/>
+    <published>2024-09-15T20:53:01+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>

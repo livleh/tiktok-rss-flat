@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@palim_tintin</id>
   <title>palim_tintin</title>
-  <updated>2024-09-07T17:28:42+00:00</updated>
+  <updated>2024-09-15T20:29:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from palim_tintin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@palim_tintin/video/7340366020697279776</id>
-    <title>🖤⚡️🖤 #wiw #outfits #outfitinspo </title>
-    <updated>2024-02-27T19:29:10+00:00</updated>
-    <content>🖤⚡️🖤 #wiw #outfits #outfitinspo </content>
-    <link href="https://tiktok.com/@palim_tintin/video/7340366020697279776"/>
-    <published>2024-02-27T19:29:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@palim_tintin/video/7343702271038967073</id>
     <title>Ich bin sowas von bereit für den Frühling🌼🐝🧡Wer noch?  #wiw #outfitinspo #70saesthetic #70sfashion #70s #kimono #kimonostyle #schlagjeans #outfit </title>
@@ -267,6 +259,14 @@
     <content>Die 2 🥊😻🧡❣️</content>
     <link href="https://tiktok.com/@palim_tintin/video/7411954408277282081"/>
     <published>2024-09-07T17:28:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@palim_tintin/video/7414969647751040288</id>
+    <title>No Title</title>
+    <updated>2024-09-15T20:29:20+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@palim_tintin/video/7414969647751040288"/>
+    <published>2024-09-15T20:29:20+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@palim_tintin/video/7189301520721005829</id>
