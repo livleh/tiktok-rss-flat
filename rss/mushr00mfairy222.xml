@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-09-16T12:10:20+00:00</updated>
+  <updated>2024-09-16T18:01:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7411887223949249824</id>
-    <title>all or nothing #mh #mentalhealth </title>
-    <updated>2024-09-07T13:07:59+00:00</updated>
-    <content>all or nothing #mh #mentalhealth </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7411887223949249824"/>
-    <published>2024-09-07T13:07:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7412247887578516768</id>
-    <title>loveeee going outside, its just the getting out 😭</title>
-    <updated>2024-09-08T12:27:38+00:00</updated>
-    <content>loveeee going outside, its just the getting out 😭</content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7412247887578516768"/>
-    <published>2024-09-08T12:27:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7412664813257542945</id>
     <title>obviously don't recommend but happy with them :) #piercing #alt </title>
@@ -267,6 +251,22 @@
     <content>worst question fr #mh #mentalhealth </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7415212119722822945"/>
     <published>2024-09-16T12:10:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7415300971741416736</id>
+    <title>ill stop saying im just a girl when you leave gender out of everything #girlhood #justagirl </title>
+    <updated>2024-09-16T17:55:06+00:00</updated>
+    <content>ill stop saying im just a girl when you leave gender out of everything #girlhood #justagirl </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7415300971741416736"/>
+    <published>2024-09-16T17:55:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7415302583729917217</id>
+    <title>this song gets it #mentalhealth #mh #wlw </title>
+    <updated>2024-09-16T18:01:20+00:00</updated>
+    <content>this song gets it #mentalhealth #mh #wlw </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7415302583729917217"/>
+    <published>2024-09-16T18:01:20+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>

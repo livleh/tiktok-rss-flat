@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-09-16T13:00:00+00:00</updated>
+  <updated>2024-09-16T18:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7409282248010206497</id>
-    <title>BEING TRANS ISN'T A SPICY INTEREST #vtuber</title>
-    <updated>2024-08-31T20:00:00+00:00</updated>
-    <content>BEING TRANS ISN'T A SPICY INTEREST #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7409282248010206497"/>
-    <published>2024-08-31T20:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7409656989569109281</id>
     <title>WAIT.. MEN DONT WANT TO BE WOMEN?? #vtuber</title>
@@ -283,6 +275,14 @@
     <content>the proper way to get women #trans</content>
     <link href="https://tiktok.com/@nyaravt/video/7415177282807008545"/>
     <published>2024-09-16T13:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7415177695929077025</id>
+    <title>when cis guys slide into dms #vtuber</title>
+    <updated>2024-09-16T18:00:00+00:00</updated>
+    <content>when cis guys slide into dms #vtuber</content>
+    <link href="https://tiktok.com/@nyaravt/video/7415177695929077025"/>
+    <published>2024-09-16T18:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>
