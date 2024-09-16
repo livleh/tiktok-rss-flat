@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@kukombo</id>
   <title>kukombo</title>
-  <updated>2024-09-06T20:49:24+00:00</updated>
+  <updated>2024-09-16T19:01:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from kukombo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kukombo/video/7158544024347888898</id>
-    <title>Transcending reality with @Calvin Klein Defy Eau de Parfum #ckdefy </title>
-    <updated>2022-10-25T20:07:07+00:00</updated>
-    <content>Transcending reality with @Calvin Klein Defy Eau de Parfum #ckdefy </content>
-    <link href="https://tiktok.com/@kukombo/video/7158544024347888898"/>
-    <published>2022-10-25T20:07:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kukombo/video/7160891681770900738</id>
     <title>I’m bad luck. Good was never an option for me 😉 #teentitans #jinx #jinxteentitans #voguebeautyhalloween </title>
@@ -259,6 +251,14 @@
     <content>Time for Teletubbies! #Teletubbies</content>
     <link href="https://tiktok.com/@kukombo/video/7411635004096269598"/>
     <published>2024-09-06T20:49:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kukombo/video/7415318064876604702</id>
+    <title>y’all already know i had to hop on this trend #microwaveedit</title>
+    <updated>2024-09-16T19:01:36+00:00</updated>
+    <content>y’all already know i had to hop on this trend #microwaveedit</content>
+    <link href="https://tiktok.com/@kukombo/video/7415318064876604702"/>
+    <published>2024-09-16T19:01:36+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@kukombo/video/6985183691433659650</id>
