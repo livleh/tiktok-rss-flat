@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-09-15T15:46:03+00:00</updated>
+  <updated>2024-09-16T22:13:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7407581357112708383</id>
-    <title>They met 15 years ago and this is how 😂. Comment your city 👇. Planning my 2025 tour xoxo #dating #story </title>
-    <updated>2024-08-26T22:39:14+00:00</updated>
-    <content>They met 15 years ago and this is how 😂. Comment your city 👇. Planning my 2025 tour xoxo #dating #story </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7407581357112708383"/>
-    <published>2024-08-26T22:39:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7407943113412594974</id>
     <title>A Brooklyn Barista 😂 #coffee #brooklyn #barista </title>
@@ -147,6 +139,14 @@
     <content>Is Her Accent English Or Australian?  #english #aussie #australia #england </content>
     <link href="https://tiktok.com/@jessicakirson/video/7414896605884599582"/>
     <published>2024-09-15T15:46:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7415367612504329503</id>
+    <title>Why would you be straight?  #fyp #berlin </title>
+    <updated>2024-09-16T22:13:47+00:00</updated>
+    <content>Why would you be straight?  #fyp #berlin </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7415367612504329503"/>
+    <published>2024-09-16T22:13:47+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7406711443023826206</id>
