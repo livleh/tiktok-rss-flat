@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-09-15T15:45:12+00:00</updated>
+  <updated>2024-09-16T12:10:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7411517306192399649</id>
-    <title>back to school tips for autism! comment what helps you 🫶 #autism #autistic #neurodivergent #school </title>
-    <updated>2024-09-06T13:12:33+00:00</updated>
-    <content>back to school tips for autism! comment what helps you 🫶 #autism #autistic #neurodivergent #school </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7411517306192399649"/>
-    <published>2024-09-06T13:12:33+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7411519934712253728</id>
-    <title>blame covid #2000s #2000sbaby #20 </title>
-    <updated>2024-09-06T13:22:44+00:00</updated>
-    <content>blame covid #2000s #2000sbaby #20 </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7411519934712253728"/>
-    <published>2024-09-06T13:22:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7411887223949249824</id>
     <title>all or nothing #mh #mentalhealth </title>
@@ -267,6 +251,22 @@
     <content>hello kitty cafe!! 📍artbox brighton #hellokitty #sanrio #artbox </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7414896422207671585"/>
     <published>2024-09-15T15:45:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7415204893830450464</id>
+    <title>i love silly dressing up #pink #pinkhair #alt </title>
+    <updated>2024-09-16T11:42:17+00:00</updated>
+    <content>i love silly dressing up #pink #pinkhair #alt </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7415204893830450464"/>
+    <published>2024-09-16T11:42:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7415212119722822945</id>
+    <title>worst question fr #mh #mentalhealth </title>
+    <updated>2024-09-16T12:10:20+00:00</updated>
+    <content>worst question fr #mh #mentalhealth </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7415212119722822945"/>
+    <published>2024-09-16T12:10:20+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
