@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@dylanmulvaney</id>
   <title>dylanmulvaney</title>
-  <updated>2024-09-14T23:26:50+00:00</updated>
+  <updated>2024-09-17T07:32:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylanmulvaney</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylanmulvaney/video/7359600089515560234</id>
-    <title>Niche but felt right #sexandthecity #charlotteyork @Kristin Davis </title>
-    <updated>2024-04-19T15:27:40+00:00</updated>
-    <content>Niche but felt right #sexandthecity #charlotteyork @Kristin Davis </content>
-    <link href="https://tiktok.com/@dylanmulvaney/video/7359600089515560234"/>
-    <published>2024-04-19T15:27:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7360013366225685802</id>
     <title>Another accidental sex and the city cosplay i swear to god</title>
@@ -243,6 +235,14 @@
     <content>@JVN getting me ready for Emmy’s weekend 👯‍♀️❤️ @JVN Hair </content>
     <link href="https://tiktok.com/@dylanmulvaney/video/7414644301428231467"/>
     <published>2024-09-14T23:26:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylanmulvaney/video/7415511471007730987</id>
+    <title>@Joelocke singlehandedly turning me into a Marvel stan and me singlehandedly forcing him to make tiktoks @Marvel Entertainment @Disney+ #agatha </title>
+    <updated>2024-09-17T07:32:07+00:00</updated>
+    <content>@Joelocke singlehandedly turning me into a Marvel stan and me singlehandedly forcing him to make tiktoks @Marvel Entertainment @Disney+ #agatha </content>
+    <link href="https://tiktok.com/@dylanmulvaney/video/7415511471007730987"/>
+    <published>2024-09-17T07:32:07+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7193364487171444014</id>
