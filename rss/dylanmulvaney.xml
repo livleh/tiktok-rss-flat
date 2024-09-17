@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@dylanmulvaney</id>
   <title>dylanmulvaney</title>
-  <updated>2024-09-17T07:32:07+00:00</updated>
+  <updated>2024-09-17T17:43:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylanmulvaney</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylanmulvaney/video/7360013366225685802</id>
-    <title>Another accidental sex and the city cosplay i swear to god</title>
-    <updated>2024-04-20T18:11:17+00:00</updated>
-    <content>Another accidental sex and the city cosplay i swear to god</content>
-    <link href="https://tiktok.com/@dylanmulvaney/video/7360013366225685802"/>
-    <published>2024-04-20T18:11:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7360307947710221611</id>
     <title>@Kristin Chenoweth took me backstage at promises promises 14 years ago, and now I get to call her my friend all these years later as my real self 💓👯‍♀️🫶🏻 </title>
@@ -243,6 +235,14 @@
     <content>@Joelocke singlehandedly turning me into a Marvel stan and me singlehandedly forcing him to make tiktoks @Marvel Entertainment @Disney+ #agatha </content>
     <link href="https://tiktok.com/@dylanmulvaney/video/7415511471007730987"/>
     <published>2024-09-17T07:32:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylanmulvaney/video/7415669050790939946</id>
+    <title>Agatha premiere 🪄🔮 @Marvel Entertainment  glam: @Angelina Panelli @IG: @kole_mua @christiancowan </title>
+    <updated>2024-09-17T17:43:28+00:00</updated>
+    <content>Agatha premiere 🪄🔮 @Marvel Entertainment  glam: @Angelina Panelli @IG: @kole_mua @christiancowan </content>
+    <link href="https://tiktok.com/@dylanmulvaney/video/7415669050790939946"/>
+    <published>2024-09-17T17:43:28+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7193364487171444014</id>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-09-17T13:00:00+00:00</updated>
+  <updated>2024-09-17T18:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7409661785520819489</id>
-    <title>I CAN'T RELATE TO CIS GUY FRIENDS #vtuber</title>
-    <updated>2024-09-01T20:00:00+00:00</updated>
-    <content>I CAN'T RELATE TO CIS GUY FRIENDS #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7409661785520819489"/>
-    <published>2024-09-01T20:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7410013180576959776</id>
     <title>WHY DO HISTORY TEACHERS NEVER MENTION TRANS PEOPLE #vtuber</title>
@@ -283,6 +275,14 @@
     <content>when transphobes are accidental allies #vtuber</content>
     <link href="https://tiktok.com/@nyaravt/video/7415354908943093025"/>
     <published>2024-09-17T13:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7415355185108765985</id>
+    <title>becoming the trans fox mom #vtuber</title>
+    <updated>2024-09-17T18:00:00+00:00</updated>
+    <content>becoming the trans fox mom #vtuber</content>
+    <link href="https://tiktok.com/@nyaravt/video/7415355185108765985"/>
+    <published>2024-09-17T18:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>

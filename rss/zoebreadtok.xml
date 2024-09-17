@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-09-15T18:18:43+00:00</updated>
+  <updated>2024-09-17T17:38:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7397492239594704160</id>
-    <title>please keep it to F A CEBOOK thought cos i will get hurt if you are mean to me on here </title>
-    <updated>2024-07-30T18:08:05+00:00</updated>
-    <content>please keep it to F A CEBOOK thought cos i will get hurt if you are mean to me on here </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7397492239594704160"/>
-    <published>2024-07-30T18:08:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7398222976107220256</id>
     <title>this day ruined me financially but i  have a lot of souls at least #lemonadestand </title>
@@ -227,5 +219,13 @@
     <content>quite possibly the best day of my life so far at clacton pier in clacton featuring @Adam and @Clacton Pier  </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7414935973659675936"/>
     <published>2024-09-15T18:18:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7415667666918051105</id>
+    <title>homage to alan partridge, who i found out today is a character played by steve coogan. as well as bono who is in the band U2, which means “you as well”. filmed at bono’s actual house! blickling hall in norwich </title>
+    <updated>2024-09-17T17:38:05+00:00</updated>
+    <content>homage to alan partridge, who i found out today is a character played by steve coogan. as well as bono who is in the band U2, which means “you as well”. filmed at bono’s actual house! blickling hall in norwich </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7415667666918051105"/>
+    <published>2024-09-17T17:38:05+00:00</published>
   </entry>
 </feed>
