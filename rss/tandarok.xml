@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-09-16T07:01:51+00:00</updated>
+  <updated>2024-09-17T06:34:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -259,6 +259,14 @@
     <content>Mein Lieblings Snack zurzeit  #vegan </content>
     <link href="https://tiktok.com/@tandarok/video/7415132615805521185"/>
     <published>2024-09-16T07:01:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7415496614594333985</id>
+    <title>Einfach nur nein. #gilmoregirls #swifties </title>
+    <updated>2024-09-17T06:34:39+00:00</updated>
+    <content>Einfach nur nein. #gilmoregirls #swifties </content>
+    <link href="https://tiktok.com/@tandarok/video/7415496614594333985"/>
+    <published>2024-09-17T06:34:39+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
