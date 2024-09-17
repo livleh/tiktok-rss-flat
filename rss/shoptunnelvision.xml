@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shoptunnelvision</id>
   <title>shoptunnelvision</title>
-  <updated>2024-09-16T19:09:20+00:00</updated>
+  <updated>2024-09-17T21:56:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -227,5 +227,13 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@shoptunnelvision/video/7415320104218414378"/>
     <published>2024-09-16T19:09:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shoptunnelvision/video/7415734288391474475</id>
+    <title>No Title</title>
+    <updated>2024-09-17T21:56:34+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@shoptunnelvision/video/7415734288391474475"/>
+    <published>2024-09-17T21:56:34+00:00</published>
   </entry>
 </feed>
