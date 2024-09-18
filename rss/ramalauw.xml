@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ramalauw</id>
   <title>ramalauw</title>
-  <updated>2024-09-12T14:48:39+00:00</updated>
+  <updated>2024-09-18T14:26:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ramalauw</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ramalauw/video/7382265789899951393</id>
-    <title>As a kid, I used to be scared of ghosts. Now, I'm scared of responsibilities 😰😔🤡</title>
-    <updated>2024-06-19T17:21:45+00:00</updated>
-    <content>As a kid, I used to be scared of ghosts. Now, I'm scared of responsibilities 😰😔🤡</content>
-    <link href="https://tiktok.com/@ramalauw/video/7382265789899951393"/>
-    <published>2024-06-19T17:21:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7383681304602135841</id>
     <title>I feel like my Joy is not fighting hard enough for me 🥲🤡 #InsideOut2</title>
@@ -251,6 +243,14 @@
     <content>Living abroad an exciting, vibrant experience, and I feel incredibly lucky to have it every day. But at the same time, it can also be isolating and lonely. There’s the feeling that you never quite belong where you’re building a new life, but also feel lik</content>
     <link href="https://tiktok.com/@ramalauw/video/7413768583899041057"/>
     <published>2024-09-12T14:48:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ramalauw/video/7415989507947826465</id>
+    <title>Don’t get me started in ✨Air Fryers✨ 🥹 </title>
+    <updated>2024-09-18T14:26:59+00:00</updated>
+    <content>Don’t get me started in ✨Air Fryers✨ 🥹 </content>
+    <link href="https://tiktok.com/@ramalauw/video/7415989507947826465"/>
+    <published>2024-09-18T14:26:59+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7270903343638187297</id>
