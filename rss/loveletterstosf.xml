@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2024-09-13T15:10:52+00:00</updated>
+  <updated>2024-09-17T23:24:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from loveletterstosf</subtitle>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7391566751852514603</id>
-    <title>If you haven’t heard about or seen #GraceWindow at #GraceCathedral in #nobhill, here’s your sign to check it out tn since its the last night! #sftok #sf #laserart #summerofawe #sfsummer </title>
-    <updated>2024-07-14T18:54:14+00:00</updated>
-    <content>If you haven’t heard about or seen #GraceWindow at #GraceCathedral in #nobhill, here’s your sign to check it out tn since its the last night! #sftok #sf #laserart #summerofawe #sfsummer </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7391566751852514603"/>
-    <published>2024-07-14T18:54:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7393206440023952682</id>
     <title>PSA the popular Pecking House pop up is back at Lord Stanley on Polk!! Don’t miss your chance to try it before it’s gone on 7/27 #sfeats #sffoodies #friedchicken #sichuanfood #polkst #sfpopup </title>
@@ -235,5 +227,13 @@
     <content>lots to do in #sf this weekend! I’m personally excited flower piano is back 🌸 #thisweekendinsf #sfevents #thingstodoinsf #nightmarket #sfdowntown #haightashbury #chinatown </content>
     <link href="https://tiktok.com/@loveletterstosf/video/7414145389051383082"/>
     <published>2024-09-13T15:10:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7415756885778779438</id>
+    <title>what’s better than attending a guac off contest with the most unique #guacamole creations and live music hosted at someone’s house!! #sf #guacamolecontest #guacoff </title>
+    <updated>2024-09-17T23:24:13+00:00</updated>
+    <content>what’s better than attending a guac off contest with the most unique #guacamole creations and live music hosted at someone’s house!! #sf #guacamolecontest #guacoff </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7415756885778779438"/>
+    <published>2024-09-17T23:24:13+00:00</published>
   </entry>
 </feed>
