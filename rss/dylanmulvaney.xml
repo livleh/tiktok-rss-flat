@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@dylanmulvaney</id>
   <title>dylanmulvaney</title>
-  <updated>2024-09-17T17:43:28+00:00</updated>
+  <updated>2024-09-18T20:06:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylanmulvaney</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylanmulvaney/video/7360307947710221611</id>
-    <title>@Kristin Chenoweth took me backstage at promises promises 14 years ago, and now I get to call her my friend all these years later as my real self 💓👯‍♀️🫶🏻 </title>
-    <updated>2024-04-21T13:14:51+00:00</updated>
-    <content>@Kristin Chenoweth took me backstage at promises promises 14 years ago, and now I get to call her my friend all these years later as my real self 💓👯‍♀️🫶🏻 </content>
-    <link href="https://tiktok.com/@dylanmulvaney/video/7360307947710221611"/>
-    <published>2024-04-21T13:14:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7360690758946508074</id>
     <title>Catch up on theatre and nyc </title>
@@ -235,6 +227,14 @@
     <content>Agatha premiere 🪄🔮 @Marvel Entertainment  glam: @Angelina Panelli @IG: @kole_mua @christiancowan </content>
     <link href="https://tiktok.com/@dylanmulvaney/video/7415669050790939946"/>
     <published>2024-09-17T17:43:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylanmulvaney/video/7416076884087147819</id>
+    <title>It can go wrong so fast </title>
+    <updated>2024-09-18T20:06:01+00:00</updated>
+    <content>It can go wrong so fast </content>
+    <link href="https://tiktok.com/@dylanmulvaney/video/7416076884087147819"/>
+    <published>2024-09-18T20:06:01+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7193364487171444014</id>
