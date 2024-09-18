@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@norabinki</id>
   <title>norabinki</title>
-  <updated>2024-09-10T16:23:30+00:00</updated>
+  <updated>2024-09-18T17:51:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from norabinki</subtitle>
-  <entry>
-    <id>https://tiktok.com/@norabinki/video/7342547672085122336</id>
-    <title>Motofestival #schweiz #fyp #motorrad #CapCut </title>
-    <updated>2024-03-04T16:35:08+00:00</updated>
-    <content>Motofestival #schweiz #fyp #motorrad #CapCut </content>
-    <link href="https://tiktok.com/@norabinki/video/7342547672085122336"/>
-    <published>2024-03-04T16:35:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@norabinki/video/7343658309808835873</id>
     <title>De Herr am Schluss made my day  mit Kameramann @Bruzzli #schweiz #fyp #CapCut </title>
@@ -259,6 +251,14 @@
     <content>Mittelaltermarkt in Lenzburg  @Bruzzli #schweiz #fyp #mittelalter #CapCut </content>
     <link href="https://tiktok.com/@norabinki/video/7413050861724650785"/>
     <published>2024-09-10T16:23:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@norabinki/video/7416042078792060192</id>
+    <title>Solar Messe @Bruzzli #schweiz #fyp #solar #CapCut </title>
+    <updated>2024-09-18T17:51:00+00:00</updated>
+    <content>Solar Messe @Bruzzli #schweiz #fyp #solar #CapCut </content>
+    <link href="https://tiktok.com/@norabinki/video/7416042078792060192"/>
+    <published>2024-09-18T17:51:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@norabinki/video/7283544477661203745</id>
