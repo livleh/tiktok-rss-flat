@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-09-17T20:46:46+00:00</updated>
+  <updated>2024-09-18T13:12:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7410013453869468960</id>
-    <title>HAVING TO PROVE YOU'RE A WOMAN ON THE INTERNET #vtuber</title>
-    <updated>2024-09-02T20:00:00+00:00</updated>
-    <content>HAVING TO PROVE YOU'RE A WOMAN ON THE INTERNET #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7410013453869468960"/>
-    <published>2024-09-02T20:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7410383013655203105</id>
-    <title>WANTING TO GET STEPPED ON BY VYSE #valorant #vtuber</title>
-    <updated>2024-09-03T13:00:00+00:00</updated>
-    <content>WANTING TO GET STEPPED ON BY VYSE #valorant #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7410383013655203105"/>
-    <published>2024-09-03T13:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7410383366442339616</id>
     <title>I CAN SMELL THE VALORANT ON YOU #vtuber</title>
@@ -283,6 +267,22 @@
     <content>games are too woke #onthisday </content>
     <link href="https://tiktok.com/@nyaravt/video/7415716277139803424"/>
     <published>2024-09-17T20:46:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7415966543172865312</id>
+    <title>have you seen this cat? #vtuber</title>
+    <updated>2024-09-18T12:57:50+00:00</updated>
+    <content>have you seen this cat? #vtuber</content>
+    <link href="https://tiktok.com/@nyaravt/video/7415966543172865312"/>
+    <published>2024-09-18T12:57:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7415970242188283169</id>
+    <title>why does it look so scared?? #asmr </title>
+    <updated>2024-09-18T13:12:10+00:00</updated>
+    <content>why does it look so scared?? #asmr </content>
+    <link href="https://tiktok.com/@nyaravt/video/7415970242188283169"/>
+    <published>2024-09-18T13:12:10+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>
