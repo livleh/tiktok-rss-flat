@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-09-18T17:00:00+00:00</updated>
+  <updated>2024-09-19T13:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7410772696641883424</id>
-    <title>DOING A GUY VOICE AS A TRANS WOMAN #vtuber</title>
-    <updated>2024-09-04T13:03:03+00:00</updated>
-    <content>DOING A GUY VOICE AS A TRANS WOMAN #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7410772696641883424"/>
-    <published>2024-09-04T13:03:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7410784531344559392</id>
     <title>NEVER BEING PART OF THE INNER CIRCLE #vtuber</title>
@@ -283,6 +275,14 @@
     <content>when you meet women in valorant @azaleafoxx @van1llabeanz #vtuber</content>
     <link href="https://tiktok.com/@nyaravt/video/7415984600058449184"/>
     <published>2024-09-18T17:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7416308534247279904</id>
+    <title>how society creates gender dysphoria #trans</title>
+    <updated>2024-09-19T13:00:00+00:00</updated>
+    <content>how society creates gender dysphoria #trans</content>
+    <link href="https://tiktok.com/@nyaravt/video/7416308534247279904"/>
+    <published>2024-09-19T13:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>
