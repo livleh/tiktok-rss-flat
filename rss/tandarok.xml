@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-09-18T06:42:18+00:00</updated>
+  <updated>2024-09-19T05:57:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7405252110599638304</id>
-    <title>ChatGPT roastet meinen YT-Kanal :( #chatgpt #twitchclips #twitchgermany #youtubedeutschland </title>
-    <updated>2024-08-20T16:00:21+00:00</updated>
-    <content>ChatGPT roastet meinen YT-Kanal :( #chatgpt #twitchclips #twitchgermany #youtubedeutschland </content>
-    <link href="https://tiktok.com/@tandarok/video/7405252110599638304"/>
-    <published>2024-08-20T16:00:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7405668350589750560</id>
     <title>Ich bin happy 😊  #fashion #alternative #style </title>
@@ -267,6 +259,14 @@
     <content>Zeigen, nicht nur reden #twitchclips #twitchgermany #twitchde #datinglife </content>
     <link href="https://tiktok.com/@tandarok/video/7415869759058644256"/>
     <published>2024-09-18T06:42:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7416229408970771745</id>
+    <title>Idk about this  #twitchclips #beautyandthenerd </title>
+    <updated>2024-09-19T05:57:56+00:00</updated>
+    <content>Idk about this  #twitchclips #beautyandthenerd </content>
+    <link href="https://tiktok.com/@tandarok/video/7416229408970771745"/>
+    <published>2024-09-19T05:57:56+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
