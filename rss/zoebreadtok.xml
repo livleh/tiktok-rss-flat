@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-09-18T17:48:41+00:00</updated>
+  <updated>2024-09-19T17:55:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7398222976107220256</id>
-    <title>this day ruined me financially but i  have a lot of souls at least #lemonadestand </title>
-    <updated>2024-08-01T17:23:44+00:00</updated>
-    <content>this day ruined me financially but i  have a lot of souls at least #lemonadestand </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7398222976107220256"/>
-    <published>2024-08-01T17:23:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7399712140455677216</id>
     <title>i am super normal </title>
@@ -235,5 +227,13 @@
     <content>norwich! home of swallow, alan partridge and probably load of other stuff too </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7416041477131848993"/>
     <published>2024-09-18T17:48:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7416414246570839328</id>
+    <title>this is your sign to get breakdown cover !!!</title>
+    <updated>2024-09-19T17:55:08+00:00</updated>
+    <content>this is your sign to get breakdown cover !!!</content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7416414246570839328"/>
+    <published>2024-09-19T17:55:08+00:00</published>
   </entry>
 </feed>
