@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tallywyteee</id>
   <title>tallywyteee</title>
-  <updated>2024-09-18T01:08:51+00:00</updated>
+  <updated>2024-09-19T02:01:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tallywyteee</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tallywyteee/video/7375231046343789855</id>
-    <title>It’s crazy to think that one of the only reason I’m here is because my ancestors wanted to pipe foreigners 🇺🇸🇵🇭 Would you guess that I’m mixed? 😅</title>
-    <updated>2024-05-31T18:26:11+00:00</updated>
-    <content>It’s crazy to think that one of the only reason I’m here is because my ancestors wanted to pipe foreigners 🇺🇸🇵🇭 Would you guess that I’m mixed? 😅</content>
-    <link href="https://tiktok.com/@tallywyteee/video/7375231046343789855"/>
-    <published>2024-05-31T18:26:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7375993779393776927</id>
     <title>I’ll be lowkey about it and promise not to hurt your feelings 😅</title>
@@ -251,6 +243,14 @@
     <content>okay not really - all I drink is water and Dr. Pepper. Would you believe me though if I wasn’t joking? 😂🥤💞 #trans #transgender #transgirl #transwoman #transandproud #transisbeautiful</content>
     <link href="https://tiktok.com/@tallywyteee/video/7415783843409530154"/>
     <published>2024-09-18T01:08:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tallywyteee/video/7416168403360124202</id>
+    <title>#trans #transgender #transgirl #transwoman #transandproud #transisbeautiful</title>
+    <updated>2024-09-19T02:01:08+00:00</updated>
+    <content>#trans #transgender #transgirl #transwoman #transandproud #transisbeautiful</content>
+    <link href="https://tiktok.com/@tallywyteee/video/7416168403360124202"/>
+    <published>2024-09-19T02:01:08+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7261699619762048298</id>
