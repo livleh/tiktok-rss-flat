@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-09-15T14:58:53+00:00</updated>
+  <updated>2024-09-19T09:07:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7402846102602485010</id>
-    <title>Which dating stage is your fave?</title>
-    <updated>2024-08-14T04:23:46+00:00</updated>
-    <content>Which dating stage is your fave?</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7402846102602485010"/>
-    <published>2024-08-14T04:23:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7404736112519810311</id>
-    <title>My new Roman Empire </title>
-    <updated>2024-08-19T06:37:58+00:00</updated>
-    <content>My new Roman Empire </content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7404736112519810311"/>
-    <published>2024-08-19T06:37:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7405051648776670471</id>
     <title>Til then, shes back-door Becky 🫤</title>
@@ -259,5 +243,21 @@
     <content>Replying to @ryank620 Would you deny a diabetic child insulin? #trans #model #runway </content>
     <link href="https://tiktok.com/@grace.hylandd/video/7414884384651644161"/>
     <published>2024-09-15T14:58:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7416272580018982161</id>
+    <title>Considering what shes been through I dont blame her 😔</title>
+    <updated>2024-09-19T08:45:30+00:00</updated>
+    <content>Considering what shes been through I dont blame her 😔</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7416272580018982161"/>
+    <published>2024-09-19T08:45:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7416278255294024976</id>
+    <title>I hope she comes out of her shell soon 😭😭</title>
+    <updated>2024-09-19T09:07:33+00:00</updated>
+    <content>I hope she comes out of her shell soon 😭😭</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7416278255294024976"/>
+    <published>2024-09-19T09:07:33+00:00</published>
   </entry>
 </feed>
