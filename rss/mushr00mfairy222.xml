@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-09-20T16:06:43+00:00</updated>
+  <updated>2024-09-20T16:37:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7412963451536002337</id>
-    <title>adhd + caffeine! did you know this? #adhd #neurodivergent </title>
-    <updated>2024-09-10T10:44:24+00:00</updated>
-    <content>adhd + caffeine! did you know this? #adhd #neurodivergent </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7412963451536002337"/>
-    <published>2024-09-10T10:44:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7412991216867904800</id>
-    <title>feel like a septum always looks good #septum #piercing </title>
-    <updated>2024-09-10T12:32:05+00:00</updated>
-    <content>feel like a septum always looks good #septum #piercing </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7412991216867904800"/>
-    <published>2024-09-10T12:32:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7413061909643070752</id>
     <title>wdym im an adult???? #growingup </title>
@@ -267,6 +251,22 @@
     <content>yeahhh #neurodivergent #mh #mentalhealth </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7416757373697527073"/>
     <published>2024-09-20T16:06:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7416765162193014049</id>
+    <title>i just want a reason </title>
+    <updated>2024-09-20T16:37:00+00:00</updated>
+    <content>i just want a reason </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7416765162193014049"/>
+    <published>2024-09-20T16:37:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7416765295332822305</id>
+    <title>bit traumatic 😟😀😋</title>
+    <updated>2024-09-20T16:37:25+00:00</updated>
+    <content>bit traumatic 😟😀😋</content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7416765295332822305"/>
+    <published>2024-09-20T16:37:25+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
