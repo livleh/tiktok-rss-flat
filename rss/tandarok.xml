@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-09-19T18:14:35+00:00</updated>
+  <updated>2024-09-20T06:28:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7406068567952690464</id>
-    <title>Antwort auf @gabevanape  Anzeige | Squid Studios ist ein ethisches Schmucklabel aus München. Sie stehen für Nachhaltigkeit, Inklusion und Diversität, und bieten lebenslange Reperaturen. Mit dem Code TANDAROK10 bekommt ihr 10% Rabatt. #nachhaltigkeit #schm</title>
-    <updated>2024-08-22T20:48:41+00:00</updated>
-    <content>Antwort auf @gabevanape  Anzeige | Squid Studios ist ein ethisches Schmucklabel aus München. Sie stehen für Nachhaltigkeit, Inklusion und Diversität, und bieten lebenslange Reperaturen. Mit dem Code TANDAROK10 bekommt ihr 10% Rabatt. #nachhaltigkeit #schm</content>
-    <link href="https://tiktok.com/@tandarok/video/7406068567952690464"/>
-    <published>2024-08-22T20:48:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7406219321631837472</id>
     <title>Mit Rechten reden: Ich bin überhaupt kein Fan davon mit Rechten öffentlich zu reden. Damit gibt man ihnen und ihren "Meinungen" eine Plattform und die meisten Diskussionen enden sowieso in einem Gishgallop (zu viele verschiedene falsche Themen, die man ni</title>
@@ -267,6 +259,14 @@
     <content>Müssen Männer beim ersten Date zahlen? #datinglife #twitchgermany #twitchclips </content>
     <link href="https://tiktok.com/@tandarok/video/7416419245845712160"/>
     <published>2024-09-19T18:14:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7416608215368060193</id>
+    <title>Ich mag es hier in München halt wirklich 😭 #bayern #queer </title>
+    <updated>2024-09-20T06:28:01+00:00</updated>
+    <content>Ich mag es hier in München halt wirklich 😭 #bayern #queer </content>
+    <link href="https://tiktok.com/@tandarok/video/7416608215368060193"/>
+    <published>2024-09-20T06:28:01+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
