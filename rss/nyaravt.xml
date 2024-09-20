@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-09-20T13:18:46+00:00</updated>
+  <updated>2024-09-20T18:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7411125655619833121</id>
-    <title>having to hide behind a mask to fit in #trans #vtuber</title>
-    <updated>2024-09-05T20:00:00+00:00</updated>
-    <content>having to hide behind a mask to fit in #trans #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7411125655619833121"/>
-    <published>2024-09-05T20:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7411497358673939745</id>
     <title>why getting misgendered hurts so much #vtuber</title>
@@ -283,6 +275,14 @@
     <content>choosing a new legal name #trans</content>
     <link href="https://tiktok.com/@nyaravt/video/7416714104104045857"/>
     <published>2024-09-20T13:18:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7416721923608038688</id>
+    <title>not trusting others with your phone #trans</title>
+    <updated>2024-09-20T18:00:00+00:00</updated>
+    <content>not trusting others with your phone #trans</content>
+    <link href="https://tiktok.com/@nyaravt/video/7416721923608038688"/>
+    <published>2024-09-20T18:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>
