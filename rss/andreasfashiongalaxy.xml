@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@andreasfashiongalaxy</id>
   <title>andreasfashiongalaxy</title>
-  <updated>2024-09-13T20:01:08+00:00</updated>
+  <updated>2024-09-20T20:00:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from andreasfashiongalaxy</subtitle>
-  <entry>
-    <id>https://tiktok.com/@andreasfashiongalaxy/video/7358928192452693281</id>
-    <title>When an old-fashioned midi skirt gets a glow up #letsgetdressed </title>
-    <updated>2024-04-17T19:59:54+00:00</updated>
-    <content>When an old-fashioned midi skirt gets a glow up #letsgetdressed </content>
-    <link href="https://tiktok.com/@andreasfashiongalaxy/video/7358928192452693281"/>
-    <published>2024-04-17T19:59:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@andreasfashiongalaxy/video/7359306954549873953</id>
     <title>When you can’t afford a Chanel outfit #letsgetdressed </title>
@@ -259,5 +251,13 @@
     <content>How to style cute and comfy travel outfits ft sustainable #vivaia boots #letsgetdressed  @VIVAIA </content>
     <link href="https://tiktok.com/@andreasfashiongalaxy/video/7414220196107324705"/>
     <published>2024-09-13T20:01:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@andreasfashiongalaxy/video/7416817557992262944</id>
+    <title>How to style a linen skirt as a dress #letsgetdressed </title>
+    <updated>2024-09-20T20:00:14+00:00</updated>
+    <content>How to style a linen skirt as a dress #letsgetdressed </content>
+    <link href="https://tiktok.com/@andreasfashiongalaxy/video/7416817557992262944"/>
+    <published>2024-09-20T20:00:14+00:00</published>
   </entry>
 </feed>
