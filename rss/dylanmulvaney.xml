@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@dylanmulvaney</id>
   <title>dylanmulvaney</title>
-  <updated>2024-09-18T20:06:01+00:00</updated>
+  <updated>2024-09-20T20:44:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylanmulvaney</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylanmulvaney/video/7360690758946508074</id>
-    <title>Catch up on theatre and nyc </title>
-    <updated>2024-04-22T14:00:14+00:00</updated>
-    <content>Catch up on theatre and nyc </content>
-    <link href="https://tiktok.com/@dylanmulvaney/video/7360690758946508074"/>
-    <published>2024-04-22T14:00:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7365252333455822111</id>
     <title>Roasting myself in a revenge dress @Netflix Is A Joke @Netflix </title>
@@ -235,6 +227,14 @@
     <content>It can go wrong so fast </content>
     <link href="https://tiktok.com/@dylanmulvaney/video/7416076884087147819"/>
     <published>2024-09-18T20:06:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylanmulvaney/video/7416828881350577450</id>
+    <title>Taking my dad to his first movie premiere ❤️ @netflix @TrevorProject #willandharper </title>
+    <updated>2024-09-20T20:44:10+00:00</updated>
+    <content>Taking my dad to his first movie premiere ❤️ @netflix @TrevorProject #willandharper </content>
+    <link href="https://tiktok.com/@dylanmulvaney/video/7416828881350577450"/>
+    <published>2024-09-20T20:44:10+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7193364487171444014</id>
