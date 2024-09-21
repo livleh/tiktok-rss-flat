@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@melshoshahi</id>
   <title>melshoshahi</title>
-  <updated>2024-09-17T13:39:49+00:00</updated>
+  <updated>2024-09-21T18:29:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from melshoshahi</subtitle>
-  <entry>
-    <id>https://tiktok.com/@melshoshahi/video/7400822583559556383</id>
-    <title>Another hairy day at the waxing salon 😅 #shaving #shave #waxing #hairremoval #tiktokskit #sketchcomedy </title>
-    <updated>2024-08-08T17:31:35+00:00</updated>
-    <content>Another hairy day at the waxing salon 😅 #shaving #shave #waxing #hairremoval #tiktokskit #sketchcomedy </content>
-    <link href="https://tiktok.com/@melshoshahi/video/7400822583559556383"/>
-    <published>2024-08-08T17:31:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@melshoshahi/video/7401550489474682143</id>
     <title>The Hermes pronounciation is vital, otherwise you don’t deserving to wearing it uhkay!  #retail #luxurybag #customservice #tiktokskit #sketchcomedy #hermes #hermespronunciation </title>
@@ -131,6 +123,14 @@
     <content>Who else thinks if it’s gluten, vegan or dairy free-it means it should be free? 💅🏽 #sketchcomedy #coffeeshop #glutenfree #vegan #tiktokskit </content>
     <link href="https://tiktok.com/@melshoshahi/video/7415606191532838174"/>
     <published>2024-09-17T13:39:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@melshoshahi/video/7417165157228350750</id>
+    <title>Chicago tour guide here, you nio 💅🏽 #tourguide #chicago #humor #standup #richman #luxury #yacht #boat </title>
+    <updated>2024-09-21T18:29:08+00:00</updated>
+    <content>Chicago tour guide here, you nio 💅🏽 #tourguide #chicago #humor #standup #richman #luxury #yacht #boat </content>
+    <link href="https://tiktok.com/@melshoshahi/video/7417165157228350750"/>
+    <published>2024-09-21T18:29:08+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@melshoshahi/video/7282846082986462507</id>
