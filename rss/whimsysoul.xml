@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-09-19T17:28:07+00:00</updated>
+  <updated>2024-09-21T16:57:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7402338136937811243</id>
-    <title>Replying to @Cass 🦇 had so much fun with my outside lands outfits this year!! Linked them all in my LTK profile link in bio!! #outsidelands #outsidelands2024 #outsidelandsoutfits #bayareacheck #sanfrancisco #onlyinsf #musicfestival #osl2024 </title>
-    <updated>2024-08-12T19:32:40+00:00</updated>
-    <content>Replying to @Cass 🦇 had so much fun with my outside lands outfits this year!! Linked them all in my LTK profile link in bio!! #outsidelands #outsidelands2024 #outsidelandsoutfits #bayareacheck #sanfrancisco #onlyinsf #musicfestival #osl2024 </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7402338136937811243"/>
-    <published>2024-08-12T19:32:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7403858546984553770</id>
     <title>hidden in plain sight! This SF speakeasy looks like a bus stop from the outside, but is actually an upscale speakeasy serving up one of the best martinis in San Francisco.  I'm a martini girl, and loved their Dirty featuring Hog Island sea brine and Monte</title>
@@ -251,6 +243,14 @@
     <content>PUMPKIN DAY - I eat pumpkin-flavored things for every meal of the day. It's the best day of the year!! 👉 SEND THIS to someone you want to do a pumpkin day with!! ✨🎃 I started this tradition during 2020 for a little cheer and have been obsessed ever since.</content>
     <link href="https://tiktok.com/@whimsysoul/video/7416407276895980842"/>
     <published>2024-09-19T17:28:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7417141433938873643</id>
+    <title>No Title</title>
+    <updated>2024-09-21T16:57:00+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7417141433938873643"/>
+    <published>2024-09-21T16:57:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
