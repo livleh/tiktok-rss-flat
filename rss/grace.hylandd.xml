@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-09-19T12:20:51+00:00</updated>
+  <updated>2024-09-21T05:17:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7405540604165229842</id>
-    <title>Thats why theyre so expensive dal</title>
-    <updated>2024-08-21T10:39:50+00:00</updated>
-    <content>Thats why theyre so expensive dal</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7405540604165229842"/>
-    <published>2024-08-21T10:39:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7405555898971688200</id>
-    <title>Manly voices = 🚿 💦 </title>
-    <updated>2024-08-21T11:39:10+00:00</updated>
-    <content>Manly voices = 🚿 💦 </content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7405555898971688200"/>
-    <published>2024-08-21T11:39:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7406205710880607496</id>
     <title>Clearly raised by winx club and a true spring girly 🌸</title>
@@ -267,5 +251,13 @@
     <content>3 months ago I sent that video to @Evangeline James and @AJ Clementine after I made one of the scariest decisions in my adult life. I was so scared and they helped me heal every step of the way! I had no idea how much beauty I was in for! </content>
     <link href="https://tiktok.com/@grace.hylandd/video/7416328085974289681"/>
     <published>2024-09-19T12:20:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7416961123347336464</id>
+    <title>Men always think I’m so dumb 😂</title>
+    <updated>2024-09-21T05:17:44+00:00</updated>
+    <content>Men always think I’m so dumb 😂</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7416961123347336464"/>
+    <published>2024-09-21T05:17:44+00:00</published>
   </entry>
 </feed>
