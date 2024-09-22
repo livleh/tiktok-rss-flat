@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-09-20T06:28:01+00:00</updated>
+  <updated>2024-09-22T07:07:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7406219321631837472</id>
-    <title>Mit Rechten reden: Ich bin überhaupt kein Fan davon mit Rechten öffentlich zu reden. Damit gibt man ihnen und ihren "Meinungen" eine Plattform und die meisten Diskussionen enden sowieso in einem Gishgallop (zu viele verschiedene falsche Themen, die man ni</title>
-    <updated>2024-08-23T06:33:56+00:00</updated>
-    <content>Mit Rechten reden: Ich bin überhaupt kein Fan davon mit Rechten öffentlich zu reden. Damit gibt man ihnen und ihren "Meinungen" eine Plattform und die meisten Diskussionen enden sowieso in einem Gishgallop (zu viele verschiedene falsche Themen, die man ni</content>
-    <link href="https://tiktok.com/@tandarok/video/7406219321631837472"/>
-    <published>2024-08-23T06:33:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7406607935704436000</id>
     <title>Direkt wieder keine Lust mehr auf Dating Apps 🥲 #dating #datinglife #singlelife </title>
@@ -267,6 +259,14 @@
     <content>Ich mag es hier in München halt wirklich 😭 #bayern #queer </content>
     <link href="https://tiktok.com/@tandarok/video/7416608215368060193"/>
     <published>2024-09-20T06:28:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7417360461923978528</id>
+    <title>No Title</title>
+    <updated>2024-09-22T07:07:05+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@tandarok/video/7417360461923978528"/>
+    <published>2024-09-22T07:07:05+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
