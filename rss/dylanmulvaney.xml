@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@dylanmulvaney</id>
   <title>dylanmulvaney</title>
-  <updated>2024-09-20T20:44:10+00:00</updated>
+  <updated>2024-09-22T21:33:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylanmulvaney</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylanmulvaney/video/7365252333455822111</id>
-    <title>Roasting myself in a revenge dress @Netflix Is A Joke @Netflix </title>
-    <updated>2024-05-04T21:02:06+00:00</updated>
-    <content>Roasting myself in a revenge dress @Netflix Is A Joke @Netflix </content>
-    <link href="https://tiktok.com/@dylanmulvaney/video/7365252333455822111"/>
-    <published>2024-05-04T21:02:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7374890225840966955</id>
     <title>Link in bio- all profits go to Save the Children which currently has currently has operations set up in gaza ❤️</title>
@@ -243,6 +235,14 @@
     <content>Taking my dad to his first movie premiere ❤️ @netflix @TrevorProject #willandharper </content>
     <link href="https://tiktok.com/@dylanmulvaney/video/7416828881350577450"/>
     <published>2024-09-20T20:44:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylanmulvaney/video/7417583888509324590</id>
+    <title>Catch up and omg my lips are so chapped </title>
+    <updated>2024-09-22T21:33:55+00:00</updated>
+    <content>Catch up and omg my lips are so chapped </content>
+    <link href="https://tiktok.com/@dylanmulvaney/video/7417583888509324590"/>
+    <published>2024-09-22T21:33:55+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7193364487171444014</id>
