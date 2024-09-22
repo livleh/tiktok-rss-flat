@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@pasha</id>
   <title>pasha</title>
-  <updated>2024-09-19T09:29:25+00:00</updated>
+  <updated>2024-09-22T11:44:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pasha</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pasha/video/7380358111753702657</id>
-    <title>choose your own destiny, choose to shine - MYSLF eau de parfum gives you confidence that radiates @YSL Beauty #yslbeauty #careertiktok #corporate #giftedbyyslbeauty </title>
-    <updated>2024-06-14T13:58:54+00:00</updated>
-    <content>choose your own destiny, choose to shine - MYSLF eau de parfum gives you confidence that radiates @YSL Beauty #yslbeauty #careertiktok #corporate #giftedbyyslbeauty </content>
-    <link href="https://tiktok.com/@pasha/video/7380358111753702657"/>
-    <published>2024-06-14T13:58:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7380753871632731409</id>
     <title>this stare is the best way for you to know if an Eastern European approves of your fashion or outfits #easterneuropean #slavic #easterneuropeancomedy </title>
@@ -267,6 +259,14 @@
     <content>I know you all secretly think about doing this 🤨😅 #comedy #jobs </content>
     <link href="https://tiktok.com/@pasha/video/7416283931693075719"/>
     <published>2024-09-19T09:29:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pasha/video/7417431933707128082</id>
+    <title>what your most favourite linkedin phrases ACTUALLY mean: “honoured to receive the ABCD certificate” - turns out, they give out awards for just about anything these days! next up: world’s biggest yapper 💃 “just finished a project ABCDE…grateful for the opp</title>
+    <updated>2024-09-22T11:44:14+00:00</updated>
+    <content>what your most favourite linkedin phrases ACTUALLY mean: “honoured to receive the ABCD certificate” - turns out, they give out awards for just about anything these days! next up: world’s biggest yapper 💃 “just finished a project ABCDE…grateful for the opp</content>
+    <link href="https://tiktok.com/@pasha/video/7417431933707128082"/>
+    <published>2024-09-22T11:44:14+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7402693921005899028</id>
