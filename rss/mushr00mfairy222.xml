@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-09-23T14:49:17+00:00</updated>
+  <updated>2024-09-23T16:32:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7413773064862829857</id>
-    <title>what did u get!! #filter #trend </title>
-    <updated>2024-09-12T15:06:02+00:00</updated>
-    <content>what did u get!! #filter #trend </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7413773064862829857"/>
-    <published>2024-09-12T15:06:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7413779829545323808</id>
     <title>it would be so fun 😭 #lgbt #lgbtq </title>
@@ -267,6 +259,14 @@
     <content>and then wondering why it ends bad 😭 #wlw #redflags </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7417850685212921120"/>
     <published>2024-09-23T14:49:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7417877282691239201</id>
+    <title>ur reminder!! #september #fall #autumn </title>
+    <updated>2024-09-23T16:32:28+00:00</updated>
+    <content>ur reminder!! #september #fall #autumn </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7417877282691239201"/>
+    <published>2024-09-23T16:32:28+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>

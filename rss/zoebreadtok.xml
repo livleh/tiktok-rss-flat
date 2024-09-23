@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-09-19T17:55:08+00:00</updated>
+  <updated>2024-09-23T17:22:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7399712140455677216</id>
-    <title>i am super normal </title>
-    <updated>2024-08-05T17:42:27+00:00</updated>
-    <content>i am super normal </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7399712140455677216"/>
-    <published>2024-08-05T17:42:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7400079777970916641</id>
     <title>life hack at the hair dressers </title>
@@ -235,5 +227,13 @@
     <content>this is your sign to get breakdown cover !!!</content>
     <link href="https://tiktok.com/@zoebreadtok/video/7416414246570839328"/>
     <published>2024-09-19T17:55:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7417890061938691361</id>
+    <title>Replying to @LisaHafey i will never play the lottery again</title>
+    <updated>2024-09-23T17:22:08+00:00</updated>
+    <content>Replying to @LisaHafey i will never play the lottery again</content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7417890061938691361"/>
+    <published>2024-09-23T17:22:08+00:00</published>
   </entry>
 </feed>
