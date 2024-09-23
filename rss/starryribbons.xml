@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@starryribbons</id>
   <title>starryribbons</title>
-  <updated>2024-09-23T17:17:45+00:00</updated>
+  <updated>2024-09-23T17:32:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from starryribbons</subtitle>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7398252659691539744</id>
-    <title>guys trust me on this one PLEASE #coquettecore #digitaldiary #devongabriella #fangirl #wlw #taylorswift #wlw #outfitideas </title>
-    <updated>2024-08-01T19:18:54+00:00</updated>
-    <content>guys trust me on this one PLEASE #coquettecore #digitaldiary #devongabriella #fangirl #wlw #taylorswift #wlw #outfitideas </content>
-    <link href="https://tiktok.com/@starryribbons/video/7398252659691539744"/>
-    <published>2024-08-01T19:18:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7399732654200966432</id>
     <title>free now by gracie national anthem btw #coquettecore #digitaldiary #wlw #recoverytok #mentalhealthmatters #gracieabrams #taylorswift </title>
@@ -259,6 +251,14 @@
     <content>it‘s 8 in the morning #coquettecore #digitaldiary #wlw #femmelesbians #mentalhealthmatters </content>
     <link href="https://tiktok.com/@starryribbons/video/7417888956819262753"/>
     <published>2024-09-23T17:17:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7417892757768785184</id>
+    <title>haven’t posted smth like this in a while but #coquettecore #digitaldiary #wlw #mentalhealthmatters #socialanxietydisorder #generalizedanxietydisorder </title>
+    <updated>2024-09-23T17:32:31+00:00</updated>
+    <content>haven’t posted smth like this in a while but #coquettecore #digitaldiary #wlw #mentalhealthmatters #socialanxietydisorder #generalizedanxietydisorder </content>
+    <link href="https://tiktok.com/@starryribbons/video/7417892757768785184"/>
+    <published>2024-09-23T17:32:31+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7285761406664854817</id>
