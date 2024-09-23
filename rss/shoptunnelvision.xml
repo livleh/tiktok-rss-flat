@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shoptunnelvision</id>
   <title>shoptunnelvision</title>
-  <updated>2024-09-21T01:29:10+00:00</updated>
+  <updated>2024-09-23T20:43:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -69,14 +69,6 @@
     <published>2024-08-08T17:05:51+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@shoptunnelvision/video/7400847785257454894</id>
-    <title>No Title</title>
-    <updated>2024-08-08T19:09:19+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@shoptunnelvision/video/7400847785257454894"/>
-    <published>2024-08-08T19:09:19+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@shoptunnelvision/video/7404276749321637163</id>
     <title>No Title</title>
     <updated>2024-08-18T00:55:28+00:00</updated>
@@ -123,14 +115,6 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@shoptunnelvision/video/7407581201277586734"/>
     <published>2024-08-26T22:38:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@shoptunnelvision/video/7407945326025329966</id>
-    <title>No Title</title>
-    <updated>2024-08-27T22:11:24+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@shoptunnelvision/video/7407945326025329966"/>
-    <published>2024-08-27T22:11:24+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@shoptunnelvision/video/7408301934588759339</id>
@@ -251,5 +235,13 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@shoptunnelvision/video/7416902330861309227"/>
     <published>2024-09-21T01:29:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shoptunnelvision/video/7417941981000699179</id>
+    <title>No Title</title>
+    <updated>2024-09-23T20:43:32+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@shoptunnelvision/video/7417941981000699179"/>
+    <published>2024-09-23T20:43:32+00:00</published>
   </entry>
 </feed>
