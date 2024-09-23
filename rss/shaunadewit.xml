@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shaunadewit</id>
   <title>shaunadewit</title>
-  <updated>2024-09-17T13:11:27+00:00</updated>
+  <updated>2024-09-23T12:58:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shaunadewit</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shaunadewit/video/7388444533698153760</id>
-    <title>I stay calm and talk to an adult about it #foryou #pourtoi #comedy #humor #goviral #12345678 </title>
-    <updated>2024-07-06T08:58:27+00:00</updated>
-    <content>I stay calm and talk to an adult about it #foryou #pourtoi #comedy #humor #goviral #12345678 </content>
-    <link href="https://tiktok.com/@shaunadewit/video/7388444533698153760"/>
-    <published>2024-07-06T08:58:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/7389967837554560289</id>
     <title>I swear its an amazing trick #foryou #pourtoi #comedy #humor #goviral </title>
@@ -211,6 +203,14 @@
     <content>Best day of my life fr #foryou #humor #goviral #pourtoi #comedy </content>
     <link href="https://tiktok.com/@shaunadewit/video/7415598948846505249"/>
     <published>2024-09-17T13:11:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shaunadewit/video/7417822069993295137</id>
+    <title>It is what it is, why did I run after him idk #foryou #humor #goviral #pourtoi #comedy </title>
+    <updated>2024-09-23T12:58:18+00:00</updated>
+    <content>It is what it is, why did I run after him idk #foryou #humor #goviral #pourtoi #comedy </content>
+    <link href="https://tiktok.com/@shaunadewit/video/7417822069993295137"/>
+    <published>2024-09-23T12:58:18+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/6994791135415766278</id>
