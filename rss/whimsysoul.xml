@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-09-24T00:09:58+00:00</updated>
+  <updated>2024-09-24T19:38:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7404165398435876139</id>
-    <title>#duet with @Hot Gay Nerd still so wild to me that I actually made a vacation rental for fellow Californians to enoy and cool people come!? And have dance parties there? And enjoy the county recreation!? A dream!!!  Thank you Santiago!! 💚💚💚 Learn more abou</title>
-    <updated>2024-08-17T17:43:24+00:00</updated>
-    <content>#duet with @Hot Gay Nerd still so wild to me that I actually made a vacation rental for fellow Californians to enoy and cool people come!? And have dance parties there? And enjoy the county recreation!? A dream!!!  Thank you Santiago!! 💚💚💚 Learn more abou</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7404165398435876139"/>
-    <published>2024-08-17T17:43:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7406070700903058731</id>
     <title>calling all fall lovers - this is your PERFECT fall day out in Sonoma County ❤️🍁🍎 🍎 Ratzlaff Ranch apple picking to stock up on tons of apples for fall baking!!  🥧Mom's Apple Pie for 16 different types of freshly baked pies 🥂 Iron Horse Vineyards has amaz</title>
@@ -267,6 +259,14 @@
     <content>they win at Halloween! 🎃This pumpkin farm in California goes ALL out for Halloween and I'm so here for it. And their 2024 opening day is the last weekend of September (this weekend!!! EKK!!)  📍 @thespinafarmspumpkinpatch in the South Bay has DINOSAURS 🦖 j</content>
     <link href="https://tiktok.com/@whimsysoul/video/7417995184870395182"/>
     <published>2024-09-24T00:09:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7418296188635663662</id>
+    <title>Cow Cuddling in the Bay Area!! 🐄🐄 Yes, this is a thing and it’s SO much fun!! Bay Area Cows /  Sri Surabhi Go Ksetra is a cow sanctuary located in Pleasanton Tri Valley area. @Visit Tri-Valley They rescue Gir cows from Mexico and give them pampered, happy</title>
+    <updated>2024-09-24T19:38:02+00:00</updated>
+    <content>Cow Cuddling in the Bay Area!! 🐄🐄 Yes, this is a thing and it’s SO much fun!! Bay Area Cows /  Sri Surabhi Go Ksetra is a cow sanctuary located in Pleasanton Tri Valley area. @Visit Tri-Valley They rescue Gir cows from Mexico and give them pampered, happy</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7418296188635663662"/>
+    <published>2024-09-24T19:38:02+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
