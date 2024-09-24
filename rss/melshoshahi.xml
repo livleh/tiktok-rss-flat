@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@melshoshahi</id>
   <title>melshoshahi</title>
-  <updated>2024-09-21T18:29:08+00:00</updated>
+  <updated>2024-09-24T20:33:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from melshoshahi</subtitle>
-  <entry>
-    <id>https://tiktok.com/@melshoshahi/video/7401550489474682143</id>
-    <title>The Hermes pronounciation is vital, otherwise you don’t deserving to wearing it uhkay!  #retail #luxurybag #customservice #tiktokskit #sketchcomedy #hermes #hermespronunciation </title>
-    <updated>2024-08-10T16:36:23+00:00</updated>
-    <content>The Hermes pronounciation is vital, otherwise you don’t deserving to wearing it uhkay!  #retail #luxurybag #customservice #tiktokskit #sketchcomedy #hermes #hermespronunciation </content>
-    <link href="https://tiktok.com/@melshoshahi/video/7401550489474682143"/>
-    <published>2024-08-10T16:36:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@melshoshahi/video/7402728113756540191</id>
     <title>Peoples trunks are not part of the store 😅💅🏼 #gucci #sketchcomedy #scammeralert #tiktokskit #retail #laptop #customerservice </title>
@@ -131,6 +123,14 @@
     <content>Chicago tour guide here, you nio 💅🏽 #tourguide #chicago #humor #standup #richman #luxury #yacht #boat </content>
     <link href="https://tiktok.com/@melshoshahi/video/7417165157228350750"/>
     <published>2024-09-21T18:29:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@melshoshahi/video/7418310519553002783</id>
+    <title>Checking in at the hotel be like…💅🏽 #frontdesk #hotel #reception #tiktokskit #sketchcomedy </title>
+    <updated>2024-09-24T20:33:42+00:00</updated>
+    <content>Checking in at the hotel be like…💅🏽 #frontdesk #hotel #reception #tiktokskit #sketchcomedy </content>
+    <link href="https://tiktok.com/@melshoshahi/video/7418310519553002783"/>
+    <published>2024-09-24T20:33:42+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@melshoshahi/video/7282846082986462507</id>
