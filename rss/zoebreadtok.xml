@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-09-23T17:45:36+00:00</updated>
+  <updated>2024-09-24T17:28:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7400450707045862688</id>
-    <title>getting my nails painted  </title>
-    <updated>2024-08-07T17:28:32+00:00</updated>
-    <content>getting my nails painted  </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7400450707045862688"/>
-    <published>2024-08-07T17:28:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7400829583261437217</id>
     <title>i have been so pampered this week 🥰 </title>
@@ -227,5 +219,13 @@
     <content>Replying to @LisaHafey i am never entering it again </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7417896130597391649"/>
     <published>2024-09-23T17:45:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7418262911010819360</id>
+    <title>a strange time at a caving convention</title>
+    <updated>2024-09-24T17:28:58+00:00</updated>
+    <content>a strange time at a caving convention</content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7418262911010819360"/>
+    <published>2024-09-24T17:28:58+00:00</published>
   </entry>
 </feed>
