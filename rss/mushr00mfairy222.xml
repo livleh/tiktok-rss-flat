@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-09-23T16:32:28+00:00</updated>
+  <updated>2024-09-24T12:23:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7413779829545323808</id>
-    <title>it would be so fun 😭 #lgbt #lgbtq </title>
-    <updated>2024-09-12T15:32:15+00:00</updated>
-    <content>it would be so fun 😭 #lgbt #lgbtq </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7413779829545323808"/>
-    <published>2024-09-12T15:32:15+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7413804654632373536</id>
-    <title>pink hair needs redoing so soon #pinkhair #dyedhair </title>
-    <updated>2024-09-12T17:08:34+00:00</updated>
-    <content>pink hair needs redoing so soon #pinkhair #dyedhair </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7413804654632373536"/>
-    <published>2024-09-12T17:08:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7413805152819350817</id>
     <title>pretty much 😀 #mh #mentalhealth </title>
@@ -267,6 +251,22 @@
     <content>ur reminder!! #september #fall #autumn </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7417877282691239201"/>
     <published>2024-09-23T16:32:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7418178943242603809</id>
+    <title>what did you get! #filter #trend #swiftie </title>
+    <updated>2024-09-24T12:03:06+00:00</updated>
+    <content>what did you get! #filter #trend #swiftie </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7418178943242603809"/>
+    <published>2024-09-24T12:03:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7418184092333788448</id>
+    <title>what's your favourite sum?! #mh #mentalhealth </title>
+    <updated>2024-09-24T12:23:04+00:00</updated>
+    <content>what's your favourite sum?! #mh #mentalhealth </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7418184092333788448"/>
+    <published>2024-09-24T12:23:04+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
