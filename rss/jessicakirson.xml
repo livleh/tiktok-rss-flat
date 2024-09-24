@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-09-23T22:56:27+00:00</updated>
+  <updated>2024-09-24T22:33:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7410161743135083807</id>
-    <title>What was that? The staff didn’t warn me 😂 #cat #fyp </title>
-    <updated>2024-09-02T21:32:20+00:00</updated>
-    <content>What was that? The staff didn’t warn me 😂 #cat #fyp </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7410161743135083807"/>
-    <published>2024-09-02T21:32:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7410557668068216095</id>
     <title>Emergency Doctor Finds A Ken Doll in someones 😳  #emergency #room #dr </title>
@@ -155,6 +147,14 @@
     <content>A Restaurant Wedding  #wedding #restaurant #fy </content>
     <link href="https://tiktok.com/@jessicakirson/video/7417976223139106078"/>
     <published>2024-09-23T22:56:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7418341266460642590</id>
+    <title>His Partner Left Him Alone #partner #datenight #fyp </title>
+    <updated>2024-09-24T22:33:02+00:00</updated>
+    <content>His Partner Left Him Alone #partner #datenight #fyp </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7418341266460642590"/>
+    <published>2024-09-24T22:33:02+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7406711443023826206</id>
