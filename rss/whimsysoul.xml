@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-09-22T18:53:35+00:00</updated>
+  <updated>2024-09-24T00:09:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7403858546984553770</id>
-    <title>hidden in plain sight! This SF speakeasy looks like a bus stop from the outside, but is actually an upscale speakeasy serving up one of the best martinis in San Francisco.  I'm a martini girl, and loved their Dirty featuring Hog Island sea brine and Monte</title>
-    <updated>2024-08-16T21:52:37+00:00</updated>
-    <content>hidden in plain sight! This SF speakeasy looks like a bus stop from the outside, but is actually an upscale speakeasy serving up one of the best martinis in San Francisco.  I'm a martini girl, and loved their Dirty featuring Hog Island sea brine and Monte</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7403858546984553770"/>
-    <published>2024-08-16T21:52:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7404165398435876139</id>
     <title>#duet with @Hot Gay Nerd still so wild to me that I actually made a vacation rental for fellow Californians to enoy and cool people come!? And have dance parties there? And enjoy the county recreation!? A dream!!!  Thank you Santiago!! 💚💚💚 Learn more abou</title>
@@ -267,6 +259,14 @@
     <content>such a life saver!! Just ask the front desk for a sewing kit, it's free and most (good) hotels will have one! #sewingkit #travelhack #traveltip #travellife #traveling #hotels #sewingtiktok </content>
     <link href="https://tiktok.com/@whimsysoul/video/7417542564716350763"/>
     <published>2024-09-22T18:53:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7417995184870395182</id>
+    <title>they win at Halloween! 🎃This pumpkin farm in California goes ALL out for Halloween and I'm so here for it. And their 2024 opening day is the last weekend of September (this weekend!!! EKK!!)  📍 @thespinafarmspumpkinpatch in the South Bay has DINOSAURS 🦖 j</title>
+    <updated>2024-09-24T00:09:58+00:00</updated>
+    <content>they win at Halloween! 🎃This pumpkin farm in California goes ALL out for Halloween and I'm so here for it. And their 2024 opening day is the last weekend of September (this weekend!!! EKK!!)  📍 @thespinafarmspumpkinpatch in the South Bay has DINOSAURS 🦖 j</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7417995184870395182"/>
+    <published>2024-09-24T00:09:58+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
