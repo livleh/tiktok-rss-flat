@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@danielryanspaulding</id>
   <title>danielryanspaulding</title>
-  <updated>2024-09-23T17:34:48+00:00</updated>
+  <updated>2024-09-25T21:37:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from danielryanspaulding</subtitle>
-  <entry>
-    <id>https://tiktok.com/@danielryanspaulding/video/7379358734255934752</id>
-    <title>This is the Ideological subversion of the west through Antizionism — explained from Jon Stewart’s monologue about Iran bombing Israel. Jon scapegoated Israel for US domestic problems &amp; got his audience to cheer on the potential mass murder of millions. Th</title>
-    <updated>2024-06-11T21:20:53+00:00</updated>
-    <content>This is the Ideological subversion of the west through Antizionism — explained from Jon Stewart’s monologue about Iran bombing Israel. Jon scapegoated Israel for US domestic problems &amp; got his audience to cheer on the potential mass murder of millions. Th</content>
-    <link href="https://tiktok.com/@danielryanspaulding/video/7379358734255934752"/>
-    <published>2024-06-11T21:20:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@danielryanspaulding/video/7380450936570842400</id>
     <title>CYNTHIA NIXON : are you going to CONDEMN the Pro-Terrorist mob outside the @novaexhibition — or do you support Pro-Hamas mobs on the streets of New York City? WE ALL WANT TO KNOW. @justlikethatmax @hbo @gildedagehbo #cynthianixon #andjustlikethat #hbo #gi</title>
@@ -267,5 +259,13 @@
     <content>Power Gays try to help Bandwagon Gays 🙏 #fireisland #thepines #nyc #usa #gay #comedy </content>
     <link href="https://tiktok.com/@danielryanspaulding/video/7417893345122422048"/>
     <published>2024-09-23T17:34:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@danielryanspaulding/video/7418697959816154400</id>
+    <title>Middle East 101 #israel #usa #middleeast #iran #irgc #lebanon </title>
+    <updated>2024-09-25T21:37:13+00:00</updated>
+    <content>Middle East 101 #israel #usa #middleeast #iran #irgc #lebanon </content>
+    <link href="https://tiktok.com/@danielryanspaulding/video/7418697959816154400"/>
+    <published>2024-09-25T21:37:13+00:00</published>
   </entry>
 </feed>
