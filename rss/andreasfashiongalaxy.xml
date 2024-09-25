@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@andreasfashiongalaxy</id>
   <title>andreasfashiongalaxy</title>
-  <updated>2024-09-24T20:08:50+00:00</updated>
+  <updated>2024-09-25T20:26:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from andreasfashiongalaxy</subtitle>
-  <entry>
-    <id>https://tiktok.com/@andreasfashiongalaxy/video/7359670583484812577</id>
-    <title>Wear your mini skirt as a top and your top as a mini skirt #letsgetdressed </title>
-    <updated>2024-04-19T20:00:45+00:00</updated>
-    <content>Wear your mini skirt as a top and your top as a mini skirt #letsgetdressed </content>
-    <link href="https://tiktok.com/@andreasfashiongalaxy/video/7359670583484812577"/>
-    <published>2024-04-19T20:00:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@andreasfashiongalaxy/video/7361545705351023905</id>
     <title>How to recreate a My Little Pony’s Rarity outfit #letsgetdressed </title>
@@ -259,5 +251,13 @@
     <content>That pink dress reveal #letsgetdressed </content>
     <link href="https://tiktok.com/@andreasfashiongalaxy/video/7418304122589334816"/>
     <published>2024-09-24T20:08:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@andreasfashiongalaxy/video/7418679705827659041</id>
+    <title>How to style this pink maxi dress the pirate way #letsgetdressed </title>
+    <updated>2024-09-25T20:26:18+00:00</updated>
+    <content>How to style this pink maxi dress the pirate way #letsgetdressed </content>
+    <link href="https://tiktok.com/@andreasfashiongalaxy/video/7418679705827659041"/>
+    <published>2024-09-25T20:26:18+00:00</published>
   </entry>
 </feed>
