@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-09-24T12:48:28+00:00</updated>
+  <updated>2024-09-25T08:17:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7408756342078311698</id>
-    <title>Let’s normalise putting in effort. Australia needs it. The way some of yall be leaving the house 🙅🏼‍♀️ </title>
-    <updated>2024-08-30T02:38:31+00:00</updated>
-    <content>Let’s normalise putting in effort. Australia needs it. The way some of yall be leaving the house 🙅🏼‍♀️ </content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7408756342078311698"/>
-    <published>2024-08-30T02:38:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7409220528591965447</id>
     <title>If you can love us in private, but you can’t defend us publicly… WE DON’T WANT YOU! Ladies, I know some of y’all be settling for these kinda men. Knock it off! You deserve so much better 😙🏳️‍⚧️</title>
@@ -267,5 +259,13 @@
     <content>The one thing better than a ring!!!</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7418190621644426513"/>
     <published>2024-09-24T12:48:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7418491724059725057</id>
+    <title>But apparently its the things you didnt want to go to that end up being the most fun 🤷🏼‍♀️</title>
+    <updated>2024-09-25T08:17:00+00:00</updated>
+    <content>But apparently its the things you didnt want to go to that end up being the most fun 🤷🏼‍♀️</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7418491724059725057"/>
+    <published>2024-09-25T08:17:00+00:00</published>
   </entry>
 </feed>
