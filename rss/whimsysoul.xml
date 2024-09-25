@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-09-25T18:12:50+00:00</updated>
+  <updated>2024-09-25T18:36:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7406433326946372906</id>
-    <title>the MOST insane Airbnb in California!! 😱If you love cool decor, cedar hot tubs, and amenities like a record player and espresso machine, all within proximity to Big Trees State Park, wineries, lakes and a ski hill - you NEED to book Whimsy Homes (yes, i a</title>
-    <updated>2024-08-23T20:24:07+00:00</updated>
-    <content>the MOST insane Airbnb in California!! 😱If you love cool decor, cedar hot tubs, and amenities like a record player and espresso machine, all within proximity to Big Trees State Park, wineries, lakes and a ski hill - you NEED to book Whimsy Homes (yes, i a</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7406433326946372906"/>
-    <published>2024-08-23T20:24:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7406462978100399406</id>
     <title>just spent a week in Arnold to do an owners checkin on my Airbnb up there but also to see friends, have meetings and enjoy the mountains during the end of summer at @Whimsy Homes Cabin  Have you ever been to Calaveras County?? #vlog #travelvlog #calaveras</title>
@@ -267,6 +259,14 @@
     <content>Bay Area Wine Trolley!!!😱  Why go normal wine tasting when you can hop on the @Livermore Wine Trolley to different vineyards?!  🍷🍷   I just spent a few days in @Visit Tri-Valley and absolutely had to check out their famous wine trolley. It’s such a blast,</content>
     <link href="https://tiktok.com/@whimsysoul/video/7418645316351642923"/>
     <published>2024-09-25T18:12:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7418651519555407150</id>
+    <title>Rare chance to photograph in a vineyard at sunset!! Usually vineyards close around 5pm and I never get a chance to make content there during sunset or golden hour.  While on a media trip to Tri Valley this week, I was at a winemakers dinner a Murrieta's W</title>
+    <updated>2024-09-25T18:36:57+00:00</updated>
+    <content>Rare chance to photograph in a vineyard at sunset!! Usually vineyards close around 5pm and I never get a chance to make content there during sunset or golden hour.  While on a media trip to Tri Valley this week, I was at a winemakers dinner a Murrieta's W</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7418651519555407150"/>
+    <published>2024-09-25T18:36:57+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
