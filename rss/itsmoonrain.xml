@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itsmoonrain</id>
   <title>itsmoonrain</title>
-  <updated>2024-09-15T22:47:45+00:00</updated>
+  <updated>2024-09-25T15:32:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from itsmoonrain</subtitle>
-  <entry>
-    <id>https://tiktok.com/@itsmoonrain/video/7253818615265283355</id>
-    <title>#klaumirnichtmeinleben #nonbinary #lesbian #lgbtq #queer #selflove❤ #masc4masc #🏳️‍🌈</title>
-    <updated>2023-07-09T14:01:05+00:00</updated>
-    <content>#klaumirnichtmeinleben #nonbinary #lesbian #lgbtq #queer #selflove❤ #masc4masc #🏳️‍🌈</content>
-    <link href="https://tiktok.com/@itsmoonrain/video/7253818615265283355"/>
-    <published>2023-07-09T14:01:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@itsmoonrain/video/7256017321632763162</id>
     <title>1.wake up 2.how do I feel today? 3.get dressed 4.live #nonbinary #queer #lgbtqiaplus #masc4masc #t4t #klaumirnichtmeinleben #fyp #transition #🏳️‍🌈 </title>
@@ -187,6 +179,14 @@
     <content>🥹 #🏳️‍🌈 #queer #wlw #nonbinary #lesbian #gay #pansexuał #bi #klaumirnichtmeinleben #</content>
     <link href="https://tiktok.com/@itsmoonrain/video/7415005290518580512"/>
     <published>2024-09-15T22:47:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@itsmoonrain/video/7418604010179022113</id>
+    <title>🫶🏼   #kittens #soulhealing   #🏳️‍🌈 #queer #nonbinary </title>
+    <updated>2024-09-25T15:32:35+00:00</updated>
+    <content>🫶🏼   #kittens #soulhealing   #🏳️‍🌈 #queer #nonbinary </content>
+    <link href="https://tiktok.com/@itsmoonrain/video/7418604010179022113"/>
+    <published>2024-09-25T15:32:35+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@itsmoonrain/video/7212693803684089094</id>

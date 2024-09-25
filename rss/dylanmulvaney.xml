@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@dylanmulvaney</id>
   <title>dylanmulvaney</title>
-  <updated>2024-09-22T21:33:55+00:00</updated>
+  <updated>2024-09-25T16:25:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylanmulvaney</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylanmulvaney/video/7374890225840966955</id>
-    <title>Link in bio- all profits go to Save the Children which currently has currently has operations set up in gaza ❤️</title>
-    <updated>2024-05-30T20:20:42+00:00</updated>
-    <content>Link in bio- all profits go to Save the Children which currently has currently has operations set up in gaza ❤️</content>
-    <link href="https://tiktok.com/@dylanmulvaney/video/7374890225840966955"/>
-    <published>2024-05-30T20:20:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7375583539863063850</id>
     <title>Oops i really thought it was a lip stain 😘</title>
@@ -243,6 +235,14 @@
     <content>Catch up and omg my lips are so chapped </content>
     <link href="https://tiktok.com/@dylanmulvaney/video/7417583888509324590"/>
     <published>2024-09-22T21:33:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylanmulvaney/video/7418617722923158827</id>
+    <title>My debut book PAPER DOLL will be released March 11th, 2025 and link for pre-order in my bio 🎀 #book #memoir #trans </title>
+    <updated>2024-09-25T16:25:45+00:00</updated>
+    <content>My debut book PAPER DOLL will be released March 11th, 2025 and link for pre-order in my bio 🎀 #book #memoir #trans </content>
+    <link href="https://tiktok.com/@dylanmulvaney/video/7418617722923158827"/>
+    <published>2024-09-25T16:25:45+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7193364487171444014</id>
