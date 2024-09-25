@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-09-24T12:23:04+00:00</updated>
+  <updated>2024-09-25T15:25:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7413805152819350817</id>
-    <title>pretty much 😀 #mh #mentalhealth </title>
-    <updated>2024-09-12T17:10:30+00:00</updated>
-    <content>pretty much 😀 #mh #mentalhealth </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7413805152819350817"/>
-    <published>2024-09-12T17:10:30+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7414512362184625440</id>
-    <title>outfit of the day #ootd #pinkhair </title>
-    <updated>2024-09-14T14:54:51+00:00</updated>
-    <content>outfit of the day #ootd #pinkhair </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7414512362184625440"/>
-    <published>2024-09-14T14:54:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7414513058590035233</id>
     <title>pookies rise #pookies </title>
@@ -267,6 +251,22 @@
     <content>what's your favourite sum?! #mh #mentalhealth </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7418184092333788448"/>
     <published>2024-09-24T12:23:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7418583237032693025</id>
+    <title>wanna disappear 😋😋 #travel </title>
+    <updated>2024-09-25T14:11:58+00:00</updated>
+    <content>wanna disappear 😋😋 #travel </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7418583237032693025"/>
+    <published>2024-09-25T14:11:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7418602128492580128</id>
+    <title>ocd gang 😚💪 #ocd #mh #mentalhealth </title>
+    <updated>2024-09-25T15:25:15+00:00</updated>
+    <content>ocd gang 😚💪 #ocd #mh #mentalhealth </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7418602128492580128"/>
+    <published>2024-09-25T15:25:15+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
