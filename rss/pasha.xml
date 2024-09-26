@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@pasha</id>
   <title>pasha</title>
-  <updated>2024-09-25T08:27:41+00:00</updated>
+  <updated>2024-09-26T09:54:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pasha</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pasha/video/7381095989777616144</id>
-    <title>you really cannot get any more nasty than this 😭 #german #germany #deutschland #lifeingermany</title>
-    <updated>2024-06-16T13:42:17+00:00</updated>
-    <content>you really cannot get any more nasty than this 😭 #german #germany #deutschland #lifeingermany</content>
-    <link href="https://tiktok.com/@pasha/video/7381095989777616144"/>
-    <published>2024-06-16T13:42:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7381489694741187841</id>
     <title>you wouldn’t believe it - the German cat sniched on me 😭 #german #germany #deutschland #lifeingermany </title>
@@ -267,6 +259,14 @@
     <content>Italy does wonders to you #italy #italia #traveltiktok #rome #italytravel </content>
     <link href="https://tiktok.com/@pasha/video/7418494510390381832"/>
     <published>2024-09-25T08:27:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pasha/video/7418887928694246674</id>
+    <title>this espresso was an instant regret 🤡 #italy #italian #italia #lifeinitaly #italianculture </title>
+    <updated>2024-09-26T09:54:16+00:00</updated>
+    <content>this espresso was an instant regret 🤡 #italy #italian #italia #lifeinitaly #italianculture </content>
+    <link href="https://tiktok.com/@pasha/video/7418887928694246674"/>
+    <published>2024-09-26T09:54:16+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7402693921005899028</id>
