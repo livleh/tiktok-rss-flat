@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-09-26T11:05:22+00:00</updated>
+  <updated>2024-09-26T11:58:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7414896422207671585</id>
-    <title>hello kitty cafe!! 📍artbox brighton #hellokitty #sanrio #artbox </title>
-    <updated>2024-09-15T15:45:12+00:00</updated>
-    <content>hello kitty cafe!! 📍artbox brighton #hellokitty #sanrio #artbox </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7414896422207671585"/>
-    <published>2024-09-15T15:45:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7415204893830450464</id>
     <title>i love silly dressing up #pink #pinkhair #alt </title>
@@ -267,6 +259,14 @@
     <content>NO 1 The prophecy stan #swiftie #taylorswift #ttpd</content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7418906183404244257"/>
     <published>2024-09-26T11:05:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7418919943304973600</id>
+    <title>Replying to @💙𝐌&amp;𝐌❤️ is your favourite animal here #lesbian #wlw #nmlnm </title>
+    <updated>2024-09-26T11:58:41+00:00</updated>
+    <content>Replying to @💙𝐌&amp;𝐌❤️ is your favourite animal here #lesbian #wlw #nmlnm </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7418919943304973600"/>
+    <published>2024-09-26T11:58:41+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
