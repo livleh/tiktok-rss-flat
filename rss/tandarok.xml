@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-09-24T06:38:17+00:00</updated>
+  <updated>2024-09-26T06:32:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7407566973774695712</id>
-    <title>Würde ein Mann meiner Brand schaden??? #datinglife #singlelife #dating </title>
-    <updated>2024-08-26T21:43:26+00:00</updated>
-    <content>Würde ein Mann meiner Brand schaden??? #datinglife #singlelife #dating </content>
-    <link href="https://tiktok.com/@tandarok/video/7407566973774695712"/>
-    <published>2024-08-26T21:43:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7407906632002276640</id>
     <title>Mein Content ist so viel mehr als trans Themen. ICH bin so viel mehr als trans. Aber ich werde schon immer sehr in diese Nische gesteckt und manchmal ist das einfach ziemlich frustrierend. #twitchstreamer #twitchde #twitchgermany </title>
@@ -267,6 +259,14 @@
     <content>Gold-Star Le$bean 😌 oder so  #queer #transgirl #gay </content>
     <link href="https://tiktok.com/@tandarok/video/7418095229997223200"/>
     <published>2024-09-24T06:38:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7418835824340372768</id>
+    <title>I'd watch it! #catsoftiktok #cute </title>
+    <updated>2024-09-26T06:32:15+00:00</updated>
+    <content>I'd watch it! #catsoftiktok #cute </content>
+    <link href="https://tiktok.com/@tandarok/video/7418835824340372768"/>
+    <published>2024-09-26T06:32:15+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
