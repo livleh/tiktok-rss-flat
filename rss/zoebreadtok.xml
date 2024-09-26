@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-09-25T17:32:24+00:00</updated>
+  <updated>2024-09-26T17:23:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7401943203198504224</id>
-    <title>a video about a ladder and a hypothetical cat </title>
-    <updated>2024-08-11T18:00:08+00:00</updated>
-    <content>a video about a ladder and a hypothetical cat </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7401943203198504224"/>
-    <published>2024-08-11T18:00:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7402304358077058336</id>
     <title>theyre just deaf. theyre not deaf offenders </title>
@@ -227,5 +219,13 @@
     <content>baby nigel</content>
     <link href="https://tiktok.com/@zoebreadtok/video/7418634888456260896"/>
     <published>2024-09-25T17:32:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7419003699802000672</id>
+    <title>appealing parking fines for fun even though i was probly in the wrong. parking wardens are scum. subhuman scum</title>
+    <updated>2024-09-26T17:23:30+00:00</updated>
+    <content>appealing parking fines for fun even though i was probly in the wrong. parking wardens are scum. subhuman scum</content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7419003699802000672"/>
+    <published>2024-09-26T17:23:30+00:00</published>
   </entry>
 </feed>
