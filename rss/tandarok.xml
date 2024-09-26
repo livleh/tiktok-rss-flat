@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-09-26T06:32:15+00:00</updated>
+  <updated>2024-09-26T15:35:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7407906632002276640</id>
-    <title>Mein Content ist so viel mehr als trans Themen. ICH bin so viel mehr als trans. Aber ich werde schon immer sehr in diese Nische gesteckt und manchmal ist das einfach ziemlich frustrierend. #twitchstreamer #twitchde #twitchgermany </title>
-    <updated>2024-08-27T19:41:19+00:00</updated>
-    <content>Mein Content ist so viel mehr als trans Themen. ICH bin so viel mehr als trans. Aber ich werde schon immer sehr in diese Nische gesteckt und manchmal ist das einfach ziemlich frustrierend. #twitchstreamer #twitchde #twitchgermany </content>
-    <link href="https://tiktok.com/@tandarok/video/7407906632002276640"/>
-    <published>2024-08-27T19:41:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7409197948422180129</id>
     <title>Ignoriert wie ich aussehe und klinge. Bin krank 🥲</title>
@@ -267,6 +259,14 @@
     <content>I'd watch it! #catsoftiktok #cute </content>
     <link href="https://tiktok.com/@tandarok/video/7418835824340372768"/>
     <published>2024-09-26T06:32:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7418975970398375201</id>
+    <title>Welche seid ihr? #vegan </title>
+    <updated>2024-09-26T15:35:55+00:00</updated>
+    <content>Welche seid ihr? #vegan </content>
+    <link href="https://tiktok.com/@tandarok/video/7418975970398375201"/>
+    <published>2024-09-26T15:35:55+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
