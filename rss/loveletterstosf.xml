@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2024-09-24T00:24:11+00:00</updated>
+  <updated>2024-09-27T16:02:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -251,5 +251,13 @@
     <content>#sftok #sfsummer </content>
     <link href="https://tiktok.com/@loveletterstosf/video/7417998847915478318"/>
     <published>2024-09-24T00:24:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7419353878086356267</id>
+    <title>there goes sept 💛 #thisweekendinsf #sfevents #sftok #sfsummer #sfmarket #nightmarket #outdoormovienight </title>
+    <updated>2024-09-27T16:02:23+00:00</updated>
+    <content>there goes sept 💛 #thisweekendinsf #sfevents #sftok #sfsummer #sfmarket #nightmarket #outdoormovienight </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7419353878086356267"/>
+    <published>2024-09-27T16:02:23+00:00</published>
   </entry>
 </feed>
