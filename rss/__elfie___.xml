@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@__elfie___</id>
   <title>__elfie___</title>
-  <updated>2024-09-27T08:50:05+00:00</updated>
+  <updated>2024-09-27T12:35:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from __elfie___</subtitle>
-  <entry>
-    <id>https://tiktok.com/@__elfie___/video/7238398370308427009</id>
-    <title>Fit check before going to the supermarket 👀🖤 #fypシ #altmodel #darkfashion #darkwear #altclothing #altfashion #elfears </title>
-    <updated>2023-05-29T00:42:46+00:00</updated>
-    <content>Fit check before going to the supermarket 👀🖤 #fypシ #altmodel #darkfashion #darkwear #altclothing #altfashion #elfears </content>
-    <link href="https://tiktok.com/@__elfie___/video/7238398370308427009"/>
-    <published>2023-05-29T00:42:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@__elfie___/video/7239985227290922242</id>
     <title>New fit obsession unlocked! ✋🏻😮‍💨 @Ynhoia #fypシ #darkfashion #darkwear #altfashion #altclothing #altmodel #harnessfashion #genderlessfashion </title>
@@ -227,6 +219,14 @@
     <content>“Name’s Price, Chloe Price. BANG!” 🦋  It was time for a change 🖤 I finally redid a combo that I adored almost 10 years ago. #fypシ゚ #lifeisstrange #alternativehair #althair #piercings #elfears #earpointing </content>
     <link href="https://tiktok.com/@__elfie___/video/7419242476252286226"/>
     <published>2024-09-27T08:50:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@__elfie___/video/7419300577647054087</id>
+    <title>🦋 #lifeisstrange #chloeprice #elfears #althair #fypシ゚ </title>
+    <updated>2024-09-27T12:35:32+00:00</updated>
+    <content>🦋 #lifeisstrange #chloeprice #elfears #althair #fypシ゚ </content>
+    <link href="https://tiktok.com/@__elfie___/video/7419300577647054087"/>
+    <published>2024-09-27T12:35:32+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@__elfie___/video/7015763965712059650</id>
