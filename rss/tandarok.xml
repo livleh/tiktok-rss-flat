@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-09-26T15:35:55+00:00</updated>
+  <updated>2024-09-27T00:23:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7409197948422180129</id>
-    <title>Ignoriert wie ich aussehe und klinge. Bin krank 🥲</title>
-    <updated>2024-08-31T07:12:19+00:00</updated>
-    <content>Ignoriert wie ich aussehe und klinge. Bin krank 🥲</content>
-    <link href="https://tiktok.com/@tandarok/video/7409197948422180129"/>
-    <published>2024-08-31T07:12:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7409661285400317216</id>
     <title>Und ich hab's noch nicht mal zum Arzt geschafft um dann auch Antibiotika zu nehmen 🫠</title>
@@ -267,6 +259,14 @@
     <content>Welche seid ihr? #vegan </content>
     <link href="https://tiktok.com/@tandarok/video/7418975970398375201"/>
     <published>2024-09-26T15:35:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7419111979333274912</id>
+    <title>#Duett mit @gwizzle I need her energy  #single #dating </title>
+    <updated>2024-09-27T00:23:52+00:00</updated>
+    <content>#Duett mit @gwizzle I need her energy  #single #dating </content>
+    <link href="https://tiktok.com/@tandarok/video/7419111979333274912"/>
+    <published>2024-09-27T00:23:52+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
