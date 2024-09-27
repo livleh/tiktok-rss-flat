@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-09-27T21:19:52+00:00</updated>
+  <updated>2024-09-27T22:19:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7406909805551619374</id>
-    <title>Put this SF wine bar on your foodie bucket list!! Take the N out to the Outer Sunset next time it's sunny, grab a table outside and bask in the sunshine with a glass of wine at palm city wines 🍷✨ you might just see me there - it's one of our fave places f</title>
-    <updated>2024-08-25T03:13:03+00:00</updated>
-    <content>Put this SF wine bar on your foodie bucket list!! Take the N out to the Outer Sunset next time it's sunny, grab a table outside and bask in the sunshine with a glass of wine at palm city wines 🍷✨ you might just see me there - it's one of our fave places f</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7406909805551619374"/>
-    <published>2024-08-25T03:13:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7407163404642782506</id>
     <title>this CA hotel as the BEST fall colors!! I went to Desolation Hotel a few Octobers ago and still can't shut up about this magical place.  @Justina Vanessa and I stayed in one of their glamping yurts that are decked out with luxury amenities like a soaking </title>
@@ -267,6 +259,14 @@
     <content>Curvy girl @Sézane ootn for their 2-year anniversary in San Francisco!!  🔗 outfit on LTK  Despite being a French brand, Sezane actually fits my curves so well. I've been obsessed with their pieces ever since they opened in San Francisco -- amazing staples</content>
     <link href="https://tiktok.com/@whimsysoul/video/7419435695179091242"/>
     <published>2024-09-27T21:19:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7419451011514879275</id>
+    <title>Get your booty down to ocean beach! #cameraobscura #sanfrancisco #bayarea #oceanbeachsanfrancisco #sanfranciscolife </title>
+    <updated>2024-09-27T22:19:18+00:00</updated>
+    <content>Get your booty down to ocean beach! #cameraobscura #sanfrancisco #bayarea #oceanbeachsanfrancisco #sanfranciscolife </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7419451011514879275"/>
+    <published>2024-09-27T22:19:18+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
