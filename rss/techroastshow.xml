@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-09-27T21:24:52+00:00</updated>
+  <updated>2024-09-28T15:08:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7412292673312148767</id>
-    <title>it scrolls!  #techie #softwareengineer #nyc #newyork #programmerlife #roastbattle #darkhumor #techroastshow</title>
-    <updated>2024-09-08T15:21:27+00:00</updated>
-    <content>it scrolls!  #techie #softwareengineer #nyc #newyork #programmerlife #roastbattle #darkhumor #techroastshow</content>
-    <link href="https://tiktok.com/@techroastshow/video/7412292673312148767"/>
-    <published>2024-09-08T15:21:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7412369303611247903</id>
     <title>he’s the hero we need  #techie #softwareengineer #siliconvalley #sanfrancisco #bayarea #comedy #funny #developerlife #programmerlife</title>
@@ -267,6 +259,14 @@
     <content>you have to sound important while playing it cool  #techie #softwareengineer #siliconvalley #sanfrancisco #CEO #linkedin #techroastshow </content>
     <link href="https://tiktok.com/@techroastshow/video/7419436964849421598"/>
     <published>2024-09-27T21:24:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7419710898643733790</id>
+    <title>full special available now!  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </title>
+    <updated>2024-09-28T15:08:05+00:00</updated>
+    <content>full special available now!  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </content>
+    <link href="https://tiktok.com/@techroastshow/video/7419710898643733790"/>
+    <published>2024-09-28T15:08:05+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
