@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@melshoshahi</id>
   <title>melshoshahi</title>
-  <updated>2024-09-26T17:51:51+00:00</updated>
+  <updated>2024-09-28T17:26:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from melshoshahi</subtitle>
-  <entry>
-    <id>https://tiktok.com/@melshoshahi/video/7403416494492618015</id>
-    <title>If the store is about to close….dont try items on uhkay! #tiktokskit #retail #fashion #customerservice #sketchcomedy </title>
-    <updated>2024-08-15T17:17:17+00:00</updated>
-    <content>If the store is about to close….dont try items on uhkay! #tiktokskit #retail #fashion #customerservice #sketchcomedy </content>
-    <link href="https://tiktok.com/@melshoshahi/video/7403416494492618015"/>
-    <published>2024-08-15T17:17:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@melshoshahi/video/7404149310465576222</id>
     <title>How dare your co-worker not invite you to her party!  #coworkers #retail #sketchcomedy </title>
@@ -131,6 +123,14 @@
     <content>If you want to smell special and unique…you gotta wear a niche fragrance u nio 💅🏽 #retail #customerservice #perfume #luxury #nichefragrance #tiktokskit </content>
     <link href="https://tiktok.com/@melshoshahi/video/7419010926952598815"/>
     <published>2024-09-26T17:51:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@melshoshahi/video/7419746565666901279</id>
+    <title>Home for sale….by realtor Mercedes 💅🏽 #tiktokskit #realtor #realestate #sketchcomedy </title>
+    <updated>2024-09-28T17:26:23+00:00</updated>
+    <content>Home for sale….by realtor Mercedes 💅🏽 #tiktokskit #realtor #realestate #sketchcomedy </content>
+    <link href="https://tiktok.com/@melshoshahi/video/7419746565666901279"/>
+    <published>2024-09-28T17:26:23+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@melshoshahi/video/7282846082986462507</id>
