@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-09-27T06:28:56+00:00</updated>
+  <updated>2024-09-29T07:56:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7410075437923142944</id>
-    <title>Könnte daran liegen, dass ich keinen Sport mache und null auf meine Ernährung achte, aber wer kann das schon so genau sagen? #bodyimage </title>
-    <updated>2024-09-02T15:57:19+00:00</updated>
-    <content>Könnte daran liegen, dass ich keinen Sport mache und null auf meine Ernährung achte, aber wer kann das schon so genau sagen? #bodyimage </content>
-    <link href="https://tiktok.com/@tandarok/video/7410075437923142944"/>
-    <published>2024-09-02T15:57:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7410303090294902048</id>
     <title>"Beide Seiten" ergibt vielleicht Sinn, wenn es um Konflikte zwischen Einzelpersonen geht, oder um unterschiedliche Herangehensweisen zu einem Thema, aber nicht wenn wir über Menschenrechte reden. Da sollten wir einfach Betroffenen und Expert*innen zuhören</title>
@@ -267,6 +259,14 @@
     <content>Musty einfach der krasseste  #bachelorette </content>
     <link href="https://tiktok.com/@tandarok/video/7419206057622261024"/>
     <published>2024-09-27T06:28:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7419970737768877344</id>
+    <title>Was endlich Mal schöne, nicht toxische Dating Erfahrungen mit dir machen können 😅 #dating </title>
+    <updated>2024-09-29T07:56:11+00:00</updated>
+    <content>Was endlich Mal schöne, nicht toxische Dating Erfahrungen mit dir machen können 😅 #dating </content>
+    <link href="https://tiktok.com/@tandarok/video/7419970737768877344"/>
+    <published>2024-09-29T07:56:11+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
