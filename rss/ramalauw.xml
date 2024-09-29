@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ramalauw</id>
   <title>ramalauw</title>
-  <updated>2024-09-26T15:21:42+00:00</updated>
+  <updated>2024-09-29T14:40:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ramalauw</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ramalauw/video/7387074556197997856</id>
-    <title>I be counting the price per ml for my laundry detergent (my high school teacher was right, I do be using math in real life 😭🤡)  IB: @fira maringka (check her out, she’s hilarious!!! 😂 ✨)</title>
-    <updated>2024-07-02T16:22:14+00:00</updated>
-    <content>I be counting the price per ml for my laundry detergent (my high school teacher was right, I do be using math in real life 😭🤡)  IB: @fira maringka (check her out, she’s hilarious!!! 😂 ✨)</content>
-    <link href="https://tiktok.com/@ramalauw/video/7387074556197997856"/>
-    <published>2024-07-02T16:22:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7387801693301247265</id>
     <title>Have you ever heard of this city before? 👀 Hurry! Add it to your bucket list before it gets too popular 🤭🥺💃✨ #free99 #travel #travelguide #japan #tokyo #fyp #foryou #traveling </title>
@@ -251,6 +243,14 @@
     <content>This is what I mean when I say I’m only dating for love 🥰</content>
     <link href="https://tiktok.com/@ramalauw/video/7418972297760902433"/>
     <published>2024-09-26T15:21:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ramalauw/video/7420075051354967328</id>
+    <title>✨Online Datinf✨: where your self-esteem goes to 💀 🥰 #free99 #dating #datingadvice</title>
+    <updated>2024-09-29T14:40:56+00:00</updated>
+    <content>✨Online Datinf✨: where your self-esteem goes to 💀 🥰 #free99 #dating #datingadvice</content>
+    <link href="https://tiktok.com/@ramalauw/video/7420075051354967328"/>
+    <published>2024-09-29T14:40:56+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7270903343638187297</id>
