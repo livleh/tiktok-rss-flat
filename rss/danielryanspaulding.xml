@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@danielryanspaulding</id>
   <title>danielryanspaulding</title>
-  <updated>2024-09-26T15:39:14+00:00</updated>
+  <updated>2024-09-29T12:36:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from danielryanspaulding</subtitle>
-  <entry>
-    <id>https://tiktok.com/@danielryanspaulding/video/7380676232498793760</id>
-    <title>Queers for Palestine: Explained Really Slowly 🥰🌈🕊 #palestine #freepalestine #queersforpalestine #israel </title>
-    <updated>2024-06-15T10:33:26+00:00</updated>
-    <content>Queers for Palestine: Explained Really Slowly 🥰🌈🕊 #palestine #freepalestine #queersforpalestine #israel </content>
-    <link href="https://tiktok.com/@danielryanspaulding/video/7380676232498793760"/>
-    <published>2024-06-15T10:33:26+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@danielryanspaulding/video/7381482994671832353</id>
-    <title>Jamaal bowman #jamaalbowman is going to lose his primary because hes unpopular not because of Israel — stop weaponizing antisemites &amp; anti-zionist Jews to support him — you are the most hated woman in nyc #cynthianixon with your rape denials, incitement o</title>
-    <updated>2024-06-17T14:44:07+00:00</updated>
-    <content>Jamaal bowman #jamaalbowman is going to lose his primary because hes unpopular not because of Israel — stop weaponizing antisemites &amp; anti-zionist Jews to support him — you are the most hated woman in nyc #cynthianixon with your rape denials, incitement o</content>
-    <link href="https://tiktok.com/@danielryanspaulding/video/7381482994671832353"/>
-    <published>2024-06-17T14:44:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@danielryanspaulding/video/7381964241416244512</id>
     <title>This is the Great Lie of our time. We need to learn how to explain &amp; explain it over &amp; over again as much as possible. Surrender Hamas 🕊 Release the Hostages 🕊 #israel #telaviv #thegreatlie #thewestisnext</title>
@@ -275,5 +259,21 @@
     <content>Middle East 101 #israel #usa #middleeast #iran #irgc #lebanon </content>
     <link href="https://tiktok.com/@danielryanspaulding/video/7418976820650839328"/>
     <published>2024-09-26T15:39:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@danielryanspaulding/video/7420042888433667361</id>
+    <title>Middle East 101 #israel #usa #middleeast #iran #irgc #lebanon </title>
+    <updated>2024-09-29T12:36:09+00:00</updated>
+    <content>Middle East 101 #israel #usa #middleeast #iran #irgc #lebanon </content>
+    <link href="https://tiktok.com/@danielryanspaulding/video/7420042888433667361"/>
+    <published>2024-09-29T12:36:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@danielryanspaulding/video/7420042946847706401</id>
+    <title>Middle East 101 #israel #usa #middleeast #iran #irgc #lebanon </title>
+    <updated>2024-09-29T12:36:21+00:00</updated>
+    <content>Middle East 101 #israel #usa #middleeast #iran #irgc #lebanon </content>
+    <link href="https://tiktok.com/@danielryanspaulding/video/7420042946847706401"/>
+    <published>2024-09-29T12:36:21+00:00</published>
   </entry>
 </feed>
