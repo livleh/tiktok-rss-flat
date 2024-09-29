@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-09-26T17:23:30+00:00</updated>
+  <updated>2024-09-29T17:23:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7402304358077058336</id>
-    <title>theyre just deaf. theyre not deaf offenders </title>
-    <updated>2024-08-12T17:21:35+00:00</updated>
-    <content>theyre just deaf. theyre not deaf offenders </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7402304358077058336"/>
-    <published>2024-08-12T17:21:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7403419313895443745</id>
     <title>je suis sleepy!!!! my day at the eiffel tower </title>
@@ -227,5 +219,13 @@
     <content>appealing parking fines for fun even though i was probly in the wrong. parking wardens are scum. subhuman scum</content>
     <link href="https://tiktok.com/@zoebreadtok/video/7419003699802000672"/>
     <published>2024-09-26T17:23:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7420116852388449569</id>
+    <title>the thirsk ducks!!! 🦆 🦆 🦆 when the people in thirsk want a drink they say they are thirsky!!! probly</title>
+    <updated>2024-09-29T17:23:10+00:00</updated>
+    <content>the thirsk ducks!!! 🦆 🦆 🦆 when the people in thirsk want a drink they say they are thirsky!!! probly</content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7420116852388449569"/>
+    <published>2024-09-29T17:23:10+00:00</published>
   </entry>
 </feed>
