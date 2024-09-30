@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@palim_tintin</id>
   <title>palim_tintin</title>
-  <updated>2024-09-29T18:17:54+00:00</updated>
+  <updated>2024-09-30T20:49:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from palim_tintin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@palim_tintin/video/7346320695896313121</id>
-    <title>Streifen gehen immer…❤️🤍 #wiw #ootdshare #outfit #fashioninspo #secondhand #mystyle #outfitreel #dailyoutfits </title>
-    <updated>2024-03-14T20:36:21+00:00</updated>
-    <content>Streifen gehen immer…❤️🤍 #wiw #ootdshare #outfit #fashioninspo #secondhand #mystyle #outfitreel #dailyoutfits </content>
-    <link href="https://tiktok.com/@palim_tintin/video/7346320695896313121"/>
-    <published>2024-03-14T20:36:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@palim_tintin/video/7346665115783007521</id>
     <title>Whole Lotta Love 🧡😽 #wiw #70s #70sfashion #ootdshare #outfit #fashioninspo #mystyle </title>
@@ -267,6 +259,14 @@
     <content>✨🧡</content>
     <link href="https://tiktok.com/@palim_tintin/video/7420130941621914913"/>
     <published>2024-09-29T18:17:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@palim_tintin/video/7420541178799508768</id>
+    <title>Herbstlicht ✨🤎</title>
+    <updated>2024-09-30T20:49:47+00:00</updated>
+    <content>Herbstlicht ✨🤎</content>
+    <link href="https://tiktok.com/@palim_tintin/video/7420541178799508768"/>
+    <published>2024-09-30T20:49:47+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@palim_tintin/video/7189301520721005829</id>
