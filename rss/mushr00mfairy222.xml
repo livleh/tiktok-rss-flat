@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-09-28T17:19:29+00:00</updated>
+  <updated>2024-09-30T16:25:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7416749179491372320</id>
-    <title>IM SO TIRED #mh #mentalhealth </title>
-    <updated>2024-09-20T15:34:53+00:00</updated>
-    <content>IM SO TIRED #mh #mentalhealth </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7416749179491372320"/>
-    <published>2024-09-20T15:34:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7416765162193014049</id>
-    <title>i just want a reason </title>
-    <updated>2024-09-20T16:37:00+00:00</updated>
-    <content>i just want a reason </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7416765162193014049"/>
-    <published>2024-09-20T16:37:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7416765295332822305</id>
     <title>bit traumatic 😟😀😋</title>
@@ -267,6 +251,22 @@
     <content>ppl have asked a concerning amount 😭😭 #piercing #piercings #septum </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7419744817221029152"/>
     <published>2024-09-28T17:19:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7420469352513817889</id>
+    <title>NEW HAIRRR #pinkhair #hairtransition #dyedhair </title>
+    <updated>2024-09-30T16:11:03+00:00</updated>
+    <content>NEW HAIRRR #pinkhair #hairtransition #dyedhair </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7420469352513817889"/>
+    <published>2024-09-30T16:11:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7420472983501753633</id>
+    <title>live laugh love ig 😭 #wlw #lgbt #lgbtq </title>
+    <updated>2024-09-30T16:25:07+00:00</updated>
+    <content>live laugh love ig 😭 #wlw #lgbt #lgbtq </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7420472983501753633"/>
+    <published>2024-09-30T16:25:07+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
