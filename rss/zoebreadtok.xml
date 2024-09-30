@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-09-29T17:23:10+00:00</updated>
+  <updated>2024-09-30T17:19:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -227,5 +227,13 @@
     <content>the thirsk ducks!!! 🦆 🦆 🦆 when the people in thirsk want a drink they say they are thirsky!!! probly</content>
     <link href="https://tiktok.com/@zoebreadtok/video/7420116852388449569"/>
     <published>2024-09-29T17:23:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7420486892606590241</id>
+    <title>i told him i would wake him up when setptember ends 😡</title>
+    <updated>2024-09-30T17:19:07+00:00</updated>
+    <content>i told him i would wake him up when setptember ends 😡</content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7420486892606590241"/>
+    <published>2024-09-30T17:19:07+00:00</published>
   </entry>
 </feed>
