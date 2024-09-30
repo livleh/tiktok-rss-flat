@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@starryribbons</id>
   <title>starryribbons</title>
-  <updated>2024-09-28T15:50:59+00:00</updated>
+  <updated>2024-09-30T19:23:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from starryribbons</subtitle>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7400099311406632224</id>
-    <title>outfit of the day + i love you i’m sorry #coquettecore #digitaldiary #outfitoftheday #gracieabrams #wlw #ootd </title>
-    <updated>2024-08-06T18:44:52+00:00</updated>
-    <content>outfit of the day + i love you i’m sorry #coquettecore #digitaldiary #outfitoftheday #gracieabrams #wlw #ootd </content>
-    <link href="https://tiktok.com/@starryribbons/video/7400099311406632224"/>
-    <published>2024-08-06T18:44:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7400481705456340256</id>
     <title>@Lara ateez and zb1 duo yay who cheered I did #coquettecore #digitaldiary #kpop #ateez #zerobaseone #seonghwa #zhanghao  </title>
@@ -259,6 +251,14 @@
     <content>be cringe nobody caresss!! #coquettecore #digitaldiary #wlw #hopecore #outfitoftheday #mentalhealthmatters </content>
     <link href="https://tiktok.com/@starryribbons/video/7419722004149882145"/>
     <published>2024-09-28T15:50:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7420519039186832673</id>
+    <title>hyyh is my personal roman empire #coquettecore #digitaldiary #kpop #bts #hyyh #bangtanboys #hyyhera #yoongi #jungkook </title>
+    <updated>2024-09-30T19:23:50+00:00</updated>
+    <content>hyyh is my personal roman empire #coquettecore #digitaldiary #kpop #bts #hyyh #bangtanboys #hyyhera #yoongi #jungkook </content>
+    <link href="https://tiktok.com/@starryribbons/video/7420519039186832673"/>
+    <published>2024-09-30T19:23:50+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7285761406664854817</id>
