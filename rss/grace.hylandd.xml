@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-10-01T06:49:07+00:00</updated>
+  <updated>2024-10-01T08:48:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7410322758925651201</id>
-    <title>Wore this to mass this morning ✝️🖤</title>
-    <updated>2024-09-03T07:57:13+00:00</updated>
-    <content>Wore this to mass this morning ✝️🖤</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7410322758925651201"/>
-    <published>2024-09-03T07:57:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7410747153997417729</id>
     <title>You just have to make the most of the cards you have been dealt</title>
@@ -267,5 +259,13 @@
     <content>I’ll stitch this if I ever get good! Keep me accountable! 😝</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7420695570487987473"/>
     <published>2024-10-01T06:49:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7420726199829269761</id>
+    <title>Suddenly I’m out of place here</title>
+    <updated>2024-10-01T08:48:21+00:00</updated>
+    <content>Suddenly I’m out of place here</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7420726199829269761"/>
+    <published>2024-10-01T08:48:21+00:00</published>
   </entry>
 </feed>
