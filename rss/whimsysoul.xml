@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-09-29T00:10:27+00:00</updated>
+  <updated>2024-09-30T23:58:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7407163404642782506</id>
-    <title>this CA hotel as the BEST fall colors!! I went to Desolation Hotel a few Octobers ago and still can't shut up about this magical place.  @Justina Vanessa and I stayed in one of their glamping yurts that are decked out with luxury amenities like a soaking </title>
-    <updated>2024-08-25T19:37:10+00:00</updated>
-    <content>this CA hotel as the BEST fall colors!! I went to Desolation Hotel a few Octobers ago and still can't shut up about this magical place.  @Justina Vanessa and I stayed in one of their glamping yurts that are decked out with luxury amenities like a soaking </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7407163404642782506"/>
-    <published>2024-08-25T19:37:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7407845286196006190</id>
     <title>Fly to Louisville with me!! Basically on a hometown date with my bestie, she grew up here and we’re staying with her sister for the week. A lot of restaurants, pool time and doggy snuggles planned but drop recs if you have them!! NGL I was gagged by the h</title>
@@ -267,6 +259,14 @@
     <content>SF Sunset Night Market is BACK!! I just went to the 3rd Sunset Night Market on Irving and it's better than ever.  I went to the 1st one they held last year and idk if you remember it, but it made headlines for being too popular and thus too overcrowded!! </content>
     <link href="https://tiktok.com/@whimsysoul/video/7419850734272892203"/>
     <published>2024-09-29T00:10:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7420589788492877098</id>
+    <title>BAY AREA, if you love food trucks and great cocktails you need to check out the adorable airstream food truck at the @citizenM Menlo Park! ❤️🌭🍸 This spot is such a vibe, makes a perfect after-work happy hour place to soak up some sunshine, play cornhole, </title>
+    <updated>2024-09-30T23:58:23+00:00</updated>
+    <content>BAY AREA, if you love food trucks and great cocktails you need to check out the adorable airstream food truck at the @citizenM Menlo Park! ❤️🌭🍸 This spot is such a vibe, makes a perfect after-work happy hour place to soak up some sunshine, play cornhole, </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7420589788492877098"/>
+    <published>2024-09-30T23:58:23+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
