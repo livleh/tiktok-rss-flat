@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-09-30T22:20:07+00:00</updated>
+  <updated>2024-10-01T14:19:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7413500617458568479</id>
-    <title>he is practicing his soft skills  #techie #softwareengineer #siliconvalley #sanfrancisco #bayarea #comedy #funny #developerlife #programmerlife</title>
-    <updated>2024-09-11T21:28:49+00:00</updated>
-    <content>he is practicing his soft skills  #techie #softwareengineer #siliconvalley #sanfrancisco #bayarea #comedy #funny #developerlife #programmerlife</content>
-    <link href="https://tiktok.com/@techroastshow/video/7413500617458568479"/>
-    <published>2024-09-11T21:28:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7413764584911211806</id>
     <title>can’t put a price on mental health (300k) #techie #softwareengineer #nyc #newyork #programmerlife #roastbattle #darkhumor #techroastshow</title>
@@ -267,6 +259,14 @@
     <content>probably the dumbest q ive asked tbh #techie #softwareengineer #chatGPT #seattle #AI #streetinterview #comedy #manonthestreet</content>
     <link href="https://tiktok.com/@techroastshow/video/7420564416745295135"/>
     <published>2024-09-30T22:20:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7420811512329129246</id>
+    <title>no body no crime  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</title>
+    <updated>2024-10-01T14:19:13+00:00</updated>
+    <content>no body no crime  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</content>
+    <link href="https://tiktok.com/@techroastshow/video/7420811512329129246"/>
+    <published>2024-10-01T14:19:13+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
