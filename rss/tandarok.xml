@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-10-01T20:48:40+00:00</updated>
+  <updated>2024-10-02T09:37:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7410453367216000288</id>
-    <title>Können Lesben auf trans Frauen stehen? #lesbisch #transgirl </title>
-    <updated>2024-09-03T16:23:55+00:00</updated>
-    <content>Können Lesben auf trans Frauen stehen? #lesbisch #transgirl </content>
-    <link href="https://tiktok.com/@tandarok/video/7410453367216000288"/>
-    <published>2024-09-03T16:23:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7410677921053986080</id>
     <title>Ich sehe leider zu oft, dass Leute von allen anderen Perfektionismus erwarten. Ich wünsche mir mehr Fehlerfreundlichkeit in linken Kreisen. #reclaimtiktok </title>
@@ -267,6 +259,14 @@
     <content>Yay 🙃</content>
     <link href="https://tiktok.com/@tandarok/video/7420911975569329441"/>
     <published>2024-10-01T20:48:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7421110117984177441</id>
+    <title>Gefühle im Körper fühlen ergibt für mich irgendwie keinen Sinn 🤷‍♀️ #therapie #gefühle </title>
+    <updated>2024-10-02T09:37:36+00:00</updated>
+    <content>Gefühle im Körper fühlen ergibt für mich irgendwie keinen Sinn 🤷‍♀️ #therapie #gefühle </content>
+    <link href="https://tiktok.com/@tandarok/video/7421110117984177441"/>
+    <published>2024-10-02T09:37:36+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
