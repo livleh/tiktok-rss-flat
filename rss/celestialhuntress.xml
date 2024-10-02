@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@celestialhuntress</id>
   <title>celestialhuntress</title>
-  <updated>2024-09-27T18:23:41+00:00</updated>
+  <updated>2024-10-02T00:43:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from celestialhuntress</subtitle>
-  <entry>
-    <id>https://tiktok.com/@celestialhuntress/video/7314840255994137898</id>
-    <title>3/10, points for effort deduction for lazy content #transgender #genderfluid #transfemme </title>
-    <updated>2023-12-21T00:36:15+00:00</updated>
-    <content>3/10, points for effort deduction for lazy content #transgender #genderfluid #transfemme </content>
-    <link href="https://tiktok.com/@celestialhuntress/video/7314840255994137898"/>
-    <published>2023-12-21T00:36:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@celestialhuntress/video/7314840577009388842</id>
     <title>No Title</title>
@@ -291,5 +283,13 @@
     <content>Ignore the dog hair on the mirror, its a problem with no solutions #transgender #genderfluid #transfemme </content>
     <link href="https://tiktok.com/@celestialhuntress/video/7419390286096321835"/>
     <published>2024-09-27T18:23:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@celestialhuntress/video/7420972460100603179</id>
+    <title>Come say hi if you wanna hang</title>
+    <updated>2024-10-02T00:43:20+00:00</updated>
+    <content>Come say hi if you wanna hang</content>
+    <link href="https://tiktok.com/@celestialhuntress/video/7420972460100603179"/>
+    <published>2024-10-02T00:43:20+00:00</published>
   </entry>
 </feed>
