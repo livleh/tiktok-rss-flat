@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-10-02T21:07:10+00:00</updated>
+  <updated>2024-10-03T14:24:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7414532032891456798</id>
-    <title>sweatiest guy in the room does not need a jacket  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</title>
-    <updated>2024-09-14T16:11:20+00:00</updated>
-    <content>sweatiest guy in the room does not need a jacket  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</content>
-    <link href="https://tiktok.com/@techroastshow/video/7414532032891456798"/>
-    <published>2024-09-14T16:11:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7414911665424174366</id>
     <title>the genre is 5’5 #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</title>
@@ -267,6 +259,14 @@
     <content>he should stop doing that  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #bezos #amazon #techroastshow </content>
     <link href="https://tiktok.com/@techroastshow/video/7421287782028496158"/>
     <published>2024-10-02T21:07:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7421555158309424415</id>
+    <title>Feels chill, lit  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</title>
+    <updated>2024-10-03T14:24:42+00:00</updated>
+    <content>Feels chill, lit  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</content>
+    <link href="https://tiktok.com/@techroastshow/video/7421555158309424415"/>
+    <published>2024-10-03T14:24:42+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
