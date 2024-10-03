@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-10-02T22:38:44+00:00</updated>
+  <updated>2024-10-03T22:53:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7413419693119212830</id>
-    <title>Thats not a lesbian kind of bag  #lesbiansoftiktok #lesbiancouple </title>
-    <updated>2024-09-11T16:15:03+00:00</updated>
-    <content>Thats not a lesbian kind of bag  #lesbiansoftiktok #lesbiancouple </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7413419693119212830"/>
-    <published>2024-09-11T16:15:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7413788706328382751</id>
     <title>Thought he may have just been balding 😂</title>
@@ -147,6 +139,14 @@
     <content>911 Dispatcher. The Never Ending Tour is coming to you. Check my story for cities  #911 #firstresponders </content>
     <link href="https://tiktok.com/@jessicakirson/video/7421311393791495455"/>
     <published>2024-10-02T22:38:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7421686304406097182</id>
+    <title>Most of my fans are mentally ill and I love you all ❤️</title>
+    <updated>2024-10-03T22:53:35+00:00</updated>
+    <content>Most of my fans are mentally ill and I love you all ❤️</content>
+    <link href="https://tiktok.com/@jessicakirson/video/7421686304406097182"/>
+    <published>2024-10-03T22:53:35+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7418971919959035167</id>
