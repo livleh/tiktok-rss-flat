@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shaunadewit</id>
   <title>shaunadewit</title>
-  <updated>2024-10-01T13:12:48+00:00</updated>
+  <updated>2024-10-03T13:31:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shaunadewit</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shaunadewit/video/7390359379582700832</id>
-    <title>Gonna puke real quick #foryou  #comedy #humor #goviral #pimple </title>
-    <updated>2024-07-11T12:49:01+00:00</updated>
-    <content>Gonna puke real quick #foryou  #comedy #humor #goviral #pimple </content>
-    <link href="https://tiktok.com/@shaunadewit/video/7390359379582700832"/>
-    <published>2024-07-11T12:49:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/7391807452888567073</id>
     <title>Always remember that they care &lt;3 #foryou #humor #goviral #pourtoi #therapy #fun </title>
@@ -219,6 +211,14 @@
     <content>Imagine that #foryou #humor #goviral #pourtoi #comedy </content>
     <link href="https://tiktok.com/@shaunadewit/video/7420794494922067232"/>
     <published>2024-10-01T13:12:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shaunadewit/video/7421541494521154849</id>
+    <title>Results of this one are also good #foryou #humor #goviral #pourtoi #comedy </title>
+    <updated>2024-10-03T13:31:37+00:00</updated>
+    <content>Results of this one are also good #foryou #humor #goviral #pourtoi #comedy </content>
+    <link href="https://tiktok.com/@shaunadewit/video/7421541494521154849"/>
+    <published>2024-10-03T13:31:37+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/6994791135415766278</id>
