@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-10-02T09:37:36+00:00</updated>
+  <updated>2024-10-03T18:53:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7410677921053986080</id>
-    <title>Ich sehe leider zu oft, dass Leute von allen anderen Perfektionismus erwarten. Ich wünsche mir mehr Fehlerfreundlichkeit in linken Kreisen. #reclaimtiktok </title>
-    <updated>2024-09-04T06:55:21+00:00</updated>
-    <content>Ich sehe leider zu oft, dass Leute von allen anderen Perfektionismus erwarten. Ich wünsche mir mehr Fehlerfreundlichkeit in linken Kreisen. #reclaimtiktok </content>
-    <link href="https://tiktok.com/@tandarok/video/7410677921053986080"/>
-    <published>2024-09-04T06:55:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7410905222454758688</id>
     <title>Antwort auf @seitansbraten.com bisschen bezeichnend... #dating #datinglife #singlelife </title>
@@ -267,6 +259,14 @@
     <content>Gefühle im Körper fühlen ergibt für mich irgendwie keinen Sinn 🤷‍♀️ #therapie #gefühle </content>
     <link href="https://tiktok.com/@tandarok/video/7421110117984177441"/>
     <published>2024-10-02T09:37:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7421624405723254048</id>
+    <title>@Annikazion lebt rentfree in meinem Kopf 🥲 #princesscharming </title>
+    <updated>2024-10-03T18:53:13+00:00</updated>
+    <content>@Annikazion lebt rentfree in meinem Kopf 🥲 #princesscharming </content>
+    <link href="https://tiktok.com/@tandarok/video/7421624405723254048"/>
+    <published>2024-10-03T18:53:13+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>

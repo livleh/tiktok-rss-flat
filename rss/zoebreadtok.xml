@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-10-02T17:55:24+00:00</updated>
+  <updated>2024-10-03T17:44:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -227,5 +227,13 @@
     <content>the new museum of illusions in manchester </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7421238425262607649"/>
     <published>2024-10-02T17:55:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7421606779982794017</id>
+    <title>squirrels should be given free train travel. very dramatic cancelling the train </title>
+    <updated>2024-10-03T17:44:49+00:00</updated>
+    <content>squirrels should be given free train travel. very dramatic cancelling the train </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7421606779982794017"/>
+    <published>2024-10-03T17:44:49+00:00</published>
   </entry>
 </feed>
