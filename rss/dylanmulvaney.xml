@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@dylanmulvaney</id>
   <title>dylanmulvaney</title>
-  <updated>2024-10-02T21:00:02+00:00</updated>
+  <updated>2024-10-03T23:50:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylanmulvaney</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylanmulvaney/video/7386435962173246763</id>
-    <title>Vision board update !!!! 🫶🏻 </title>
-    <updated>2024-06-30T23:04:07+00:00</updated>
-    <content>Vision board update !!!! 🫶🏻 </content>
-    <link href="https://tiktok.com/@dylanmulvaney/video/7386435962173246763"/>
-    <published>2024-06-30T23:04:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7387758357463108910</id>
     <title>Can YOU say it? F*ghag is coming to Edinburgh Fringe Festival this summer. Tickets in bio 👯‍♀️💋 #edinburgh #theatre </title>
@@ -259,6 +251,14 @@
     <content>DRAMAAAAA for joker 2 @Haus Labs by Lady Gaga @Warner Bros. Movies @Donni Davy @Christian Siriano @Angelina Panelli </content>
     <link href="https://tiktok.com/@dylanmulvaney/video/7421286003844844843"/>
     <published>2024-10-02T21:00:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylanmulvaney/video/7421701021615017262</id>
+    <title>Im leaving club chris for good @not chris olsen </title>
+    <updated>2024-10-03T23:50:31+00:00</updated>
+    <content>Im leaving club chris for good @not chris olsen </content>
+    <link href="https://tiktok.com/@dylanmulvaney/video/7421701021615017262"/>
+    <published>2024-10-03T23:50:31+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7418617722923158827</id>
