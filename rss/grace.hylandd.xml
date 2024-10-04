@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-10-03T12:08:44+00:00</updated>
+  <updated>2024-10-04T03:08:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -267,5 +267,13 @@
     <content>I ❤️ U daddies!</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7421520047157431568"/>
     <published>2024-10-03T12:08:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7421751536990145793</id>
+    <title>Fine 🍷 </title>
+    <updated>2024-10-04T03:08:56+00:00</updated>
+    <content>Fine 🍷 </content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7421751536990145793"/>
+    <published>2024-10-04T03:08:56+00:00</published>
   </entry>
 </feed>
