@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2024-10-02T16:19:01+00:00</updated>
+  <updated>2024-10-04T05:17:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from loveletterstosf</subtitle>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7393874607918320939</id>
-    <title>Replying to @Ricky Ricardo heres a random list I threw together lol did I cook… guess this could be a series of #sfdateideas  #sf #sftok #nopa #mission #lowerhaight #thingstodoinsf #sfeats #sfbars #sfrecommendations </title>
-    <updated>2024-07-21T00:09:50+00:00</updated>
-    <content>Replying to @Ricky Ricardo heres a random list I threw together lol did I cook… guess this could be a series of #sfdateideas  #sf #sftok #nopa #mission #lowerhaight #thingstodoinsf #sfeats #sfbars #sfrecommendations </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7393874607918320939"/>
-    <published>2024-07-21T00:09:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7395730274996292906</id>
-    <title>love hate relationship with karl 🫶 either way love u fog city 🌁 #ifyouaskedmeonadeeperlevel #fogcity #sf #karlthefog #sftok #abovetheclouds </title>
-    <updated>2024-07-26T00:10:47+00:00</updated>
-    <content>love hate relationship with karl 🫶 either way love u fog city 🌁 #ifyouaskedmeonadeeperlevel #fogcity #sf #karlthefog #sftok #abovetheclouds </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7395730274996292906"/>
-    <published>2024-07-26T00:10:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7395977418642771246</id>
-    <title>Replying to @neome  you know me, always looking for and sharing fun tings happening in our pretty city #thisweekendinsf #sf #sftok #sfevents #thingstodoinsf #sanfrancisco #sflocals </title>
-    <updated>2024-07-26T16:09:52+00:00</updated>
-    <content>Replying to @neome  you know me, always looking for and sharing fun tings happening in our pretty city #thisweekendinsf #sf #sftok #sfevents #thingstodoinsf #sanfrancisco #sflocals </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7395977418642771246"/>
-    <published>2024-07-26T16:09:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7398341361050602795</id>
     <title>thrift date at @Out of the Closet + @salvationarmyny last weekend #solodate #sf #thrifting </title>
@@ -267,5 +243,13 @@
     <content>some stunning sunsets we’ve been having #sf #sfsunset #bikerides #oceanbeach #crissyfield </content>
     <link href="https://tiktok.com/@loveletterstosf/video/7421213563085229354"/>
     <published>2024-10-02T16:19:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7421785235462933803</id>
+    <title>@Waystone is always such a vibe, this wine bar in #northbeach is so underrated, delicious bites, great wine &amp; friendly owners, you gotta add it to your lisr 🫶 #sf #sfwinebar #sfbars #livemusic #sfjazz </title>
+    <updated>2024-10-04T05:17:25+00:00</updated>
+    <content>@Waystone is always such a vibe, this wine bar in #northbeach is so underrated, delicious bites, great wine &amp; friendly owners, you gotta add it to your lisr 🫶 #sf #sfwinebar #sfbars #livemusic #sfjazz </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7421785235462933803"/>
+    <published>2024-10-04T05:17:25+00:00</published>
   </entry>
 </feed>
