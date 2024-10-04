@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ramalauw</id>
   <title>ramalauw</title>
-  <updated>2024-09-30T15:05:21+00:00</updated>
+  <updated>2024-10-04T14:05:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ramalauw</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ramalauw/video/7388584034286308641</id>
-    <title>Me after achieving major milestones: nice! What's next? Gotta worry about that now. Me after the most minor mistake: I'm so stoöpeed! I can't do anything right! I'm not good enough 🤭 #free99 #taylorswift </title>
-    <updated>2024-07-06T17:59:46+00:00</updated>
-    <content>Me after achieving major milestones: nice! What's next? Gotta worry about that now. Me after the most minor mistake: I'm so stoöpeed! I can't do anything right! I'm not good enough 🤭 #free99 #taylorswift </content>
-    <link href="https://tiktok.com/@ramalauw/video/7388584034286308641"/>
-    <published>2024-07-06T17:59:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7390056902169808161</id>
     <title>Tag that friend 🤭🙊</title>
@@ -251,6 +243,14 @@
     <content>I’m stuck in this cap1talistic loop forever 😭</content>
     <link href="https://tiktok.com/@ramalauw/video/7420452418468515104"/>
     <published>2024-09-30T15:05:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ramalauw/video/7421921396571327776</id>
+    <title>Make it make sense 🤡</title>
+    <updated>2024-10-04T14:05:45+00:00</updated>
+    <content>Make it make sense 🤡</content>
+    <link href="https://tiktok.com/@ramalauw/video/7421921396571327776"/>
+    <published>2024-10-04T14:05:45+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7270903343638187297</id>
