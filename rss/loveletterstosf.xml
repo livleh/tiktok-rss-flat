@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2024-10-04T05:17:25+00:00</updated>
+  <updated>2024-10-04T16:45:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from loveletterstosf</subtitle>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7398341361050602795</id>
-    <title>thrift date at @Out of the Closet + @salvationarmyny last weekend #solodate #sf #thrifting </title>
-    <updated>2024-08-02T01:03:04+00:00</updated>
-    <content>thrift date at @Out of the Closet + @salvationarmyny last weekend #solodate #sf #thrifting </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7398341361050602795"/>
-    <published>2024-08-02T01:03:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7398414463252122926</id>
     <title>random snippets of july from lapse #julyrecap #photodump #sf #lapse </title>
@@ -243,6 +235,14 @@
     <content>some stunning sunsets we’ve been having #sf #sfsunset #bikerides #oceanbeach #crissyfield </content>
     <link href="https://tiktok.com/@loveletterstosf/video/7421213563085229354"/>
     <published>2024-10-02T16:19:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7421962634087501102</id>
+    <title>#thisweekendinsf #thingstodoinsf #sfevents #sftok #castrostreetfair #castrodistrict </title>
+    <updated>2024-10-04T16:45:43+00:00</updated>
+    <content>#thisweekendinsf #thingstodoinsf #sfevents #sftok #castrostreetfair #castrodistrict </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7421962634087501102"/>
+    <published>2024-10-04T16:45:43+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7421785235462933803</id>
