@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-10-03T17:48:27+00:00</updated>
+  <updated>2024-10-04T16:02:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7418178943242603809</id>
-    <title>what did you get! #filter #trend #swiftie </title>
-    <updated>2024-09-24T12:03:06+00:00</updated>
-    <content>what did you get! #filter #trend #swiftie </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7418178943242603809"/>
-    <published>2024-09-24T12:03:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7418184092333788448</id>
     <title>what's your favourite sum?! #mh #mentalhealth </title>
@@ -259,6 +251,14 @@
     <content>suchhh a fun day!! @Pinkskips @Bee 💚 #artboxcafe #hellokitty #sanrio </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7421607686879448352"/>
     <published>2024-10-03T17:48:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7421951573686783264</id>
+    <title>ITS OUT!! bio :))) #neurodivergent #autism #adhd </title>
+    <updated>2024-10-04T16:02:52+00:00</updated>
+    <content>ITS OUT!! bio :))) #neurodivergent #autism #adhd </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7421951573686783264"/>
+    <published>2024-10-04T16:02:52+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
