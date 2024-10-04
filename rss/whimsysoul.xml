@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-10-04T12:09:03+00:00</updated>
+  <updated>2024-10-02T01:42:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7409498686109109550</id>
+    <title>IT IS TIME 🍁 🎃 👻 who else is ready for spooky season!? #pumpkinhead #fall #fallvibes #autumnvibes🍁 #autumnleaves #fallcolors #funny #spookyseason #halloween #monstermash #whimsysoul </title>
+    <updated>2024-09-01T02:39:13+00:00</updated>
+    <content>IT IS TIME 🍁 🎃 👻 who else is ready for spooky season!? #pumpkinhead #fall #fallvibes #autumnvibes🍁 #autumnleaves #fallcolors #funny #spookyseason #halloween #monstermash #whimsysoul </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7409498686109109550"/>
+    <published>2024-09-01T02:39:13+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7409864569713102123</id>
     <title>Someone at Chappell did a number on my toe 😢 i blame the windmill crowd 😑 but it's gone now. 💅 👏 💉🩸🦶 Shout out to Doctor @Laura Bishop for at home medical princess treatment 👏  #outsidelands2024 #sanfranciscolife #doctor #medical #surgerytok #nerveblock #</title>
@@ -259,14 +267,6 @@
     <content>it's the end of the world ok!? Send help #sanfrancisco #heatwave #lol #bayare </content>
     <link href="https://tiktok.com/@whimsysoul/video/7420987728457682218"/>
     <published>2024-10-02T01:42:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7421891319456369963</id>
-    <title>Forhead kisses sir 🫡 #airportlife #carryononly </title>
-    <updated>2024-10-04T12:09:03+00:00</updated>
-    <content>Forhead kisses sir 🫡 #airportlife #carryononly </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7421891319456369963"/>
-    <published>2024-10-04T12:09:03+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
