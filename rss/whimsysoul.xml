@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-10-04T23:03:41+00:00</updated>
+  <updated>2024-10-05T03:16:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7409864569713102123</id>
-    <title>Someone at Chappell did a number on my toe 😢 i blame the windmill crowd 😑 but it's gone now. 💅 👏 💉🩸🦶 Shout out to Doctor @Laura Bishop for at home medical princess treatment 👏  #outsidelands2024 #sanfranciscolife #doctor #medical #surgerytok #nerveblock #</title>
-    <updated>2024-09-02T02:19:01+00:00</updated>
-    <content>Someone at Chappell did a number on my toe 😢 i blame the windmill crowd 😑 but it's gone now. 💅 👏 💉🩸🦶 Shout out to Doctor @Laura Bishop for at home medical princess treatment 👏  #outsidelands2024 #sanfranciscolife #doctor #medical #surgerytok #nerveblock #</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7409864569713102123"/>
-    <published>2024-09-02T02:19:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7410394207866670382</id>
     <title>Halloweentown is a REAL place that you can actually visit! 🎃 👻 🦇 😱 The movie was filmed in St. Helens, Oregon, which is right outside Portland. All October they have festivals, decor, and events around Halloweentown.  It’s a must stop for spooky season lo</title>
@@ -267,6 +259,14 @@
     <content>you ok Boston? How do get you  joy? Also the wine aisle equally as sad #boston #target </content>
     <link href="https://tiktok.com/@whimsysoul/video/7422060039545949482"/>
     <published>2024-10-04T23:03:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7422125183848238378</id>
+    <title>I'm in New England!!! 🍁 send me all your fall tips 👏 #newengland #vlog #whimsysoul #newhampshire #conwaynh #whitemountains #falltrip #autumn #travelvlog #boston #massachusetts #roadtrip #carryononly #sfo </title>
+    <updated>2024-10-05T03:16:29+00:00</updated>
+    <content>I'm in New England!!! 🍁 send me all your fall tips 👏 #newengland #vlog #whimsysoul #newhampshire #conwaynh #whitemountains #falltrip #autumn #travelvlog #boston #massachusetts #roadtrip #carryononly #sfo </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7422125183848238378"/>
+    <published>2024-10-05T03:16:29+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
