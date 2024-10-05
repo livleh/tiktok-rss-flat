@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2024-10-05T19:20:31+00:00</updated>
+  <updated>2024-10-05T22:15:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from loveletterstosf</subtitle>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7398578582823488811</id>
-    <title>happy august #sf #thisweekendinsf #sfevents #sfcraftfairs #sfshopping #comedyshow #japantown #northbeach #ferrybuilding #sftok #thingstodoinsf </title>
-    <updated>2024-08-02T16:23:43+00:00</updated>
-    <content>happy august #sf #thisweekendinsf #sfevents #sfcraftfairs #sfshopping #comedyshow #japantown #northbeach #ferrybuilding #sftok #thingstodoinsf </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7398578582823488811"/>
-    <published>2024-08-02T16:23:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7398933816028450090</id>
     <title>If you were to create a love letter to San Francisco, what would you include? I think @ucsfhealth and @maxfieldbala nailed it with this new mural on Hayes and Octavia, which is a lovely reminder of how special San Francisco is 💌 Definitely check it out! #</title>
@@ -243,6 +235,14 @@
     <content>gracie + ocean beach sunset 😌 #sfsunset </content>
     <link href="https://tiktok.com/@loveletterstosf/video/7422373613434703146"/>
     <published>2024-10-05T19:20:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7422418817793428778</id>
+    <title>💌  #sf #bluebottle #craftsmanandwolves #nopa #hayesvalley #sfhouses </title>
+    <updated>2024-10-05T22:15:56+00:00</updated>
+    <content>💌  #sf #bluebottle #craftsmanandwolves #nopa #hayesvalley #sfhouses </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7422418817793428778"/>
+    <published>2024-10-05T22:15:56+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7421785235462933803</id>
