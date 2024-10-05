@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tallywyteee</id>
   <title>tallywyteee</title>
-  <updated>2024-10-04T17:34:43+00:00</updated>
+  <updated>2024-10-05T14:32:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tallywyteee</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tallywyteee/video/7377472792918265118</id>
-    <title>I need a bee movie romance fr… 😎👍🏻 #trans #transgirl #transwoman #transandproud </title>
-    <updated>2024-06-06T19:23:06+00:00</updated>
-    <content>I need a bee movie romance fr… 😎👍🏻 #trans #transgirl #transwoman #transandproud </content>
-    <link href="https://tiktok.com/@tallywyteee/video/7377472792918265118"/>
-    <published>2024-06-06T19:23:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7377838973831384350</id>
     <title>I’m getting hungry, so I hope you understand 😎🙏🏻 #trans #transwoman #transgirl #transandproud </title>
@@ -251,6 +243,14 @@
     <content>Why did homie wanna put me on his snap story? 😂💙</content>
     <link href="https://tiktok.com/@tallywyteee/video/7421975257105370410"/>
     <published>2024-10-04T17:34:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tallywyteee/video/7422299386710920491</id>
+    <title>Why was homie was homie trippin over my rap skills - were my bars really that trash? 😂‼️👀</title>
+    <updated>2024-10-05T14:32:30+00:00</updated>
+    <content>Why was homie was homie trippin over my rap skills - were my bars really that trash? 😂‼️👀</content>
+    <link href="https://tiktok.com/@tallywyteee/video/7422299386710920491"/>
+    <published>2024-10-05T14:32:30+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7261699619762048298</id>
