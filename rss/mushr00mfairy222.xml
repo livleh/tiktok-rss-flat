@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-10-05T16:51:16+00:00</updated>
+  <updated>2024-10-06T11:12:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7419336540926512417</id>
-    <title>then you have to worry u seem creepy and make it clear u dont like them like that 😭 #wlw #lesbian #nmlnm #lgbtq </title>
-    <updated>2024-09-27T14:55:07+00:00</updated>
-    <content>then you have to worry u seem creepy and make it clear u dont like them like that 😭 #wlw #lesbian #nmlnm #lgbtq </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7419336540926512417"/>
-    <published>2024-09-27T14:55:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7419348750218333473</id>
     <title>lesbian speed 😭 maybe ill bring my skits back #wlw #lesbian #nmlnm #lgbtq </title>
@@ -243,6 +235,14 @@
     <content>neurodivergent ppl lmk :))) #neurodivergent #autism #adhd #mentalhealth </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7422335131806993696"/>
     <published>2024-10-05T16:51:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7422618849339608352</id>
+    <title>the pain 😭 #newpiercing #piercing </title>
+    <updated>2024-10-06T11:12:12+00:00</updated>
+    <content>the pain 😭 #newpiercing #piercing </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7422618849339608352"/>
+    <published>2024-10-06T11:12:12+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
