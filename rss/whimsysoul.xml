@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-10-05T14:13:23+00:00</updated>
+  <updated>2024-10-05T23:25:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7412798799166524718</id>
-    <title>Surprising, right?! Who knew THIS country had a thriving wine industry?😱  I just got back from a week in England with @winegb exploring the countryside.  England is a new wine region but making some dang good sparkling and stills. Thanks to the cool clima</title>
-    <updated>2024-09-10T00:05:21+00:00</updated>
-    <content>Surprising, right?! Who knew THIS country had a thriving wine industry?😱  I just got back from a week in England with @winegb exploring the countryside.  England is a new wine region but making some dang good sparkling and stills. Thanks to the cool clima</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7412798799166524718"/>
-    <published>2024-09-10T00:05:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7412813288330759467</id>
     <title>so blind without them 🫣 who else can relate?  ✨🥂 follow me for more relatable content!!  @winegb #winetasting #england #winegb #sussexwines #sparklingwine #wine #winelover #lol #winetime #wset2</title>
@@ -267,6 +259,14 @@
     <content>Replying to @Appaloosashoofprint it's weird but i like it 🎃 #pumpkinbeer #newengland #newhampshire </content>
     <link href="https://tiktok.com/@whimsysoul/video/7422294461662743851"/>
     <published>2024-10-05T14:13:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7422436779753704750</id>
+    <title>Replying to @LLL sunrises only and then immediately away from fellow tourists ✌️ #newengland #newhampshire #vlog #whimsysoul #conwaynh #whitemountains #falltrip #autumn #kancamagushighway </title>
+    <updated>2024-10-05T23:25:38+00:00</updated>
+    <content>Replying to @LLL sunrises only and then immediately away from fellow tourists ✌️ #newengland #newhampshire #vlog #whimsysoul #conwaynh #whitemountains #falltrip #autumn #kancamagushighway </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7422436779753704750"/>
+    <published>2024-10-05T23:25:38+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
