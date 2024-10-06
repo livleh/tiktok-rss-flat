@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-10-03T17:44:49+00:00</updated>
+  <updated>2024-10-06T17:19:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7405277250926513440</id>
-    <title>charity shopping or thrifting if you are that way inclined </title>
-    <updated>2024-08-20T17:37:58+00:00</updated>
-    <content>charity shopping or thrifting if you are that way inclined </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7405277250926513440"/>
-    <published>2024-08-20T17:37:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7405645166230490400</id>
     <title>i cant believe i found a 12 year old fossil !!!  you mean 12 million years? no, just 12</title>
@@ -235,6 +227,14 @@
     <content>squirrels should be given free train travel. very dramatic cancelling the train </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7421606779982794017"/>
     <published>2024-10-03T17:44:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7422713432392109345</id>
+    <title>happy birthday porpy!!!!!!!</title>
+    <updated>2024-10-06T17:19:13+00:00</updated>
+    <content>happy birthday porpy!!!!!!!</content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7422713432392109345"/>
+    <published>2024-10-06T17:19:13+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7391078276183215392</id>
