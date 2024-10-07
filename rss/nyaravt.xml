@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-10-06T18:00:00+00:00</updated>
+  <updated>2024-10-07T12:45:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7415355185108765985</id>
-    <title>becoming the trans fox mom #vtuber</title>
-    <updated>2024-09-17T18:00:00+00:00</updated>
-    <content>becoming the trans fox mom #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7415355185108765985"/>
-    <published>2024-09-17T18:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7415716277139803424</id>
     <title>games are too woke #onthisday </title>
@@ -283,6 +275,14 @@
     <content>finally presenting feminine in public #trans</content>
     <link href="https://tiktok.com/@nyaravt/video/7422646492571110689"/>
     <published>2024-10-06T18:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7423013841933536544</id>
+    <title>AITA for being a girl gamer #valorant</title>
+    <updated>2024-10-07T12:45:02+00:00</updated>
+    <content>AITA for being a girl gamer #valorant</content>
+    <link href="https://tiktok.com/@nyaravt/video/7423013841933536544"/>
+    <published>2024-10-07T12:45:02+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>
