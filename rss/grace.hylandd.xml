@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-10-04T03:08:56+00:00</updated>
+  <updated>2024-10-07T07:57:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7412867700541689089</id>
-    <title>When your mum’s a baddie 😭💕</title>
-    <updated>2024-09-10T04:32:58+00:00</updated>
-    <content>When your mum’s a baddie 😭💕</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7412867700541689089"/>
-    <published>2024-09-10T04:32:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7412889004401593605</id>
     <title>How do i teach her that the litter box isnt a bed???</title>
@@ -275,5 +267,13 @@
     <content>Fine 🍷 </content>
     <link href="https://tiktok.com/@grace.hylandd/video/7421751536990145793"/>
     <published>2024-10-04T03:08:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7422939651230551312</id>
+    <title>1 year post BA update 💕</title>
+    <updated>2024-10-07T07:57:39+00:00</updated>
+    <content>1 year post BA update 💕</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7422939651230551312"/>
+    <published>2024-10-07T07:57:39+00:00</published>
   </entry>
 </feed>

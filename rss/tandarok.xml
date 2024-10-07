@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-10-04T07:01:03+00:00</updated>
+  <updated>2024-10-07T08:28:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7411043351929031968</id>
-    <title>Bin gespannt, wie die Kommentare hier aussehen werden. 🫠 #friendzone </title>
-    <updated>2024-09-05T06:33:43+00:00</updated>
-    <content>Bin gespannt, wie die Kommentare hier aussehen werden. 🫠 #friendzone </content>
-    <link href="https://tiktok.com/@tandarok/video/7411043351929031968"/>
-    <published>2024-09-05T06:33:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7411221267052760353</id>
     <title>Wir haben einfach immer eine Verantwortung gegenüber unseren Mitmenschen, wenn wir sie verletzen, egal welche Art der Beziehung es ist. #dating #datinglife #singlelife </title>
@@ -267,6 +259,14 @@
     <content>I'm still sad sometimes, but I know I'm doing better without them in my life. #friendshipbreakup #growth #change </content>
     <link href="https://tiktok.com/@tandarok/video/7421811939745090849"/>
     <published>2024-10-04T07:01:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7422947585075285281</id>
+    <title>🤷‍♀️ #fdp </title>
+    <updated>2024-10-07T08:28:00+00:00</updated>
+    <content>🤷‍♀️ #fdp </content>
+    <link href="https://tiktok.com/@tandarok/video/7422947585075285281"/>
+    <published>2024-10-07T08:28:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
