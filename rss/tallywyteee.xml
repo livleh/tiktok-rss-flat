@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tallywyteee</id>
   <title>tallywyteee</title>
-  <updated>2024-10-06T18:35:02+00:00</updated>
+  <updated>2024-10-07T17:29:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tallywyteee</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tallywyteee/video/7378213204058492191</id>
-    <title>I never thought I’d end up like this… 😭👍🏻 #trans #transgirl #transandproud #transwoman</title>
-    <updated>2024-06-08T19:16:19+00:00</updated>
-    <content>I never thought I’d end up like this… 😭👍🏻 #trans #transgirl #transandproud #transwoman</content>
-    <link href="https://tiktok.com/@tallywyteee/video/7378213204058492191"/>
-    <published>2024-06-08T19:16:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7378586684771814686</id>
     <title>The last slide isn’t a joke… 😎👍🏻 #trans #transgirl #transwoman #transandproud </title>
@@ -251,6 +243,14 @@
     <content>Why is it that every time I try and sing along to the classic Soulja Boy freestyle “Rick N’ Morty,” people always have a problem? 😂🎤👀🧪🥼</content>
     <link href="https://tiktok.com/@tallywyteee/video/7422732976456273194"/>
     <published>2024-10-06T18:35:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tallywyteee/video/7423087072602344750</id>
+    <title>Why would homie use such colorful language to  describe me? 💀😅👀</title>
+    <updated>2024-10-07T17:29:09+00:00</updated>
+    <content>Why would homie use such colorful language to  describe me? 💀😅👀</content>
+    <link href="https://tiktok.com/@tallywyteee/video/7423087072602344750"/>
+    <published>2024-10-07T17:29:09+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7261699619762048298</id>

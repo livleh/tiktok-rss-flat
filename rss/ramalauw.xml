@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ramalauw</id>
   <title>ramalauw</title>
-  <updated>2024-10-04T14:05:45+00:00</updated>
+  <updated>2024-10-07T16:36:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ramalauw</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ramalauw/video/7390056902169808161</id>
-    <title>Tag that friend 🤭🙊</title>
-    <updated>2024-07-10T17:15:15+00:00</updated>
-    <content>Tag that friend 🤭🙊</content>
-    <link href="https://tiktok.com/@ramalauw/video/7390056902169808161"/>
-    <published>2024-07-10T17:15:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7390421873609166113</id>
     <title>Wdym it's up to me to break the ✨generational tröoma✨? If my parents couldn't do it, how am I supposed to do it? 😭🤯🥵🤭 #Free99 </title>
@@ -251,6 +243,14 @@
     <content>Make it make sense 🤡</content>
     <link href="https://tiktok.com/@ramalauw/video/7421921396571327776"/>
     <published>2024-10-04T14:05:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ramalauw/video/7423073494172208417</id>
+    <title>6 months later: “take me back 😫🤭🏝️🌈✨” #free99 #travel #traveling #traveltok #vacation #traveltips #fyp #foryou #tiktokusa </title>
+    <updated>2024-10-07T16:36:27+00:00</updated>
+    <content>6 months later: “take me back 😫🤭🏝️🌈✨” #free99 #travel #traveling #traveltok #vacation #traveltips #fyp #foryou #tiktokusa </content>
+    <link href="https://tiktok.com/@ramalauw/video/7423073494172208417"/>
+    <published>2024-10-07T16:36:27+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7270903343638187297</id>

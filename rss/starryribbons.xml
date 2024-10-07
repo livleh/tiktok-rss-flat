@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@starryribbons</id>
   <title>starryribbons</title>
-  <updated>2024-10-05T20:30:30+00:00</updated>
+  <updated>2024-10-07T17:17:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from starryribbons</subtitle>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7401210670928137504</id>
-    <title>guess what my fav colors are #coquettecore #digitaldiary #kpop #taylorswift #aesthetic #straykids #matchalatte #swiftietok </title>
-    <updated>2024-08-09T18:37:31+00:00</updated>
-    <content>guess what my fav colors are #coquettecore #digitaldiary #kpop #taylorswift #aesthetic #straykids #matchalatte #swiftietok </content>
-    <link href="https://tiktok.com/@starryribbons/video/7401210670928137504"/>
-    <published>2024-08-09T18:37:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7401580952331242785</id>
-    <title>I mean yes but why is that the opener #digitaldiary #actuallyautistic #wlw #femmelesbian #lgbt </title>
-    <updated>2024-08-10T18:34:25+00:00</updated>
-    <content>I mean yes but why is that the opener #digitaldiary #actuallyautistic #wlw #femmelesbian #lgbt </content>
-    <link href="https://tiktok.com/@starryribbons/video/7401580952331242785"/>
-    <published>2024-08-10T18:34:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7401581159781502241</id>
     <title>I know you can do it as a side thing but #digitaldiary #author #wlw #coquetteaesthetic #writing #attorney #taylorswifttok </title>
@@ -259,6 +243,22 @@
     <content>i’ll never leave NEVERMIND #coquettecore #digitaldiary #thoughtdaughter #taylorswift #femmelesbian #mentalhealthmatters </content>
     <link href="https://tiktok.com/@starryribbons/video/7422391640616095009"/>
     <published>2024-10-05T20:30:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7423080821638106401</id>
+    <title>no bc why did i believe that i was gonna get kidnapped constantly #coquettecore #digitaldiary #anxietyrelief #mentalhealth #femmelesbian #wlw </title>
+    <updated>2024-10-07T17:04:50+00:00</updated>
+    <content>no bc why did i believe that i was gonna get kidnapped constantly #coquettecore #digitaldiary #anxietyrelief #mentalhealth #femmelesbian #wlw </content>
+    <link href="https://tiktok.com/@starryribbons/video/7423080821638106401"/>
+    <published>2024-10-07T17:04:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7423084193761987873</id>
+    <title>guess which one is actually realistic and what i’ll actually do #coquettecore #digitaldiary #femmelesbian #wlw #hopecore #mentalhealth </title>
+    <updated>2024-10-07T17:17:55+00:00</updated>
+    <content>guess which one is actually realistic and what i’ll actually do #coquettecore #digitaldiary #femmelesbian #wlw #hopecore #mentalhealth </content>
+    <link href="https://tiktok.com/@starryribbons/video/7423084193761987873"/>
+    <published>2024-10-07T17:17:55+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7285761406664854817</id>
