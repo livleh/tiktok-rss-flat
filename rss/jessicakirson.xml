@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-10-05T13:21:09+00:00</updated>
+  <updated>2024-10-06T23:27:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7414503848070384927</id>
-    <title>Couple traveled from Romania to Berlin to see me  #berlin #romania #fy </title>
-    <updated>2024-09-14T14:22:01+00:00</updated>
-    <content>Couple traveled from Romania to Berlin to see me  #berlin #romania #fy </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7414503848070384927"/>
-    <published>2024-09-14T14:22:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7414896605884599582</id>
     <title>Is Her Accent English Or Australian?  #english #aussie #australia #england </title>
@@ -139,6 +131,14 @@
     <content>They had contact? 👽 #aliens #dating #fy </content>
     <link href="https://tiktok.com/@jessicakirson/video/7422280905512799518"/>
     <published>2024-10-05T13:21:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7422808167333088543</id>
+    <title>The Pizza Director  #pizza #fy #nyc </title>
+    <updated>2024-10-06T23:27:00+00:00</updated>
+    <content>The Pizza Director  #pizza #fy #nyc </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7422808167333088543"/>
+    <published>2024-10-06T23:27:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7418971919959035167</id>
