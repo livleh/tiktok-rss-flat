@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-10-07T18:00:00+00:00</updated>
+  <updated>2024-10-08T13:18:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7415966543172865312</id>
-    <title>have you seen this cat? #vtuber</title>
-    <updated>2024-09-18T12:57:50+00:00</updated>
-    <content>have you seen this cat? #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7415966543172865312"/>
-    <published>2024-09-18T12:57:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7415970242188283169</id>
     <title>why does it look so scared?? #asmr </title>
@@ -283,6 +275,14 @@
     <content>using girl math to buy valorant skins #vtuber</content>
     <link href="https://tiktok.com/@nyaravt/video/7423014334869146912"/>
     <published>2024-10-07T18:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7423393662542875936</id>
+    <title>men used to go to war #vtuber</title>
+    <updated>2024-10-08T13:18:54+00:00</updated>
+    <content>men used to go to war #vtuber</content>
+    <link href="https://tiktok.com/@nyaravt/video/7423393662542875936"/>
+    <published>2024-10-08T13:18:54+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>
