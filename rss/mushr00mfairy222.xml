@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-10-07T17:19:26+00:00</updated>
+  <updated>2024-10-08T15:26:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7419371895981657376</id>
-    <title>I'LL KNOW #relatable </title>
-    <updated>2024-09-27T17:12:21+00:00</updated>
-    <content>I'LL KNOW #relatable </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7419371895981657376"/>
-    <published>2024-09-27T17:12:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7419386539068706080</id>
     <title>Replying to @ELEANOR thoughts on adhd self diagnosis and my experience! #neurodivergent #adhd #audhd </title>
@@ -243,6 +235,14 @@
     <content>another one cause i love my bright pink hair :) #pinkhair #dyedhair #hairtransition </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7423084565402520865"/>
     <published>2024-10-07T17:19:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7423426483793743136</id>
+    <title>HAPPY INTERNATIONAL LESBIAN DAY #lesbian #wlw #nmlnm #lgbt #lgbtq </title>
+    <updated>2024-10-08T15:26:15+00:00</updated>
+    <content>HAPPY INTERNATIONAL LESBIAN DAY #lesbian #wlw #nmlnm #lgbt #lgbtq </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7423426483793743136"/>
+    <published>2024-10-08T15:26:15+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
