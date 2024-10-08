@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-10-07T17:37:22+00:00</updated>
+  <updated>2024-10-08T17:51:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7406015660641307936</id>
-    <title>home sweet home in the new estate in lawley, telford that is shaped like a peperami </title>
-    <updated>2024-08-22T17:23:23+00:00</updated>
-    <content>home sweet home in the new estate in lawley, telford that is shaped like a peperami </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7406015660641307936"/>
-    <published>2024-08-22T17:23:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7407517855169711392</id>
     <title>how to remove lint from clothe NOW with added sound !  #creatorsearchinsights </title>
@@ -235,6 +227,14 @@
     <content>the first person to guess what song i cover next wins a free tshirt of their choosing!! </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7423089195314416929"/>
     <published>2024-10-07T17:37:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7423464045962890528</id>
+    <title>I REALLY HAVE BURIED TREASURE AND THIS REALLY IS THE CLUE. i dont think i would be able to figure it out. good luck. please dont take 31 years </title>
+    <updated>2024-10-08T17:51:59+00:00</updated>
+    <content>I REALLY HAVE BURIED TREASURE AND THIS REALLY IS THE CLUE. i dont think i would be able to figure it out. good luck. please dont take 31 years </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7423464045962890528"/>
+    <published>2024-10-08T17:51:59+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7391078276183215392</id>
