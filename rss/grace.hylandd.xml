@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-10-07T07:57:39+00:00</updated>
+  <updated>2024-10-08T04:38:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7412889004401593605</id>
-    <title>How do i teach her that the litter box isnt a bed???</title>
-    <updated>2024-09-10T05:55:26+00:00</updated>
-    <content>How do i teach her that the litter box isnt a bed???</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7412889004401593605"/>
-    <published>2024-09-10T05:55:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7412897023256579334</id>
     <title>There was a time where i used to ‘hunt’ men. All it got me was a broken heart and time ill never get back. Women were not made to hunt, men were, so let them. They enjoy it, we don’t.</title>
@@ -275,5 +267,13 @@
     <content>1 year post BA update 💕</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7422939651230551312"/>
     <published>2024-10-07T07:57:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7423259463278169361</id>
+    <title>Episode one is Miu Miu 🎀 </title>
+    <updated>2024-10-08T04:38:46+00:00</updated>
+    <content>Episode one is Miu Miu 🎀 </content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7423259463278169361"/>
+    <published>2024-10-08T04:38:46+00:00</published>
   </entry>
 </feed>
