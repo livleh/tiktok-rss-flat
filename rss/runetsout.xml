@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@runetsout</id>
   <title>runetsout</title>
-  <updated>2024-09-30T20:15:59+00:00</updated>
+  <updated>2024-10-08T15:30:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from runetsout</subtitle>
-  <entry>
-    <id>https://tiktok.com/@runetsout/video/7311377395771084064</id>
-    <title>How to upgrade to business class for free and without aby points. Step nr4 is tricky tho #businessclasstravel #businessflight #economyflight #businessclassflight #plane </title>
-    <updated>2023-12-11T16:38:32+00:00</updated>
-    <content>How to upgrade to business class for free and without aby points. Step nr4 is tricky tho #businessclasstravel #businessflight #economyflight #businessclassflight #plane </content>
-    <link href="https://tiktok.com/@runetsout/video/7311377395771084064"/>
-    <published>2023-12-11T16:38:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@runetsout/video/7312853450419604769</id>
     <title>I wish I had one in my city, or is it only me struggling with procrastination? #businessidea #procrastination #antiprocrastinacion #business #startup #japan </title>
@@ -267,6 +259,14 @@
     <content>Why hire a bodyguard when you can make 7k a month? 😂 #switzerland #swissalps #swissjobs #swisstravel #bern #zurich </content>
     <link href="https://tiktok.com/@runetsout/video/7420532463128071456"/>
     <published>2024-09-30T20:15:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@runetsout/video/7423427588028140832</id>
+    <title>But just in case Tinder has a global search option 😂 #switzerland #swisstravel #swissmoney #swissalps #zurich</title>
+    <updated>2024-10-08T15:30:33+00:00</updated>
+    <content>But just in case Tinder has a global search option 😂 #switzerland #swisstravel #swissmoney #swissalps #zurich</content>
+    <link href="https://tiktok.com/@runetsout/video/7423427588028140832"/>
+    <published>2024-10-08T15:30:33+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@runetsout/video/7174788628042779910</id>
