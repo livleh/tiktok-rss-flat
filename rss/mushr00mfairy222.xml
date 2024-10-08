@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-10-08T16:15:57+00:00</updated>
+  <updated>2024-10-08T16:56:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7419386552637213985</id>
-    <title>like ok? go argue with a wall 😭 #british #alt </title>
-    <updated>2024-09-27T18:09:10+00:00</updated>
-    <content>like ok? go argue with a wall 😭 #british #alt </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7419386552637213985"/>
-    <published>2024-09-27T18:09:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7419386680081206561</id>
     <title>i &lt;3 autumn / fall outfits:) #ootd #pinkhair #girlhood </title>
@@ -243,6 +235,14 @@
     <content>some lesbian history! #lesbian #wlw #nmlnm #lgbt #lgbtq </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7423439294917856545"/>
     <published>2024-10-08T16:15:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7423449681037888800</id>
+    <title>lesbian songs for lesbian day 👩‍❤️‍💋‍👩❤️🧡🤍🩷💜 #lesbian #wlw #nmlnm #lgbt #lgbtq </title>
+    <updated>2024-10-08T16:56:15+00:00</updated>
+    <content>lesbian songs for lesbian day 👩‍❤️‍💋‍👩❤️🧡🤍🩷💜 #lesbian #wlw #nmlnm #lgbt #lgbtq </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7423449681037888800"/>
+    <published>2024-10-08T16:56:15+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
