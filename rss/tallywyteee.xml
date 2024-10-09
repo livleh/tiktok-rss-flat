@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tallywyteee</id>
   <title>tallywyteee</title>
-  <updated>2024-10-08T16:59:38+00:00</updated>
+  <updated>2024-10-09T16:39:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tallywyteee</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tallywyteee/video/7378957417608006943</id>
-    <title>Be honest bro, your secret is safe with me… 😏🙏🏻 #trans #transgender #transgirl #transwoman #transandproud </title>
-    <updated>2024-06-10T19:24:23+00:00</updated>
-    <content>Be honest bro, your secret is safe with me… 😏🙏🏻 #trans #transgender #transgirl #transwoman #transandproud </content>
-    <link href="https://tiktok.com/@tallywyteee/video/7378957417608006943"/>
-    <published>2024-06-10T19:24:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7379728184494902558</id>
     <title>Be honest bruh… wyd in this situation? 👀🏳️‍⚧️ #trans #transgirl #transwoman #transandproud </title>
@@ -251,6 +243,14 @@
     <content>Do you think he lowkey wants me? 😂👀💙 </content>
     <link href="https://tiktok.com/@tallywyteee/video/7423450552320773419"/>
     <published>2024-10-08T16:59:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tallywyteee/video/7423816372435815726</id>
+    <title>Why would homie scream “not again!?” 😂👀💙</title>
+    <updated>2024-10-09T16:39:12+00:00</updated>
+    <content>Why would homie scream “not again!?” 😂👀💙</content>
+    <link href="https://tiktok.com/@tallywyteee/video/7423816372435815726"/>
+    <published>2024-10-09T16:39:12+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7261699619762048298</id>
