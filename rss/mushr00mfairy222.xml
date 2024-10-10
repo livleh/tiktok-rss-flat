@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-10-09T17:45:23+00:00</updated>
+  <updated>2024-10-10T14:16:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7420856610374864161</id>
-    <title>like never seem a straight septum #septum #lgbt #lgbtq </title>
-    <updated>2024-10-01T17:13:55+00:00</updated>
-    <content>like never seem a straight septum #septum #lgbt #lgbtq </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7420856610374864161"/>
-    <published>2024-10-01T17:13:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7420857092845620513</id>
     <title>old trend but i thought it was funny 😭</title>
@@ -251,6 +243,14 @@
     <content>LIVE LAUGH TAYLOR SWIFT #swiftie #taylorswift </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7423833439096360225"/>
     <published>2024-10-09T17:45:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7424150693981719841</id>
+    <title>@Michael Aldag CANT WAIT TO SEE YOU AGAIN #concert #pinkhair </title>
+    <updated>2024-10-10T14:16:30+00:00</updated>
+    <content>@Michael Aldag CANT WAIT TO SEE YOU AGAIN #concert #pinkhair </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7424150693981719841"/>
+    <published>2024-10-10T14:16:30+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
