@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shaunadewit</id>
   <title>shaunadewit</title>
-  <updated>2024-10-09T12:51:00+00:00</updated>
+  <updated>2024-10-10T13:30:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shaunadewit</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shaunadewit/video/7392145035359161632</id>
-    <title>#advertising enjoy the prime days and get the best thing you need for this summer !  @amazonbelgique it’s only today and tomorrow ! (16 &amp; 17 july) </title>
-    <updated>2024-07-16T08:18:23+00:00</updated>
-    <content>#advertising enjoy the prime days and get the best thing you need for this summer !  @amazonbelgique it’s only today and tomorrow ! (16 &amp; 17 july) </content>
-    <link href="https://tiktok.com/@shaunadewit/video/7392145035359161632"/>
-    <published>2024-07-16T08:18:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/7393641200764439841</id>
     <title>Fr #foryou #humor #therapy #confidence #comedy #pourtoi #goviral </title>
@@ -219,6 +211,14 @@
     <content>Advertising | Summer was too short, I wish it was here again.. with @Amazon Belgium it’s possible #AmazonBelgium #foryou #humor #goviral #pourtoi #comedy </content>
     <link href="https://tiktok.com/@shaunadewit/video/7423757506830241057"/>
     <published>2024-10-09T12:51:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shaunadewit/video/7424138918699879712</id>
+    <title>Thats how we start it ! #foryou #humor #goviral #pourtoi #comedy </title>
+    <updated>2024-10-10T13:30:51+00:00</updated>
+    <content>Thats how we start it ! #foryou #humor #goviral #pourtoi #comedy </content>
+    <link href="https://tiktok.com/@shaunadewit/video/7424138918699879712"/>
+    <published>2024-10-10T13:30:51+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/6994791135415766278</id>
