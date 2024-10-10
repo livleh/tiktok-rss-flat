@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-10-08T21:18:45+00:00</updated>
+  <updated>2024-10-10T22:51:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7414979311054179627</id>
-    <title>Replying to @snzoeller BE HONEST - when I told you I was going on a wine press trip to England, were you a little caught off guard? 🇬🇧 🥂👀 I only just had my first English Sparkling Wine earlier this year but knew very little about this region going into t</title>
-    <updated>2024-09-15T21:06:51+00:00</updated>
-    <content>Replying to @snzoeller BE HONEST - when I told you I was going on a wine press trip to England, were you a little caught off guard? 🇬🇧 🥂👀 I only just had my first English Sparkling Wine earlier this year but knew very little about this region going into t</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7414979311054179627"/>
-    <published>2024-09-15T21:06:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7414983830282571050</id>
-    <title>Shaken, not stirred 💅🍸🫒 this is the bar and the exact martini that inspired Sir Ian Flemming, creator of James Bond. He loved coming to Dukes Bar in St James’s Place where they make a mean Vesper Martini.  As a martini gal, I had to try this famous martin</title>
-    <updated>2024-09-15T21:24:24+00:00</updated>
-    <content>Shaken, not stirred 💅🍸🫒 this is the bar and the exact martini that inspired Sir Ian Flemming, creator of James Bond. He loved coming to Dukes Bar in St James’s Place where they make a mean Vesper Martini.  As a martini gal, I had to try this famous martin</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7414983830282571050"/>
-    <published>2024-09-15T21:24:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7414997320472792366</id>
     <title>What do i have to do to get a little Holiday cottage of my own somewhere in the English countryside?? Just spent a week in England with Wines of Great Britain 🇬🇧 🥂 so pumped for this unique experience in an upcoming wine country. And then having time to c</title>
@@ -267,6 +251,22 @@
     <content>Replying to @Lizz </content>
     <link href="https://tiktok.com/@whimsysoul/video/7423517329092398379"/>
     <published>2024-10-08T21:18:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7424282417093119278</id>
+    <title>Replying to @Liv the themed sweaters keep on coming!! Day 3 of my girls trip to New England!  Woke up at the Bluebird Cady Hill and explored downtown Stowe before it got busy. I'm obsessed with the Black Cap and Cold Hollow was worth the stop. So is the S</title>
+    <updated>2024-10-10T22:47:38+00:00</updated>
+    <content>Replying to @Liv the themed sweaters keep on coming!! Day 3 of my girls trip to New England!  Woke up at the Bluebird Cady Hill and explored downtown Stowe before it got busy. I'm obsessed with the Black Cap and Cold Hollow was worth the stop. So is the S</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7424282417093119278"/>
+    <published>2024-10-10T22:47:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7424283377945136427</id>
+    <title>Replying to @dawnellen78 you couldn't pay me to be driving the Kancamagus on a holiday weekend!! 😱 🍁 heads up that     Indigenous Peoples' Day is gonna be even more insane. It'll be a parking lot.  #newengland #october #newhampshire #newengland #whimsysou</title>
+    <updated>2024-10-10T22:51:21+00:00</updated>
+    <content>Replying to @dawnellen78 you couldn't pay me to be driving the Kancamagus on a holiday weekend!! 😱 🍁 heads up that     Indigenous Peoples' Day is gonna be even more insane. It'll be a parking lot.  #newengland #october #newhampshire #newengland #whimsysou</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7424283377945136427"/>
+    <published>2024-10-10T22:51:21+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
