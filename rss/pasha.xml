@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@pasha</id>
   <title>pasha</title>
-  <updated>2024-09-29T12:38:44+00:00</updated>
+  <updated>2024-10-10T09:08:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pasha</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pasha/video/7382187020883397904</id>
-    <title>“dubai is so clean and safe, I love it here!” #dubai #dubai🇦🇪 #dubaitravel #uae #travel </title>
-    <updated>2024-06-19T12:16:03+00:00</updated>
-    <content>“dubai is so clean and safe, I love it here!” #dubai #dubai🇦🇪 #dubaitravel #uae #travel </content>
-    <link href="https://tiktok.com/@pasha/video/7382187020883397904"/>
-    <published>2024-06-19T12:16:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7382691339395173648</id>
     <title>learning Spanish does wonders to you, so learn with @Unacademy Languages #unacademylanguages #spanish #spain #españa #español </title>
@@ -259,6 +251,14 @@
     <content>what your favourite LinkedIn phrases ACTUALLY mean: “this is just the beginning!” - …of a very confusing journey for all of us. “so proud of everything you’ve achieved!” - I have no idea what you actually did in this, but this sounds supportive, right? “I</content>
     <link href="https://tiktok.com/@pasha/video/7420043569710353672"/>
     <published>2024-09-29T12:38:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pasha/video/7424071397254696199</id>
+    <title>just a simple little life in Korea… #korea #lifeinkorea #koreanculture #comedy </title>
+    <updated>2024-10-10T09:08:46+00:00</updated>
+    <content>just a simple little life in Korea… #korea #lifeinkorea #koreanculture #comedy </content>
+    <link href="https://tiktok.com/@pasha/video/7424071397254696199"/>
+    <published>2024-10-10T09:08:46+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7402693921005899028</id>
