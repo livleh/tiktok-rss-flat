@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@starryribbons</id>
   <title>starryribbons</title>
-  <updated>2024-10-07T17:17:55+00:00</updated>
+  <updated>2024-10-10T18:23:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from starryribbons</subtitle>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7401581159781502241</id>
-    <title>I know you can do it as a side thing but #digitaldiary #author #wlw #coquetteaesthetic #writing #attorney #taylorswifttok </title>
-    <updated>2024-08-10T18:35:12+00:00</updated>
-    <content>I know you can do it as a side thing but #digitaldiary #author #wlw #coquetteaesthetic #writing #attorney #taylorswifttok </content>
-    <link href="https://tiktok.com/@starryribbons/video/7401581159781502241"/>
-    <published>2024-08-10T18:35:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7402300883788221729</id>
     <title>EVERY PAGE THAT I WROTE YOU WERE ON IT #digitaldiary #coquetteaesthetic #gracieabrams #thesecretofus #wlw #femmelesbian </title>
@@ -259,6 +251,14 @@
     <content>guess which one is actually realistic and what i’ll actually do #coquettecore #digitaldiary #femmelesbian #wlw #hopecore #mentalhealth </content>
     <link href="https://tiktok.com/@starryribbons/video/7423084193761987873"/>
     <published>2024-10-07T17:17:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7424214302522985760</id>
+    <title>can you tell that theres a pattern #coquettecore #digitaldiary #femmelesbian #kpop #bts #bangtanboys #minyoongi #hyyh </title>
+    <updated>2024-10-10T18:23:21+00:00</updated>
+    <content>can you tell that theres a pattern #coquettecore #digitaldiary #femmelesbian #kpop #bts #bangtanboys #minyoongi #hyyh </content>
+    <link href="https://tiktok.com/@starryribbons/video/7424214302522985760"/>
+    <published>2024-10-10T18:23:21+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7285761406664854817</id>
