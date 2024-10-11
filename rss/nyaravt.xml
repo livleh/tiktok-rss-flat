@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-10-11T13:01:53+00:00</updated>
+  <updated>2024-10-11T18:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7416820906271444257</id>
-    <title>when you admit to cheating in valorant #vtuber</title>
-    <updated>2024-09-21T13:00:00+00:00</updated>
-    <content>when you admit to cheating in valorant #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7416820906271444257"/>
-    <published>2024-09-21T13:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7416821145577491745</id>
     <title>why you need a dog bed #vtuber</title>
@@ -275,6 +267,14 @@
     <content>vampires actually love garlic #vtuber</content>
     <link href="https://tiktok.com/@nyaravt/video/7424502537656569121"/>
     <published>2024-10-11T13:01:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7424512750673562912</id>
+    <title>lore accurate vampire asmr #vtuber</title>
+    <updated>2024-10-11T18:00:00+00:00</updated>
+    <content>lore accurate vampire asmr #vtuber</content>
+    <link href="https://tiktok.com/@nyaravt/video/7424512750673562912"/>
+    <published>2024-10-11T18:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>
