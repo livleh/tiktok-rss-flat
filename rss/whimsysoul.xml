@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-10-10T22:51:21+00:00</updated>
+  <updated>2024-10-10T23:30:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7414997320472792366</id>
-    <title>What do i have to do to get a little Holiday cottage of my own somewhere in the English countryside?? Just spent a week in England with Wines of Great Britain 🇬🇧 🥂 so pumped for this unique experience in an upcoming wine country. And then having time to c</title>
-    <updated>2024-09-15T22:16:45+00:00</updated>
-    <content>What do i have to do to get a little Holiday cottage of my own somewhere in the English countryside?? Just spent a week in England with Wines of Great Britain 🇬🇧 🥂 so pumped for this unique experience in an upcoming wine country. And then having time to c</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7414997320472792366"/>
-    <published>2024-09-15T22:16:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7415030580175342894</id>
     <title>the most beautiful English countryside pub &amp; inn 🇬🇧 add this to your England bucket list! #london #england #prideandprejudice #englishpub #sussex #hotel #travel #whimsysoul #romantichotel </title>
@@ -267,6 +259,14 @@
     <content>Replying to @dawnellen78 you couldn't pay me to be driving the Kancamagus on a holiday weekend!! 😱 🍁 heads up that     Indigenous Peoples' Day is gonna be even more insane. It'll be a parking lot.  #newengland #october #newhampshire #newengland #whimsysou</content>
     <link href="https://tiktok.com/@whimsysoul/video/7424283377945136427"/>
     <published>2024-10-10T22:51:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7424293444216048939</id>
+    <title>New England autumn is absolutely worth it, in case you're wondering #newengland #october #newhampshire #whitemountains #falltrip #kancamagushighway #autumn #vermonttiktok #coldhollow #leafpeeping #leaf #massachusetts </title>
+    <updated>2024-10-10T23:30:26+00:00</updated>
+    <content>New England autumn is absolutely worth it, in case you're wondering #newengland #october #newhampshire #whitemountains #falltrip #kancamagushighway #autumn #vermonttiktok #coldhollow #leafpeeping #leaf #massachusetts </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7424293444216048939"/>
+    <published>2024-10-10T23:30:26+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
