@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-10-10T22:07:27+00:00</updated>
+  <updated>2024-10-11T22:39:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7416118137277500702</id>
-    <title>Bipolar he/him 😂 #imexhausted #bipolar #fyp </title>
-    <updated>2024-09-18T22:46:13+00:00</updated>
-    <content>Bipolar he/him 😂 #imexhausted #bipolar #fyp </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7416118137277500702"/>
-    <published>2024-09-18T22:46:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7416492495833484575</id>
     <title>What would your name be?  #anxious #lesbiansoftiktok #bisexual🏳️‍🌈 #fy </title>
@@ -139,6 +131,14 @@
     <content>A lot of editing for this crowd 😂 #foryoupageofficiall </content>
     <link href="https://tiktok.com/@jessicakirson/video/7424272036089924894"/>
     <published>2024-10-10T22:07:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7424651288513613087</id>
+    <title>He does what?</title>
+    <updated>2024-10-11T22:39:12+00:00</updated>
+    <content>He does what?</content>
+    <link href="https://tiktok.com/@jessicakirson/video/7424651288513613087"/>
+    <published>2024-10-11T22:39:12+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7423392379157187870</id>
