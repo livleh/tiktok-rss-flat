@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@norabinki</id>
   <title>norabinki</title>
-  <updated>2024-10-07T16:33:03+00:00</updated>
+  <updated>2024-10-12T15:05:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from norabinki</subtitle>
-  <entry>
-    <id>https://tiktok.com/@norabinki/video/7349223893468515616</id>
-    <title>Bibersuche in Zürich. Vielen Dank an Frau Dr. Caroline Nienhuis!  @Bruzzli #fyp #schweiz #CapCut </title>
-    <updated>2024-03-22T16:22:18+00:00</updated>
-    <content>Bibersuche in Zürich. Vielen Dank an Frau Dr. Caroline Nienhuis!  @Bruzzli #fyp #schweiz #CapCut </content>
-    <link href="https://tiktok.com/@norabinki/video/7349223893468515616"/>
-    <published>2024-03-22T16:22:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@norabinki/video/7351822762052193569</id>
     <title>Eiertütsch Meisterschaft #schweiz #fyp #CapCut </title>
@@ -235,6 +227,14 @@
     <content>KI-Treffen #schweiz #künstlicheintelligenz #fyp #CapCut </content>
     <link href="https://tiktok.com/@norabinki/video/7423072603377634593"/>
     <published>2024-10-07T16:33:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@norabinki/video/7424905367131262240</id>
+    <title>Spending Gersauer Gulden @Bruzzli #schweiz #fyp #gersau #CapCut </title>
+    <updated>2024-10-12T15:05:03+00:00</updated>
+    <content>Spending Gersauer Gulden @Bruzzli #schweiz #fyp #gersau #CapCut </content>
+    <link href="https://tiktok.com/@norabinki/video/7424905367131262240"/>
+    <published>2024-10-12T15:05:03+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@norabinki/video/7298386766359203105</id>
