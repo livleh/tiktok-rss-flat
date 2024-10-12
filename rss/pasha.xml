@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@pasha</id>
   <title>pasha</title>
-  <updated>2024-10-11T07:17:51+00:00</updated>
+  <updated>2024-10-12T12:45:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pasha</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pasha/video/7384417402563398928</id>
-    <title>whole city is a bike lane ☺️ #dutch #netherlands #amsterdam #lifeinamsterdam #nederland #netherlands🇳🇱 #amsterdamtiktok </title>
-    <updated>2024-06-25T12:31:03+00:00</updated>
-    <content>whole city is a bike lane ☺️ #dutch #netherlands #amsterdam #lifeinamsterdam #nederland #netherlands🇳🇱 #amsterdamtiktok </content>
-    <link href="https://tiktok.com/@pasha/video/7384417402563398928"/>
-    <published>2024-06-25T12:31:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7385867869755690247</id>
     <title>the whole city is a bike lane…🥲 #dutch #netherlands #amsterdam #nederland #amsterdamtiktok #cyclinglife </title>
@@ -259,6 +251,14 @@
     <content>all we wanted was to live our Korean drama dream 😢 #comedy #korea </content>
     <link href="https://tiktok.com/@pasha/video/7424413898775858439"/>
     <published>2024-10-11T07:17:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pasha/video/7424869425888644370</id>
+    <title>we all know someone who goes to Japan and does this 🤣😩 #japan #tokyo </title>
+    <updated>2024-10-12T12:45:31+00:00</updated>
+    <content>we all know someone who goes to Japan and does this 🤣😩 #japan #tokyo </content>
+    <link href="https://tiktok.com/@pasha/video/7424869425888644370"/>
+    <published>2024-10-12T12:45:31+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7402693921005899028</id>
