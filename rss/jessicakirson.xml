@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-10-11T22:39:12+00:00</updated>
+  <updated>2024-10-12T13:54:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7416492495833484575</id>
-    <title>What would your name be?  #anxious #lesbiansoftiktok #bisexual🏳️‍🌈 #fy </title>
-    <updated>2024-09-19T22:58:51+00:00</updated>
-    <content>What would your name be?  #anxious #lesbiansoftiktok #bisexual🏳️‍🌈 #fy </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7416492495833484575"/>
-    <published>2024-09-19T22:58:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7417082469867949342</id>
     <title>Her Mom Loved Me  #mom #fyp </title>
@@ -139,6 +131,14 @@
     <content>He does what?</content>
     <link href="https://tiktok.com/@jessicakirson/video/7424651288513613087"/>
     <published>2024-10-11T22:39:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7424887022977895710</id>
+    <title>A Ranch In New York City?!?  #newyork #ranch #funny </title>
+    <updated>2024-10-12T13:54:07+00:00</updated>
+    <content>A Ranch In New York City?!?  #newyork #ranch #funny </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7424887022977895710"/>
+    <published>2024-10-12T13:54:07+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7423392379157187870</id>
