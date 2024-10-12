@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-10-12T03:15:10+00:00</updated>
+  <updated>2024-10-12T20:13:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7415711926283521322</id>
-    <title>Yosemite in autumn is elite 🍁 This video is from October 2021 but it's still one of those PINCH ME moments I can't get out of my head.  We woke up before sunrise to drive into Yosemite Valley and had the whole place to ourselves for a few hours (and then </title>
-    <updated>2024-09-17T20:29:49+00:00</updated>
-    <content>Yosemite in autumn is elite 🍁 This video is from October 2021 but it's still one of those PINCH ME moments I can't get out of my head.  We woke up before sunrise to drive into Yosemite Valley and had the whole place to ourselves for a few hours (and then </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7415711926283521322"/>
-    <published>2024-09-17T20:29:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7415713303533587754</id>
     <title>Was delulu but worked out. How did the past 10 years fly by so fast?! #sanfransisco #bayarea #casual #onlyinsf #california </title>
@@ -267,6 +259,14 @@
     <content>Replying to @toastbutterjam  views were stunning out there (and I'm not just talking about the coastal landscapes 😉)  hello from a Navy ship 🚢👀  👋San Francisco, Fleet Week is HERE and I had a unique chance to kick off festivities on an actual Navy ship th</content>
     <link href="https://tiktok.com/@whimsysoul/video/7424722448811035947"/>
     <published>2024-10-12T03:15:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7424984742090525995</id>
+    <title>would fly back to Vermont just for this maple croissant #stowevt #stowe #croissant #whimsysoul #food #newengland #falltrip #autumnaesthetic #vermonttiktok #vermont #vermontlife </title>
+    <updated>2024-10-12T20:13:02+00:00</updated>
+    <content>would fly back to Vermont just for this maple croissant #stowevt #stowe #croissant #whimsysoul #food #newengland #falltrip #autumnaesthetic #vermonttiktok #vermont #vermontlife </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7424984742090525995"/>
+    <published>2024-10-12T20:13:02+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
