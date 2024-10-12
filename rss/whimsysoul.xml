@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-10-12T01:23:26+00:00</updated>
+  <updated>2024-10-12T03:15:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7415381142431468843</id>
-    <title>this secret California bar can only be accessed by train 🚂 😱 Nowhere else can you sip mulled wine under the stars and canopy of coastal Redwoods other than at the @skunktrain Glen Blair Bar. ❤️ There’s fire pits, music, lawn games and it’s utterly magical</title>
-    <updated>2024-09-16T23:06:10+00:00</updated>
-    <content>this secret California bar can only be accessed by train 🚂 😱 Nowhere else can you sip mulled wine under the stars and canopy of coastal Redwoods other than at the @skunktrain Glen Blair Bar. ❤️ There’s fire pits, music, lawn games and it’s utterly magical</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7415381142431468843"/>
-    <published>2024-09-16T23:06:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7415711926283521322</id>
     <title>Yosemite in autumn is elite 🍁 This video is from October 2021 but it's still one of those PINCH ME moments I can't get out of my head.  We woke up before sunrise to drive into Yosemite Valley and had the whole place to ourselves for a few hours (and then </title>
@@ -267,6 +259,14 @@
     <content>Fleet Week from a Navy ship?! 😱🇺🇸✈️ Spend a day with me on the @uss_somerset for the Parade of Ship at SF Fleet Week 2024! When @califleetweeks asked me to take part in this experience I immediately said yes. 🇺🇸✈️ 🚢 Living in San Francisco for almost 10 y</content>
     <link href="https://tiktok.com/@whimsysoul/video/7424693653597211950"/>
     <published>2024-10-12T01:23:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7424722448811035947</id>
+    <title>Replying to @toastbutterjam  views were stunning out there (and I'm not just talking about the coastal landscapes 😉)  hello from a Navy ship 🚢👀  👋San Francisco, Fleet Week is HERE and I had a unique chance to kick off festivities on an actual Navy ship th</title>
+    <updated>2024-10-12T03:15:10+00:00</updated>
+    <content>Replying to @toastbutterjam  views were stunning out there (and I'm not just talking about the coastal landscapes 😉)  hello from a Navy ship 🚢👀  👋San Francisco, Fleet Week is HERE and I had a unique chance to kick off festivities on an actual Navy ship th</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7424722448811035947"/>
+    <published>2024-10-12T03:15:10+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
