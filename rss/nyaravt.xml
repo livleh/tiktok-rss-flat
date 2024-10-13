@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-10-13T12:35:38+00:00</updated>
+  <updated>2024-10-13T18:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7417820370515873057</id>
-    <title>why can't men befriend women #vtuber</title>
-    <updated>2024-09-23T18:00:00+00:00</updated>
-    <content>why can't men befriend women #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7417820370515873057"/>
-    <published>2024-09-23T18:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7417821169316908320</id>
     <title>democrats aren't leftists #vtuber</title>
@@ -275,6 +267,14 @@
     <content>why you struggle with your height #trans</content>
     <link href="https://tiktok.com/@nyaravt/video/7425237952361532704"/>
     <published>2024-10-13T12:35:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7425238203558399265</id>
+    <title>capitalism ruins good things #vtuber</title>
+    <updated>2024-10-13T18:00:00+00:00</updated>
+    <content>capitalism ruins good things #vtuber</content>
+    <link href="https://tiktok.com/@nyaravt/video/7425238203558399265"/>
+    <published>2024-10-13T18:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>
