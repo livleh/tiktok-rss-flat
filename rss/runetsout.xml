@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@runetsout</id>
   <title>runetsout</title>
-  <updated>2024-10-08T15:30:33+00:00</updated>
+  <updated>2024-10-13T21:13:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from runetsout</subtitle>
-  <entry>
-    <id>https://tiktok.com/@runetsout/video/7312853450419604769</id>
-    <title>I wish I had one in my city, or is it only me struggling with procrastination? #businessidea #procrastination #antiprocrastinacion #business #startup #japan </title>
-    <updated>2023-12-15T16:06:20+00:00</updated>
-    <content>I wish I had one in my city, or is it only me struggling with procrastination? #businessidea #procrastination #antiprocrastinacion #business #startup #japan </content>
-    <link href="https://tiktok.com/@runetsout/video/7312853450419604769"/>
-    <published>2023-12-15T16:06:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@runetsout/video/7313242186651389216</id>
     <title>Youtube Zurich invited me to the best event in my life #youtube #youtuber #googleoffice #switzerland #zurich </title>
@@ -267,6 +259,14 @@
     <content>But just in case Tinder has a global search option 😂 #switzerland #swisstravel #swissmoney #swissalps #zurich</content>
     <link href="https://tiktok.com/@runetsout/video/7423427588028140832"/>
     <published>2024-10-08T15:30:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@runetsout/video/7425371405186796833</id>
+    <title>Guess why it doesn’t have a Swiss flag on it😀 #rich #swissmade #swissalps #swisslife </title>
+    <updated>2024-10-13T21:13:30+00:00</updated>
+    <content>Guess why it doesn’t have a Swiss flag on it😀 #rich #swissmade #swissalps #swisslife </content>
+    <link href="https://tiktok.com/@runetsout/video/7425371405186796833"/>
+    <published>2024-10-13T21:13:30+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@runetsout/video/7174788628042779910</id>
