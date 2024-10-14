@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-10-14T01:47:06+00:00</updated>
+  <updated>2024-10-14T02:41:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7416101404042923306</id>
-    <title>Haunted Hotels in California ⬇️👻 To all my fellow spooky season lovers, don't worry - there are TONS of great hotels in California that are also low-key haunted, if you wanted to be on theme for any fall trips this year. 👻👻 Some of my faves: @claremonthot</title>
-    <updated>2024-09-18T21:41:10+00:00</updated>
-    <content>Haunted Hotels in California ⬇️👻 To all my fellow spooky season lovers, don't worry - there are TONS of great hotels in California that are also low-key haunted, if you wanted to be on theme for any fall trips this year. 👻👻 Some of my faves: @claremonthot</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7416101404042923306"/>
-    <published>2024-09-18T21:41:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7416407276895980842</id>
     <title>PUMPKIN DAY - I eat pumpkin-flavored things for every meal of the day. It's the best day of the year!! 👉 SEND THIS to someone you want to do a pumpkin day with!! ✨🎃 I started this tradition during 2020 for a little cheer and have been obsessed ever since.</title>
@@ -267,6 +259,14 @@
     <content>please i need this audio to be a thing so badly 🎃 🎅 #hoahoa #remixes #music #mashups #fallvibes #christmas #halloweenmusic #christmasmusic #mariahcarey #santa #twilight #musictok #mashupsongs </content>
     <link href="https://tiktok.com/@whimsysoul/video/7425441922275331374"/>
     <published>2024-10-14T01:47:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7425455949877415210</id>
+    <title>yes even in a corn maze 🌽 🐈 where's my fellow cat ladies?!  #cats #catlady #vermont #catlovers #cutecat #stowevermont #cornmaze </title>
+    <updated>2024-10-14T02:41:32+00:00</updated>
+    <content>yes even in a corn maze 🌽 🐈 where's my fellow cat ladies?!  #cats #catlady #vermont #catlovers #cutecat #stowevermont #cornmaze </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7425455949877415210"/>
+    <published>2024-10-14T02:41:32+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
