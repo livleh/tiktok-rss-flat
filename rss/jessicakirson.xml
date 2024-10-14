@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-10-13T22:39:08+00:00</updated>
+  <updated>2024-10-14T22:37:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7417976223139106078</id>
-    <title>A Restaurant Wedding  #wedding #restaurant #fy </title>
-    <updated>2024-09-23T22:56:27+00:00</updated>
-    <content>A Restaurant Wedding  #wedding #restaurant #fy </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7417976223139106078"/>
-    <published>2024-09-23T22:56:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7418954712424140063</id>
     <title>Who made the first move?? #fyp #boss #dating </title>
@@ -139,6 +131,14 @@
     <content>Still want to know where they got married #jewishtiktok #fy </content>
     <link href="https://tiktok.com/@jessicakirson/video/7425393431767223582"/>
     <published>2024-10-13T22:39:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7425764022126988574</id>
+    <title>It’s Nap Time! See me perform live in Raleigh, Nashville, Atlanta, Las Vegas and more. Tix are on my site</title>
+    <updated>2024-10-14T22:37:12+00:00</updated>
+    <content>It’s Nap Time! See me perform live in Raleigh, Nashville, Atlanta, Las Vegas and more. Tix are on my site</content>
+    <link href="https://tiktok.com/@jessicakirson/video/7425764022126988574"/>
+    <published>2024-10-14T22:37:12+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7423392379157187870</id>
