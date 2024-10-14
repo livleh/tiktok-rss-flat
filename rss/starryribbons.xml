@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@starryribbons</id>
   <title>starryribbons</title>
-  <updated>2024-10-12T16:53:40+00:00</updated>
+  <updated>2024-10-14T15:41:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from starryribbons</subtitle>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7402302118939430177</id>
-    <title>mikie i miss you #digitaldiary #coquetteaesthetic #wlwmlmsolidarity #relatable @_starlight_boy_ </title>
-    <updated>2024-08-12T17:12:57+00:00</updated>
-    <content>mikie i miss you #digitaldiary #coquetteaesthetic #wlwmlmsolidarity #relatable @_starlight_boy_ </content>
-    <link href="https://tiktok.com/@starryribbons/video/7402302118939430177"/>
-    <published>2024-08-12T17:12:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7402730329842240801</id>
     <title>I was listenting to butter (holiday remix) #digitaldiary #coquetteaesthetic #relatable #beach #thoughtdaughter #wlw </title>
@@ -259,6 +251,14 @@
     <content>i love that song so much wtf #coquettecore #digitaldiary #femmelesbian #wlw #outfitoftheday #ootd </content>
     <link href="https://tiktok.com/@starryribbons/video/7424933331596332320"/>
     <published>2024-10-12T16:53:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7425656810977168672</id>
+    <title>#AD @Hanakoko Official | ignore the fact that some are missing, they do come w 10 😭 #coquettecore #digitaldiary #femmelesbian #outfitoftheweek #shoujo </title>
+    <updated>2024-10-14T15:41:08+00:00</updated>
+    <content>#AD @Hanakoko Official | ignore the fact that some are missing, they do come w 10 😭 #coquettecore #digitaldiary #femmelesbian #outfitoftheweek #shoujo </content>
+    <link href="https://tiktok.com/@starryribbons/video/7425656810977168672"/>
+    <published>2024-10-14T15:41:08+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7285761406664854817</id>
