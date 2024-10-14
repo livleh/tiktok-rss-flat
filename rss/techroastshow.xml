@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-10-13T15:19:12+00:00</updated>
+  <updated>2024-10-14T00:33:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7418001898617474350</id>
-    <title>He’s into stocks and bondage @Austin Nasso #techie #softwareengineer #newyork #nyc #dating #techroastshow #founder</title>
-    <updated>2024-09-24T00:36:03+00:00</updated>
-    <content>He’s into stocks and bondage @Austin Nasso #techie #softwareengineer #newyork #nyc #dating #techroastshow #founder</content>
-    <link href="https://tiktok.com/@techroastshow/video/7418001898617474350"/>
-    <published>2024-09-24T00:36:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7418252822904458526</id>
     <title>he got PIP’d  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</title>
@@ -267,6 +259,14 @@
     <content>need some yarn to track this web  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </content>
     <link href="https://tiktok.com/@techroastshow/video/7425280051064655135"/>
     <published>2024-10-13T15:19:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7425422936619699487</id>
+    <title>this is enhancing his dating life  #techie #softwareengineer #meta #rayban #programmerlife #darkhumor #techroastshow</title>
+    <updated>2024-10-14T00:33:35+00:00</updated>
+    <content>this is enhancing his dating life  #techie #softwareengineer #meta #rayban #programmerlife #darkhumor #techroastshow</content>
+    <link href="https://tiktok.com/@techroastshow/video/7425422936619699487"/>
+    <published>2024-10-14T00:33:35+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>

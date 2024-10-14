@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-10-12T21:58:17+00:00</updated>
+  <updated>2024-10-14T01:47:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7415734642340334894</id>
-    <title>Once you get a taste of lounge life, you can never go back. I am so excited that The Club in SFO opened up this summer and it's available on Priority Pass. If you see me in here say hi cause I will be living in this lounge every time I'm at the airport no</title>
-    <updated>2024-09-17T21:58:08+00:00</updated>
-    <content>Once you get a taste of lounge life, you can never go back. I am so excited that The Club in SFO opened up this summer and it's available on Priority Pass. If you see me in here say hi cause I will be living in this lounge every time I'm at the airport no</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7415734642340334894"/>
-    <published>2024-09-17T21:58:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7416101404042923306</id>
     <title>Haunted Hotels in California ⬇️👻 To all my fellow spooky season lovers, don't worry - there are TONS of great hotels in California that are also low-key haunted, if you wanted to be on theme for any fall trips this year. 👻👻 Some of my faves: @claremonthot</title>
@@ -267,6 +259,14 @@
     <content>Replying to @MAC 🇵🇸🇨🇩🇸🇩☮️ you can't miss this famous cider spot in Vermont!! 🍎🍁 I was worried Cold Hollow Cider Mill was all hype and just meh food and cider, but it was totally worth it.  I had a tasty sandwich for lunch and then we headed to the bakery </content>
     <link href="https://tiktok.com/@whimsysoul/video/7425011862770732334"/>
     <published>2024-10-12T21:58:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7425441922275331374</id>
+    <title>please i need this audio to be a thing so badly 🎃 🎅 #hoahoa #remixes #music #mashups #fallvibes #christmas #halloweenmusic #christmasmusic #mariahcarey #santa #twilight #musictok #mashupsongs </title>
+    <updated>2024-10-14T01:47:06+00:00</updated>
+    <content>please i need this audio to be a thing so badly 🎃 🎅 #hoahoa #remixes #music #mashups #fallvibes #christmas #halloweenmusic #christmasmusic #mariahcarey #santa #twilight #musictok #mashupsongs </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7425441922275331374"/>
+    <published>2024-10-14T01:47:06+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
