@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-10-14T17:21:01+00:00</updated>
+  <updated>2024-10-14T22:04:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7408613499477200161</id>
-    <title>Replying to @Festegios riding a trunki suitcase through a drive thru</title>
-    <updated>2024-08-29T17:24:14+00:00</updated>
-    <content>Replying to @Festegios riding a trunki suitcase through a drive thru</content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7408613499477200161"/>
-    <published>2024-08-29T17:24:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7409000646998838560</id>
     <title>ill level with you. im really scared </title>
@@ -229,12 +221,12 @@
     <published>2024-10-13T17:43:08+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7425682590448749857</id>
-    <title>the perfect juxtaposition to my brownies videos </title>
-    <updated>2024-10-14T17:21:01+00:00</updated>
-    <content>the perfect juxtaposition to my brownies videos </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7425682590448749857"/>
-    <published>2024-10-14T17:21:01+00:00</published>
+    <id>https://tiktok.com/@zoebreadtok/video/7425755499037084960</id>
+    <title>this is the only version of this video that exists. if you saw a different one.. no you didnt </title>
+    <updated>2024-10-14T22:04:02+00:00</updated>
+    <content>this is the only version of this video that exists. if you saw a different one.. no you didnt </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7425755499037084960"/>
+    <published>2024-10-14T22:04:02+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7391078276183215392</id>
