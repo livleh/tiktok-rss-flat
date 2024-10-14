@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@pasha</id>
   <title>pasha</title>
-  <updated>2024-10-13T10:41:01+00:00</updated>
+  <updated>2024-10-14T11:19:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pasha</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pasha/video/7386264314862177544</id>
-    <title>I think I love this little European life ❤️ #businessclass #airplane #flying </title>
-    <updated>2024-06-30T11:57:58+00:00</updated>
-    <content>I think I love this little European life ❤️ #businessclass #airplane #flying </content>
-    <link href="https://tiktok.com/@pasha/video/7386264314862177544"/>
-    <published>2024-06-30T11:57:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7387044862568172807</id>
     <title>how to have the most perfect Sunday in Berlin #berlin #vlogtime #vloggingtime #fleamarket #lifeingermany #mauerpark #thingstodo </title>
@@ -251,6 +243,14 @@
     <content>every time you travel here, do you feel the same? because I definitely do #japan #japantravel </content>
     <link href="https://tiktok.com/@pasha/video/7425208421646961938"/>
     <published>2024-10-13T10:41:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pasha/video/7425589342694935815</id>
+    <title>reviewing Korean ice cream so you don’t have to. also the ending has me 🤣 #korea #conveniencestore #mukbang #koreanconveniencestore #asmr #icecream #asmrmukbang #koreanicecream </title>
+    <updated>2024-10-14T11:19:10+00:00</updated>
+    <content>reviewing Korean ice cream so you don’t have to. also the ending has me 🤣 #korea #conveniencestore #mukbang #koreanconveniencestore #asmr #icecream #asmrmukbang #koreanicecream </content>
+    <link href="https://tiktok.com/@pasha/video/7425589342694935815"/>
+    <published>2024-10-14T11:19:10+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7402693921005899028</id>
