@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-10-14T02:41:32+00:00</updated>
+  <updated>2024-10-15T03:46:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7416407276895980842</id>
-    <title>PUMPKIN DAY - I eat pumpkin-flavored things for every meal of the day. It's the best day of the year!! 👉 SEND THIS to someone you want to do a pumpkin day with!! ✨🎃 I started this tradition during 2020 for a little cheer and have been obsessed ever since.</title>
-    <updated>2024-09-19T17:28:07+00:00</updated>
-    <content>PUMPKIN DAY - I eat pumpkin-flavored things for every meal of the day. It's the best day of the year!! 👉 SEND THIS to someone you want to do a pumpkin day with!! ✨🎃 I started this tradition during 2020 for a little cheer and have been obsessed ever since.</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7416407276895980842"/>
-    <published>2024-09-19T17:28:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7417141433938873643</id>
     <title>No Title</title>
@@ -267,6 +259,14 @@
     <content>yes even in a corn maze 🌽 🐈 where's my fellow cat ladies?!  #cats #catlady #vermont #catlovers #cutecat #stowevermont #cornmaze </content>
     <link href="https://tiktok.com/@whimsysoul/video/7425455949877415210"/>
     <published>2024-10-14T02:41:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7425843718013357355</id>
+    <title>fall magic does exist 🍁 ✨  Just got back from Stowe, Vermont and it's everything I hoped for and more.  Cool hotels, an adorable downtown, great coffee shops, cider, maple farm stands, gondolas, fall foliage and more. 👏  Add Stowe to your bucket list and </title>
+    <updated>2024-10-15T03:46:18+00:00</updated>
+    <content>fall magic does exist 🍁 ✨  Just got back from Stowe, Vermont and it's everything I hoped for and more.  Cool hotels, an adorable downtown, great coffee shops, cider, maple farm stands, gondolas, fall foliage and more. 👏  Add Stowe to your bucket list and </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7425843718013357355"/>
+    <published>2024-10-15T03:46:18+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
