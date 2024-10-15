@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@runetsout</id>
   <title>runetsout</title>
-  <updated>2024-10-13T21:13:30+00:00</updated>
+  <updated>2024-10-15T11:53:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from runetsout</subtitle>
-  <entry>
-    <id>https://tiktok.com/@runetsout/video/7313242186651389216</id>
-    <title>Youtube Zurich invited me to the best event in my life #youtube #youtuber #googleoffice #switzerland #zurich </title>
-    <updated>2023-12-16T17:14:53+00:00</updated>
-    <content>Youtube Zurich invited me to the best event in my life #youtube #youtuber #googleoffice #switzerland #zurich </content>
-    <link href="https://tiktok.com/@runetsout/video/7313242186651389216"/>
-    <published>2023-12-16T17:14:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@runetsout/video/7313656227311996192</id>
     <title>On the second day my Swiss neighbor told me off for walking too heavily 🫠 #switzerland #spain #zurich #barcelona #immigrant </title>
@@ -267,6 +259,14 @@
     <content>Guess why it doesn’t have a Swiss flag on it😀 #rich #swissmade #swissalps #swisslife </content>
     <link href="https://tiktok.com/@runetsout/video/7425371405186796833"/>
     <published>2024-10-13T21:13:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@runetsout/video/7425969173303414049</id>
+    <title>Some other things that shocked me: 1. You can not buy just one parrot or a fish as they are social animals and the law says you need to get min 2 animals. 2. If you make noise your neighbors most probably will directly call the police without trying to sp</title>
+    <updated>2024-10-15T11:53:09+00:00</updated>
+    <content>Some other things that shocked me: 1. You can not buy just one parrot or a fish as they are social animals and the law says you need to get min 2 animals. 2. If you make noise your neighbors most probably will directly call the police without trying to sp</content>
+    <link href="https://tiktok.com/@runetsout/video/7425969173303414049"/>
+    <published>2024-10-15T11:53:09+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@runetsout/video/7174788628042779910</id>

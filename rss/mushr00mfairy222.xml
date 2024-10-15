@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-10-14T15:13:38+00:00</updated>
+  <updated>2024-10-15T12:30:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7422315459761949985</id>
-    <title>the fact ive seen taylor swift multiple times is my biggest flex #swiftie #taylorswift #erastour </title>
-    <updated>2024-10-05T15:34:53+00:00</updated>
-    <content>the fact ive seen taylor swift multiple times is my biggest flex #swiftie #taylorswift #erastour </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7422315459761949985"/>
-    <published>2024-10-05T15:34:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7422334635020946720</id>
-    <title>like guys see the vision 😭 #uggs #pinterest </title>
-    <updated>2024-10-05T16:49:17+00:00</updated>
-    <content>like guys see the vision 😭 #uggs #pinterest </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7422334635020946720"/>
-    <published>2024-10-05T16:49:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7422334980313074976</id>
     <title>outfit check:) #ootd #pinkhair </title>
@@ -259,6 +243,22 @@
     <content>this trend is so cute :( </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7425649744875113761"/>
     <published>2024-10-14T15:13:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7425977982042246432</id>
+    <title>it's kinda funny #mh #mentalhealth </title>
+    <updated>2024-10-15T12:27:24+00:00</updated>
+    <content>it's kinda funny #mh #mentalhealth </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7425977982042246432"/>
+    <published>2024-10-15T12:27:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7425978746898763041</id>
+    <title>EVERY SINGLE LINE #swiftie #taylorswift </title>
+    <updated>2024-10-15T12:30:22+00:00</updated>
+    <content>EVERY SINGLE LINE #swiftie #taylorswift </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7425978746898763041"/>
+    <published>2024-10-15T12:30:22+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
