@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tallywyteee</id>
   <title>tallywyteee</title>
-  <updated>2024-10-10T18:31:41+00:00</updated>
+  <updated>2024-10-15T16:47:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tallywyteee</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tallywyteee/video/7381189496475274527</id>
-    <title>Why would homie ask me such a ridiculous question? 😭 #trans #transgirl #transgender #transwoman #transandproud </title>
-    <updated>2024-06-16T19:45:25+00:00</updated>
-    <content>Why would homie ask me such a ridiculous question? 😭 #trans #transgirl #transgender #transwoman #transandproud </content>
-    <link href="https://tiktok.com/@tallywyteee/video/7381189496475274527"/>
-    <published>2024-06-16T19:45:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7382686160700673310</id>
     <title>That would lowkey be funny af… 👀💙 #trans #transgirl #transandproud #transwoman #transgender </title>
@@ -251,6 +243,14 @@
     <content>Can you believe homie fell out of his seat after hearing my voice? 😂👀🪑</content>
     <link href="https://tiktok.com/@tallywyteee/video/7424216454800674091"/>
     <published>2024-10-10T18:31:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tallywyteee/video/7426044984312352030</id>
+    <title>Bro didn’t care about my transgender voice 💀</title>
+    <updated>2024-10-15T16:47:24+00:00</updated>
+    <content>Bro didn’t care about my transgender voice 💀</content>
+    <link href="https://tiktok.com/@tallywyteee/video/7426044984312352030"/>
+    <published>2024-10-15T16:47:24+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7261699619762048298</id>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-10-15T13:00:00+00:00</updated>
+  <updated>2024-10-15T17:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7418564785098198304</id>
-    <title>making all the puppies bark #vtuber</title>
-    <updated>2024-09-25T18:00:00+00:00</updated>
-    <content>making all the puppies bark #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7418564785098198304"/>
-    <published>2024-09-25T18:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7418565032511835425</id>
     <title>i will think for you puppy #vtuber</title>
@@ -275,6 +267,14 @@
     <content>when you are lagging in real life #vtuber</content>
     <link href="https://tiktok.com/@nyaravt/video/7425976323836874017"/>
     <published>2024-10-15T13:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7425990950331239712</id>
+    <title>i can be dominant i swear #vtuber</title>
+    <updated>2024-10-15T17:00:00+00:00</updated>
+    <content>i can be dominant i swear #vtuber</content>
+    <link href="https://tiktok.com/@nyaravt/video/7425990950331239712"/>
+    <published>2024-10-15T17:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>
