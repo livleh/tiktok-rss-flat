@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-10-16T01:50:49+00:00</updated>
+  <updated>2024-10-16T15:14:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7418710139739393310</id>
-    <title>nobody wants this stuff #techie #softwareengineer #zuckerberg #meta #programmerlife #techroastshow</title>
-    <updated>2024-09-25T22:24:34+00:00</updated>
-    <content>nobody wants this stuff #techie #softwareengineer #zuckerberg #meta #programmerlife #techroastshow</content>
-    <link href="https://tiktok.com/@techroastshow/video/7418710139739393310"/>
-    <published>2024-09-25T22:24:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7419144024881155359</id>
     <title>still can’t buy a house in the bay area  #techie #softwareengineer #siliconvalley #sanfrancisco #bayarea #comedy #funny #developerlife #programmerlife</title>
@@ -267,6 +259,14 @@
     <content>cybertrash #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</content>
     <link href="https://tiktok.com/@techroastshow/video/7426185013600800030"/>
     <published>2024-10-16T01:50:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7426392111563459871</id>
+    <title>she goes to another school  #techie #softwareengineer #india #programmerlife #roastbattle #darkhumor #techroastshow</title>
+    <updated>2024-10-16T15:14:41+00:00</updated>
+    <content>she goes to another school  #techie #softwareengineer #india #programmerlife #roastbattle #darkhumor #techroastshow</content>
+    <link href="https://tiktok.com/@techroastshow/video/7426392111563459871"/>
+    <published>2024-10-16T15:14:41+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
