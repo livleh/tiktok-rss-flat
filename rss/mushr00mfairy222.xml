@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-10-16T13:22:15+00:00</updated>
+  <updated>2024-10-16T16:12:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7422725844545621281</id>
-    <title>like ok? 😭👩‍❤️‍💋‍👩 #lesbian #wlw #lgbt #lgbtq </title>
-    <updated>2024-10-06T18:07:22+00:00</updated>
-    <content>like ok? 😭👩‍❤️‍💋‍👩 #lesbian #wlw #lgbt #lgbtq </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7422725844545621281"/>
-    <published>2024-10-06T18:07:22+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7423057931349921057</id>
-    <title>why's it blank?? #wlw #chappellroan </title>
-    <updated>2024-10-07T15:36:06+00:00</updated>
-    <content>why's it blank?? #wlw #chappellroan </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7423057931349921057"/>
-    <published>2024-10-07T15:36:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7423083092681805088</id>
     <title>new hello kitty primark finds #primarkhellokitty #sanrio #hellokitty </title>
@@ -259,6 +243,22 @@
     <content>outfit check!! @Bee 💚 #ootd #pinkhair #purplehair #outfitcheck #alt #kawaii #coquette #indie #y2k </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7426363184254160160"/>
     <published>2024-10-16T13:22:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7426406400475073824</id>
+    <title>this is so cute :( #filter #trend #game </title>
+    <updated>2024-10-16T16:09:50+00:00</updated>
+    <content>this is so cute :( #filter #trend #game </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7426406400475073824"/>
+    <published>2024-10-16T16:09:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7426406983131024673</id>
+    <title>like thanks thats the goal #lesbian #wlw #lgbt #lgbtq </title>
+    <updated>2024-10-16T16:12:05+00:00</updated>
+    <content>like thanks thats the goal #lesbian #wlw #lgbt #lgbtq </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7426406983131024673"/>
+    <published>2024-10-16T16:12:05+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
