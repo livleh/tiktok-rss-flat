@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@runetsout</id>
   <title>runetsout</title>
-  <updated>2024-10-15T11:53:09+00:00</updated>
+  <updated>2024-10-16T20:59:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from runetsout</subtitle>
-  <entry>
-    <id>https://tiktok.com/@runetsout/video/7313656227311996192</id>
-    <title>On the second day my Swiss neighbor told me off for walking too heavily 🫠 #switzerland #spain #zurich #barcelona #immigrant </title>
-    <updated>2023-12-17T20:01:46+00:00</updated>
-    <content>On the second day my Swiss neighbor told me off for walking too heavily 🫠 #switzerland #spain #zurich #barcelona #immigrant </content>
-    <link href="https://tiktok.com/@runetsout/video/7313656227311996192"/>
-    <published>2023-12-17T20:01:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@runetsout/video/7321483338437479713</id>
     <title>Starbucks for the rich is not what you would expect 😅 #us #usavseurope #starbucks #newyork </title>
@@ -267,6 +259,14 @@
     <content>Some other things that shocked me: 1. You can not buy just one parrot or a fish as they are social animals and the law says you need to get min 2 animals. 2. If you make noise your neighbors most probably will directly call the police without trying to sp</content>
     <link href="https://tiktok.com/@runetsout/video/7425969173303414049"/>
     <published>2024-10-15T11:53:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@runetsout/video/7426481151608392993</id>
+    <title>Useful tools to find a job with relocation in Switzerland: 1. Aupair.com - mostly babysitters, and you will be living with a host family  2. Noborders.io - tech roles from companies that relocate people from abroad  3. SwissDevJobs.ch - there is a filter </title>
+    <updated>2024-10-16T20:59:53+00:00</updated>
+    <content>Useful tools to find a job with relocation in Switzerland: 1. Aupair.com - mostly babysitters, and you will be living with a host family  2. Noborders.io - tech roles from companies that relocate people from abroad  3. SwissDevJobs.ch - there is a filter </content>
+    <link href="https://tiktok.com/@runetsout/video/7426481151608392993"/>
+    <published>2024-10-16T20:59:53+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@runetsout/video/7174788628042779910</id>
