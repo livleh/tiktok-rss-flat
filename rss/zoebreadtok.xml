@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-10-15T17:30:16+00:00</updated>
+  <updated>2024-10-16T17:18:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -227,6 +227,14 @@
     <content>its a beautiful place for a bank, i much prefer it to the high street</content>
     <link href="https://tiktok.com/@zoebreadtok/video/7426056013989645600"/>
     <published>2024-10-15T17:30:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7426424066787101985</id>
+    <title>planet ice brownies badge at planet ice on planet earth </title>
+    <updated>2024-10-16T17:18:21+00:00</updated>
+    <content>planet ice brownies badge at planet ice on planet earth </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7426424066787101985"/>
+    <published>2024-10-16T17:18:21+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7391078276183215392</id>

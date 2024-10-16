@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-10-16T16:12:05+00:00</updated>
+  <updated>2024-10-16T16:46:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7423083092681805088</id>
-    <title>new hello kitty primark finds #primarkhellokitty #sanrio #hellokitty </title>
-    <updated>2024-10-07T17:13:41+00:00</updated>
-    <content>new hello kitty primark finds #primarkhellokitty #sanrio #hellokitty </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7423083092681805088"/>
-    <published>2024-10-07T17:13:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7423084565402520865</id>
     <title>another one cause i love my bright pink hair :) #pinkhair #dyedhair #hairtransition </title>
@@ -259,6 +251,14 @@
     <content>like thanks thats the goal #lesbian #wlw #lgbt #lgbtq </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7426406983131024673"/>
     <published>2024-10-16T16:12:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7426415826057563424</id>
+    <title>day in the life vlog @Bee 💚 #dayinthelife #vlog </title>
+    <updated>2024-10-16T16:46:22+00:00</updated>
+    <content>day in the life vlog @Bee 💚 #dayinthelife #vlog </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7426415826057563424"/>
+    <published>2024-10-16T16:46:22+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
