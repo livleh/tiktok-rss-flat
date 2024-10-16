@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@__elfie___</id>
   <title>__elfie___</title>
-  <updated>2024-09-27T12:35:32+00:00</updated>
+  <updated>2024-10-16T10:00:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from __elfie___</subtitle>
-  <entry>
-    <id>https://tiktok.com/@__elfie___/video/7256661523903352066</id>
-    <title>This fucking fiiiiit 😩 #fypシ #darkfashion #altfashion #altclothing #altmodel #darkwear #goth #thighhighs </title>
-    <updated>2023-07-17T05:52:58+00:00</updated>
-    <content>This fucking fiiiiit 😩 #fypシ #darkfashion #altfashion #altclothing #altmodel #darkwear #goth #thighhighs </content>
-    <link href="https://tiktok.com/@__elfie___/video/7256661523903352066"/>
-    <published>2023-07-17T05:52:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@__elfie___/video/7261419735558950146</id>
     <title>I miss this fit 💜🖤 #fypシ #darkfashion #darkwear #altclothes #altfashion #altmodel </title>
@@ -219,6 +211,14 @@
     <content>New Hair Colour 🦋 #lifeisstrange #chloeprice #elfears #elf #althair #fypシ゚ </content>
     <link href="https://tiktok.com/@__elfie___/video/7419300577647054087"/>
     <published>2024-09-27T12:35:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@__elfie___/video/7426311317478182152</id>
+    <title>Just a casual spring fit check 🌻 #fypシ #elfears #tattoos #boho #alternative </title>
+    <updated>2024-10-16T10:00:49+00:00</updated>
+    <content>Just a casual spring fit check 🌻 #fypシ #elfears #tattoos #boho #alternative </content>
+    <link href="https://tiktok.com/@__elfie___/video/7426311317478182152"/>
+    <published>2024-10-16T10:00:49+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@__elfie___/video/7015763965712059650</id>
