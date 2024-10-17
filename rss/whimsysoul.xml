@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-10-15T03:46:18+00:00</updated>
+  <updated>2024-10-17T01:59:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7417542564716350763</id>
-    <title>such a life saver!! Just ask the front desk for a sewing kit, it's free and most (good) hotels will have one! #sewingkit #travelhack #traveltip #travellife #traveling #hotels #sewingtiktok </title>
-    <updated>2024-09-22T18:53:35+00:00</updated>
-    <content>such a life saver!! Just ask the front desk for a sewing kit, it's free and most (good) hotels will have one! #sewingkit #travelhack #traveltip #travellife #traveling #hotels #sewingtiktok </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7417542564716350763"/>
-    <published>2024-09-22T18:53:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7417995184870395182</id>
     <title>they win at Halloween! 🎃This pumpkin farm in California goes ALL out for Halloween and I'm so here for it. And their 2024 opening day is the last weekend of September (this weekend!!! EKK!!)  📍 @thespinafarmspumpkinpatch in the South Bay has DINOSAURS 🦖 j</title>
@@ -251,6 +243,14 @@
     <content>fall magic does exist 🍁 ✨  Just got back from Stowe, Vermont and it's everything I hoped for and more.  Cool hotels, an adorable downtown, great coffee shops, cider, maple farm stands, gondolas, fall foliage and more. 👏  Add Stowe to your bucket list and </content>
     <link href="https://tiktok.com/@whimsysoul/video/7425843718013357355"/>
     <published>2024-10-15T03:46:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7426558318224624939</id>
+    <title>Epic Halloween train ride in California!!! 🚂 i swear this healed my inner child.  Roaring Camp has a special Thomas the Tank Engine train ride through the Redwoods every October, but only for the month of October and only on weekends as a special event fo</title>
+    <updated>2024-10-17T01:59:17+00:00</updated>
+    <content>Epic Halloween train ride in California!!! 🚂 i swear this healed my inner child.  Roaring Camp has a special Thomas the Tank Engine train ride through the Redwoods every October, but only for the month of October and only on weekends as a special event fo</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7426558318224624939"/>
+    <published>2024-10-17T01:59:17+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
