@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@andreasfashiongalaxy</id>
   <title>andreasfashiongalaxy</title>
-  <updated>2024-10-15T20:03:20+00:00</updated>
+  <updated>2024-10-17T20:00:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -259,5 +259,13 @@
     <content>How to style this vintage cardigan in an exciting way #letsgetdressed</content>
     <link href="https://tiktok.com/@andreasfashiongalaxy/video/7426095482608438561"/>
     <published>2024-10-15T20:03:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@andreasfashiongalaxy/video/7426836922959400225</id>
+    <title>How to style a vintage longline vest #letsgetdressed </title>
+    <updated>2024-10-17T20:00:27+00:00</updated>
+    <content>How to style a vintage longline vest #letsgetdressed </content>
+    <link href="https://tiktok.com/@andreasfashiongalaxy/video/7426836922959400225"/>
+    <published>2024-10-17T20:00:27+00:00</published>
   </entry>
 </feed>
