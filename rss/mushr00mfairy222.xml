@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-10-16T16:46:22+00:00</updated>
+  <updated>2024-10-17T16:32:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7423084565402520865</id>
-    <title>another one cause i love my bright pink hair :) #pinkhair #dyedhair #hairtransition </title>
-    <updated>2024-10-07T17:19:26+00:00</updated>
-    <content>another one cause i love my bright pink hair :) #pinkhair #dyedhair #hairtransition </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7423084565402520865"/>
-    <published>2024-10-07T17:19:26+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7423426483793743136</id>
-    <title>HAPPY INTERNATIONAL LESBIAN DAY #lesbian #wlw #nmlnm #lgbt #lgbtq </title>
-    <updated>2024-10-08T15:26:15+00:00</updated>
-    <content>HAPPY INTERNATIONAL LESBIAN DAY #lesbian #wlw #nmlnm #lgbt #lgbtq </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7423426483793743136"/>
-    <published>2024-10-08T15:26:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7423439294917856545</id>
     <title>some lesbian history! #lesbian #wlw #nmlnm #lgbt #lgbtq </title>
@@ -259,6 +243,22 @@
     <content>day in the life vlog @Bee 💚 #dayinthelife #vlog </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7426415826057563424"/>
     <published>2024-10-16T16:46:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7426782094384188704</id>
+    <title>not very mysterious 😔 #ootd #pinkhair #mh #mentalhealth </title>
+    <updated>2024-10-17T16:27:41+00:00</updated>
+    <content>not very mysterious 😔 #ootd #pinkhair #mh #mentalhealth </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7426782094384188704"/>
+    <published>2024-10-17T16:27:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7426783337445854496</id>
+    <title>its a hidden rule #pinkhair #dyedhair #colouredhair #coloredhair </title>
+    <updated>2024-10-17T16:32:31+00:00</updated>
+    <content>its a hidden rule #pinkhair #dyedhair #colouredhair #coloredhair </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7426783337445854496"/>
+    <published>2024-10-17T16:32:31+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
