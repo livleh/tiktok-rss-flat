@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-10-17T12:49:39+00:00</updated>
+  <updated>2024-10-17T17:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7420791875356970272</id>
-    <title>teaching valorant players about pronouns #trans</title>
-    <updated>2024-10-01T13:02:39+00:00</updated>
-    <content>teaching valorant players about pronouns #trans</content>
-    <link href="https://tiktok.com/@nyaravt/video/7420791875356970272"/>
-    <published>2024-10-01T13:02:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7420802706828283169</id>
     <title>why women avoid voice chat #valorant</title>
@@ -275,6 +267,14 @@
     <content>I will never speak again #vtuber</content>
     <link href="https://tiktok.com/@nyaravt/video/7426725900563025185"/>
     <published>2024-10-17T12:49:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7426734045423340832</id>
+    <title>I'm not the smartest fox #vtuber</title>
+    <updated>2024-10-17T17:00:00+00:00</updated>
+    <content>I'm not the smartest fox #vtuber</content>
+    <link href="https://tiktok.com/@nyaravt/video/7426734045423340832"/>
+    <published>2024-10-17T17:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>

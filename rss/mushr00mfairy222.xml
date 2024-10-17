@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-10-17T16:32:31+00:00</updated>
+  <updated>2024-10-17T17:08:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7423439294917856545</id>
-    <title>some lesbian history! #lesbian #wlw #nmlnm #lgbt #lgbtq </title>
-    <updated>2024-10-08T16:15:57+00:00</updated>
-    <content>some lesbian history! #lesbian #wlw #nmlnm #lgbt #lgbtq </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7423439294917856545"/>
-    <published>2024-10-08T16:15:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7423449681037888800</id>
     <title>lesbian songs for lesbian day 👩‍❤️‍💋‍👩❤️🧡🤍🩷💜 #lesbian #wlw #nmlnm #lgbt #lgbtq </title>
@@ -259,6 +251,14 @@
     <content>its a hidden rule #pinkhair #dyedhair #colouredhair #coloredhair </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7426783337445854496"/>
     <published>2024-10-17T16:32:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7426792512632704288</id>
+    <title>rest in peace ❤️‍🩹 check in on your friends!! #mentalhealth #mh </title>
+    <updated>2024-10-17T17:08:08+00:00</updated>
+    <content>rest in peace ❤️‍🩹 check in on your friends!! #mentalhealth #mh </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7426792512632704288"/>
+    <published>2024-10-17T17:08:08+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>

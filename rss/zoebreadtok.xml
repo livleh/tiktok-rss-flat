@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-10-16T17:18:21+00:00</updated>
+  <updated>2024-10-17T17:20:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7409735807155719457</id>
-    <title>78 classic minis at the mini cars and coffee meet up thing </title>
-    <updated>2024-09-01T17:59:33+00:00</updated>
-    <content>78 classic minis at the mini cars and coffee meet up thing </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7409735807155719457"/>
-    <published>2024-09-01T17:59:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7410471845880728864</id>
     <title>i am in space so it might take me longer to reply to comments, signal aint great up here </title>
@@ -235,6 +227,14 @@
     <content>planet ice brownies badge at planet ice on planet earth </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7426424066787101985"/>
     <published>2024-10-16T17:18:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7426795775776034081</id>
+    <title>free piece of paper with every wee </title>
+    <updated>2024-10-17T17:20:45+00:00</updated>
+    <content>free piece of paper with every wee </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7426795775776034081"/>
+    <published>2024-10-17T17:20:45+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7391078276183215392</id>
