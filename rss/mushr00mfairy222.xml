@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-10-18T10:08:43+00:00</updated>
+  <updated>2024-10-18T12:38:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7423817533393767712</id>
-    <title>THIS SONG OWNS MY SOUL #gracieabrams #secretofus </title>
-    <updated>2024-10-09T16:43:41+00:00</updated>
-    <content>THIS SONG OWNS MY SOUL #gracieabrams #secretofus </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7423817533393767712"/>
-    <published>2024-10-09T16:43:41+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7423829253583686944</id>
-    <title>trauma therapy and hoping for the best 😭 #mh #mentalhealth </title>
-    <updated>2024-10-09T17:29:12+00:00</updated>
-    <content>trauma therapy and hoping for the best 😭 #mh #mentalhealth </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7423829253583686944"/>
-    <published>2024-10-09T17:29:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7423829403081198881</id>
     <title>MY HEART STOPS #piercing #piercings </title>
@@ -259,6 +243,22 @@
     <content>the weird piercings and 3 massive moles hello? 😭 #capcut #trend #filter #CapCut </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7427055479660088608"/>
     <published>2024-10-18T10:08:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7427078568645020961</id>
+    <title>THE BOLTER &gt;&gt; #ootd #outfitcheck</title>
+    <updated>2024-10-18T11:38:11+00:00</updated>
+    <content>THE BOLTER &gt;&gt; #ootd #outfitcheck</content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7427078568645020961"/>
+    <published>2024-10-18T11:38:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7427094218541157664</id>
+    <title>like ill blast sad songs #swiftie #mh #mentalhealth </title>
+    <updated>2024-10-18T12:38:56+00:00</updated>
+    <content>like ill blast sad songs #swiftie #mh #mentalhealth </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7427094218541157664"/>
+    <published>2024-10-18T12:38:56+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
