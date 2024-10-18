@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-10-17T01:59:17+00:00</updated>
+  <updated>2024-10-18T01:36:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7417995184870395182</id>
-    <title>they win at Halloween! 🎃This pumpkin farm in California goes ALL out for Halloween and I'm so here for it. And their 2024 opening day is the last weekend of September (this weekend!!! EKK!!)  📍 @thespinafarmspumpkinpatch in the South Bay has DINOSAURS 🦖 j</title>
-    <updated>2024-09-24T00:09:58+00:00</updated>
-    <content>they win at Halloween! 🎃This pumpkin farm in California goes ALL out for Halloween and I'm so here for it. And their 2024 opening day is the last weekend of September (this weekend!!! EKK!!)  📍 @thespinafarmspumpkinpatch in the South Bay has DINOSAURS 🦖 j</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7417995184870395182"/>
-    <published>2024-09-24T00:09:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7418296188635663662</id>
     <title>Cow Cuddling in the Bay Area!! 🐄🐄 Yes, this is a thing and it’s SO much fun!! Bay Area Cows /  Sri Surabhi Go Ksetra is a cow sanctuary located in Pleasanton Tri Valley area. @Visit Tri-Valley They rescue Gir cows from Mexico and give them pampered, happy</title>
@@ -251,6 +243,22 @@
     <content>Epic Halloween train ride in California!!! 🚂 i swear this healed my inner child.  Roaring Camp has a special Thomas the Tank Engine train ride through the Redwoods every October, but only for the month of October and only on weekends as a special event fo</content>
     <link href="https://tiktok.com/@whimsysoul/video/7426558318224624939"/>
     <published>2024-10-17T01:59:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7426906905991220522</id>
+    <title>Hocus Pocus filming spots ⬇️ I went to Salem last week to find all the IRL Hocus Pocus filming spots!! I had so much fun running around with the girls screaming "Thackery Binx" and being goofy. 🐈‍⬛🕯️ If you want a list with ALL the filming locations, find</title>
+    <updated>2024-10-18T00:31:58+00:00</updated>
+    <content>Hocus Pocus filming spots ⬇️ I went to Salem last week to find all the IRL Hocus Pocus filming spots!! I had so much fun running around with the girls screaming "Thackery Binx" and being goofy. 🐈‍⬛🕯️ If you want a list with ALL the filming locations, find</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7426906905991220522"/>
+    <published>2024-10-18T00:31:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7426923399160614190</id>
+    <title>Replying to @Kara | travel girlie now that's a glow up 🥵 #hocuspocus </title>
+    <updated>2024-10-18T01:36:00+00:00</updated>
+    <content>Replying to @Kara | travel girlie now that's a glow up 🥵 #hocuspocus </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7426923399160614190"/>
+    <published>2024-10-18T01:36:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
