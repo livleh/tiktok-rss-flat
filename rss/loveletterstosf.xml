@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2024-10-12T18:48:57+00:00</updated>
+  <updated>2024-10-18T18:38:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from loveletterstosf</subtitle>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7400951779728379178</id>
-    <title>Loved checking out Holbrook House, a restaurant and bar downtown that has coffee &amp; pastries during the day and caviar, martinis and champagne at night. Shout out to the @Yelp Bay Area team for hosting such a great event for the #sffoodies! #sfdowntown #sf</title>
-    <updated>2024-08-09T01:52:53+00:00</updated>
-    <content>Loved checking out Holbrook House, a restaurant and bar downtown that has coffee &amp; pastries during the day and caviar, martinis and champagne at night. Shout out to the @Yelp Bay Area team for hosting such a great event for the #sffoodies! #sfdowntown #sf</content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7400951779728379178"/>
-    <published>2024-08-09T01:52:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7402462567748095274</id>
     <title>you can see how windy it is from the sand in the beginning #sf #sfsunset #crissyfield #august #ggbridge </title>
@@ -235,6 +227,14 @@
     <content>#fleetweek #fleetweeksf #blueangels #sf </content>
     <link href="https://tiktok.com/@loveletterstosf/video/7424963075112963371"/>
     <published>2024-10-12T18:48:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7427186939901513002</id>
+    <title>almost didnt post but better late than never lol #sftok #sfevents #thingstodoinsf #sfmovienight #downtownsf #sfmusic #blockparty </title>
+    <updated>2024-10-18T18:38:41+00:00</updated>
+    <content>almost didnt post but better late than never lol #sftok #sfevents #thingstodoinsf #sfmovienight #downtownsf #sfmusic #blockparty </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7427186939901513002"/>
+    <published>2024-10-18T18:38:41+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7421785235462933803</id>
