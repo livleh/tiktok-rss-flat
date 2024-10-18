@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-10-18T14:32:32+00:00</updated>
+  <updated>2024-10-18T18:16:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7418651519555407150</id>
-    <title>Rare chance to photograph in a vineyard at sunset!! Usually vineyards close around 5pm and I never get a chance to make content there during sunset or golden hour.  While on a media trip to Tri Valley this week, I was at a winemakers dinner a Murrieta's W</title>
-    <updated>2024-09-25T18:36:57+00:00</updated>
-    <content>Rare chance to photograph in a vineyard at sunset!! Usually vineyards close around 5pm and I never get a chance to make content there during sunset or golden hour.  While on a media trip to Tri Valley this week, I was at a winemakers dinner a Murrieta's W</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7418651519555407150"/>
-    <published>2024-09-25T18:36:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7419422741637385514</id>
     <title>Best WFH coffee shop / bar in San Francisco!! Meet up with some friends for a post-work happy hour at The Social Study in the Fillmore. Love the decor and their cocktail menu. Check this place out!!  #sanfrancisco #sanfranciscolife #wfh #remotework #sanfr</title>
@@ -259,6 +251,14 @@
     <content>it's not very good but sure is a vibe 😂 when in New England you gotta eat tons of seafood right? #martini #lobster #newengland #lobstermartini #salem #salemmassachusetts #salemrestaurants #whimsysoul @Brianna Ramirez | SJ Realtor </content>
     <link href="https://tiktok.com/@whimsysoul/video/7427123495777127723"/>
     <published>2024-10-18T14:32:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7427181291881172267</id>
+    <title>It's fine everything is just fine #millennial #nails #nailtech #manicure #anxiety #millennialsbelike #millennialanxiety </title>
+    <updated>2024-10-18T18:16:49+00:00</updated>
+    <content>It's fine everything is just fine #millennial #nails #nailtech #manicure #anxiety #millennialsbelike #millennialanxiety </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7427181291881172267"/>
+    <published>2024-10-18T18:16:49+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
