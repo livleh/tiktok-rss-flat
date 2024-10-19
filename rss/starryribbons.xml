@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@starryribbons</id>
   <title>starryribbons</title>
-  <updated>2024-10-19T18:08:35+00:00</updated>
+  <updated>2024-10-19T18:40:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from starryribbons</subtitle>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7402731901359901985</id>
-    <title>I‘m so confused on if I put two f‘s on the off #digitaldiary #coquetteaesthetic #roomdecoration #aesthetic #roominspo #kpop </title>
-    <updated>2024-08-13T21:00:38+00:00</updated>
-    <content>I‘m so confused on if I put two f‘s on the off #digitaldiary #coquetteaesthetic #roomdecoration #aesthetic #roominspo #kpop </content>
-    <link href="https://tiktok.com/@starryribbons/video/7402731901359901985"/>
-    <published>2024-08-13T21:00:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7405286274480770336</id>
     <title>wasn’t planning on posting this, but there u go #digitaldiary #coquetteaesthetic #outfitoftheweek #beach #wlw #aesthetic </title>
@@ -259,6 +251,14 @@
     <content>aksesorizing #coquettecore #digitaldiary #femmelesbian #outfitoftheweek #shoujo #wlw #aesthetic </content>
     <link href="https://tiktok.com/@starryribbons/video/7427550266498518304"/>
     <published>2024-10-19T18:08:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7427558440228195617</id>
+    <title>me and my 143 thousand charms bracelets necklaces and keychains against the world #coquettecore #digitaldiary #kpop #straykids #wlw #charms #shoujo #bag </title>
+    <updated>2024-10-19T18:40:21+00:00</updated>
+    <content>me and my 143 thousand charms bracelets necklaces and keychains against the world #coquettecore #digitaldiary #kpop #straykids #wlw #charms #shoujo #bag </content>
+    <link href="https://tiktok.com/@starryribbons/video/7427558440228195617"/>
+    <published>2024-10-19T18:40:21+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7285761406664854817</id>
