@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-10-18T18:16:49+00:00</updated>
+  <updated>2024-10-19T00:31:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7419422741637385514</id>
-    <title>Best WFH coffee shop / bar in San Francisco!! Meet up with some friends for a post-work happy hour at The Social Study in the Fillmore. Love the decor and their cocktail menu. Check this place out!!  #sanfrancisco #sanfranciscolife #wfh #remotework #sanfr</title>
-    <updated>2024-09-27T20:29:36+00:00</updated>
-    <content>Best WFH coffee shop / bar in San Francisco!! Meet up with some friends for a post-work happy hour at The Social Study in the Fillmore. Love the decor and their cocktail menu. Check this place out!!  #sanfrancisco #sanfranciscolife #wfh #remotework #sanfr</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7419422741637385514"/>
-    <published>2024-09-27T20:29:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7419435695179091242</id>
     <title>Curvy girl @Sézane ootn for their 2-year anniversary in San Francisco!!  🔗 outfit on LTK  Despite being a French brand, Sezane actually fits my curves so well. I've been obsessed with their pieces ever since they opened in San Francisco -- amazing staples</title>
@@ -259,6 +251,14 @@
     <content>It's fine everything is just fine #millennial #nails #nailtech #manicure #anxiety #millennialsbelike #millennialanxiety </content>
     <link href="https://tiktok.com/@whimsysoul/video/7427181291881172267"/>
     <published>2024-10-18T18:16:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7427277878305246507</id>
+    <title>snapshots from New England 🍁❤️  Boston &gt; Conway &gt; Kancamagus &gt; St.  Johnsbury &gt;  Greensboro &gt; Stowe &gt; Woodstock &gt; Salem  If you need a sign to do a girls fall trip next year, this it is. 🍁 Link in bio for my Stowe, Vermont travel guide! Look for this imag</title>
+    <updated>2024-10-19T00:31:33+00:00</updated>
+    <content>snapshots from New England 🍁❤️  Boston &gt; Conway &gt; Kancamagus &gt; St.  Johnsbury &gt;  Greensboro &gt; Stowe &gt; Woodstock &gt; Salem  If you need a sign to do a girls fall trip next year, this it is. 🍁 Link in bio for my Stowe, Vermont travel guide! Look for this imag</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7427277878305246507"/>
+    <published>2024-10-19T00:31:33+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
