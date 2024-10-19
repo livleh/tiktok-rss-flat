@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-10-19T17:11:10+00:00</updated>
+  <updated>2024-10-19T18:17:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7424150693981719841</id>
-    <title>@Michael Aldag CANT WAIT TO SEE YOU AGAIN #concert #pinkhair </title>
-    <updated>2024-10-10T14:16:30+00:00</updated>
-    <content>@Michael Aldag CANT WAIT TO SEE YOU AGAIN #concert #pinkhair </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7424150693981719841"/>
-    <published>2024-10-10T14:16:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7424532804307782945</id>
     <title>just jokes (😟😟) #mh #mentalhealth </title>
@@ -259,6 +251,14 @@
     <content>this trend!!</content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7427535471414103328"/>
     <published>2024-10-19T17:11:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7427552571763559712</id>
+    <title>hello kitty cafe and a yap #hellokitty #hellokittycafe #sanrio </title>
+    <updated>2024-10-19T18:17:31+00:00</updated>
+    <content>hello kitty cafe and a yap #hellokitty #hellokittycafe #sanrio </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7427552571763559712"/>
+    <published>2024-10-19T18:17:31+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>

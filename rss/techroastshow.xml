@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-10-18T04:35:39+00:00</updated>
+  <updated>2024-10-19T18:24:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7419436964849421598</id>
-    <title>you have to sound important while playing it cool  #techie #softwareengineer #siliconvalley #sanfrancisco #CEO #linkedin #techroastshow </title>
-    <updated>2024-09-27T21:24:52+00:00</updated>
-    <content>you have to sound important while playing it cool  #techie #softwareengineer #siliconvalley #sanfrancisco #CEO #linkedin #techroastshow </content>
-    <link href="https://tiktok.com/@techroastshow/video/7419436964849421598"/>
-    <published>2024-09-27T21:24:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7419710898643733790</id>
     <title>full special available now!  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </title>
@@ -267,6 +259,14 @@
     <content>he’s really humble too #techie #forbes #30under30 #founder #darkhumor #techroastshow </content>
     <link href="https://tiktok.com/@techroastshow/video/7426969618327014687"/>
     <published>2024-10-18T04:35:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7427554421984283935</id>
+    <title>walking talking calendar  techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</title>
+    <updated>2024-10-19T18:24:56+00:00</updated>
+    <content>walking talking calendar  techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</content>
+    <link href="https://tiktok.com/@techroastshow/video/7427554421984283935"/>
+    <published>2024-10-19T18:24:56+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>

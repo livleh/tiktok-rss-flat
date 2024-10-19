@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-10-19T00:31:33+00:00</updated>
+  <updated>2024-10-19T18:14:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7420589788492877098</id>
-    <title>BAY AREA, if you love food trucks and great cocktails you need to check out the adorable airstream food truck at the @citizenM Menlo Park! ❤️🌭🍸 This spot is such a vibe, makes a perfect after-work happy hour place to soak up some sunshine, play cornhole, </title>
-    <updated>2024-09-30T23:58:23+00:00</updated>
-    <content>BAY AREA, if you love food trucks and great cocktails you need to check out the adorable airstream food truck at the @citizenM Menlo Park! ❤️🌭🍸 This spot is such a vibe, makes a perfect after-work happy hour place to soak up some sunshine, play cornhole, </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7420589788492877098"/>
-    <published>2024-09-30T23:58:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7420623386008702254</id>
     <title>you should always get up early while traveling! It's a must to actually enjoy tourist hot spots. Grab coffee and just goooo go goooo. Don't drag your feet and you'll get popular spots all to yourself! #travelhack #travellife #london #bigben #earlybird #en</title>
@@ -243,6 +235,14 @@
     <content>snapshots from New England 🍁❤️  Boston &gt; Conway &gt; Kancamagus &gt; St.  Johnsbury &gt;  Greensboro &gt; Stowe &gt; Woodstock &gt; Salem  If you need a sign to do a girls fall trip next year, this it is. 🍁 Link in bio for my Stowe, Vermont travel guide! Look for this imag</content>
     <link href="https://tiktok.com/@whimsysoul/video/7427277878305246507"/>
     <published>2024-10-19T00:31:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7427551726531562795</id>
+    <title>Replying to @Crystal9366 the best fall sweaters ever made #kieljamespatrick #fallsweaters #newengland #leafsweater #curvy #curvystyle #size14 #kjp #ltkseasonal #ltkfind #whimsysoul #stowevermont #vermont #fall @Kiel James Patrick </title>
+    <updated>2024-10-19T18:14:14+00:00</updated>
+    <content>Replying to @Crystal9366 the best fall sweaters ever made #kieljamespatrick #fallsweaters #newengland #leafsweater #curvy #curvystyle #size14 #kjp #ltkseasonal #ltkfind #whimsysoul #stowevermont #vermont #fall @Kiel James Patrick </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7427551726531562795"/>
+    <published>2024-10-19T18:14:14+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
