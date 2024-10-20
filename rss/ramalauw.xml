@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ramalauw</id>
   <title>ramalauw</title>
-  <updated>2024-10-07T16:36:27+00:00</updated>
+  <updated>2024-10-20T11:50:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ramalauw</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ramalauw/video/7390421873609166113</id>
-    <title>Wdym it's up to me to break the ✨generational tröoma✨? If my parents couldn't do it, how am I supposed to do it? 😭🤯🥵🤭 #Free99 </title>
-    <updated>2024-07-11T16:51:28+00:00</updated>
-    <content>Wdym it's up to me to break the ✨generational tröoma✨? If my parents couldn't do it, how am I supposed to do it? 😭🤯🥵🤭 #Free99 </content>
-    <link href="https://tiktok.com/@ramalauw/video/7390421873609166113"/>
-    <published>2024-07-11T16:51:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7392275457359580449</id>
     <title>This video is a little different but I just wanna be real and vulnerable with you guys for once 😔</title>
@@ -251,6 +243,14 @@
     <content>6 months later: “take me back 😫🤭🏝️🌈✨” #free99 #travel #traveling #traveltok #vacation #traveltips #fyp #foryou #tiktokusa </content>
     <link href="https://tiktok.com/@ramalauw/video/7423073494172208417"/>
     <published>2024-10-07T16:36:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ramalauw/video/7427824004733488416</id>
+    <title>When all you do is running away, but you keep finding yourself 🤡 Constantly having a flight booked and an @ubigiofficial eSIM active is a lifestyle only truly ✨burnt out✨ people like me can understand 🤭🥵🥹🫶 #Free99 #travel #traveling </title>
+    <updated>2024-10-20T11:50:53+00:00</updated>
+    <content>When all you do is running away, but you keep finding yourself 🤡 Constantly having a flight booked and an @ubigiofficial eSIM active is a lifestyle only truly ✨burnt out✨ people like me can understand 🤭🥵🥹🫶 #Free99 #travel #traveling </content>
+    <link href="https://tiktok.com/@ramalauw/video/7427824004733488416"/>
+    <published>2024-10-20T11:50:53+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7270903343638187297</id>
