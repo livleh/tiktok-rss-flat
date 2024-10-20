@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-10-20T13:27:05+00:00</updated>
+  <updated>2024-10-20T15:46:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7424545154284932385</id>
-    <title>also in my bio :) #neurodivergent #autism #adhd #mentalhealth </title>
-    <updated>2024-10-11T15:47:13+00:00</updated>
-    <content>also in my bio :) #neurodivergent #autism #adhd #mentalhealth </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7424545154284932385"/>
-    <published>2024-10-11T15:47:13+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7424549057508445472</id>
-    <title>who else does this 😭 #lgbt #lgbtq #wlw #lesbian </title>
-    <updated>2024-10-11T16:02:21+00:00</updated>
-    <content>who else does this 😭 #lgbt #lgbtq #wlw #lesbian </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7424549057508445472"/>
-    <published>2024-10-11T16:02:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7424555337371389216</id>
     <title>ep 2 is up!!! also in my bio :) #neurodivergent #autism #adhd #mentalhealth </title>
@@ -259,6 +243,22 @@
     <content>literally just cause im not a 5 year old boy #autism #autistic #neurodivergent </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7427848761776278816"/>
     <published>2024-10-20T13:27:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7427884172892507425</id>
+    <title>SEPTUM PIERCINGS ALWAYS LOOK GOOD #septum #septumpiercing #nosepiercing #piercing </title>
+    <updated>2024-10-20T15:44:18+00:00</updated>
+    <content>SEPTUM PIERCINGS ALWAYS LOOK GOOD #septum #septumpiercing #nosepiercing #piercing </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7427884172892507425"/>
+    <published>2024-10-20T15:44:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7427884664049716512</id>
+    <title>its so grey i can't #autumn #mentalhealth </title>
+    <updated>2024-10-20T15:46:15+00:00</updated>
+    <content>its so grey i can't #autumn #mentalhealth </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7427884664049716512"/>
+    <published>2024-10-20T15:46:15+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
