@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-10-08T21:55:31+00:00</updated>
+  <updated>2024-10-20T07:00:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7411268170952084768</id>
-    <title>Antwort auf @seitansbraten.comthe disrespect 😭😭😭 #datinglife </title>
-    <updated>2024-09-05T21:05:47+00:00</updated>
-    <content>Antwort auf @seitansbraten.comthe disrespect 😭😭😭 #datinglife </content>
-    <link href="https://tiktok.com/@tandarok/video/7411268170952084768"/>
-    <published>2024-09-05T21:05:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7411407379893325089</id>
     <title>Töte ✨ #twitchclips #twitchgermany #twitchde </title>
@@ -267,6 +259,14 @@
     <content>Du musst dir Liebe nicht erst verdienen  #dating #liebe </content>
     <link href="https://tiktok.com/@tandarok/video/7423526756075703585"/>
     <published>2024-10-08T21:55:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7427749026684046624</id>
+    <title>Welche Leserichtung ist richtig? #comics #lesen </title>
+    <updated>2024-10-20T07:00:04+00:00</updated>
+    <content>Welche Leserichtung ist richtig? #comics #lesen </content>
+    <link href="https://tiktok.com/@tandarok/video/7427749026684046624"/>
+    <published>2024-10-20T07:00:04+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
