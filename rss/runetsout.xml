@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@runetsout</id>
   <title>runetsout</title>
-  <updated>2024-10-16T20:59:53+00:00</updated>
+  <updated>2024-10-20T22:34:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from runetsout</subtitle>
-  <entry>
-    <id>https://tiktok.com/@runetsout/video/7321483338437479713</id>
-    <title>Starbucks for the rich is not what you would expect 😅 #us #usavseurope #starbucks #newyork </title>
-    <updated>2024-01-07T22:14:48+00:00</updated>
-    <content>Starbucks for the rich is not what you would expect 😅 #us #usavseurope #starbucks #newyork </content>
-    <link href="https://tiktok.com/@runetsout/video/7321483338437479713"/>
-    <published>2024-01-07T22:14:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@runetsout/video/7321836259419147552</id>
     <title>How did you find remore job? #remotework #remote #remotejobs #workfromhome #remotejobs2024 </title>
@@ -267,6 +259,14 @@
     <content>Useful tools to find a job with relocation in Switzerland: 1. Aupair.com - mostly babysitters, and you will be living with a host family  2. Noborders.io - tech roles from companies that relocate people from abroad  3. SwissDevJobs.ch - there is a filter </content>
     <link href="https://tiktok.com/@runetsout/video/7426481151608392993"/>
     <published>2024-10-16T20:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@runetsout/video/7427989741951372576</id>
+    <title>So don’t tell me Switzerland is expensive 😉 #switzerland #swissproblems #swissprices </title>
+    <updated>2024-10-20T22:34:14+00:00</updated>
+    <content>So don’t tell me Switzerland is expensive 😉 #switzerland #swissproblems #swissprices </content>
+    <link href="https://tiktok.com/@runetsout/video/7427989741951372576"/>
+    <published>2024-10-20T22:34:14+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@runetsout/video/7174788628042779910</id>
