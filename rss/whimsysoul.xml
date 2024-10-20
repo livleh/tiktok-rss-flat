@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-10-20T17:51:21+00:00</updated>
+  <updated>2024-10-20T20:05:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7422125183848238378</id>
-    <title>I'm in New England!!! 🍁 send me all your fall tips 👏 #newengland #vlog #whimsysoul #newhampshire #conwaynh #whitemountains #falltrip #autumn #travelvlog #boston #massachusetts #roadtrip #carryononly #sfo </title>
-    <updated>2024-10-05T03:16:29+00:00</updated>
-    <content>I'm in New England!!! 🍁 send me all your fall tips 👏 #newengland #vlog #whimsysoul #newhampshire #conwaynh #whitemountains #falltrip #autumn #travelvlog #boston #massachusetts #roadtrip #carryononly #sfo </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7422125183848238378"/>
-    <published>2024-10-05T03:16:29+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7422294461662743851</id>
-    <title>Replying to @Appaloosashoofprint it's weird but i like it 🎃 #pumpkinbeer #newengland #newhampshire </title>
-    <updated>2024-10-05T14:13:23+00:00</updated>
-    <content>Replying to @Appaloosashoofprint it's weird but i like it 🎃 #pumpkinbeer #newengland #newhampshire </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7422294461662743851"/>
-    <published>2024-10-05T14:13:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7422436779753704750</id>
     <title>Replying to @LLL sunrises only and then immediately away from fellow tourists ✌️ #newengland #newhampshire #vlog #whimsysoul #conwaynh #whitemountains #falltrip #autumn #kancamagushighway </title>
@@ -243,6 +227,22 @@
     <content>i will never stop being this person you can't make me 😂✨ #thenigoandspoilitall #travel #travelhumor #travellife #sfo #sanfrancisco #bayarea #sanfranciscolife #airport #airportlife #lol #relatable </content>
     <link href="https://tiktok.com/@whimsysoul/video/7427916908998987051"/>
     <published>2024-10-20T17:51:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7427950532456762667</id>
+    <title>not gonna film strangers but seriously questioning the chocies of a woman wearing tight skinny jeans on my San Francisco to Amsterdam flight rn #travellife #sfo #sanfrancisco #airportlife #airport #skinnyjeans </title>
+    <updated>2024-10-20T20:01:49+00:00</updated>
+    <content>not gonna film strangers but seriously questioning the chocies of a woman wearing tight skinny jeans on my San Francisco to Amsterdam flight rn #travellife #sfo #sanfrancisco #airportlife #airport #skinnyjeans </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7427950532456762667"/>
+    <published>2024-10-20T20:01:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7427951368477920554</id>
+    <title>why is it always middle age white man in sneakers on a Very Important Business Call and a lady dressed head to toe in designer for a long haul flight #businessclass #airport #sfo </title>
+    <updated>2024-10-20T20:05:04+00:00</updated>
+    <content>why is it always middle age white man in sneakers on a Very Important Business Call and a lady dressed head to toe in designer for a long haul flight #businessclass #airport #sfo </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7427951368477920554"/>
+    <published>2024-10-20T20:05:04+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
