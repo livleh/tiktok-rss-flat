@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-10-17T17:20:45+00:00</updated>
+  <updated>2024-10-20T17:17:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7410471845880728864</id>
-    <title>i am in space so it might take me longer to reply to comments, signal aint great up here </title>
-    <updated>2024-09-03T17:35:36+00:00</updated>
-    <content>i am in space so it might take me longer to reply to comments, signal aint great up here </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7410471845880728864"/>
-    <published>2024-09-03T17:35:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7410853320710966560</id>
     <title>thank you very much for the inspiration @Hannah Brackenbury </title>
@@ -235,6 +227,14 @@
     <content>free piece of paper with every wee </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7426795775776034081"/>
     <published>2024-10-17T17:20:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7427908069402643744</id>
+    <title>i didnt feel like going out side today and i had a packet of 4 melody pops lying around   </title>
+    <updated>2024-10-20T17:17:03+00:00</updated>
+    <content>i didnt feel like going out side today and i had a packet of 4 melody pops lying around   </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7427908069402643744"/>
+    <published>2024-10-20T17:17:03+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7391078276183215392</id>
