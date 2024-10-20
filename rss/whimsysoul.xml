@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-10-20T01:33:20+00:00</updated>
+  <updated>2024-10-20T17:51:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7422060039545949482</id>
-    <title>you ok Boston? How do get you  joy? Also the wine aisle equally as sad #boston #target </title>
-    <updated>2024-10-04T23:03:41+00:00</updated>
-    <content>you ok Boston? How do get you  joy? Also the wine aisle equally as sad #boston #target </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7422060039545949482"/>
-    <published>2024-10-04T23:03:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7422125183848238378</id>
     <title>I'm in New England!!! 🍁 send me all your fall tips 👏 #newengland #vlog #whimsysoul #newhampshire #conwaynh #whitemountains #falltrip #autumn #travelvlog #boston #massachusetts #roadtrip #carryononly #sfo </title>
@@ -243,6 +235,14 @@
     <content>Boston, why didn't you tell me you have the best airport lounge in the USA? I've been all over the country and haven't found a lounge I like as much at your Chase Sapphire lounge.  You can order food and drinks to your table!!!! And it's like good food, t</content>
     <link href="https://tiktok.com/@whimsysoul/video/7427664889348377899"/>
     <published>2024-10-20T01:33:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7427916908998987051</id>
+    <title>i will never stop being this person you can't make me 😂✨ #thenigoandspoilitall #travel #travelhumor #travellife #sfo #sanfrancisco #bayarea #sanfranciscolife #airport #airportlife #lol #relatable </title>
+    <updated>2024-10-20T17:51:21+00:00</updated>
+    <content>i will never stop being this person you can't make me 😂✨ #thenigoandspoilitall #travel #travelhumor #travellife #sfo #sanfrancisco #bayarea #sanfranciscolife #airport #airportlife #lol #relatable </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7427916908998987051"/>
+    <published>2024-10-20T17:51:21+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
