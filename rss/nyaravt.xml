@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-10-20T17:00:00+00:00</updated>
+  <updated>2024-10-21T13:03:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7422646024092568864</id>
-    <title>being too scared to leave the house w/ @van1llabeanz #vtuber</title>
-    <updated>2024-10-06T12:57:39+00:00</updated>
-    <content>being too scared to leave the house w/ @van1llabeanz #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7422646024092568864"/>
-    <published>2024-10-06T12:57:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7422646492571110689</id>
     <title>finally presenting feminine in public #trans</title>
@@ -275,6 +267,14 @@
     <content>giving off the same vibes as @tabbypac #valorant</content>
     <link href="https://tiktok.com/@nyaravt/video/7427855522658798880"/>
     <published>2024-10-20T17:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7428213740895587616</id>
+    <title>VTuber who sleeps in a dog bed #trans</title>
+    <updated>2024-10-21T13:03:14+00:00</updated>
+    <content>VTuber who sleeps in a dog bed #trans</content>
+    <link href="https://tiktok.com/@nyaravt/video/7428213740895587616"/>
+    <published>2024-10-21T13:03:14+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>
