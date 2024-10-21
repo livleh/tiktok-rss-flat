@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-10-20T10:00:47+00:00</updated>
+  <updated>2024-10-21T14:55:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7420083060785335582</id>
-    <title>nothing weird, totally normal stuff  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</title>
-    <updated>2024-09-29T15:12:10+00:00</updated>
-    <content>nothing weird, totally normal stuff  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</content>
-    <link href="https://tiktok.com/@techroastshow/video/7420083060785335582"/>
-    <published>2024-09-29T15:12:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7420212075265281310</id>
     <title>how is this guy senior  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</title>
@@ -267,6 +259,14 @@
     <content>they’re starry eyed  #techie #softwareengineer #programmerlife #intern #techintern #techroastshow </content>
     <link href="https://tiktok.com/@techroastshow/video/7427795397541661983"/>
     <published>2024-10-20T10:00:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7428242512696937758</id>
+    <title>LA vs the Bay #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</title>
+    <updated>2024-10-21T14:55:18+00:00</updated>
+    <content>LA vs the Bay #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</content>
+    <link href="https://tiktok.com/@techroastshow/video/7428242512696937758"/>
+    <published>2024-10-21T14:55:18+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
