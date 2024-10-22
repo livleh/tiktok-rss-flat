@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-10-20T17:05:28+00:00</updated>
+  <updated>2024-10-22T13:58:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7424567211764780321</id>
-    <title>too sleep deprived to tell if this is funny #mh #mentalhealth </title>
-    <updated>2024-10-11T17:12:49+00:00</updated>
-    <content>too sleep deprived to tell if this is funny #mh #mentalhealth </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7424567211764780321"/>
-    <published>2024-10-11T17:12:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7424567711042243873</id>
     <title>the fact this is only half a joke 😭 #mentalhealth #mh </title>
@@ -267,6 +259,14 @@
     <content>coraline lover fr #coraline #halloween </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7427905068780801313"/>
     <published>2024-10-20T17:05:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7428599190894251297</id>
+    <title>new nails!!! #newnails #nailindpo #gelnails </title>
+    <updated>2024-10-22T13:58:59+00:00</updated>
+    <content>new nails!!! #newnails #nailindpo #gelnails </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7428599190894251297"/>
+    <published>2024-10-22T13:58:59+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
