@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-10-22T13:40:01+00:00</updated>
+  <updated>2024-10-22T17:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7423014334869146912</id>
-    <title>using girl math to buy valorant skins #vtuber</title>
-    <updated>2024-10-07T18:00:00+00:00</updated>
-    <content>using girl math to buy valorant skins #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7423014334869146912"/>
-    <published>2024-10-07T18:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7423405911680552225</id>
     <title>when straight dudes discover fashion #vtuber</title>
@@ -275,6 +267,14 @@
     <content>being a human is tough just be someone's pet #vtuber</content>
     <link href="https://tiktok.com/@nyaravt/video/7428594291875908896"/>
     <published>2024-10-22T13:40:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7428591708654292257</id>
+    <title>there's no way she fell for it #streamer</title>
+    <updated>2024-10-22T17:00:00+00:00</updated>
+    <content>there's no way she fell for it #streamer</content>
+    <link href="https://tiktok.com/@nyaravt/video/7428591708654292257"/>
+    <published>2024-10-22T17:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>

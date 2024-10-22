@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2024-10-18T18:38:41+00:00</updated>
+  <updated>2024-10-22T16:44:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from loveletterstosf</subtitle>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7402462567748095274</id>
-    <title>you can see how windy it is from the sand in the beginning #sf #sfsunset #crissyfield #august #ggbridge </title>
-    <updated>2024-08-13T03:35:30+00:00</updated>
-    <content>you can see how windy it is from the sand in the beginning #sf #sfsunset #crissyfield #august #ggbridge </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7402462567748095274"/>
-    <published>2024-08-13T03:35:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7402801232735128878</id>
     <title>PSA caltrain electric trains coming sept 21 ⚡️ this is huge esp for my #sfbayarea commuters livin that life  #caltrain #sf #electrictrains #bayarea #commuterlife @Caltrain @Train Girl 🤓👆🏻🚂 </title>
@@ -235,6 +227,14 @@
     <content>almost didnt post but better late than never lol #sftok #sfevents #thingstodoinsf #sfmovienight #downtownsf #sfmusic #blockparty </content>
     <link href="https://tiktok.com/@loveletterstosf/video/7427186939901513002"/>
     <published>2024-10-18T18:38:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7428641839906950442</id>
+    <title>if you haven’t already done a #daytrip to #sausalito, here’s your sign to hop on the #sfbayferry and check it out! #sausalitowaterfront #sfbayarea </title>
+    <updated>2024-10-22T16:44:31+00:00</updated>
+    <content>if you haven’t already done a #daytrip to #sausalito, here’s your sign to hop on the #sfbayferry and check it out! #sausalitowaterfront #sfbayarea </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7428641839906950442"/>
+    <published>2024-10-22T16:44:31+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7421785235462933803</id>
