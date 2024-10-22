@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shaunadewit</id>
   <title>shaunadewit</title>
-  <updated>2024-10-14T13:04:53+00:00</updated>
+  <updated>2024-10-22T13:01:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shaunadewit</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shaunadewit/video/7393641200764439841</id>
-    <title>Fr #foryou #humor #therapy #confidence #comedy #pourtoi #goviral </title>
-    <updated>2024-07-20T09:04:15+00:00</updated>
-    <content>Fr #foryou #humor #therapy #confidence #comedy #pourtoi #goviral </content>
-    <link href="https://tiktok.com/@shaunadewit/video/7393641200764439841"/>
-    <published>2024-07-20T09:04:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/7394000084851084576</id>
     <title>It keeps me calm #foryou #humor #therapy #music #metal #comedy #pourtoi </title>
@@ -235,6 +227,14 @@
     <content>Advertising | The resveratrol-lift is my must put on everyday ! 🤍 @Caudalie #Caudalie #RVLift #FaceLiftInABottle #foryou #humor #goviral #pourtoi #comedy </content>
     <link href="https://tiktok.com/@shaunadewit/video/7425616555813178656"/>
     <published>2024-10-14T13:04:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shaunadewit/video/7428584419075673376</id>
+    <title>Always worse #foryou #humor #goviral #pourtoi #comedy </title>
+    <updated>2024-10-22T13:01:42+00:00</updated>
+    <content>Always worse #foryou #humor #goviral #pourtoi #comedy </content>
+    <link href="https://tiktok.com/@shaunadewit/video/7428584419075673376"/>
+    <published>2024-10-22T13:01:42+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/6994791135415766278</id>
