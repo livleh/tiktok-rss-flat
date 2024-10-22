@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-10-21T13:58:58+00:00</updated>
+  <updated>2024-10-22T22:28:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7420555954674060574</id>
-    <title>I don’t even know what day it is  #fyp #foryoupageofficiall </title>
-    <updated>2024-09-30T21:47:08+00:00</updated>
-    <content>I don’t even know what day it is  #fyp #foryoupageofficiall </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7420555954674060574"/>
-    <published>2024-09-30T21:47:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7420932033112771870</id>
     <title>Person in the front row has no idea who I am  #fan #frontrow #fyp </title>
@@ -147,6 +139,14 @@
     <content>I do Draaag! ❤️ #drag #germany</content>
     <link href="https://tiktok.com/@jessicakirson/video/7427973580215897374"/>
     <published>2024-10-20T21:31:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7428730345811397918</id>
+    <title>They met on so many places 😂. New York City, my show at @beacontheatre goes on presale tomorrow morning! Waitlist is on my site xoxo </title>
+    <updated>2024-10-22T22:28:06+00:00</updated>
+    <content>They met on so many places 😂. New York City, my show at @beacontheatre goes on presale tomorrow morning! Waitlist is on my site xoxo </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7428730345811397918"/>
+    <published>2024-10-22T22:28:06+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7423392379157187870</id>
