@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-10-23T16:08:56+00:00</updated>
+  <updated>2024-10-23T17:12:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7425977982042246432</id>
-    <title>it's kinda funny #mh #mentalhealth </title>
-    <updated>2024-10-15T12:27:24+00:00</updated>
-    <content>it's kinda funny #mh #mentalhealth </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7425977982042246432"/>
-    <published>2024-10-15T12:27:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7425978746898763041</id>
-    <title>EVERY SINGLE LINE #swiftie #taylorswift </title>
-    <updated>2024-10-15T12:30:22+00:00</updated>
-    <content>EVERY SINGLE LINE #swiftie #taylorswift </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7425978746898763041"/>
-    <published>2024-10-15T12:30:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7426051014832229665</id>
     <title>taylor on my bed #ed #mh #mentalhealth </title>
@@ -267,6 +251,22 @@
     <content>ITS SO BORING #autism #autistic #adhd #auhd #neurodivergent </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7429003770715049248"/>
     <published>2024-10-23T16:08:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7429014580627541280</id>
+    <title>who else 😭 #skit #autism #autistic #autismawareness #neurodivergent </title>
+    <updated>2024-10-23T16:50:53+00:00</updated>
+    <content>who else 😭 #skit #autism #autistic #autismawareness #neurodivergent </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7429014580627541280"/>
+    <published>2024-10-23T16:50:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7429020189162802464</id>
+    <title>idk why im still asked 😭 #lesbian #wlw #nmlnm #lgbt #lgbtq </title>
+    <updated>2024-10-23T17:12:38+00:00</updated>
+    <content>idk why im still asked 😭 #lesbian #wlw #nmlnm #lgbt #lgbtq </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7429020189162802464"/>
+    <published>2024-10-23T17:12:38+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>

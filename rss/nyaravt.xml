@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-10-23T13:18:48+00:00</updated>
+  <updated>2024-10-23T17:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7423406184729693473</id>
-    <title>when valorant players call you an NPC #vtuber</title>
-    <updated>2024-10-08T18:00:00+00:00</updated>
-    <content>when valorant players call you an NPC #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7423406184729693473"/>
-    <published>2024-10-08T18:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7423771756449549600</id>
     <title>what friendship is all about #vtuber</title>
@@ -275,6 +267,14 @@
     <content>Regretting not TRANSITIONING sooner #lgbt #trans</content>
     <link href="https://tiktok.com/@nyaravt/video/7428959923473583393"/>
     <published>2024-10-23T13:18:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7428950339681897761</id>
+    <title>clicker training helps you study #vtuber</title>
+    <updated>2024-10-23T17:00:00+00:00</updated>
+    <content>clicker training helps you study #vtuber</content>
+    <link href="https://tiktok.com/@nyaravt/video/7428950339681897761"/>
+    <published>2024-10-23T17:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>
