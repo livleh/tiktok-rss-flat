@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@dylanmulvaney</id>
   <title>dylanmulvaney</title>
-  <updated>2024-10-10T14:22:06+00:00</updated>
+  <updated>2024-10-23T00:05:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylanmulvaney</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylanmulvaney/video/7390883280083635499</id>
-    <title>@Charli XCX @Bvlgari </title>
-    <updated>2024-07-12T22:41:57+00:00</updated>
-    <content>@Charli XCX @Bvlgari </content>
-    <link href="https://tiktok.com/@dylanmulvaney/video/7390883280083635499"/>
-    <published>2024-07-12T22:41:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7394514943187389739</id>
     <title>FIRST SHOW IN LONDON TONIGHT !!!! #sohotheatre #edinburgh </title>
@@ -243,6 +235,14 @@
     <content>attitude awards glam 💕🎀 wearing @Harris_reed makeup by @Dominic Skinner hair @AndrewDylanHair #attitude #glam </content>
     <link href="https://tiktok.com/@dylanmulvaney/video/7424152126001138986"/>
     <published>2024-10-10T14:22:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylanmulvaney/video/7428755514282052907</id>
+    <title>from the depths of the drafts vault - a terrifying GRWM. #amsterdam #dating </title>
+    <updated>2024-10-23T00:05:34+00:00</updated>
+    <content>from the depths of the drafts vault - a terrifying GRWM. #amsterdam #dating </content>
+    <link href="https://tiktok.com/@dylanmulvaney/video/7428755514282052907"/>
+    <published>2024-10-23T00:05:34+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7418617722923158827</id>
