@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-10-22T17:00:00+00:00</updated>
+  <updated>2024-10-23T12:40:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7423405911680552225</id>
-    <title>when straight dudes discover fashion #vtuber</title>
-    <updated>2024-10-08T14:06:26+00:00</updated>
-    <content>when straight dudes discover fashion #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7423405911680552225"/>
-    <published>2024-10-08T14:06:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7423406184729693473</id>
     <title>when valorant players call you an NPC #vtuber</title>
@@ -275,6 +267,14 @@
     <content>there's no way she fell for it #streamer</content>
     <link href="https://tiktok.com/@nyaravt/video/7428591708654292257"/>
     <published>2024-10-22T17:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7428950029164907808</id>
+    <title>YOUR PARENTS DONT DESERVE YOU #trans</title>
+    <updated>2024-10-23T12:40:22+00:00</updated>
+    <content>YOUR PARENTS DONT DESERVE YOU #trans</content>
+    <link href="https://tiktok.com/@nyaravt/video/7428950029164907808"/>
+    <published>2024-10-23T12:40:22+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>
