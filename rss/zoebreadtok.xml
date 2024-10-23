@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-10-21T17:32:45+00:00</updated>
+  <updated>2024-10-23T18:05:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7411212990487301408</id>
-    <title>how did you celebrate national be late for something day? i hope cory sees this video </title>
-    <updated>2024-09-05T17:31:35+00:00</updated>
-    <content>how did you celebrate national be late for something day? i hope cory sees this video </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7411212990487301408"/>
-    <published>2024-09-05T17:31:35+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7412332689832824097</id>
-    <title>[bird noises]</title>
-    <updated>2024-09-08T17:56:36+00:00</updated>
-    <content>[bird noises]</content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7412332689832824097"/>
-    <published>2024-09-08T17:56:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7413075917263637793</id>
     <title>me, banksy, phil and the model village in beaconsfield: together at last </title>
@@ -235,6 +219,14 @@
     <content>still no one has guessed the song we’re recording yet! this is not a clue sorry</content>
     <link href="https://tiktok.com/@zoebreadtok/video/7428283184304901409"/>
     <published>2024-10-21T17:32:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7429033940649790753</id>
+    <title>the best awareness course of my life so far!!! </title>
+    <updated>2024-10-23T18:05:59+00:00</updated>
+    <content>the best awareness course of my life so far!!! </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7429033940649790753"/>
+    <published>2024-10-23T18:05:59+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7391078276183215392</id>
