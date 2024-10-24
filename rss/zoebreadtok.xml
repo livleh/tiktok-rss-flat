@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-10-23T18:05:59+00:00</updated>
+  <updated>2024-10-24T17:23:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7413075917263637793</id>
-    <title>me, banksy, phil and the model village in beaconsfield: together at last </title>
-    <updated>2024-09-10T18:00:42+00:00</updated>
-    <content>me, banksy, phil and the model village in beaconsfield: together at last </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7413075917263637793"/>
-    <published>2024-09-10T18:00:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7413444064420400416</id>
     <title>this is what happened when i went to legoland in windsor</title>
@@ -227,6 +219,14 @@
     <content>the best awareness course of my life so far!!! </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7429033940649790753"/>
     <published>2024-10-23T18:05:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7429393968451833120</id>
+    <title>voltaire… hair…  personally, id rather play solitaire </title>
+    <updated>2024-10-24T17:23:05+00:00</updated>
+    <content>voltaire… hair…  personally, id rather play solitaire </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7429393968451833120"/>
+    <published>2024-10-24T17:23:05+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7391078276183215392</id>
