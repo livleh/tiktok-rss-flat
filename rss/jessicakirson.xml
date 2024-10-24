@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-10-23T22:14:22+00:00</updated>
+  <updated>2024-10-24T23:02:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7413788706328382751</id>
-    <title>Thought he may have just been balding 😂</title>
-    <updated>2024-09-12T16:07:02+00:00</updated>
-    <content>Thought he may have just been balding 😂</content>
-    <link href="https://tiktok.com/@jessicakirson/video/7413788706328382751"/>
-    <published>2024-09-12T16:07:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7413811201324502302</id>
     <title>Hiii!!! I am so excited to finally announce that my next special will be premiering on @hulu and it’s because of the support I have from every one of you! Thank you all so much for watching, liking, and commenting on every clip and silly thing I post. Tha</title>
@@ -275,6 +267,14 @@
     <content>He wouldn’t stop eating pretzels! NYC my show at Beacon Theatre went on sale today. Check my site for info xo </content>
     <link href="https://tiktok.com/@jessicakirson/video/7429097917216017695"/>
     <published>2024-10-23T22:14:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7429481333560233247</id>
+    <title>Paul The Jersey Chef Is Amazing  #jersey #chef </title>
+    <updated>2024-10-24T23:02:10+00:00</updated>
+    <content>Paul The Jersey Chef Is Amazing  #jersey #chef </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7429481333560233247"/>
+    <published>2024-10-24T23:02:10+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7423392379157187870</id>
