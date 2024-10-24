@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-10-23T18:23:07+00:00</updated>
+  <updated>2024-10-24T14:25:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7426406983131024673</id>
-    <title>like thanks thats the goal #lesbian #wlw #lgbt #lgbtq </title>
-    <updated>2024-10-16T16:12:05+00:00</updated>
-    <content>like thanks thats the goal #lesbian #wlw #lgbt #lgbtq </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7426406983131024673"/>
-    <published>2024-10-16T16:12:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7426415826057563424</id>
     <title>day in the life vlog @Bee 💚 #dayinthelife #vlog </title>
@@ -267,6 +259,14 @@
     <content>im always funny as well 😔 #relatable </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7429038351610694944"/>
     <published>2024-10-23T18:23:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7429348078026558753</id>
+    <title>unless screenshots count? #vibe #lastphotos #CapCut </title>
+    <updated>2024-10-24T14:25:01+00:00</updated>
+    <content>unless screenshots count? #vibe #lastphotos #CapCut </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7429348078026558753"/>
+    <published>2024-10-24T14:25:01+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
