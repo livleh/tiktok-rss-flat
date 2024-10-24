@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-10-24T14:25:01+00:00</updated>
+  <updated>2024-10-24T15:43:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7426415826057563424</id>
-    <title>day in the life vlog @Bee 💚 #dayinthelife #vlog </title>
-    <updated>2024-10-16T16:46:22+00:00</updated>
-    <content>day in the life vlog @Bee 💚 #dayinthelife #vlog </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7426415826057563424"/>
-    <published>2024-10-16T16:46:22+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7426782094384188704</id>
-    <title>not very mysterious 😔 #ootd #pinkhair #mh #mentalhealth </title>
-    <updated>2024-10-17T16:27:41+00:00</updated>
-    <content>not very mysterious 😔 #ootd #pinkhair #mh #mentalhealth </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7426782094384188704"/>
-    <published>2024-10-17T16:27:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7426783337445854496</id>
     <title>its a hidden rule #pinkhair #dyedhair #colouredhair #coloredhair </title>
@@ -267,6 +251,22 @@
     <content>unless screenshots count? #vibe #lastphotos #CapCut </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7429348078026558753"/>
     <published>2024-10-24T14:25:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7429365858524286240</id>
+    <title>its so hard 😭 #autism #adhd #autistic #neurodivergent </title>
+    <updated>2024-10-24T15:34:01+00:00</updated>
+    <content>its so hard 😭 #autism #adhd #autistic #neurodivergent </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7429365858524286240"/>
+    <published>2024-10-24T15:34:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7429368407809674529</id>
+    <title>is tesco okay? #tesco #carboardcutout </title>
+    <updated>2024-10-24T15:43:56+00:00</updated>
+    <content>is tesco okay? #tesco #carboardcutout </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7429368407809674529"/>
+    <published>2024-10-24T15:43:56+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
