@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@andreasfashiongalaxy</id>
   <title>andreasfashiongalaxy</title>
-  <updated>2024-10-24T20:01:19+00:00</updated>
+  <updated>2024-10-25T20:00:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -283,5 +283,13 @@
     <content>How to style a vintage vest the Phoebe Buffay way #letsgetdressed </content>
     <link href="https://tiktok.com/@andreasfashiongalaxy/video/7429434739469094177"/>
     <published>2024-10-24T20:01:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@andreasfashiongalaxy/video/7429805716833176865</id>
+    <title>How to style an outfit for unpredictable weather ft RainSisters #letsgetdressed </title>
+    <updated>2024-10-25T20:00:56+00:00</updated>
+    <content>How to style an outfit for unpredictable weather ft RainSisters #letsgetdressed </content>
+    <link href="https://tiktok.com/@andreasfashiongalaxy/video/7429805716833176865"/>
+    <published>2024-10-25T20:00:56+00:00</published>
   </entry>
 </feed>
