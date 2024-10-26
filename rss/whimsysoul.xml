@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-10-25T05:07:10+00:00</updated>
+  <updated>2024-10-26T03:33:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7424282417093119278</id>
-    <title>Replying to @Liv the themed sweaters keep on coming!! Day 3 of my girls trip to New England!  Woke up at the Bluebird Cady Hill and explored downtown Stowe before it got busy. I'm obsessed with the Black Cap and Cold Hollow was worth the stop. So is the S</title>
-    <updated>2024-10-10T22:47:38+00:00</updated>
-    <content>Replying to @Liv the themed sweaters keep on coming!! Day 3 of my girls trip to New England!  Woke up at the Bluebird Cady Hill and explored downtown Stowe before it got busy. I'm obsessed with the Black Cap and Cold Hollow was worth the stop. So is the S</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7424282417093119278"/>
-    <published>2024-10-10T22:47:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7424283377945136427</id>
     <title>Replying to @dawnellen78 you couldn't pay me to be driving the Kancamagus on a holiday weekend!! 😱 🍁 heads up that     Indigenous Peoples' Day is gonna be even more insane. It'll be a parking lot.  #newengland #october #newhampshire #newengland #whimsysou</title>
@@ -267,6 +259,14 @@
     <content>if fishing in Norway isn't on your bucket list yet, it needs to be. 🐟🇳🇴 Sophie and I love agritourism and  @fjordexpedition out of Bergen offers an epic fishing tour.  They pick you up in the city and drive you out to stunning remote islands to go fishing</content>
     <link href="https://tiktok.com/@whimsysoul/video/7429575378475339054"/>
     <published>2024-10-25T05:07:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7429922424675716394</id>
+    <title>Would you swim in 11°C (51°F) water in Bergen, Norway? 🇳🇴 TRUST ME ON THIS - when you land in Bergen, after you check in to your hotel, immediately head to one of the harbor saunas. Nothing beats jetlag like an hour in here and a nice cold plunge in the h</title>
+    <updated>2024-10-26T03:33:47+00:00</updated>
+    <content>Would you swim in 11°C (51°F) water in Bergen, Norway? 🇳🇴 TRUST ME ON THIS - when you land in Bergen, after you check in to your hotel, immediately head to one of the harbor saunas. Nothing beats jetlag like an hour in here and a nice cold plunge in the h</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7429922424675716394"/>
+    <published>2024-10-26T03:33:47+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
