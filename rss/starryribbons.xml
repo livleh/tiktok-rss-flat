@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@starryribbons</id>
   <title>starryribbons</title>
-  <updated>2024-10-21T19:10:01+00:00</updated>
+  <updated>2024-10-26T17:55:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from starryribbons</subtitle>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7405286274480770336</id>
-    <title>wasn’t planning on posting this, but there u go #digitaldiary #coquetteaesthetic #outfitoftheweek #beach #wlw #aesthetic </title>
-    <updated>2024-08-20T18:13:01+00:00</updated>
-    <content>wasn’t planning on posting this, but there u go #digitaldiary #coquetteaesthetic #outfitoftheweek #beach #wlw #aesthetic </content>
-    <link href="https://tiktok.com/@starryribbons/video/7405286274480770336"/>
-    <published>2024-08-20T18:13:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7405655866327715105</id>
     <title>i’m currently reading before the coffee gets cold, i think its called #digitaldiary #coquetteaesthetic #fangirl #wlw #taylorswift #swifttok #matcha </title>
@@ -283,6 +275,14 @@
     <content>never not thinking about butterfly #coquettecore #digitaldiary #bts #bangtanboys #kpop #butterfly #wlw </content>
     <link href="https://tiktok.com/@starryribbons/video/7428308246198242592"/>
     <published>2024-10-21T19:10:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7430144600095952160</id>
+    <title>guys you dont understand #coquettecore #digitaldiary #taylorswift #therastour #reputationtour #wlw #femmelesbian #swiftietok </title>
+    <updated>2024-10-26T17:55:57+00:00</updated>
+    <content>guys you dont understand #coquettecore #digitaldiary #taylorswift #therastour #reputationtour #wlw #femmelesbian #swiftietok </content>
+    <link href="https://tiktok.com/@starryribbons/video/7430144600095952160"/>
+    <published>2024-10-26T17:55:57+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7285761406664854817</id>
