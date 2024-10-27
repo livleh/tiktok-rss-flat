@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-10-26T17:11:23+00:00</updated>
+  <updated>2024-10-27T16:52:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7427166056277462304</id>
-    <title>@Pink Is Neurodivergent go listen!!&lt;33 #neurodivergent #mentalhealth  </title>
-    <updated>2024-10-18T17:17:41+00:00</updated>
-    <content>@Pink Is Neurodivergent go listen!!&lt;33 #neurodivergent #mentalhealth  </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7427166056277462304"/>
-    <published>2024-10-18T17:17:41+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7427166065521593633</id>
-    <title>so unfair 😭 #mh #mentalhealth </title>
-    <updated>2024-10-18T17:17:42+00:00</updated>
-    <content>so unfair 😭 #mh #mentalhealth </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7427166065521593633"/>
-    <published>2024-10-18T17:17:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7427535471414103328</id>
     <title>this trend!!</title>
@@ -267,6 +251,22 @@
     <content>abt EVERYTHING #mh #mentalhealth </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7430133103152172320"/>
     <published>2024-10-26T17:11:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7430496031114005792</id>
+    <title>LOVE YOU POOKIE 😭 #mh #mentalhealth #bestfriend </title>
+    <updated>2024-10-27T16:39:41+00:00</updated>
+    <content>LOVE YOU POOKIE 😭 #mh #mentalhealth #bestfriend </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7430496031114005792"/>
+    <published>2024-10-27T16:39:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7430499229602155808</id>
+    <title>SO HAPPY WITH THIS!! tim burton filter!! #timburton #halloween #halloweenchallenge </title>
+    <updated>2024-10-27T16:52:07+00:00</updated>
+    <content>SO HAPPY WITH THIS!! tim burton filter!! #timburton #halloween #halloweenchallenge </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7430499229602155808"/>
+    <published>2024-10-27T16:52:07+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
