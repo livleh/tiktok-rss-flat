@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-10-24T17:23:05+00:00</updated>
+  <updated>2024-10-27T18:32:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7409000646998838560</id>
-    <title>ill level with you. im really scared </title>
-    <updated>2024-08-30T18:26:36+00:00</updated>
-    <content>ill level with you. im really scared </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7409000646998838560"/>
-    <published>2024-08-30T18:26:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7409735807155719457</id>
     <title>78 classic minis at the mini cars and coffee meet up thing </title>
@@ -283,6 +275,14 @@
     <content>voltaire… hair…  personally, id rather play solitaire </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7429393968451833120"/>
     <published>2024-10-24T17:23:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7430525215454629152</id>
+    <title>shannon matthews the musical first ever screening in leeds in april ! since its in the news i thought i might as well upload this cos it was meant for a vlog and this is how behind i am on editing those </title>
+    <updated>2024-10-27T18:32:55+00:00</updated>
+    <content>shannon matthews the musical first ever screening in leeds in april ! since its in the news i thought i might as well upload this cos it was meant for a vlog and this is how behind i am on editing those </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7430525215454629152"/>
+    <published>2024-10-27T18:32:55+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7391078276183215392</id>
