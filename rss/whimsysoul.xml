@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-10-26T03:33:47+00:00</updated>
+  <updated>2024-10-27T00:33:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7424283377945136427</id>
-    <title>Replying to @dawnellen78 you couldn't pay me to be driving the Kancamagus on a holiday weekend!! 😱 🍁 heads up that     Indigenous Peoples' Day is gonna be even more insane. It'll be a parking lot.  #newengland #october #newhampshire #newengland #whimsysou</title>
-    <updated>2024-10-10T22:51:21+00:00</updated>
-    <content>Replying to @dawnellen78 you couldn't pay me to be driving the Kancamagus on a holiday weekend!! 😱 🍁 heads up that     Indigenous Peoples' Day is gonna be even more insane. It'll be a parking lot.  #newengland #october #newhampshire #newengland #whimsysou</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7424283377945136427"/>
-    <published>2024-10-10T22:51:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7424293444216048939</id>
     <title>New England autumn is absolutely worth it, in case you're wondering #newengland #october #newhampshire #whitemountains #falltrip #kancamagushighway #autumn #vermonttiktok #coldhollow #leafpeeping #leaf #massachusetts </title>
@@ -267,6 +259,14 @@
     <content>Would you swim in 11°C (51°F) water in Bergen, Norway? 🇳🇴 TRUST ME ON THIS - when you land in Bergen, after you check in to your hotel, immediately head to one of the harbor saunas. Nothing beats jetlag like an hour in here and a nice cold plunge in the h</content>
     <link href="https://tiktok.com/@whimsysoul/video/7429922424675716394"/>
     <published>2024-10-26T03:33:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7430247132956855595</id>
+    <title>Imagine all the Norwegians who casually have views like this out their bedroom or kitchen window 😭 the most beautiful country #norway #rosendalnorway #visitnorway #norwaytravel #norwaytiktok </title>
+    <updated>2024-10-27T00:33:48+00:00</updated>
+    <content>Imagine all the Norwegians who casually have views like this out their bedroom or kitchen window 😭 the most beautiful country #norway #rosendalnorway #visitnorway #norwaytravel #norwaytiktok </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7430247132956855595"/>
+    <published>2024-10-27T00:33:48+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
