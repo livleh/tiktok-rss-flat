@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-10-20T07:00:04+00:00</updated>
+  <updated>2024-10-28T19:41:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7411407379893325089</id>
-    <title>Töte ✨ #twitchclips #twitchgermany #twitchde </title>
-    <updated>2024-09-06T06:06:03+00:00</updated>
-    <content>Töte ✨ #twitchclips #twitchgermany #twitchde </content>
-    <link href="https://tiktok.com/@tandarok/video/7411407379893325089"/>
-    <published>2024-09-06T06:06:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7412328719622229280</id>
     <title>Was denken wir? Kann ich die Farbe tragen? #fashion #transgirl </title>
@@ -267,6 +259,14 @@
     <content>Welche Leserichtung ist richtig? #comics #lesen </content>
     <link href="https://tiktok.com/@tandarok/video/7427749026684046624"/>
     <published>2024-10-20T07:00:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7430914067239292192</id>
+    <title>Antwort auf @estell_95  Trotzdem ist und bleibt W.i.t.c.h. einfach ein banger. #witchcomics #magicalgirl </title>
+    <updated>2024-10-28T19:41:51+00:00</updated>
+    <content>Antwort auf @estell_95  Trotzdem ist und bleibt W.i.t.c.h. einfach ein banger. #witchcomics #magicalgirl </content>
+    <link href="https://tiktok.com/@tandarok/video/7430914067239292192"/>
+    <published>2024-10-28T19:41:51+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>

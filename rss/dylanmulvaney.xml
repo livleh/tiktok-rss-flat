@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@dylanmulvaney</id>
   <title>dylanmulvaney</title>
-  <updated>2024-10-25T20:56:57+00:00</updated>
+  <updated>2024-10-28T20:14:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylanmulvaney</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylanmulvaney/video/7387758357463108910</id>
-    <title>Can YOU say it? F*ghag is coming to Edinburgh Fringe Festival this summer. Tickets in bio 👯‍♀️💋 #edinburgh #theatre </title>
-    <updated>2024-07-04T12:35:45+00:00</updated>
-    <content>Can YOU say it? F*ghag is coming to Edinburgh Fringe Festival this summer. Tickets in bio 👯‍♀️💋 #edinburgh #theatre </content>
-    <link href="https://tiktok.com/@dylanmulvaney/video/7387758357463108910"/>
-    <published>2024-07-04T12:35:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7389613366035156270</id>
     <title>ITS ALL HAPPENING #london #edinburgh #theatre #soho #onewomanshow </title>
@@ -283,6 +275,14 @@
     <content>@Max Mara  Studio photos @coltonhaynes  @Angelina Panelli @IG: @kole_mua </content>
     <link href="https://tiktok.com/@dylanmulvaney/video/7429820168882212139"/>
     <published>2024-10-25T20:56:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylanmulvaney/video/7430922384997207338</id>
+    <title>Didnt have to bring my giant folder of documents this year but @VoteRiders can make sure we’re all g2g when it comes to voting #VoteRiders #VoterID #CheckYourID #GOTV2024 #VoteRidersPartner </title>
+    <updated>2024-10-28T20:14:08+00:00</updated>
+    <content>Didnt have to bring my giant folder of documents this year but @VoteRiders can make sure we’re all g2g when it comes to voting #VoteRiders #VoterID #CheckYourID #GOTV2024 #VoteRidersPartner </content>
+    <link href="https://tiktok.com/@dylanmulvaney/video/7430922384997207338"/>
+    <published>2024-10-28T20:14:08+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7418617722923158827</id>
