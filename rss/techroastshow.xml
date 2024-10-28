@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-10-27T14:09:17+00:00</updated>
+  <updated>2024-10-28T05:08:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7421937005224922399</id>
-    <title>I signed you 🫵 up for huddle  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</title>
-    <updated>2024-10-04T15:06:38+00:00</updated>
-    <content>I signed you 🫵 up for huddle  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</content>
-    <link href="https://tiktok.com/@techroastshow/video/7421937005224922399"/>
-    <published>2024-10-04T15:06:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7422032825651662110</id>
     <title>everyone is using AI  #techie #softwareengineer #siliconvalley #chatgpt #programmerlife #AI #claude #techroastshow </title>
@@ -267,6 +259,14 @@
     <content>if the antlers don’t fit, you must acquit  #techie #softwareengineer #bangalore #india #programmerlife #roastbattle #darkhumor #techroastshow </content>
     <link href="https://tiktok.com/@techroastshow/video/7430457205259767070"/>
     <published>2024-10-27T14:09:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7430689009484991774</id>
+    <title>his relationship problems are NP Hard  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </title>
+    <updated>2024-10-28T05:08:51+00:00</updated>
+    <content>his relationship problems are NP Hard  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </content>
+    <link href="https://tiktok.com/@techroastshow/video/7430689009484991774"/>
+    <published>2024-10-28T05:08:51+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
