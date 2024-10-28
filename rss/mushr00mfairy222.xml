@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-10-28T17:20:17+00:00</updated>
+  <updated>2024-10-28T18:17:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7427848761776278816</id>
-    <title>literally just cause im not a 5 year old boy #autism #autistic #neurodivergent </title>
-    <updated>2024-10-20T13:27:05+00:00</updated>
-    <content>literally just cause im not a 5 year old boy #autism #autistic #neurodivergent </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7427848761776278816"/>
-    <published>2024-10-20T13:27:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7427884172892507425</id>
     <title>SEPTUM PIERCINGS ALWAYS LOOK GOOD #septum #septumpiercing #nosepiercing #piercing </title>
@@ -267,6 +259,14 @@
     <content>i forgot how early its dark sorry for the lighting 😭 #ootd #outfitoftheday #fitcheck </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7430877583220264225"/>
     <published>2024-10-28T17:20:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7430892318204431649</id>
+    <title>star septum!!! #starseptum #septum #star #piercing </title>
+    <updated>2024-10-28T18:17:30+00:00</updated>
+    <content>star septum!!! #starseptum #septum #star #piercing </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7430892318204431649"/>
+    <published>2024-10-28T18:17:30+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
