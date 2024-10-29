@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-10-28T19:07:17+00:00</updated>
+  <updated>2024-10-29T18:28:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7427905015345335584</id>
-    <title>taylor swift is my bestie fr (and wife) #swiftie #taylorswift </title>
-    <updated>2024-10-20T17:05:13+00:00</updated>
-    <content>taylor swift is my bestie fr (and wife) #swiftie #taylorswift </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7427905015345335584"/>
-    <published>2024-10-20T17:05:13+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7427905068780801313</id>
-    <title>coraline lover fr #coraline #halloween </title>
-    <updated>2024-10-20T17:05:28+00:00</updated>
-    <content>coraline lover fr #coraline #halloween </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7427905068780801313"/>
-    <published>2024-10-20T17:05:28+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7428599190894251297</id>
-    <title>new nails!!! #newnails #nailindpo #gelnails </title>
-    <updated>2024-10-22T13:58:59+00:00</updated>
-    <content>new nails!!! #newnails #nailindpo #gelnails </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7428599190894251297"/>
-    <published>2024-10-22T13:58:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7428671304624114976</id>
     <title>food (drinking) + yapp = A WINNNN. life is worth living perhapssss 🤭 #lifeisworthliving #food #yapping #foodaandyap </title>
@@ -267,6 +243,30 @@
     <content>I LOVE AUTUMN / FALL OUTFITS #ootd #falloutfits #pinkhair </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7430905149847096609"/>
     <published>2024-10-28T19:07:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7431252952372841761</id>
+    <title>lil outfit check #ootd #outfitinspo #pinkhair #alt </title>
+    <updated>2024-10-29T17:36:57+00:00</updated>
+    <content>lil outfit check #ootd #outfitinspo #pinkhair #alt </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7431252952372841761"/>
+    <published>2024-10-29T17:36:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7431253408985730336</id>
+    <title>everyone else's actually resembles them 😭 #adamsfamily #filter #trend #aifilter </title>
+    <updated>2024-10-29T17:38:45+00:00</updated>
+    <content>everyone else's actually resembles them 😭 #adamsfamily #filter #trend #aifilter </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7431253408985730336"/>
+    <published>2024-10-29T17:38:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7431266287742930209</id>
+    <title>i just wanted to be included 😭😭 #lesbian #wlw #nmlnm #lgbt #lgbtq </title>
+    <updated>2024-10-29T18:28:41+00:00</updated>
+    <content>i just wanted to be included 😭😭 #lesbian #wlw #nmlnm #lgbt #lgbtq </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7431266287742930209"/>
+    <published>2024-10-29T18:28:41+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
