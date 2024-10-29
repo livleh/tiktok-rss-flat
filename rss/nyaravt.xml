@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-10-28T14:03:33+00:00</updated>
+  <updated>2024-10-28T21:43:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7425237952361532704</id>
-    <title>why you struggle with your height #trans</title>
-    <updated>2024-10-13T12:35:38+00:00</updated>
-    <content>why you struggle with your height #trans</content>
-    <link href="https://tiktok.com/@nyaravt/video/7425237952361532704"/>
-    <published>2024-10-13T12:35:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7425238203558399265</id>
     <title>capitalism ruins good things #vtuber</title>
@@ -275,6 +267,14 @@
     <content>reminding chat of their place #twitch</content>
     <link href="https://tiktok.com/@nyaravt/video/7430826865708780833"/>
     <published>2024-10-28T14:03:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7430945314539949345</id>
+    <title>#onthisday</title>
+    <updated>2024-10-28T21:43:16+00:00</updated>
+    <content>#onthisday</content>
+    <link href="https://tiktok.com/@nyaravt/video/7430945314539949345"/>
+    <published>2024-10-28T21:43:16+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>

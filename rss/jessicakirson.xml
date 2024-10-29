@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-10-27T21:21:50+00:00</updated>
+  <updated>2024-10-28T22:08:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7414896605884599582</id>
-    <title>Is Her Accent English Or Australian?  #english #aussie #australia #england </title>
-    <updated>2024-09-15T15:46:03+00:00</updated>
-    <content>Is Her Accent English Or Australian?  #english #aussie #australia #england </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7414896605884599582"/>
-    <published>2024-09-15T15:46:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7415367612504329503</id>
     <title>Why would you be straight?  #fyp #berlin </title>
@@ -275,6 +267,14 @@
     <content>They met at what kinda party 👀</content>
     <link href="https://tiktok.com/@jessicakirson/video/7430568712563920158"/>
     <published>2024-10-27T21:21:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7430951876436299039</id>
+    <title>I can’t believe he woke up so early! </title>
+    <updated>2024-10-28T22:08:48+00:00</updated>
+    <content>I can’t believe he woke up so early! </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7430951876436299039"/>
+    <published>2024-10-28T22:08:48+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7423392379157187870</id>
