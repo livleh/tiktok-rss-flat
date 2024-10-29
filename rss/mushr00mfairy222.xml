@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-10-29T18:58:09+00:00</updated>
+  <updated>2024-10-29T20:03:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7428991213883133217</id>
-    <title>with my dino socks #ootd #outfitcheck #pinkhair #indie </title>
-    <updated>2024-10-23T15:20:12+00:00</updated>
-    <content>with my dino socks #ootd #outfitcheck #pinkhair #indie </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7428991213883133217"/>
-    <published>2024-10-23T15:20:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7429003770715049248</id>
     <title>ITS SO BORING #autism #autistic #adhd #auhd #neurodivergent </title>
@@ -261,12 +253,20 @@
     <published>2024-10-29T18:57:31+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7431273852862287136</id>
-    <title>sorry im busy thinking #neurodivergent #mh #mentalhealth #mhjokes #overthinker </title>
-    <updated>2024-10-29T18:58:09+00:00</updated>
-    <content>sorry im busy thinking #neurodivergent #mh #mentalhealth #mhjokes #overthinker </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7431273852862287136"/>
-    <published>2024-10-29T18:58:09+00:00</published>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7431284829112601889</id>
+    <title>like ok snowflake ❄️😟🏳️‍🌈👩‍❤️‍💋‍👩 #lesbian #wlw #nmlnm #lgbt #lgbtq </title>
+    <updated>2024-10-29T19:40:38+00:00</updated>
+    <content>like ok snowflake ❄️😟🏳️‍🌈👩‍❤️‍💋‍👩 #lesbian #wlw #nmlnm #lgbt #lgbtq </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7431284829112601889"/>
+    <published>2024-10-29T19:40:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7431290841487953184</id>
+    <title>please? #mh #mentalhealth #mhjokes </title>
+    <updated>2024-10-29T20:03:56+00:00</updated>
+    <content>please? #mh #mentalhealth #mhjokes </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7431290841487953184"/>
+    <published>2024-10-29T20:03:56+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
