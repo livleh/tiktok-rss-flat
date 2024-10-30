@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2024-10-29T04:27:20+00:00</updated>
+  <updated>2024-10-30T18:24:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from loveletterstosf</subtitle>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7400437060114386219</id>
-    <title>bougainvillea blooms around the city 🌺 #sf #bougainvillea </title>
-    <updated>2024-08-07T16:35:29+00:00</updated>
-    <content>bougainvillea blooms around the city 🌺 #sf #bougainvillea </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7400437060114386219"/>
-    <published>2024-08-07T16:35:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7400589981795831083</id>
     <title>So glad I finally got to see the inside of this iconic Victorian house, definitely worth adding to your bucket list and big thank you to George of @Blue Painted Lady for sharing his home and stories as a native San Franciscan and historian. 🗓️ Make sure t</title>
@@ -283,6 +275,14 @@
     <content>esp by the water 😌 #sf #littlesliceofheaven </content>
     <link href="https://tiktok.com/@loveletterstosf/video/7431049479517670698"/>
     <published>2024-10-29T04:27:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7431636244775390507</id>
+    <title>trying to catch more sunrises with the days getting shorter… also I get notified when people use this sound and it’s my favorite thing 💛 #goodmorningsf #sanfrancisco #goodnorningsanfransico #aquaticpark </title>
+    <updated>2024-10-30T18:24:19+00:00</updated>
+    <content>trying to catch more sunrises with the days getting shorter… also I get notified when people use this sound and it’s my favorite thing 💛 #goodmorningsf #sanfrancisco #goodnorningsanfransico #aquaticpark </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7431636244775390507"/>
+    <published>2024-10-30T18:24:19+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7421785235462933803</id>

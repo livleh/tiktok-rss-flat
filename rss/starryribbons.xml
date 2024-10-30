@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@starryribbons</id>
   <title>starryribbons</title>
-  <updated>2024-10-27T18:23:49+00:00</updated>
+  <updated>2024-10-30T18:02:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from starryribbons</subtitle>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7406017757394914592</id>
-    <title>all I do is scroll on pinterest, read, journal &amp; watch kpop interviews #digitaldiary #coquetteaesthetic #zerobaseone #journaling #wlw #aesthetic #quietlife </title>
-    <updated>2024-08-22T17:31:29+00:00</updated>
-    <content>all I do is scroll on pinterest, read, journal &amp; watch kpop interviews #digitaldiary #coquetteaesthetic #zerobaseone #journaling #wlw #aesthetic #quietlife </content>
-    <link href="https://tiktok.com/@starryribbons/video/7406017757394914592"/>
-    <published>2024-08-22T17:31:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7406023199378459936</id>
     <title>have you ever tried to have fun and mind your own business #digitaldiary #coquetteaesthetic #chappellroan #femmelesbian #fangirl </title>
@@ -283,6 +275,14 @@
     <content>chappell roan release this pls #femmelesbian #femme4butch #wlw #digitaldiary #coquetteaesthetic #chappellroan </content>
     <link href="https://tiktok.com/@starryribbons/video/7430522873720130849"/>
     <published>2024-10-27T18:23:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7431630698357771553</id>
+    <title>can yoh tell i really like hyyh #digitaldiary #coquette #bts #kpop #hyyh #hyyhedit #bangtanboys #wlw #graduation #growingup </title>
+    <updated>2024-10-30T18:02:49+00:00</updated>
+    <content>can yoh tell i really like hyyh #digitaldiary #coquette #bts #kpop #hyyh #hyyhedit #bangtanboys #wlw #graduation #growingup </content>
+    <link href="https://tiktok.com/@starryribbons/video/7431630698357771553"/>
+    <published>2024-10-30T18:02:49+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7285761406664854817</id>
