@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-10-29T17:07:53+00:00</updated>
+  <updated>2024-10-30T20:41:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7412759431349374241</id>
-    <title>Bi Dating 🩷💜💙 #bi #dating #datinglife #singlelife </title>
-    <updated>2024-09-09T21:32:43+00:00</updated>
-    <content>Bi Dating 🩷💜💙 #bi #dating #datinglife #singlelife </content>
-    <link href="https://tiktok.com/@tandarok/video/7412759431349374241"/>
-    <published>2024-09-09T21:32:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7412899073390300449</id>
     <title>Geht ihr gerne wandern? #twitchde #twitchgermany #twitchclips #datinglife </title>
@@ -267,6 +259,14 @@
     <content>Ganz viel Liebe für W.i.t.c.h. ❤️ #witchcomics #magicalgirl </content>
     <link href="https://tiktok.com/@tandarok/video/7431245451074080032"/>
     <published>2024-10-29T17:07:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7431671567882538272</id>
+    <title>Wir lieben Typen, die behaupten, sie wären poly, aber sich nie damit beschäftigt haben, was das eigentlich bedeutet 🫠 #polyam #polyamorie #polyamorousrelationship </title>
+    <updated>2024-10-30T20:41:24+00:00</updated>
+    <content>Wir lieben Typen, die behaupten, sie wären poly, aber sich nie damit beschäftigt haben, was das eigentlich bedeutet 🫠 #polyam #polyamorie #polyamorousrelationship </content>
+    <link href="https://tiktok.com/@tandarok/video/7431671567882538272"/>
+    <published>2024-10-30T20:41:24+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
