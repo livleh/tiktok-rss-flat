@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-10-29T14:01:41+00:00</updated>
+  <updated>2024-10-30T12:50:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7422291962100813086</id>
-    <title>incoming company wide email saying this guy’s fired  #techie #softwareengineer #india #bangalore #AI #roastbattle #darkhumor #techroastshow</title>
-    <updated>2024-10-05T14:04:02+00:00</updated>
-    <content>incoming company wide email saying this guy’s fired  #techie #softwareengineer #india #bangalore #AI #roastbattle #darkhumor #techroastshow</content>
-    <link href="https://tiktok.com/@techroastshow/video/7422291962100813086"/>
-    <published>2024-10-05T14:04:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7422681815971925279</id>
     <title>prison is also outcome based  #techie #softwareengineer #india #bangalore #AI #roastbattle #darkhumor #techroastshow</title>
@@ -267,6 +259,14 @@
     <content>zzz #techie #softwareengineer #india #programmerlife #roastbattle #darkhumor #techroastshow </content>
     <link href="https://tiktok.com/@techroastshow/video/7431197373289811231"/>
     <published>2024-10-29T14:01:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7431550191490043167</id>
+    <title>their only in-network doctor is a horse doctor  #techie #softwareengineer #bangalore #india #programmerlife #roastbattle #darkhumor #techroastshow </title>
+    <updated>2024-10-30T12:50:26+00:00</updated>
+    <content>their only in-network doctor is a horse doctor  #techie #softwareengineer #bangalore #india #programmerlife #roastbattle #darkhumor #techroastshow </content>
+    <link href="https://tiktok.com/@techroastshow/video/7431550191490043167"/>
+    <published>2024-10-30T12:50:26+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
