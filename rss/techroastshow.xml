@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-10-30T12:50:26+00:00</updated>
+  <updated>2024-10-30T22:37:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7422681815971925279</id>
-    <title>prison is also outcome based  #techie #softwareengineer #india #bangalore #AI #roastbattle #darkhumor #techroastshow</title>
-    <updated>2024-10-06T15:16:46+00:00</updated>
-    <content>prison is also outcome based  #techie #softwareengineer #india #bangalore #AI #roastbattle #darkhumor #techroastshow</content>
-    <link href="https://tiktok.com/@techroastshow/video/7422681815971925279"/>
-    <published>2024-10-06T15:16:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7423020681052294431</id>
     <title>we learned nothing and yet everything  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</title>
@@ -267,6 +259,14 @@
     <content>their only in-network doctor is a horse doctor  #techie #softwareengineer #bangalore #india #programmerlife #roastbattle #darkhumor #techroastshow </content>
     <link href="https://tiktok.com/@techroastshow/video/7431550191490043167"/>
     <published>2024-10-30T12:50:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7431701565280357663</id>
+    <title>he’s looking for a new partner #techie #softwareengineer #spacex #sanfrancisco #elonmusk #tesla #x #techroastshow </title>
+    <updated>2024-10-30T22:37:54+00:00</updated>
+    <content>he’s looking for a new partner #techie #softwareengineer #spacex #sanfrancisco #elonmusk #tesla #x #techroastshow </content>
+    <link href="https://tiktok.com/@techroastshow/video/7431701565280357663"/>
+    <published>2024-10-30T22:37:54+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
