@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-10-29T21:20:46+00:00</updated>
+  <updated>2024-10-30T13:53:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7415740945259384094</id>
-    <title>Do you like my Opera voice?  #opera #singing </title>
-    <updated>2024-09-17T22:22:31+00:00</updated>
-    <content>Do you like my Opera voice?  #opera #singing </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7415740945259384094"/>
-    <published>2024-09-17T22:22:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7416118137277500702</id>
     <title>Bipolar he/him 😂 #imexhausted #bipolar #fyp </title>
@@ -131,6 +123,14 @@
     <content>The Pizza Director  #pizza #fy #nyc </content>
     <link href="https://tiktok.com/@jessicakirson/video/7422808167333088543"/>
     <published>2024-10-06T23:27:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7423392379157187870</id>
+    <title>The Never Ending Tour has a lot of dates on sale! I can’t wait to see you all on the road. Tickets are available on my site xoxo</title>
+    <updated>2024-10-08T13:14:21+00:00</updated>
+    <content>The Never Ending Tour has a lot of dates on sale! I can’t wait to see you all on the road. Tickets are available on my site xoxo</content>
+    <link href="https://tiktok.com/@jessicakirson/video/7423392379157187870"/>
+    <published>2024-10-08T13:14:21+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7423526080184683806</id>
@@ -277,19 +277,19 @@
     <published>2024-10-29T21:20:46+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7423392379157187870</id>
-    <title>The Never Ending Tour has a lot of dates on sale! I can’t wait to see you all on the road. Tickets are available on my site xoxo</title>
-    <updated>2024-10-08T13:14:21+00:00</updated>
-    <content>The Never Ending Tour has a lot of dates on sale! I can’t wait to see you all on the road. Tickets are available on my site xoxo</content>
-    <link href="https://tiktok.com/@jessicakirson/video/7423392379157187870"/>
-    <published>2024-10-08T13:14:21+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@jessicakirson/video/7428227983430716703</id>
     <title>HIII!! I have amazing news that I’m so excited to announce. My show at the Beacon Theatre on Friday, April 25th will go on presale this Wednesday at 10AM with the code SILLY. This will be the largest venue I’ve ever done in NYC so I need your help by liki</title>
     <updated>2024-10-21T13:58:58+00:00</updated>
     <content>HIII!! I have amazing news that I’m so excited to announce. My show at the Beacon Theatre on Friday, April 25th will go on presale this Wednesday at 10AM with the code SILLY. This will be the largest venue I’ve ever done in NYC so I need your help by liki</content>
     <link href="https://tiktok.com/@jessicakirson/video/7428227983430716703"/>
     <published>2024-10-21T13:58:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7431566341846387999</id>
+    <title>Hiii I have added new cities to The Never Ending Tour! Presale starts tomorrow with code SILLY. Tix are on my site xoxo. #sanfrancisco #montclairnj #losangeles #sandiego #portland </title>
+    <updated>2024-10-30T13:53:05+00:00</updated>
+    <content>Hiii I have added new cities to The Never Ending Tour! Presale starts tomorrow with code SILLY. Tix are on my site xoxo. #sanfrancisco #montclairnj #losangeles #sandiego #portland </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7431566341846387999"/>
+    <published>2024-10-30T13:53:05+00:00</published>
   </entry>
 </feed>
