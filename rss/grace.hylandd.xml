@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-10-30T03:02:37+00:00</updated>
+  <updated>2024-10-30T05:57:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7413280815997603092</id>
-    <title>She fd me up fr</title>
-    <updated>2024-09-11T07:15:53+00:00</updated>
-    <content>She fd me up fr</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7413280815997603092"/>
-    <published>2024-09-11T07:15:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7413299094308867349</id>
     <title>Am I crazy???</title>
@@ -267,5 +259,13 @@
     <content>I’ve always though Vanessa from the little mermaid was honestly the most cvnt disney villain! If I was Ursula I would’ve stayed like that forever!!!</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7431398720886820097"/>
     <published>2024-10-30T03:02:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7431443696563784976</id>
+    <title>He didn’t look like Hayden Christensen anyway so 🤷🏽‍♀️</title>
+    <updated>2024-10-30T05:57:08+00:00</updated>
+    <content>He didn’t look like Hayden Christensen anyway so 🤷🏽‍♀️</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7431443696563784976"/>
+    <published>2024-10-30T05:57:08+00:00</published>
   </entry>
 </feed>
