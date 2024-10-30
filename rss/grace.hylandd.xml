@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-10-28T11:15:26+00:00</updated>
+  <updated>2024-10-30T03:02:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7413243475262524692</id>
-    <title>🥀 who cares</title>
-    <updated>2024-09-11T04:50:58+00:00</updated>
-    <content>🥀 who cares</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7413243475262524692"/>
-    <published>2024-09-11T04:50:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7413280815997603092</id>
     <title>She fd me up fr</title>
@@ -267,5 +259,13 @@
     <content>VANESSA 🔮🐚 #halloween </content>
     <link href="https://tiktok.com/@grace.hylandd/video/7430783541396376848"/>
     <published>2024-10-28T11:15:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7431398720886820097</id>
+    <title>I’ve always though Vanessa from the little mermaid was honestly the most cvnt disney villain! If I was Ursula I would’ve stayed like that forever!!!</title>
+    <updated>2024-10-30T03:02:37+00:00</updated>
+    <content>I’ve always though Vanessa from the little mermaid was honestly the most cvnt disney villain! If I was Ursula I would’ve stayed like that forever!!!</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7431398720886820097"/>
+    <published>2024-10-30T03:02:37+00:00</published>
   </entry>
 </feed>
