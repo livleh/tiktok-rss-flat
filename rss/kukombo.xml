@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@kukombo</id>
   <title>kukombo</title>
-  <updated>2024-10-16T16:58:23+00:00</updated>
+  <updated>2024-10-30T16:18:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from kukombo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kukombo/video/7160891681770900738</id>
-    <title>I’m bad luck. Good was never an option for me 😉 #teentitans #jinx #jinxteentitans #voguebeautyhalloween </title>
-    <updated>2022-11-01T03:57:33+00:00</updated>
-    <content>I’m bad luck. Good was never an option for me 😉 #teentitans #jinx #jinxteentitans #voguebeautyhalloween </content>
-    <link href="https://tiktok.com/@kukombo/video/7160891681770900738"/>
-    <published>2022-11-01T03:57:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kukombo/video/7163398974185966849</id>
     <title>Who needs a coven when you have @MARVELSNAP? 😌 Download and play today to unlock these exclusive Agatha variants! #marvelsnap </title>
@@ -267,6 +259,14 @@
     <content>★ ☆ ☆ ☆ ☆</content>
     <link href="https://tiktok.com/@kukombo/video/7426418817477250335"/>
     <published>2024-10-16T16:58:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kukombo/video/7431603862500347167</id>
+    <title>chewed #violetbeauregarde </title>
+    <updated>2024-10-30T16:18:43+00:00</updated>
+    <content>chewed #violetbeauregarde </content>
+    <link href="https://tiktok.com/@kukombo/video/7431603862500347167"/>
+    <published>2024-10-30T16:18:43+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@kukombo/video/6985183691433659650</id>
