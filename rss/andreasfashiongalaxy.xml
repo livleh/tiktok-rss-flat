@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@andreasfashiongalaxy</id>
   <title>andreasfashiongalaxy</title>
-  <updated>2024-10-30T21:00:36+00:00</updated>
+  <updated>2024-10-31T21:00:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from andreasfashiongalaxy</subtitle>
-  <entry>
-    <id>https://tiktok.com/@andreasfashiongalaxy/video/7374885100934188321</id>
-    <title>Ad What I’d love to wear every day just because #letsgetdressed 🔗 in bio for dresses + 10% discount code: ANDREA</title>
-    <updated>2024-05-30T20:00:51+00:00</updated>
-    <content>Ad What I’d love to wear every day just because #letsgetdressed 🔗 in bio for dresses + 10% discount code: ANDREA</content>
-    <link href="https://tiktok.com/@andreasfashiongalaxy/video/7374885100934188321"/>
-    <published>2024-05-30T20:00:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@andreasfashiongalaxy/video/7379336351927242016</id>
     <title>Ad Recreating Dior outfits on a budget using vintage and secondhand clothes #letsgetdressed </title>
@@ -291,5 +283,13 @@
     <content>How to style an outfit when you lack inspiration and belt name reveal #letsgetdressed </content>
     <link href="https://tiktok.com/@andreasfashiongalaxy/video/7431676508986510624"/>
     <published>2024-10-30T21:00:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@andreasfashiongalaxy/video/7432047572132416801</id>
+    <title>Styling a Vivienne Westwood inspired outfit #letsgetdressed </title>
+    <updated>2024-10-31T21:00:25+00:00</updated>
+    <content>Styling a Vivienne Westwood inspired outfit #letsgetdressed </content>
+    <link href="https://tiktok.com/@andreasfashiongalaxy/video/7432047572132416801"/>
+    <published>2024-10-31T21:00:25+00:00</published>
   </entry>
 </feed>
