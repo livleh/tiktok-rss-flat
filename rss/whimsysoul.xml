@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-10-31T02:12:31+00:00</updated>
+  <updated>2024-10-31T14:30:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7424984742090525995</id>
-    <title>would fly back to Vermont just for this maple croissant #stowevt #stowe #croissant #whimsysoul #food #newengland #falltrip #autumnaesthetic #vermonttiktok #vermont #vermontlife </title>
-    <updated>2024-10-12T20:13:02+00:00</updated>
-    <content>would fly back to Vermont just for this maple croissant #stowevt #stowe #croissant #whimsysoul #food #newengland #falltrip #autumnaesthetic #vermonttiktok #vermont #vermontlife </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7424984742090525995"/>
-    <published>2024-10-12T20:13:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7425011862770732334</id>
     <title>Replying to @MAC 🇵🇸🇨🇩🇸🇩☮️ you can't miss this famous cider spot in Vermont!! 🍎🍁 I was worried Cold Hollow Cider Mill was all hype and just meh food and cider, but it was totally worth it.  I had a tasty sandwich for lunch and then we headed to the bakery </title>
@@ -267,6 +259,14 @@
     <content>always double check what you're eating lol 🦗🦗🦗  nobody told us our mescal shots came with crickets and it was kinda dark in the restaurant so I thought they were like tiny peppers or something 🤡🤮 NOPE NOPE NOPE #mescal #cricket #gross #lol #omg #funny</content>
     <link href="https://tiktok.com/@whimsysoul/video/7431756909016927531"/>
     <published>2024-10-31T02:12:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7431947051505683755</id>
+    <title>if i need to be blown over to get some santa holiday magic so be it #theholiday #jackblack #santaana #wind #losangeles #socal #california @Jessica Moore </title>
+    <updated>2024-10-31T14:30:22+00:00</updated>
+    <content>if i need to be blown over to get some santa holiday magic so be it #theholiday #jackblack #santaana #wind #losangeles #socal #california @Jessica Moore </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7431947051505683755"/>
+    <published>2024-10-31T14:30:22+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
