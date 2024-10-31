@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-10-31T14:30:22+00:00</updated>
+  <updated>2024-10-31T19:37:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7425011862770732334</id>
-    <title>Replying to @MAC 🇵🇸🇨🇩🇸🇩☮️ you can't miss this famous cider spot in Vermont!! 🍎🍁 I was worried Cold Hollow Cider Mill was all hype and just meh food and cider, but it was totally worth it.  I had a tasty sandwich for lunch and then we headed to the bakery </title>
-    <updated>2024-10-12T21:58:17+00:00</updated>
-    <content>Replying to @MAC 🇵🇸🇨🇩🇸🇩☮️ you can't miss this famous cider spot in Vermont!! 🍎🍁 I was worried Cold Hollow Cider Mill was all hype and just meh food and cider, but it was totally worth it.  I had a tasty sandwich for lunch and then we headed to the bakery </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7425011862770732334"/>
-    <published>2024-10-12T21:58:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7425441922275331374</id>
     <title>please i need this audio to be a thing so badly 🎃 🎅 #hoahoa #remixes #music #mashups #fallvibes #christmas #halloweenmusic #christmasmusic #mariahcarey #santa #twilight #musictok #mashupsongs </title>
@@ -267,6 +259,14 @@
     <content>if i need to be blown over to get some santa holiday magic so be it #theholiday #jackblack #santaana #wind #losangeles #socal #california @Jessica Moore </content>
     <link href="https://tiktok.com/@whimsysoul/video/7431947051505683755"/>
     <published>2024-10-31T14:30:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7432026139532660014</id>
+    <title>so spooky #sanfrancisco #halloween </title>
+    <updated>2024-10-31T19:37:15+00:00</updated>
+    <content>so spooky #sanfrancisco #halloween </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7432026139532660014"/>
+    <published>2024-10-31T19:37:15+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
