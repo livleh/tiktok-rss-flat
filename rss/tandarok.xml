@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-10-30T20:41:24+00:00</updated>
+  <updated>2024-10-31T17:47:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7412899073390300449</id>
-    <title>Geht ihr gerne wandern? #twitchde #twitchgermany #twitchclips #datinglife </title>
-    <updated>2024-09-10T06:34:35+00:00</updated>
-    <content>Geht ihr gerne wandern? #twitchde #twitchgermany #twitchclips #datinglife </content>
-    <link href="https://tiktok.com/@tandarok/video/7412899073390300449"/>
-    <published>2024-09-10T06:34:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7413291900058209569</id>
     <title>New insecurity unlocked #twitchde #twitchgermany #twitchclips </title>
@@ -267,6 +259,14 @@
     <content>Wir lieben Typen, die behaupten, sie wären poly, aber sich nie damit beschäftigt haben, was das eigentlich bedeutet 🫠 #polyam #polyamorie #polyamorousrelationship </content>
     <link href="https://tiktok.com/@tandarok/video/7431671567882538272"/>
     <published>2024-10-30T20:41:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7431997734644632864</id>
+    <title>Also in Deutschland kannst du das alles schon streamen 👀 Just fyi @seitansbraten </title>
+    <updated>2024-10-31T17:47:02+00:00</updated>
+    <content>Also in Deutschland kannst du das alles schon streamen 👀 Just fyi @seitansbraten </content>
+    <link href="https://tiktok.com/@tandarok/video/7431997734644632864"/>
+    <published>2024-10-31T17:47:02+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
