@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-10-30T18:18:31+00:00</updated>
+  <updated>2024-10-31T16:30:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7429020189162802464</id>
-    <title>idk why im still asked 😭 #lesbian #wlw #nmlnm #lgbt #lgbtq </title>
-    <updated>2024-10-23T17:12:38+00:00</updated>
-    <content>idk why im still asked 😭 #lesbian #wlw #nmlnm #lgbt #lgbtq </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7429020189162802464"/>
-    <published>2024-10-23T17:12:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7429027474278714657</id>
     <title>could you do it!?? #halloween #wlw </title>
@@ -267,6 +259,14 @@
     <content>im too tired to know if thid is funny or readable 😭 #familyvlogger </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7431634747069156641"/>
     <published>2024-10-30T18:18:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7431978082459864352</id>
+    <title>happy halloweennn :) #halloweentransition #halloweencostume #mymelody </title>
+    <updated>2024-10-31T16:30:48+00:00</updated>
+    <content>happy halloweennn :) #halloweentransition #halloweencostume #mymelody </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7431978082459864352"/>
+    <published>2024-10-31T16:30:48+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>

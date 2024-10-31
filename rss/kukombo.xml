@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@kukombo</id>
   <title>kukombo</title>
-  <updated>2024-10-30T16:18:43+00:00</updated>
+  <updated>2024-10-31T16:05:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from kukombo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kukombo/video/7163398974185966849</id>
-    <title>Who needs a coven when you have @MARVELSNAP? 😌 Download and play today to unlock these exclusive Agatha variants! #marvelsnap </title>
-    <updated>2022-11-07T22:06:45+00:00</updated>
-    <content>Who needs a coven when you have @MARVELSNAP? 😌 Download and play today to unlock these exclusive Agatha variants! #marvelsnap </content>
-    <link href="https://tiktok.com/@kukombo/video/7163398974185966849"/>
-    <published>2022-11-07T22:06:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kukombo/video/7167402120847674626</id>
     <title>Nothing is ever what it seems in @Coca-Cola US Dreamworld! Let me know your wildest dreams and it might just come to life in a future video! #cocacola #cocacoladreamworld #cocacolacreations  #cokepartner </title>
@@ -267,6 +259,14 @@
     <content>chewed #violetbeauregarde </content>
     <link href="https://tiktok.com/@kukombo/video/7431603862500347167"/>
     <published>2024-10-30T16:18:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kukombo/video/7431971468356963615</id>
+    <title>Bingo 🪩 #GogoYubari #KillBill</title>
+    <updated>2024-10-31T16:05:12+00:00</updated>
+    <content>Bingo 🪩 #GogoYubari #KillBill</content>
+    <link href="https://tiktok.com/@kukombo/video/7431971468356963615"/>
+    <published>2024-10-31T16:05:12+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@kukombo/video/6985183691433659650</id>
