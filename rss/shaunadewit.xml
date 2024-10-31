@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shaunadewit</id>
   <title>shaunadewit</title>
-  <updated>2024-10-28T13:31:16+00:00</updated>
+  <updated>2024-10-31T14:02:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shaunadewit</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shaunadewit/video/7391807452888567073</id>
-    <title>Always remember that they care &lt;3 #foryou #humor #goviral #pourtoi #therapy #fun </title>
-    <updated>2024-07-15T10:28:22+00:00</updated>
-    <content>Always remember that they care &lt;3 #foryou #humor #goviral #pourtoi #therapy #fun </content>
-    <link href="https://tiktok.com/@shaunadewit/video/7391807452888567073"/>
-    <published>2024-07-15T10:28:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/7392145035359161632</id>
     <title>#advertising enjoy the prime days and get the best thing you need for this summer !  @amazonbelgique it’s only today and tomorrow ! (16 &amp; 17 july) </title>
@@ -283,6 +275,14 @@
     <content>It’s the « aaaah » for me #foryou #humor #goviral #pourtoi #comedy #halloween2024 </content>
     <link href="https://tiktok.com/@shaunadewit/video/7430818541755960609"/>
     <published>2024-10-28T13:31:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shaunadewit/video/7431939735397960992</id>
+    <title>Happy Halloween #foryou #humor #goviral #pourtoi #comedy </title>
+    <updated>2024-10-31T14:02:00+00:00</updated>
+    <content>Happy Halloween #foryou #humor #goviral #pourtoi #comedy </content>
+    <link href="https://tiktok.com/@shaunadewit/video/7431939735397960992"/>
+    <published>2024-10-31T14:02:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/6994791135415766278</id>
