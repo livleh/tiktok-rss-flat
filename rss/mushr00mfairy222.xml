@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-10-31T17:41:56+00:00</updated>
+  <updated>2024-10-31T19:16:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7429033795036122400</id>
-    <title>a cannon event i fear #autism #autistic #pink </title>
-    <updated>2024-10-23T18:05:25+00:00</updated>
-    <content>a cannon event i fear #autism #autistic #pink </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7429033795036122400"/>
-    <published>2024-10-23T18:05:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7429038351610694944</id>
-    <title>im always funny as well 😔 #relatable </title>
-    <updated>2024-10-23T18:23:07+00:00</updated>
-    <content>im always funny as well 😔 #relatable </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7429038351610694944"/>
-    <published>2024-10-23T18:23:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7429348078026558753</id>
     <title>unless screenshots count? #vibe #lastphotos #CapCut </title>
@@ -267,6 +251,22 @@
     <content>COSTUME REVEAL #halloweentransition #mymelody </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7431996414550412577"/>
     <published>2024-10-31T17:41:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7432020639873027361</id>
+    <title>(not while driving ofc!! be safe!!)@Bee 💚 #halloween #halloween2024 </title>
+    <updated>2024-10-31T19:15:55+00:00</updated>
+    <content>(not while driving ofc!! be safe!!)@Bee 💚 #halloween #halloween2024 </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7432020639873027361"/>
+    <published>2024-10-31T19:15:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7432020722794368288</id>
+    <title>DO U LIKE THE COSTUMES @Bee 💚 #dance #mymelody #kuromi #halloweencustome </title>
+    <updated>2024-10-31T19:16:13+00:00</updated>
+    <content>DO U LIKE THE COSTUMES @Bee 💚 #dance #mymelody #kuromi #halloweencustome </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7432020722794368288"/>
+    <published>2024-10-31T19:16:13+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
