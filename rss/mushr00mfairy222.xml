@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-10-31T19:41:49+00:00</updated>
+  <updated>2024-11-01T16:02:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7429707388908834081</id>
-    <title>@Jazmin Bean SEE U SOON #jazminbean #concert #ootd </title>
-    <updated>2024-10-25T13:39:21+00:00</updated>
-    <content>@Jazmin Bean SEE U SOON #jazminbean #concert #ootd </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7429707388908834081"/>
-    <published>2024-10-25T13:39:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7429742151023562017</id>
     <title>none of my business 😋 #ootd #alt </title>
@@ -267,6 +259,14 @@
     <content>HAPPY HALLOWEEN #halloweentransition #halloweencustome #mymelody </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7432027305238727969"/>
     <published>2024-10-31T19:41:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7432341729065405729</id>
+    <title>wake up babe new gracie abrams mv just dropped #CapCut </title>
+    <updated>2024-11-01T16:02:17+00:00</updated>
+    <content>wake up babe new gracie abrams mv just dropped #CapCut </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7432341729065405729"/>
+    <published>2024-11-01T16:02:17+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
