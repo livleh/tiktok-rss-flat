@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@celestialhuntress</id>
   <title>celestialhuntress</title>
-  <updated>2024-10-31T20:21:14+00:00</updated>
+  <updated>2024-11-01T03:40:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from celestialhuntress</subtitle>
-  <entry>
-    <id>https://tiktok.com/@celestialhuntress/video/7318155235862580522</id>
-    <title>No Title</title>
-    <updated>2023-12-29T23:00:17+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@celestialhuntress/video/7318155235862580522"/>
-    <published>2023-12-29T23:00:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@celestialhuntress/video/7318559033110072619</id>
     <title>I swear i can wink without clicking my tongue, it’s involuntary at this point #transgender #genderfluid #transfemme </title>
@@ -291,5 +283,13 @@
     <content>It doesnt matter if the bits funny or not, it persists because i am my target audience #transgender #genderfluid #transfemme </content>
     <link href="https://tiktok.com/@celestialhuntress/video/7432037471061364010"/>
     <published>2024-10-31T20:21:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@celestialhuntress/video/7432150617256381738</id>
+    <title>Caption #transgender #genderfluid #transfemme </title>
+    <updated>2024-11-01T03:40:16+00:00</updated>
+    <content>Caption #transgender #genderfluid #transfemme </content>
+    <link href="https://tiktok.com/@celestialhuntress/video/7432150617256381738"/>
+    <published>2024-11-01T03:40:16+00:00</published>
   </entry>
 </feed>
