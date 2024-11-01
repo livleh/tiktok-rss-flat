@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@pasha</id>
   <title>pasha</title>
-  <updated>2024-10-31T10:21:02+00:00</updated>
+  <updated>2024-11-01T10:02:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pasha</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pasha/video/7389961444856499473</id>
-    <title>do you ever feel this type of way? 😅 if you want to bury your рain in chocolate, consider channeling your energy into baking а “рain au chocolat” (a special French pastry) from scratch.  the complexity of the baking process for this pastry will make you f</title>
-    <updated>2024-07-10T11:04:49+00:00</updated>
-    <content>do you ever feel this type of way? 😅 if you want to bury your рain in chocolate, consider channeling your energy into baking а “рain au chocolat” (a special French pastry) from scratch.  the complexity of the baking process for this pastry will make you f</content>
-    <link href="https://tiktok.com/@pasha/video/7389961444856499473"/>
-    <published>2024-07-10T11:04:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7390688221883010325</id>
     <title>please do not do this to me ever again…thank you! 😊 #work #holidayvibes #micromanager #workplace #office #coworkers #corporate </title>
@@ -267,6 +259,14 @@
     <content>dear manager and co-workers, we’re going in circles with the same questions 😩😭 here’s a game-changer: Instead of repeating ourselves, why not streamline the process with ✨ Scribe✨?   this tool, powered by АI, automatically captures everything you do - scr</content>
     <link href="https://tiktok.com/@pasha/video/7431882811642088722"/>
     <published>2024-10-31T10:21:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pasha/video/7432249194271755527</id>
+    <title>Gen Z 🤝 healthy work boundaries #comedy #genz </title>
+    <updated>2024-11-01T10:02:47+00:00</updated>
+    <content>Gen Z 🤝 healthy work boundaries #comedy #genz </content>
+    <link href="https://tiktok.com/@pasha/video/7432249194271755527"/>
+    <published>2024-11-01T10:02:47+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7402693921005899028</id>
