@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-10-31T14:21:18+00:00</updated>
+  <updated>2024-11-01T14:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7425976323836874017</id>
-    <title>when you are lagging in real life #vtuber</title>
-    <updated>2024-10-15T13:00:00+00:00</updated>
-    <content>when you are lagging in real life #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7425976323836874017"/>
-    <published>2024-10-15T13:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7425990950331239712</id>
     <title>i can be dominant i swear #vtuber</title>
@@ -275,6 +267,14 @@
     <content>valorant players are scared of women w/ @van1llabeanz #vtuber</content>
     <link href="https://tiktok.com/@nyaravt/video/7431944715622190368"/>
     <published>2024-10-31T14:21:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7431945099937844513</id>
+    <title>don't worry about the clicker training #vtuber</title>
+    <updated>2024-11-01T14:00:00+00:00</updated>
+    <content>don't worry about the clicker training #vtuber</content>
+    <link href="https://tiktok.com/@nyaravt/video/7431945099937844513"/>
+    <published>2024-11-01T14:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>
