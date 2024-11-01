@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-10-31T17:47:02+00:00</updated>
+  <updated>2024-11-01T07:43:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7413291900058209569</id>
-    <title>New insecurity unlocked #twitchde #twitchgermany #twitchclips </title>
-    <updated>2024-09-11T07:58:53+00:00</updated>
-    <content>New insecurity unlocked #twitchde #twitchgermany #twitchclips </content>
-    <link href="https://tiktok.com/@tandarok/video/7413291900058209569"/>
-    <published>2024-09-11T07:58:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7413451580252409121</id>
     <title>Und gleich doppelt 🚮 wenn du selbst trans bist und meinst gegen nicht binäre Leute schießen zu müssen. #nonbinary #queertok </title>
@@ -267,6 +259,14 @@
     <content>Also in Deutschland kannst du das alles schon streamen 👀 Just fyi @seitansbraten </content>
     <link href="https://tiktok.com/@tandarok/video/7431997734644632864"/>
     <published>2024-10-31T17:47:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7432213250051231008</id>
+    <title>Hinterfragt bitte eure Dating Präferenzen und reflektiert, woher die kommen. Ich habe mittlerweile so einen Hass auf Ferry. #bachelorette #diebachelorette2024 #rtlplus #ferry </title>
+    <updated>2024-11-01T07:43:35+00:00</updated>
+    <content>Hinterfragt bitte eure Dating Präferenzen und reflektiert, woher die kommen. Ich habe mittlerweile so einen Hass auf Ferry. #bachelorette #diebachelorette2024 #rtlplus #ferry </content>
+    <link href="https://tiktok.com/@tandarok/video/7432213250051231008"/>
+    <published>2024-11-01T07:43:35+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
