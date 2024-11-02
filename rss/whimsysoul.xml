@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-11-01T23:03:23+00:00</updated>
+  <updated>2024-11-02T01:29:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7425843718013357355</id>
-    <title>fall magic does exist 🍁 ✨  Just got back from Stowe, Vermont and it's everything I hoped for and more.  Cool hotels, an adorable downtown, great coffee shops, cider, maple farm stands, gondolas, fall foliage and more. 👏  Add Stowe to your bucket list and </title>
-    <updated>2024-10-15T03:46:18+00:00</updated>
-    <content>fall magic does exist 🍁 ✨  Just got back from Stowe, Vermont and it's everything I hoped for and more.  Cool hotels, an adorable downtown, great coffee shops, cider, maple farm stands, gondolas, fall foliage and more. 👏  Add Stowe to your bucket list and </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7425843718013357355"/>
-    <published>2024-10-15T03:46:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7426558318224624939</id>
     <title>Epic Halloween train ride in California!!! 🚂 i swear this healed my inner child.  Roaring Camp has a special Thomas the Tank Engine train ride through the Redwoods every October, but only for the month of October and only on weekends as a special event fo</title>
@@ -267,6 +259,14 @@
     <content>If you love women vote Kamala Harris ✌️ #kamalaharris2024🇺🇸💙  Inspired by my favorite baby wet seal man @Brian Jordan Alvarez 🦭 #voteblue2024💙 #vote #election2024 #trump #kamalahq #sanfrancisco </content>
     <link href="https://tiktok.com/@whimsysoul/video/7432450344371719466"/>
     <published>2024-11-01T23:03:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7432488026732891434</id>
+    <title>30 waterfalls!? 😱 You haven't lived until you've done a Norway fjord cruise 🚢🇳🇴 A highlight of our Bergen trip was a cruise into the Mostraumen strait which is filled with waterfalls and towering mountains.  Even though it was pouring rain, I had so much </title>
+    <updated>2024-11-02T01:29:36+00:00</updated>
+    <content>30 waterfalls!? 😱 You haven't lived until you've done a Norway fjord cruise 🚢🇳🇴 A highlight of our Bergen trip was a cruise into the Mostraumen strait which is filled with waterfalls and towering mountains.  Even though it was pouring rain, I had so much </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7432488026732891434"/>
+    <published>2024-11-02T01:29:36+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
