@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-11-01T07:39:09+00:00</updated>
+  <updated>2024-11-02T07:05:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -259,5 +259,13 @@
     <content>The transgender Namiii</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7432212133066083585"/>
     <published>2024-11-01T07:39:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7432574442078817537</id>
+    <title>Dont throw stones at glass houses</title>
+    <updated>2024-11-02T07:05:04+00:00</updated>
+    <content>Dont throw stones at glass houses</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7432574442078817537"/>
+    <published>2024-11-02T07:05:04+00:00</published>
   </entry>
 </feed>
