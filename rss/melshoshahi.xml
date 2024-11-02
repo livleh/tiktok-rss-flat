@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@melshoshahi</id>
   <title>melshoshahi</title>
-  <updated>2024-10-31T17:47:14+00:00</updated>
+  <updated>2024-11-02T17:59:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from melshoshahi</subtitle>
-  <entry>
-    <id>https://tiktok.com/@melshoshahi/video/7400822583559556383</id>
-    <title>Another hairy day at the waxing salon 😅 #shaving #shave #waxing #hairremoval #tiktokskit #sketchcomedy </title>
-    <updated>2024-08-08T17:31:35+00:00</updated>
-    <content>Another hairy day at the waxing salon 😅 #shaving #shave #waxing #hairremoval #tiktokskit #sketchcomedy </content>
-    <link href="https://tiktok.com/@melshoshahi/video/7400822583559556383"/>
-    <published>2024-08-08T17:31:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@melshoshahi/video/7401550489474682143</id>
     <title>The Hermes pronounciation is vital, otherwise you don’t deserving to wearing it uhkay!  #retail #luxurybag #customservice #tiktokskit #sketchcomedy #hermes #hermespronunciation </title>
@@ -267,6 +259,14 @@
     <content>Should we get free drinks on our birthdays? ☕️  #barista #customerservice #tiktokskit #coffee </content>
     <link href="https://tiktok.com/@melshoshahi/video/7431997763224636703"/>
     <published>2024-10-31T17:47:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@melshoshahi/video/7432743206564973854</id>
+    <title>I want to get carded until I’m 109, u niooo 💅🏽 #tiktokskit #bartender  #sketchcomedy </title>
+    <updated>2024-11-02T17:59:59+00:00</updated>
+    <content>I want to get carded until I’m 109, u niooo 💅🏽 #tiktokskit #bartender  #sketchcomedy </content>
+    <link href="https://tiktok.com/@melshoshahi/video/7432743206564973854"/>
+    <published>2024-11-02T17:59:59+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@melshoshahi/video/7282846082986462507</id>
