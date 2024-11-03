@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@palim_tintin</id>
   <title>palim_tintin</title>
-  <updated>2024-10-28T18:59:50+00:00</updated>
+  <updated>2024-11-03T10:20:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from palim_tintin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@palim_tintin/video/7354880038182882593</id>
-    <title>💞🧡💞</title>
-    <updated>2024-04-06T22:10:59+00:00</updated>
-    <content>💞🧡💞</content>
-    <link href="https://tiktok.com/@palim_tintin/video/7354880038182882593"/>
-    <published>2024-04-06T22:10:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@palim_tintin/video/7355064122117066017</id>
     <title>WHAT I THRIFTED vs. HOW I STYLED IT 🧡 #secondhand #secondhandfashion #thrifted #thriftedfashion #fashion #fashiontiktok #styleinspo #styletips </title>
@@ -267,6 +259,14 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@palim_tintin/video/7430903228763622689"/>
     <published>2024-10-28T18:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@palim_tintin/video/7432995851343023393</id>
+    <title>1 Blazer ~ 5 Outfits 🤎🍁🍂 #herbstoutfits #herbst #wiw #mystyle #blazer #blazeroutfit </title>
+    <updated>2024-11-03T10:20:20+00:00</updated>
+    <content>1 Blazer ~ 5 Outfits 🤎🍁🍂 #herbstoutfits #herbst #wiw #mystyle #blazer #blazeroutfit </content>
+    <link href="https://tiktok.com/@palim_tintin/video/7432995851343023393"/>
+    <published>2024-11-03T10:20:20+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@palim_tintin/video/7189301520721005829</id>
