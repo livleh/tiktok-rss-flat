@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tallywyteee</id>
   <title>tallywyteee</title>
-  <updated>2024-10-30T16:14:23+00:00</updated>
+  <updated>2024-11-03T22:16:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tallywyteee</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tallywyteee/video/7381189496475274527</id>
-    <title>Why would homie ask me such a ridiculous question? 😭 #trans #transgirl #transgender #transwoman #transandproud </title>
-    <updated>2024-06-16T19:45:25+00:00</updated>
-    <content>Why would homie ask me such a ridiculous question? 😭 #trans #transgirl #transgender #transwoman #transandproud </content>
-    <link href="https://tiktok.com/@tallywyteee/video/7381189496475274527"/>
-    <published>2024-06-16T19:45:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7382686160700673310</id>
     <title>That would lowkey be funny af… 👀💙 #trans #transgirl #transandproud #transwoman #transgender </title>
@@ -275,6 +267,14 @@
     <content>Be careful homie, I might getcho girl’s number too… 😂👀💙 (but you’re number one, don’t forget that)</content>
     <link href="https://tiktok.com/@tallywyteee/video/7431602770051960110"/>
     <published>2024-10-30T16:14:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tallywyteee/video/7433180499105025326</id>
+    <title>Is this as real as it gets for a trans girl? 😂🏳️‍⚧️</title>
+    <updated>2024-11-03T22:16:45+00:00</updated>
+    <content>Is this as real as it gets for a trans girl? 😂🏳️‍⚧️</content>
+    <link href="https://tiktok.com/@tallywyteee/video/7433180499105025326"/>
+    <published>2024-11-03T22:16:45+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7261699619762048298</id>
