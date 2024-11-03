@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@pasha</id>
   <title>pasha</title>
-  <updated>2024-11-02T09:50:57+00:00</updated>
+  <updated>2024-11-03T11:35:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pasha</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pasha/video/7390688221883010325</id>
-    <title>please do not do this to me ever again…thank you! 😊 #work #holidayvibes #micromanager #workplace #office #coworkers #corporate </title>
-    <updated>2024-07-12T10:04:59+00:00</updated>
-    <content>please do not do this to me ever again…thank you! 😊 #work #holidayvibes #micromanager #workplace #office #coworkers #corporate </content>
-    <link href="https://tiktok.com/@pasha/video/7390688221883010325"/>
-    <published>2024-07-12T10:04:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7391455757683723527</id>
     <title>dear recruiter, promise that everything in this job application is true and that my face just does this for no reason 😊  #recruiter #jobs #linkedin #jobapplication #resume #comedy</title>
@@ -283,6 +275,14 @@
     <content>when Taylor Swift says every crowd in every city is the best ever 🤣 #comedy #taylorswift </content>
     <link href="https://tiktok.com/@pasha/video/7432617227263692039"/>
     <published>2024-11-02T09:50:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pasha/video/7433015323294584071</id>
+    <title>Gen Z 🤝 getting work done #comedy #genz </title>
+    <updated>2024-11-03T11:35:48+00:00</updated>
+    <content>Gen Z 🤝 getting work done #comedy #genz </content>
+    <link href="https://tiktok.com/@pasha/video/7433015323294584071"/>
+    <published>2024-11-03T11:35:48+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7376973857233587457</id>
