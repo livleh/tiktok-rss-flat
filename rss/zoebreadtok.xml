@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-10-31T18:24:37+00:00</updated>
+  <updated>2024-11-03T18:23:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7410853320710966560</id>
-    <title>thank you very much for the inspiration @Hannah Brackenbury </title>
-    <updated>2024-09-04T18:15:57+00:00</updated>
-    <content>thank you very much for the inspiration @Hannah Brackenbury </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7410853320710966560"/>
-    <published>2024-09-04T18:15:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7411212990487301408</id>
     <title>how did you celebrate national be late for something day? i hope cory sees this video </title>
@@ -283,6 +275,14 @@
     <content>i think i need a lawyer </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7432007418625789217"/>
     <published>2024-10-31T18:24:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7433120478929243424</id>
+    <title>the rarest brownies badge!!! st albans chippy hike</title>
+    <updated>2024-11-03T18:23:54+00:00</updated>
+    <content>the rarest brownies badge!!! st albans chippy hike</content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7433120478929243424"/>
+    <published>2024-11-03T18:23:54+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7391078276183215392</id>
