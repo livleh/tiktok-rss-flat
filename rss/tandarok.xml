@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-11-01T07:43:35+00:00</updated>
+  <updated>2024-11-04T08:56:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7413451580252409121</id>
-    <title>Und gleich doppelt 🚮 wenn du selbst trans bist und meinst gegen nicht binäre Leute schießen zu müssen. #nonbinary #queertok </title>
-    <updated>2024-09-11T18:18:29+00:00</updated>
-    <content>Und gleich doppelt 🚮 wenn du selbst trans bist und meinst gegen nicht binäre Leute schießen zu müssen. #nonbinary #queertok </content>
-    <link href="https://tiktok.com/@tandarok/video/7413451580252409121"/>
-    <published>2024-09-11T18:18:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7413150105760435488</id>
     <title>Datet ihr mehr als eine Person gleichzeitig oder immer eine nach der anderen? #dating #datinglife #singlelife</title>
@@ -267,6 +259,14 @@
     <content>Hinterfragt bitte eure Dating Präferenzen und reflektiert, woher die kommen. Ich habe mittlerweile so einen Hass auf Ferry. #bachelorette #diebachelorette2024 #rtlplus #ferry </content>
     <link href="https://tiktok.com/@tandarok/video/7432213250051231008"/>
     <published>2024-11-01T07:43:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7433345346253737249</id>
+    <title>You don't know what's going on in other people's lifes. So be kind. #mentalhealthmatters </title>
+    <updated>2024-11-04T08:56:44+00:00</updated>
+    <content>You don't know what's going on in other people's lifes. So be kind. #mentalhealthmatters </content>
+    <link href="https://tiktok.com/@tandarok/video/7433345346253737249"/>
+    <published>2024-11-04T08:56:44+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
