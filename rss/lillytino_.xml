@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lillytino_</id>
   <title>lillytino_</title>
-  <updated>2024-10-28T16:50:25+00:00</updated>
+  <updated>2024-11-04T14:25:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from lillytino_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@lillytino_/video/7347097132538629418</id>
-    <title>Nick is gone.</title>
-    <updated>2024-03-16T22:49:38+00:00</updated>
-    <content>Nick is gone.</content>
-    <link href="https://tiktok.com/@lillytino_/video/7347097132538629418"/>
-    <published>2024-03-16T22:49:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@lillytino_/video/7348184832867896618</id>
     <title>Which is your fav??</title>
@@ -291,5 +283,13 @@
     <content>At least he tried 😅</content>
     <link href="https://tiktok.com/@lillytino_/video/7430869884625538346"/>
     <published>2024-10-28T16:50:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lillytino_/video/7433430010662292778</id>
+    <title>PROTECT 👏 TRANS 👏 KIDS 👏</title>
+    <updated>2024-11-04T14:25:04+00:00</updated>
+    <content>PROTECT 👏 TRANS 👏 KIDS 👏</content>
+    <link href="https://tiktok.com/@lillytino_/video/7433430010662292778"/>
+    <published>2024-11-04T14:25:04+00:00</published>
   </entry>
 </feed>
