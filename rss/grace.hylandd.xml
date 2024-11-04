@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-11-02T07:05:04+00:00</updated>
+  <updated>2024-11-04T09:53:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7414333095370837264</id>
-    <title>Enjoy some big sister advice on men 💕</title>
-    <updated>2024-09-14T03:19:57+00:00</updated>
-    <content>Enjoy some big sister advice on men 💕</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7414333095370837264"/>
-    <published>2024-09-14T03:19:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7414345437634645249</id>
     <title>Can we not be used as political ammo? Thanks! </title>
@@ -267,5 +259,13 @@
     <content>Dont throw stones at glass houses</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7432574442078817537"/>
     <published>2024-11-02T07:05:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7433360067421949201</id>
+    <title>Cotton on for those who wanna know</title>
+    <updated>2024-11-04T09:53:45+00:00</updated>
+    <content>Cotton on for those who wanna know</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7433360067421949201"/>
+    <published>2024-11-04T09:53:45+00:00</published>
   </entry>
 </feed>
