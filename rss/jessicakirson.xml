@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-11-03T21:50:36+00:00</updated>
+  <updated>2024-11-04T19:13:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7417607179210886430</id>
-    <title>✂️ in Berlin  #berlin #lesbiancouple #fy </title>
-    <updated>2024-09-22T23:04:25+00:00</updated>
-    <content>✂️ in Berlin  #berlin #lesbiancouple #fy </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7417607179210886430"/>
-    <published>2024-09-22T23:04:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7417976223139106078</id>
     <title>A Restaurant Wedding  #wedding #restaurant #fy </title>
@@ -291,5 +283,13 @@
     <content>Hiii I have added new cities to The Never Ending Tour! Presale starts tomorrow with code SILLY. Tix are on my site xoxo. #sanfrancisco #montclairnj #losangeles #sandiego #portland </content>
     <link href="https://tiktok.com/@jessicakirson/video/7431566341846387999"/>
     <published>2024-10-30T13:53:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7433504278540586271</id>
+    <title>I will be at the Parx Casino this January! Tickets are on sale soon! Waitlist is on my site xo </title>
+    <updated>2024-11-04T19:13:30+00:00</updated>
+    <content>I will be at the Parx Casino this January! Tickets are on sale soon! Waitlist is on my site xo </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7433504278540586271"/>
+    <published>2024-11-04T19:13:30+00:00</published>
   </entry>
 </feed>
