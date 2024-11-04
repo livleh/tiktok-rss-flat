@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-11-03T18:53:59+00:00</updated>
+  <updated>2024-11-04T17:07:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7430106426225298720</id>
-    <title>at least camhs / amhs #mentalhealth #mh #camhs #amhs </title>
-    <updated>2024-10-26T15:27:49+00:00</updated>
-    <content>at least camhs / amhs #mentalhealth #mh #camhs #amhs </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7430106426225298720"/>
-    <published>2024-10-26T15:27:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7430131634210491681</id>
     <title>only got adhd diagnosied this year and ive alrdy heard it so much 😭#adhd #adhdtiktok #neurodivergent </title>
@@ -267,6 +259,14 @@
     <content>outfit check :) #ootd #pinkhair </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7433128231533825312"/>
     <published>2024-11-03T18:53:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7433471919564852513</id>
+    <title>UM TAYLOR?? I AM NOT OK ‼️ #erastour #swiftie #taylorswift </title>
+    <updated>2024-11-04T17:07:42+00:00</updated>
+    <content>UM TAYLOR?? I AM NOT OK ‼️ #erastour #swiftie #taylorswift </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7433471919564852513"/>
+    <published>2024-11-04T17:07:42+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
