@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-11-04T17:07:42+00:00</updated>
+  <updated>2024-11-04T18:26:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7430131634210491681</id>
-    <title>only got adhd diagnosied this year and ive alrdy heard it so much 😭#adhd #adhdtiktok #neurodivergent </title>
-    <updated>2024-10-26T17:05:39+00:00</updated>
-    <content>only got adhd diagnosied this year and ive alrdy heard it so much 😭#adhd #adhdtiktok #neurodivergent </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7430131634210491681"/>
-    <published>2024-10-26T17:05:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7430133103152172320</id>
-    <title>abt EVERYTHING #mh #mentalhealth </title>
-    <updated>2024-10-26T17:11:23+00:00</updated>
-    <content>abt EVERYTHING #mh #mentalhealth </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7430133103152172320"/>
-    <published>2024-10-26T17:11:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7430496031114005792</id>
     <title>@Bee 💚 sorry you had to vist me in hospital a week later 😭 #mh #mentalhealth #bestfriend </title>
@@ -267,6 +251,22 @@
     <content>UM TAYLOR?? I AM NOT OK ‼️ #erastour #swiftie #taylorswift </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7433471919564852513"/>
     <published>2024-11-04T17:07:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7433482831898184992</id>
+    <title>@Bee 💚 I LOVE YOU SOOO MUCH #healing #recoveryispossible </title>
+    <updated>2024-11-04T17:50:01+00:00</updated>
+    <content>@Bee 💚 I LOVE YOU SOOO MUCH #healing #recoveryispossible </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7433482831898184992"/>
+    <published>2024-11-04T17:50:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7433492301407735073</id>
+    <title>its not designed for neurodivergent ppl AT ALL 😭 #autistic #adhd #neurodivergent #autism </title>
+    <updated>2024-11-04T18:26:48+00:00</updated>
+    <content>its not designed for neurodivergent ppl AT ALL 😭 #autistic #adhd #neurodivergent #autism </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7433492301407735073"/>
+    <published>2024-11-04T18:26:48+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>

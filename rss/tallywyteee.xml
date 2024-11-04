@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tallywyteee</id>
   <title>tallywyteee</title>
-  <updated>2024-11-03T22:16:45+00:00</updated>
+  <updated>2024-11-04T17:48:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tallywyteee</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tallywyteee/video/7382686160700673310</id>
-    <title>That would lowkey be funny af… 👀💙 #trans #transgirl #transandproud #transwoman #transgender </title>
-    <updated>2024-06-20T20:33:04+00:00</updated>
-    <content>That would lowkey be funny af… 👀💙 #trans #transgirl #transandproud #transwoman #transgender </content>
-    <link href="https://tiktok.com/@tallywyteee/video/7382686160700673310"/>
-    <published>2024-06-20T20:33:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7383826788306226462</id>
     <title>Be honest bro… 😏 #trans #transgirl #transwoman #transandproud </title>
@@ -275,6 +267,14 @@
     <content>Is this as real as it gets for a trans girl? 😂🏳️‍⚧️</content>
     <link href="https://tiktok.com/@tallywyteee/video/7433180499105025326"/>
     <published>2024-11-03T22:16:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tallywyteee/video/7433482450442947883</id>
+    <title>Did you expect her to say that?? 😱</title>
+    <updated>2024-11-04T17:48:30+00:00</updated>
+    <content>Did you expect her to say that?? 😱</content>
+    <link href="https://tiktok.com/@tallywyteee/video/7433482450442947883"/>
+    <published>2024-11-04T17:48:30+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7261699619762048298</id>
