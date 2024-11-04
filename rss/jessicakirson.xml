@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-11-04T19:13:30+00:00</updated>
+  <updated>2024-11-04T23:23:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7417976223139106078</id>
-    <title>A Restaurant Wedding  #wedding #restaurant #fy </title>
-    <updated>2024-09-23T22:56:27+00:00</updated>
-    <content>A Restaurant Wedding  #wedding #restaurant #fy </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7417976223139106078"/>
-    <published>2024-09-23T22:56:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7418954712424140063</id>
     <title>Who made the first move?? #fyp #boss #dating </title>
@@ -267,6 +259,14 @@
     <content>Roommates Turned Lovers </content>
     <link href="https://tiktok.com/@jessicakirson/video/7433173721709366558"/>
     <published>2024-11-03T21:50:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7433568698578865438</id>
+    <title>Exes Together At My Show </title>
+    <updated>2024-11-04T23:23:21+00:00</updated>
+    <content>Exes Together At My Show </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7433568698578865438"/>
+    <published>2024-11-04T23:23:21+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7428227983430716703</id>
