@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-11-04T09:53:45+00:00</updated>
+  <updated>2024-11-05T08:57:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7414345437634645249</id>
-    <title>Can we not be used as political ammo? Thanks! </title>
-    <updated>2024-09-14T04:07:41+00:00</updated>
-    <content>Can we not be used as political ammo? Thanks! </content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7414345437634645249"/>
-    <published>2024-09-14T04:07:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7414485544580713729</id>
     <title>The things they’ve called me over the years #trans #glowup #transformation </title>
@@ -267,5 +259,13 @@
     <content>Cotton on for those who wanna know</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7433360067421949201"/>
     <published>2024-11-04T09:53:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7433716664706862353</id>
+    <title>You don’t haunt me anymore. When I was 14 I had my first picture day as Grace. A heard of 50 boys were all watching me pointing, laughing and saying horrible things. Whenever I passed them in school I would always go into fight or flight. I now pass some </title>
+    <updated>2024-11-05T08:57:33+00:00</updated>
+    <content>You don’t haunt me anymore. When I was 14 I had my first picture day as Grace. A heard of 50 boys were all watching me pointing, laughing and saying horrible things. Whenever I passed them in school I would always go into fight or flight. I now pass some </content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7433716664706862353"/>
+    <published>2024-11-05T08:57:33+00:00</published>
   </entry>
 </feed>
