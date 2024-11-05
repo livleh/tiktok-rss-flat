@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-11-03T23:06:10+00:00</updated>
+  <updated>2024-11-05T01:27:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7426940807879527726</id>
-    <title>Replying to @Anitazooms I can't believe this happened all the way in Vermont!! 😱 On our last day in Stowe, Vermont, Shannon and I did a run to Black Cap for more maple croissants and a couple recognized me from my New England tiktoks!! That happens a lot </title>
-    <updated>2024-10-18T02:43:32+00:00</updated>
-    <content>Replying to @Anitazooms I can't believe this happened all the way in Vermont!! 😱 On our last day in Stowe, Vermont, Shannon and I did a run to Black Cap for more maple croissants and a couple recognized me from my New England tiktoks!! That happens a lot </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7426940807879527726"/>
-    <published>2024-10-18T02:43:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7427123495777127723</id>
-    <title>it's not very good but sure is a vibe 😂 when in New England you gotta eat tons of seafood right? #martini #lobster #newengland #lobstermartini #salem #salemmassachusetts #salemrestaurants #whimsysoul @Brianna Ramirez | SJ Realtor </title>
-    <updated>2024-10-18T14:32:32+00:00</updated>
-    <content>it's not very good but sure is a vibe 😂 when in New England you gotta eat tons of seafood right? #martini #lobster #newengland #lobstermartini #salem #salemmassachusetts #salemrestaurants #whimsysoul @Brianna Ramirez | SJ Realtor </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7427123495777127723"/>
-    <published>2024-10-18T14:32:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7427181291881172267</id>
     <title>It's fine everything is just fine #millennial #nails #nailtech #manicure #anxiety #millennialsbelike #millennialanxiety </title>
@@ -267,6 +251,22 @@
     <content>Only 28 stave churches are left in Norway😱  and I got to visit one!! Located in @Visit Bergen is Fantoft Stave Church, a beautiful medieval-style church that was originally built in 1150 and reconstructed in 1879 (and again in the 90's after it burnt down</content>
     <link href="https://tiktok.com/@whimsysoul/video/7433193233204677931"/>
     <published>2024-11-03T23:06:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7433598080013929771</id>
+    <title>Replying to @Camilla Dine in the clouds on top of the tallest mountain in Bergen (643 meters / about 2100 feet!) @ulriken643.no takes you by cable car to the highest mountain in Bergen. From the top you have miles and miles of views of Bergen with sea, fj</title>
+    <updated>2024-11-05T01:17:11+00:00</updated>
+    <content>Replying to @Camilla Dine in the clouds on top of the tallest mountain in Bergen (643 meters / about 2100 feet!) @ulriken643.no takes you by cable car to the highest mountain in Bergen. From the top you have miles and miles of views of Bergen with sea, fj</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7433598080013929771"/>
+    <published>2024-11-05T01:17:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7433600832542706986</id>
+    <title>the cheese of gods where do i find this in America i need moreeeee #norway #cheese #browncheese #brunost </title>
+    <updated>2024-11-05T01:27:51+00:00</updated>
+    <content>the cheese of gods where do i find this in America i need moreeeee #norway #cheese #browncheese #brunost </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7433600832542706986"/>
+    <published>2024-11-05T01:27:51+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
