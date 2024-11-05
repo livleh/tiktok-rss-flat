@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-11-05T13:05:49+00:00</updated>
+  <updated>2024-11-05T14:30:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7426364045415992609</id>
-    <title>Use Your Words Sweetheart #vtuber</title>
-    <updated>2024-10-16T21:00:00+00:00</updated>
-    <content>Use Your Words Sweetheart #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7426364045415992609"/>
-    <published>2024-10-16T21:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7426725900563025185</id>
     <title>I will never speak again #vtuber</title>
@@ -275,6 +267,14 @@
     <content>#onthisday let trans kids be trans #lgbtqia </content>
     <link href="https://tiktok.com/@nyaravt/video/7433780662366162208"/>
     <published>2024-11-05T13:05:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7433802604456512800</id>
+    <title>men in valorant aren't normal #vtuber</title>
+    <updated>2024-11-05T14:30:58+00:00</updated>
+    <content>men in valorant aren't normal #vtuber</content>
+    <link href="https://tiktok.com/@nyaravt/video/7433802604456512800"/>
+    <published>2024-11-05T14:30:58+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>

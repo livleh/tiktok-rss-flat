@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ramalauw</id>
   <title>ramalauw</title>
-  <updated>2024-10-28T18:49:39+00:00</updated>
+  <updated>2024-11-05T14:30:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ramalauw</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ramalauw/video/7390421873609166113</id>
-    <title>Wdym it's up to me to break the ✨generational tröoma✨? If my parents couldn't do it, how am I supposed to do it? 😭🤯🥵🤭 #Free99 </title>
-    <updated>2024-07-11T16:51:28+00:00</updated>
-    <content>Wdym it's up to me to break the ✨generational tröoma✨? If my parents couldn't do it, how am I supposed to do it? 😭🤯🥵🤭 #Free99 </content>
-    <link href="https://tiktok.com/@ramalauw/video/7390421873609166113"/>
-    <published>2024-07-11T16:51:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7392275457359580449</id>
     <title>This video is a little different but I just wanna be real and vulnerable with you guys for once 😔</title>
@@ -267,6 +259,14 @@
     <content>The biggest culture shock I experienced in Taiwan 🤪🇹🇼</content>
     <link href="https://tiktok.com/@ramalauw/video/7430900615074647329"/>
     <published>2024-10-28T18:49:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ramalauw/video/7433802410843327776</id>
+    <title>I’ve been craving this so much lately (my whole life) 🫦 Stitch with @Nara Smith ✨ </title>
+    <updated>2024-11-05T14:30:15+00:00</updated>
+    <content>I’ve been craving this so much lately (my whole life) 🫦 Stitch with @Nara Smith ✨ </content>
+    <link href="https://tiktok.com/@ramalauw/video/7433802410843327776"/>
+    <published>2024-11-05T14:30:15+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7270903343638187297</id>
