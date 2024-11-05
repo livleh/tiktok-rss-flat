@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-11-03T18:23:54+00:00</updated>
+  <updated>2024-11-05T18:24:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7411212990487301408</id>
-    <title>how did you celebrate national be late for something day? i hope cory sees this video </title>
-    <updated>2024-09-05T17:31:35+00:00</updated>
-    <content>how did you celebrate national be late for something day? i hope cory sees this video </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7411212990487301408"/>
-    <published>2024-09-05T17:31:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7412332689832824097</id>
     <title>[bird noises]</title>
@@ -283,6 +275,14 @@
     <content>the rarest brownies badge!!! st albans chippy hike</content>
     <link href="https://tiktok.com/@zoebreadtok/video/7433120478929243424"/>
     <published>2024-11-03T18:23:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7433862773551009057</id>
+    <title>solving the case of the missing cheese with my completely impartial team </title>
+    <updated>2024-11-05T18:24:22+00:00</updated>
+    <content>solving the case of the missing cheese with my completely impartial team </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7433862773551009057"/>
+    <published>2024-11-05T18:24:22+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7391078276183215392</id>
