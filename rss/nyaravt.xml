@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-11-04T14:57:42+00:00</updated>
+  <updated>2024-11-05T13:05:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7426363544385490208</id>
-    <title>how to actually become a woman #trans</title>
-    <updated>2024-10-16T13:23:40+00:00</updated>
-    <content>how to actually become a woman #trans</content>
-    <link href="https://tiktok.com/@nyaravt/video/7426363544385490208"/>
-    <published>2024-10-16T13:23:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7426364045415992609</id>
     <title>Use Your Words Sweetheart #vtuber</title>
@@ -275,6 +267,14 @@
     <content>#onthisday how to date a trans person #lgbt </content>
     <link href="https://tiktok.com/@nyaravt/video/7433438404550987040"/>
     <published>2024-11-04T14:57:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7433780662366162208</id>
+    <title>#onthisday let trans kids be trans #lgbtqia </title>
+    <updated>2024-11-05T13:05:49+00:00</updated>
+    <content>#onthisday let trans kids be trans #lgbtqia </content>
+    <link href="https://tiktok.com/@nyaravt/video/7433780662366162208"/>
+    <published>2024-11-05T13:05:49+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>
