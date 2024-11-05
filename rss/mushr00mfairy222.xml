@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-11-04T19:43:58+00:00</updated>
+  <updated>2024-11-05T17:17:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7430901353800551712</id>
-    <title>cant wait to be back in australia 😭  #british #britishhumour #uk </title>
-    <updated>2024-10-28T18:52:32+00:00</updated>
-    <content>cant wait to be back in australia 😭  #british #britishhumour #uk </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7430901353800551712"/>
-    <published>2024-10-28T18:52:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7430905149847096609</id>
     <title>I LOVE AUTUMN / FALL OUTFITS #ootd #falloutfits #pinkhair </title>
@@ -267,6 +259,14 @@
     <content>im so guilty of this tbh 😭 #relatable </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7433512193431244065"/>
     <published>2024-11-04T19:43:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7433845452279254305</id>
+    <title>ai is getting too good tho 😭😦 #filter #trend </title>
+    <updated>2024-11-05T17:17:13+00:00</updated>
+    <content>ai is getting too good tho 😭😦 #filter #trend </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7433845452279254305"/>
+    <published>2024-11-05T17:17:13+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
