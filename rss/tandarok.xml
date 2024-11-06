@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-11-04T08:56:44+00:00</updated>
+  <updated>2024-11-06T11:43:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7413150105760435488</id>
-    <title>Datet ihr mehr als eine Person gleichzeitig oder immer eine nach der anderen? #dating #datinglife #singlelife</title>
-    <updated>2024-09-12T06:25:00+00:00</updated>
-    <content>Datet ihr mehr als eine Person gleichzeitig oder immer eine nach der anderen? #dating #datinglife #singlelife</content>
-    <link href="https://tiktok.com/@tandarok/video/7413150105760435488"/>
-    <published>2024-09-12T06:25:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7414013213433498912</id>
     <title>Liebe Menners, ihr benehmt euch bitte nicht wie Hunde. Danke. #dating #twitchgermany </title>
@@ -267,6 +259,14 @@
     <content>You don't know what's going on in other people's lifes. So be kind. #mentalhealthmatters </content>
     <link href="https://tiktok.com/@tandarok/video/7433345346253737249"/>
     <published>2024-11-04T08:56:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7434130537960312097</id>
+    <title>ich kaufe mir dann erstmal eine neue Wärmflasche 🫠</title>
+    <updated>2024-11-06T11:43:32+00:00</updated>
+    <content>ich kaufe mir dann erstmal eine neue Wärmflasche 🫠</content>
+    <link href="https://tiktok.com/@tandarok/video/7434130537960312097"/>
+    <published>2024-11-06T11:43:32+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
