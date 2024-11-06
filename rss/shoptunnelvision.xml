@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shoptunnelvision</id>
   <title>shoptunnelvision</title>
-  <updated>2024-11-04T22:28:20+00:00</updated>
+  <updated>2024-11-06T01:40:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shoptunnelvision</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shoptunnelvision/video/7394877501736029482</id>
-    <title>No Title</title>
-    <updated>2024-07-23T17:01:37+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@shoptunnelvision/video/7394877501736029482"/>
-    <published>2024-07-23T17:01:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@shoptunnelvision/video/7394934524729265454</id>
-    <title>No Title</title>
-    <updated>2024-07-23T20:42:52+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@shoptunnelvision/video/7394934524729265454"/>
-    <published>2024-07-23T20:42:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shoptunnelvision/video/7397606516817202475</id>
     <title>No Title</title>
@@ -291,5 +275,21 @@
     <content>Replying to @Gorl </content>
     <link href="https://tiktok.com/@shoptunnelvision/video/7433554573844811051"/>
     <published>2024-11-04T22:28:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shoptunnelvision/video/7433970729219001643</id>
+    <title>No Title</title>
+    <updated>2024-11-06T01:23:13+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@shoptunnelvision/video/7433970729219001643"/>
+    <published>2024-11-06T01:23:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shoptunnelvision/video/7433975064762010922</id>
+    <title>Replying to @✨ Paige ✨ </title>
+    <updated>2024-11-06T01:40:03+00:00</updated>
+    <content>Replying to @✨ Paige ✨ </content>
+    <link href="https://tiktok.com/@shoptunnelvision/video/7433975064762010922"/>
+    <published>2024-11-06T01:40:03+00:00</published>
   </entry>
 </feed>
