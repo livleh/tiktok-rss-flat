@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jade..harmony</id>
   <title>jade..harmony</title>
-  <updated>2024-10-25T12:45:35+00:00</updated>
+  <updated>2024-11-06T19:19:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jade..harmony</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jade..harmony/video/7406323288923786526</id>
-    <title>#foryoupage #michigandragqueen #transwoman #dragqueenmakeup #jadeharmony #queen #michigan #gay #queer #performer </title>
-    <updated>2024-08-23T13:17:30+00:00</updated>
-    <content>#foryoupage #michigandragqueen #transwoman #dragqueenmakeup #jadeharmony #queen #michigan #gay #queer #performer </content>
-    <link href="https://tiktok.com/@jade..harmony/video/7406323288923786526"/>
-    <published>2024-08-23T13:17:30+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jade..harmony/video/7406460262590532895</id>
-    <title>#foryoupage #transwoman #michigandragqueen #queen #gay #queer #fyp </title>
-    <updated>2024-08-23T22:08:45+00:00</updated>
-    <content>#foryoupage #transwoman #michigandragqueen #queen #gay #queer #fyp </content>
-    <link href="https://tiktok.com/@jade..harmony/video/7406460262590532895"/>
-    <published>2024-08-23T22:08:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jade..harmony/video/7406679799843900703</id>
     <title>#foryoupage </title>
@@ -267,6 +251,22 @@
     <content>#foryoupage </content>
     <link href="https://tiktok.com/@jade..harmony/video/7429693416381959454"/>
     <published>2024-10-25T12:45:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jade..harmony/video/7434238359544892703</id>
+    <title>#foryoupage #transgender #trump #election </title>
+    <updated>2024-11-06T18:42:07+00:00</updated>
+    <content>#foryoupage #transgender #trump #election </content>
+    <link href="https://tiktok.com/@jade..harmony/video/7434238359544892703"/>
+    <published>2024-11-06T18:42:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jade..harmony/video/7434247915758947615</id>
+    <title>#foryoupage #queer#2024elections #president </title>
+    <updated>2024-11-06T19:19:09+00:00</updated>
+    <content>#foryoupage #queer#2024elections #president </content>
+    <link href="https://tiktok.com/@jade..harmony/video/7434247915758947615"/>
+    <published>2024-11-06T19:19:09+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jade..harmony/video/7388937889968688414</id>
