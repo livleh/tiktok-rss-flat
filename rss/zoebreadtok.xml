@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-11-05T18:24:22+00:00</updated>
+  <updated>2024-11-06T18:24:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7412332689832824097</id>
-    <title>[bird noises]</title>
-    <updated>2024-09-08T17:56:36+00:00</updated>
-    <content>[bird noises]</content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7412332689832824097"/>
-    <published>2024-09-08T17:56:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7413075917263637793</id>
     <title>me, banksy, phil and the model village in beaconsfield: together at last </title>
@@ -283,6 +275,14 @@
     <content>solving the case of the missing cheese with my completely impartial team </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7433862773551009057"/>
     <published>2024-11-05T18:24:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7434233950651960609</id>
+    <title>this description box has been intentionally left blank </title>
+    <updated>2024-11-06T18:24:45+00:00</updated>
+    <content>this description box has been intentionally left blank </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7434233950651960609"/>
+    <published>2024-11-06T18:24:45+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7391078276183215392</id>
