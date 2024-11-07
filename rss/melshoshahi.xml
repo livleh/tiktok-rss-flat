@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@melshoshahi</id>
   <title>melshoshahi</title>
-  <updated>2024-11-05T19:12:28+00:00</updated>
+  <updated>2024-11-07T18:35:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from melshoshahi</subtitle>
-  <entry>
-    <id>https://tiktok.com/@melshoshahi/video/7402728113756540191</id>
-    <title>Peoples trunks are not part of the store 😅💅🏼 #gucci #sketchcomedy #scammeralert #tiktokskit #retail #laptop #customerservice </title>
-    <updated>2024-08-13T20:46:07+00:00</updated>
-    <content>Peoples trunks are not part of the store 😅💅🏼 #gucci #sketchcomedy #scammeralert #tiktokskit #retail #laptop #customerservice </content>
-    <link href="https://tiktok.com/@melshoshahi/video/7402728113756540191"/>
-    <published>2024-08-13T20:46:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@melshoshahi/video/7403416494492618015</id>
     <title>If the store is about to close….dont try items on uhkay! #tiktokskit #retail #fashion #customerservice #sketchcomedy </title>
@@ -267,6 +259,14 @@
     <content>All-natural 💅🏽💅🏽 #tiktokskit #plasticsurgery  #cosmetics #sketchcomedy </content>
     <link href="https://tiktok.com/@melshoshahi/video/7433875132499643678"/>
     <published>2024-11-05T19:12:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@melshoshahi/video/7434607783443533086</id>
+    <title>Swindlers are everywhere 🤪 #tiktokskit #coffeeshop #customerservice </title>
+    <updated>2024-11-07T18:35:43+00:00</updated>
+    <content>Swindlers are everywhere 🤪 #tiktokskit #coffeeshop #customerservice </content>
+    <link href="https://tiktok.com/@melshoshahi/video/7434607783443533086"/>
+    <published>2024-11-07T18:35:43+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@melshoshahi/video/7282846082986462507</id>

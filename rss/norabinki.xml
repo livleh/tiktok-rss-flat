@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@norabinki</id>
   <title>norabinki</title>
-  <updated>2024-10-30T18:21:24+00:00</updated>
+  <updated>2024-11-07T18:34:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from norabinki</subtitle>
-  <entry>
-    <id>https://tiktok.com/@norabinki/video/7347388803687910689</id>
-    <title>An der Gartenmesse mit @Bruzzli #fyp #schweiz #CapCut </title>
-    <updated>2024-03-17T17:41:11+00:00</updated>
-    <content>An der Gartenmesse mit @Bruzzli #fyp #schweiz #CapCut </content>
-    <link href="https://tiktok.com/@norabinki/video/7347388803687910689"/>
-    <published>2024-03-17T17:41:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@norabinki/video/7348491711896653089</id>
     <title>Armdrück Meisterschaft  mit @Bruzzli #fyp #schweiz #CapCut </title>
@@ -259,6 +251,14 @@
     <content>Bei Privatdetektiv Wunderli in der Detektei Wunderli 🔎 @Bruzzli #fyp #schweiz #detektiv #CapCut </content>
     <link href="https://tiktok.com/@norabinki/video/7431635518674210070"/>
     <published>2024-10-30T18:21:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@norabinki/video/7434607553524354326</id>
+    <title>Bei der eidgenössischen Münzstätte  @Bruzzli @swissmint.ch #fyp #schweiz #münzen #CapCut </title>
+    <updated>2024-11-07T18:34:27+00:00</updated>
+    <content>Bei der eidgenössischen Münzstätte  @Bruzzli @swissmint.ch #fyp #schweiz #münzen #CapCut </content>
+    <link href="https://tiktok.com/@norabinki/video/7434607553524354326"/>
+    <published>2024-11-07T18:34:27+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@norabinki/video/7298386766359203105</id>
