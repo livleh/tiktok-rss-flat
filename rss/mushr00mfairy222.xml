@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-11-07T00:14:45+00:00</updated>
+  <updated>2024-11-07T15:32:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7431290841487953184</id>
-    <title>please? #mh #mentalhealth #mhjokes </title>
-    <updated>2024-10-29T20:03:56+00:00</updated>
-    <content>please? #mh #mentalhealth #mhjokes </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7431290841487953184"/>
-    <published>2024-10-29T20:03:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7431597941569244448</id>
-    <title>help? 😭 #timburton #halloweenlook </title>
-    <updated>2024-10-30T15:55:48+00:00</updated>
-    <content>help? 😭 #timburton #halloweenlook </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7431597941569244448"/>
-    <published>2024-10-30T15:55:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7431634747069156641</id>
     <title>im too tired to know if thid is funny or readable 😭 #familyvlogger </title>
@@ -267,6 +251,22 @@
     <content>wlw problems 😭 #lesbian #wlw #lgbt #lgbtq </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7434324009765883169"/>
     <published>2024-11-07T00:14:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7434560286872407328</id>
+    <title>my hairs still not dry 😭😭 #ootd #outfitinspo #alt #pinkhair </title>
+    <updated>2024-11-07T15:31:07+00:00</updated>
+    <content>my hairs still not dry 😭😭 #ootd #outfitinspo #alt #pinkhair </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7434560286872407328"/>
+    <published>2024-11-07T15:31:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7434560693405371680</id>
+    <title>delu #delusional </title>
+    <updated>2024-11-07T15:32:41+00:00</updated>
+    <content>delu #delusional </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7434560693405371680"/>
+    <published>2024-11-07T15:32:41+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
