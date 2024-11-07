@@ -13,6 +13,14 @@
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jade..harmony</subtitle>
   <entry>
+    <id>https://tiktok.com/@jade..harmony/video/7406766547038915871</id>
+    <title>#foryoupage </title>
+    <updated>2024-08-24T17:57:15+00:00</updated>
+    <content>#foryoupage </content>
+    <link href="https://tiktok.com/@jade..harmony/video/7406766547038915871"/>
+    <published>2024-08-24T17:57:15+00:00</published>
+  </entry>
+  <entry>
     <id>https://tiktok.com/@jade..harmony/video/7407812413346663710</id>
     <title>#foryoupage #transwoman #michigandragqueen #queen #queer </title>
     <updated>2024-08-27T13:36:08+00:00</updated>
@@ -237,14 +245,6 @@
     <published>2024-10-25T12:45:35+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@jade..harmony/video/7434238359544892703</id>
-    <title>#foryoupage #transgender #trump #election </title>
-    <updated>2024-11-06T18:42:07+00:00</updated>
-    <content>#foryoupage #transgender #trump #election </content>
-    <link href="https://tiktok.com/@jade..harmony/video/7434238359544892703"/>
-    <published>2024-11-06T18:42:07+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@jade..harmony/video/7434297164391599390</id>
     <title>#foryoupage #angel #fyp #performer #lgbtqia #queer </title>
     <updated>2024-11-06T22:30:10+00:00</updated>
@@ -269,14 +269,6 @@
     <published>2024-11-07T20:52:34+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@jade..harmony/video/7388937889968688414</id>
-    <title>#fyp #trans #michigandragqueen #performer #showgirl #jadeharmony #foryoupage #rupaulsdragrace #dragqueen #kalamazoo #michigan #follow #bar #barscene #club #clublife </title>
-    <updated>2024-07-07T16:53:11+00:00</updated>
-    <content>#fyp #trans #michigandragqueen #performer #showgirl #jadeharmony #foryoupage #rupaulsdragrace #dragqueen #kalamazoo #michigan #follow #bar #barscene #club #clublife </content>
-    <link href="https://tiktok.com/@jade..harmony/video/7388937889968688414"/>
-    <published>2024-07-07T16:53:11+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@jade..harmony/video/7398275947750804766</id>
     <title>#foryoupage #broadway #dragqueenmakeup #sixthwmusical </title>
     <updated>2024-08-01T20:49:20+00:00</updated>
@@ -291,5 +283,13 @@
     <content>#foryoupage #hera #zeus #greekgods #fyp #epicthemusical #olympus #gods #cosplay </content>
     <link href="https://tiktok.com/@jade..harmony/video/7434508458151480607"/>
     <published>2024-11-07T12:11:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jade..harmony/video/7434238359544892703</id>
+    <title>#foryoupage #transgender #trump #election </title>
+    <updated>2024-11-06T18:42:07+00:00</updated>
+    <content>#foryoupage #transgender #trump #election </content>
+    <link href="https://tiktok.com/@jade..harmony/video/7434238359544892703"/>
+    <published>2024-11-06T18:42:07+00:00</published>
   </entry>
 </feed>
