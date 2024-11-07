@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-11-06T19:59:43+00:00</updated>
+  <updated>2024-11-07T00:14:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7431284829112601889</id>
-    <title>like ok snowflake ❄️😟🏳️‍🌈👩‍❤️‍💋‍👩 #lesbian #wlw #nmlnm #lgbt #lgbtq </title>
-    <updated>2024-10-29T19:40:38+00:00</updated>
-    <content>like ok snowflake ❄️😟🏳️‍🌈👩‍❤️‍💋‍👩 #lesbian #wlw #nmlnm #lgbt #lgbtq </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7431284829112601889"/>
-    <published>2024-10-29T19:40:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7431290841487953184</id>
     <title>please? #mh #mentalhealth #mhjokes </title>
@@ -267,6 +259,14 @@
     <content>like you don't wanna discuss taylor swify therories? #mh #mentalhealth #therapy </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7434258425376247073"/>
     <published>2024-11-06T19:59:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7434324009765883169</id>
+    <title>wlw problems 😭 #lesbian #wlw #lgbt #lgbtq </title>
+    <updated>2024-11-07T00:14:45+00:00</updated>
+    <content>wlw problems 😭 #lesbian #wlw #lgbt #lgbtq </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7434324009765883169"/>
+    <published>2024-11-07T00:14:45+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
