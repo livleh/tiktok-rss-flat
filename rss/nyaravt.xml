@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-11-06T15:38:25+00:00</updated>
+  <updated>2024-11-07T14:13:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7426734045423340832</id>
-    <title>I'm not the smartest fox #vtuber</title>
-    <updated>2024-10-17T17:00:00+00:00</updated>
-    <content>I'm not the smartest fox #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7426734045423340832"/>
-    <published>2024-10-17T17:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7427100149752663329</id>
     <title>average trans fem conversation but its valorant #vtuber</title>
@@ -275,6 +267,14 @@
     <content>stop downplaying toxicity in games #valorant</content>
     <link href="https://tiktok.com/@nyaravt/video/7434191067169312032"/>
     <published>2024-11-06T15:38:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7434540394702048545</id>
+    <title>why I don't just mute everyone #valorant</title>
+    <updated>2024-11-07T14:13:58+00:00</updated>
+    <content>why I don't just mute everyone #valorant</content>
+    <link href="https://tiktok.com/@nyaravt/video/7434540394702048545"/>
+    <published>2024-11-07T14:13:58+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>
