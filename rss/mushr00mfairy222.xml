@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-11-07T19:16:50+00:00</updated>
+  <updated>2024-11-07T19:39:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7432020722794368288</id>
-    <title>DO U LIKE THE COSTUMES @Bee 💚 #dance #mymelody #kuromi #halloweencustome </title>
-    <updated>2024-10-31T19:16:13+00:00</updated>
-    <content>DO U LIKE THE COSTUMES @Bee 💚 #dance #mymelody #kuromi #halloweencustome </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7432020722794368288"/>
-    <published>2024-10-31T19:16:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7432026985297218849</id>
     <title>costume thoughts? #halloweentransition #halloweencustome #mymelody </title>
@@ -253,20 +245,28 @@
     <published>2024-11-07T18:10:55+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7434618382646775072</id>
-    <title>humbled 😟 #filter #trend </title>
-    <updated>2024-11-07T19:16:30+00:00</updated>
-    <content>humbled 😟 #filter #trend </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7434618382646775072"/>
-    <published>2024-11-07T19:16:30+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7434618461050899744</id>
     <title>why did the audio not sync 😭 #taylorswift #folklore #evermore #swiftie </title>
     <updated>2024-11-07T19:16:50+00:00</updated>
     <content>why did the audio not sync 😭 #taylorswift #folklore #evermore #swiftie </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7434618461050899744"/>
     <published>2024-11-07T19:16:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7434619805853879585</id>
+    <title>IM STILL ADHD #adhd #adhdtiktok #neurodivergent #auhd </title>
+    <updated>2024-11-07T19:22:03+00:00</updated>
+    <content>IM STILL ADHD #adhd #adhdtiktok #neurodivergent #auhd </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7434619805853879585"/>
+    <published>2024-11-07T19:22:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7434624278517058848</id>
+    <title>i runaway from my problems 🏃‍♀️🏃‍♀️ #mh #mentalhealth </title>
+    <updated>2024-11-07T19:39:25+00:00</updated>
+    <content>i runaway from my problems 🏃‍♀️🏃‍♀️ #mh #mentalhealth </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7434624278517058848"/>
+    <published>2024-11-07T19:39:25+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
