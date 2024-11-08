@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-11-08T01:09:28+00:00</updated>
+  <updated>2024-11-08T18:32:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7427664889348377899</id>
-    <title>Boston, why didn't you tell me you have the best airport lounge in the USA? I've been all over the country and haven't found a lounge I like as much at your Chase Sapphire lounge.  You can order food and drinks to your table!!!! And it's like good food, t</title>
-    <updated>2024-10-20T01:33:20+00:00</updated>
-    <content>Boston, why didn't you tell me you have the best airport lounge in the USA? I've been all over the country and haven't found a lounge I like as much at your Chase Sapphire lounge.  You can order food and drinks to your table!!!! And it's like good food, t</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7427664889348377899"/>
-    <published>2024-10-20T01:33:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7427916908998987051</id>
     <title>i will never stop being this person you can't make me 😂✨ #thenigoandspoilitall #travel #travelhumor #travellife #sfo #sanfrancisco #bayarea #sanfranciscolife #airport #airportlife #lol #relatable </title>
@@ -267,6 +259,14 @@
     <content>must be so boring being a boy in 2024 #taylorswift #erastour #airport </content>
     <link href="https://tiktok.com/@whimsysoul/video/7434709348229745966"/>
     <published>2024-11-08T01:09:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7434978178122140971</id>
+    <title>San Francisco, the ice rink is OPEN!!! ❄️⛸️ It's my yearly tradition to visit the @unionsquarerink for a twilight skate session while listening to Christmas music.  As of last year, we added on a mandatory stop to @millerandluxprovisions beforehand for sw</title>
+    <updated>2024-11-08T18:32:43+00:00</updated>
+    <content>San Francisco, the ice rink is OPEN!!! ❄️⛸️ It's my yearly tradition to visit the @unionsquarerink for a twilight skate session while listening to Christmas music.  As of last year, we added on a mandatory stop to @millerandluxprovisions beforehand for sw</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7434978178122140971"/>
+    <published>2024-11-08T18:32:43+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>

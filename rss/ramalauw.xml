@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ramalauw</id>
   <title>ramalauw</title>
-  <updated>2024-11-05T14:30:15+00:00</updated>
+  <updated>2024-11-08T18:14:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ramalauw</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ramalauw/video/7392275457359580449</id>
-    <title>This video is a little different but I just wanna be real and vulnerable with you guys for once 😔</title>
-    <updated>2024-07-16T16:44:19+00:00</updated>
-    <content>This video is a little different but I just wanna be real and vulnerable with you guys for once 😔</content>
-    <link href="https://tiktok.com/@ramalauw/video/7392275457359580449"/>
-    <published>2024-07-16T16:44:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7393014705779903777</id>
     <title>Me: I go to the gym all the time, I don't know why I'm not any results 😔🤷‍♂️😡 Also me: #gym #fitness #fitnessmotivation #gymtok #fyp #foryou #tiktokusa</title>
@@ -267,6 +259,14 @@
     <content>I’ve been craving this so much lately (my whole life) 🫦 Stitch with @Nara Smith ✨ </content>
     <link href="https://tiktok.com/@ramalauw/video/7433802410843327776"/>
     <published>2024-11-05T14:30:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ramalauw/video/7434973421366283552</id>
+    <title>It still baffles me that people who were born in 2007 will turn 18 next year 🤯</title>
+    <updated>2024-11-08T18:14:16+00:00</updated>
+    <content>It still baffles me that people who were born in 2007 will turn 18 next year 🤯</content>
+    <link href="https://tiktok.com/@ramalauw/video/7434973421366283552"/>
+    <published>2024-11-08T18:14:16+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7270903343638187297</id>

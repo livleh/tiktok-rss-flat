@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2024-11-01T16:20:07+00:00</updated>
+  <updated>2024-11-08T17:38:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from loveletterstosf</subtitle>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7400951779728379178</id>
-    <title>Loved checking out Holbrook House, a restaurant and bar downtown that has coffee &amp; pastries during the day and caviar, martinis and champagne at night. Shout out to the @Yelp Bay Area team for hosting such a great event for the #sffoodies! #sfdowntown #sf</title>
-    <updated>2024-08-09T01:52:53+00:00</updated>
-    <content>Loved checking out Holbrook House, a restaurant and bar downtown that has coffee &amp; pastries during the day and caviar, martinis and champagne at night. Shout out to the @Yelp Bay Area team for hosting such a great event for the #sffoodies! #sfdowntown #sf</content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7400951779728379178"/>
-    <published>2024-08-09T01:52:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7402462567748095274</id>
     <title>you can see how windy it is from the sand in the beginning #sf #sfsunset #crissyfield #august #ggbridge </title>
@@ -291,5 +283,13 @@
     <content>#sfevents #diadelosmuertos #diwali #halloween #sftok #sfart #sfcraftfair </content>
     <link href="https://tiktok.com/@loveletterstosf/video/7432346417399598378"/>
     <published>2024-11-01T16:20:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7434964140638211371</id>
+    <title>its been a hard week, hope you can find some joy this weekend 💙 #sf #thingstodoinsf #thisweekendinsf #sfevents #sftok </title>
+    <updated>2024-11-08T17:38:14+00:00</updated>
+    <content>its been a hard week, hope you can find some joy this weekend 💙 #sf #thingstodoinsf #thisweekendinsf #sfevents #sftok </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7434964140638211371"/>
+    <published>2024-11-08T17:38:14+00:00</published>
   </entry>
 </feed>
