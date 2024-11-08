@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@celestialhuntress</id>
   <title>celestialhuntress</title>
-  <updated>2024-11-01T03:40:16+00:00</updated>
+  <updated>2024-11-08T19:49:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from celestialhuntress</subtitle>
-  <entry>
-    <id>https://tiktok.com/@celestialhuntress/video/7318559033110072619</id>
-    <title>I swear i can wink without clicking my tongue, it’s involuntary at this point #transgender #genderfluid #transfemme </title>
-    <updated>2023-12-31T01:07:15+00:00</updated>
-    <content>I swear i can wink without clicking my tongue, it’s involuntary at this point #transgender #genderfluid #transfemme </content>
-    <link href="https://tiktok.com/@celestialhuntress/video/7318559033110072619"/>
-    <published>2023-12-31T01:07:15+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@celestialhuntress/video/7321258473394605355</id>
-    <title>Gods theyre so strong and I am so lucky #transgender #genderfluid #transfemme </title>
-    <updated>2024-01-07T07:42:55+00:00</updated>
-    <content>Gods theyre so strong and I am so lucky #transgender #genderfluid #transfemme </content>
-    <link href="https://tiktok.com/@celestialhuntress/video/7321258473394605355"/>
-    <published>2024-01-07T07:42:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@celestialhuntress/video/7321261095199509802</id>
-    <title>I have the coolest most badass partner ever, of all time #transgender #genderfluid #transfemme #t4t </title>
-    <updated>2024-01-07T07:53:12+00:00</updated>
-    <content>I have the coolest most badass partner ever, of all time #transgender #genderfluid #transfemme #t4t </content>
-    <link href="https://tiktok.com/@celestialhuntress/video/7321261095199509802"/>
-    <published>2024-01-07T07:53:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@celestialhuntress/video/7321452013114428718</id>
     <title>No Title</title>
@@ -291,5 +267,29 @@
     <content>Caption #transgender #genderfluid #transfemme </content>
     <link href="https://tiktok.com/@celestialhuntress/video/7432150617256381738"/>
     <published>2024-11-01T03:40:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@celestialhuntress/video/7434995777325239594</id>
+    <title>My official stance#transgender #genderfluid #transfemme </title>
+    <updated>2024-11-08T19:40:59+00:00</updated>
+    <content>My official stance#transgender #genderfluid #transfemme </content>
+    <link href="https://tiktok.com/@celestialhuntress/video/7434995777325239594"/>
+    <published>2024-11-08T19:40:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@celestialhuntress/video/7434997024417713451</id>
+    <title>In wild turn of events broken clock is right for once #transgender #genderfluid #transfemme </title>
+    <updated>2024-11-08T19:45:51+00:00</updated>
+    <content>In wild turn of events broken clock is right for once #transgender #genderfluid #transfemme </content>
+    <link href="https://tiktok.com/@celestialhuntress/video/7434997024417713451"/>
+    <published>2024-11-08T19:45:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@celestialhuntress/video/7434998049086131499</id>
+    <title>No Title</title>
+    <updated>2024-11-08T19:49:48+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@celestialhuntress/video/7434998049086131499"/>
+    <published>2024-11-08T19:49:48+00:00</published>
   </entry>
 </feed>
