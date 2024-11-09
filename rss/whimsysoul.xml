@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-11-08T18:32:43+00:00</updated>
+  <updated>2024-11-09T15:55:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7427916908998987051</id>
-    <title>i will never stop being this person you can't make me 😂✨ #thenigoandspoilitall #travel #travelhumor #travellife #sfo #sanfrancisco #bayarea #sanfranciscolife #airport #airportlife #lol #relatable </title>
-    <updated>2024-10-20T17:51:21+00:00</updated>
-    <content>i will never stop being this person you can't make me 😂✨ #thenigoandspoilitall #travel #travelhumor #travellife #sfo #sanfrancisco #bayarea #sanfranciscolife #airport #airportlife #lol #relatable </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7427916908998987051"/>
-    <published>2024-10-20T17:51:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7427950532456762667</id>
     <title>not gonna film strangers but seriously questioning the chocies of a woman wearing tight skinny jeans on my San Francisco to Amsterdam flight rn #travellife #sfo #sanfrancisco #airportlife #airport #skinnyjeans </title>
@@ -267,6 +259,14 @@
     <content>San Francisco, the ice rink is OPEN!!! ❄️⛸️ It's my yearly tradition to visit the @unionsquarerink for a twilight skate session while listening to Christmas music.  As of last year, we added on a mandatory stop to @millerandluxprovisions beforehand for sw</content>
     <link href="https://tiktok.com/@whimsysoul/video/7434978178122140971"/>
     <published>2024-11-08T18:32:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7435308629353336110</id>
+    <title>brb heading to Hogwarts in the mountains 💅 🚂 ❄️ The Yosemite Mountain Sugar Pine Railroad is literally right outside the park on the Oakhurst entrance.  It’s an open-air train and if you time it right, you can see everything covered in snow! Feels so dang</title>
+    <updated>2024-11-09T15:55:01+00:00</updated>
+    <content>brb heading to Hogwarts in the mountains 💅 🚂 ❄️ The Yosemite Mountain Sugar Pine Railroad is literally right outside the park on the Oakhurst entrance.  It’s an open-air train and if you time it right, you can see everything covered in snow! Feels so dang</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7435308629353336110"/>
+    <published>2024-11-09T15:55:01+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>

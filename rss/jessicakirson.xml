@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-11-07T22:34:36+00:00</updated>
+  <updated>2024-11-09T14:41:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7420169993997896991</id>
-    <title>What kind of classical?!?  #classical #singing #fyp </title>
-    <updated>2024-09-29T20:49:33+00:00</updated>
-    <content>What kind of classical?!?  #classical #singing #fyp </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7420169993997896991"/>
-    <published>2024-09-29T20:49:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7420555954674060574</id>
     <title>I don’t even know what day it is  #fyp #foryoupageofficiall </title>
@@ -267,6 +259,14 @@
     <content>Going to a Stylist </content>
     <link href="https://tiktok.com/@jessicakirson/video/7434669386406907167"/>
     <published>2024-11-07T22:34:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7435289716435455263</id>
+    <title>How I Met My First Girlfriend </title>
+    <updated>2024-11-09T14:41:52+00:00</updated>
+    <content>How I Met My First Girlfriend </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7435289716435455263"/>
+    <published>2024-11-09T14:41:52+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7428227983430716703</id>
