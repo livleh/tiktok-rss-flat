@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tallywyteee</id>
   <title>tallywyteee</title>
-  <updated>2024-11-04T17:48:30+00:00</updated>
+  <updated>2024-11-09T17:59:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tallywyteee</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tallywyteee/video/7383826788306226462</id>
-    <title>Be honest bro… 😏 #trans #transgirl #transwoman #transandproud </title>
-    <updated>2024-06-23T22:19:30+00:00</updated>
-    <content>Be honest bro… 😏 #trans #transgirl #transwoman #transandproud </content>
-    <link href="https://tiktok.com/@tallywyteee/video/7383826788306226462"/>
-    <published>2024-06-23T22:19:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7384161116177583406</id>
     <title>Would you lowkey “talk more” with me? 😏🏳️‍⚧️ #transgirl #transgender #transwoman #transandproud</title>
@@ -275,6 +267,14 @@
     <content>Did you expect her to say that?? 😱</content>
     <link href="https://tiktok.com/@tallywyteee/video/7433482450442947883"/>
     <published>2024-11-04T17:48:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tallywyteee/video/7435340581536320814</id>
+    <title>I was just born with a deep voice… 😂</title>
+    <updated>2024-11-09T17:59:00+00:00</updated>
+    <content>I was just born with a deep voice… 😂</content>
+    <link href="https://tiktok.com/@tallywyteee/video/7435340581536320814"/>
+    <published>2024-11-09T17:59:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7261699619762048298</id>
