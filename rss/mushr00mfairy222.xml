@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-11-10T17:10:18+00:00</updated>
+  <updated>2024-11-10T18:26:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7433502616677666080</id>
-    <title>on my brain this isnt just a christmas song 😭😋 #sabrinacarpenter #fruitcake </title>
-    <updated>2024-11-04T19:06:49+00:00</updated>
-    <content>on my brain this isnt just a christmas song 😭😋 #sabrinacarpenter #fruitcake </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7433502616677666080"/>
-    <published>2024-11-04T19:06:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7433502818348141857</id>
     <title>insomnia things 😭 who else 😭 #insomnia #sleep #nightowl #mentalhealth </title>
@@ -261,12 +253,20 @@
     <published>2024-11-10T16:47:34+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7435699113338998048</id>
-    <title>for my fellow autistic adhders, ppl struggling with mh etccc :)&lt;3 @Pink Is Neurodivergent #neurodivergent #autistic #adhd #mentalhealth </title>
-    <updated>2024-11-10T17:10:18+00:00</updated>
-    <content>for my fellow autistic adhders, ppl struggling with mh etccc :)&lt;3 @Pink Is Neurodivergent #neurodivergent #autistic #adhd #mentalhealth </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7435699113338998048"/>
-    <published>2024-11-10T17:10:18+00:00</published>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7435708047537818913</id>
+    <title>'men actually like...' IDC!!! 🗣️‼️#girlhood #wlw </title>
+    <updated>2024-11-10T17:45:00+00:00</updated>
+    <content>'men actually like...' IDC!!! 🗣️‼️#girlhood #wlw </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7435708047537818913"/>
+    <published>2024-11-10T17:45:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7435718836059393313</id>
+    <title>the green with the pink :( #eyecolor #eyecolour #filter #trend </title>
+    <updated>2024-11-10T18:26:50+00:00</updated>
+    <content>the green with the pink :( #eyecolor #eyecolour #filter #trend </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7435718836059393313"/>
+    <published>2024-11-10T18:26:50+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
