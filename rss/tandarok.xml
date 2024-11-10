@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-11-06T11:43:32+00:00</updated>
+  <updated>2024-11-10T08:07:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7414013213433498912</id>
-    <title>Liebe Menners, ihr benehmt euch bitte nicht wie Hunde. Danke. #dating #twitchgermany </title>
-    <updated>2024-09-13T06:37:59+00:00</updated>
-    <content>Liebe Menners, ihr benehmt euch bitte nicht wie Hunde. Danke. #dating #twitchgermany </content>
-    <link href="https://tiktok.com/@tandarok/video/7414013213433498912"/>
-    <published>2024-09-13T06:37:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7414744849401777440</id>
     <title>Gibt es mehr als 2 Geschlechter? #gender #nonbinary #reclaimtiktok </title>
@@ -267,6 +259,14 @@
     <content>ich kaufe mir dann erstmal eine neue Wärmflasche 🫠</content>
     <link href="https://tiktok.com/@tandarok/video/7434130537960312097"/>
     <published>2024-11-06T11:43:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7435559068393164065</id>
+    <title>I hate dating  #dating #singlelife #lovelife </title>
+    <updated>2024-11-10T08:07:04+00:00</updated>
+    <content>I hate dating  #dating #singlelife #lovelife </content>
+    <link href="https://tiktok.com/@tandarok/video/7435559068393164065"/>
+    <published>2024-11-10T08:07:04+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
