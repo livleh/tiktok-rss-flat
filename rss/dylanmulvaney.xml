@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@dylanmulvaney</id>
   <title>dylanmulvaney</title>
-  <updated>2024-11-09T05:58:15+00:00</updated>
+  <updated>2024-11-10T19:51:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylanmulvaney</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylanmulvaney/video/7394514943187389739</id>
-    <title>FIRST SHOW IN LONDON TONIGHT !!!! #sohotheatre #edinburgh </title>
-    <updated>2024-07-22T17:34:40+00:00</updated>
-    <content>FIRST SHOW IN LONDON TONIGHT !!!! #sohotheatre #edinburgh </content>
-    <link href="https://tiktok.com/@dylanmulvaney/video/7394514943187389739"/>
-    <published>2024-07-22T17:34:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7398246715305807146</id>
     <title>@caleb hearon and I trying to find some common ground on the new episode of his pod 🙏🏻 #sotruepodcast #god </title>
@@ -283,6 +275,14 @@
     <content>I love this for me </content>
     <link href="https://tiktok.com/@dylanmulvaney/video/7435154839220309290"/>
     <published>2024-11-09T05:58:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylanmulvaney/video/7435740762224053546</id>
+    <title>WICKED PREMIERE READY IM SO HAPPY I COULD CRY 🎀@Wicked Movie @Universal Pictures @instagram #wicked @Cameron Hughes </title>
+    <updated>2024-11-10T19:51:53+00:00</updated>
+    <content>WICKED PREMIERE READY IM SO HAPPY I COULD CRY 🎀@Wicked Movie @Universal Pictures @instagram #wicked @Cameron Hughes </content>
+    <link href="https://tiktok.com/@dylanmulvaney/video/7435740762224053546"/>
+    <published>2024-11-10T19:51:53+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7418617722923158827</id>
