@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-11-10T12:34:32+00:00</updated>
+  <updated>2024-11-10T16:05:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7433482831898184992</id>
-    <title>@Bee 💚 I LOVE YOU SOOO MUCH #healing #recoveryispossible </title>
-    <updated>2024-11-04T17:50:01+00:00</updated>
-    <content>@Bee 💚 I LOVE YOU SOOO MUCH #healing #recoveryispossible </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7433482831898184992"/>
-    <published>2024-11-04T17:50:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7433492301407735073</id>
     <title>its not designed for neurodivergent ppl AT ALL 😭 #autistic #adhd #neurodivergent #autism </title>
@@ -267,6 +259,14 @@
     <content>LIVE LAUGH BLAST MUSIC #fangirl </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7435628044439653665"/>
     <published>2024-11-10T12:34:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7435682454234467617</id>
+    <title>the whole vibe change:( #autism #autistic </title>
+    <updated>2024-11-10T16:05:42+00:00</updated>
+    <content>the whole vibe change:( #autism #autistic </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7435682454234467617"/>
+    <published>2024-11-10T16:05:42+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
