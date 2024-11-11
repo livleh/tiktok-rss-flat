@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-11-09T13:29:08+00:00</updated>
+  <updated>2024-11-11T14:35:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7427467890405805344</id>
-    <title>the urge to respond to meows #vtuber</title>
-    <updated>2024-10-19T12:49:00+00:00</updated>
-    <content>the urge to respond to meows #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7427467890405805344"/>
-    <published>2024-10-19T12:49:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7427535595297164576</id>
     <title>#onthisday one more try </title>
@@ -275,6 +267,14 @@
     <content>German is not a HOT language #vtuber</content>
     <link href="https://tiktok.com/@nyaravt/video/7435271020350688544"/>
     <published>2024-11-09T13:29:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7436030287231864096</id>
+    <title>become a pet not a partner #trans #streamer #valorant</title>
+    <updated>2024-11-11T14:35:28+00:00</updated>
+    <content>become a pet not a partner #trans #streamer #valorant</content>
+    <link href="https://tiktok.com/@nyaravt/video/7436030287231864096"/>
+    <published>2024-11-11T14:35:28+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>
