@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-11-08T07:17:40+00:00</updated>
+  <updated>2024-11-11T08:10:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7416272580018982161</id>
-    <title>Considering what shes been through I dont blame her 😔</title>
-    <updated>2024-09-19T08:45:30+00:00</updated>
-    <content>Considering what shes been through I dont blame her 😔</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7416272580018982161"/>
-    <published>2024-09-19T08:45:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7416278255294024976</id>
     <title>I hope she comes out of her shell soon 😭😭</title>
@@ -259,5 +251,13 @@
     <content>I also lost an ipad that had subscriptions on it!</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7434804187063487761"/>
     <published>2024-11-08T07:17:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7435931055862861072</id>
+    <title>This is very concerning</title>
+    <updated>2024-11-11T08:10:28+00:00</updated>
+    <content>This is very concerning</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7435931055862861072"/>
+    <published>2024-11-11T08:10:28+00:00</published>
   </entry>
 </feed>
