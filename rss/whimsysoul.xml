@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-11-10T16:13:53+00:00</updated>
+  <updated>2024-11-11T20:12:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7428146725925178670</id>
-    <title>I know you are all dehydrated just admit is #airport #europe #water #klm #amsterdam #travel #youhavetokeepdrinking </title>
-    <updated>2024-10-21T08:43:23+00:00</updated>
-    <content>I know you are all dehydrated just admit is #airport #europe #water #klm #amsterdam #travel #youhavetokeepdrinking </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7428146725925178670"/>
-    <published>2024-10-21T08:43:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7428282396698742062</id>
     <title>Bergen Norway help - google was not useful. Is it a peaceful protest? Religious thing? Something else? #bergen #bergennorway #norway #norway🇳🇴 #norwegian </title>
@@ -267,6 +259,14 @@
     <content>$8 box hair dye can look that good?!! 😱 I've been using this exact brand of hair dye for 10 years (my natural hair color is a dirty blonde but I think life is more fun as a redhead!)  I've tricked so many people into thinking this is my natural hair color</content>
     <link href="https://tiktok.com/@whimsysoul/video/7435684575176822062"/>
     <published>2024-11-10T16:13:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7436117044577176875</id>
+    <title>my fave San Francisco Xmas activities  ⬇️🎄 Can't believe Christmas in San Francisco is just a few weeks away!!! Some of the holiday activities has already started.  🎅Make sure you are FOLLOWING me since I'll be posting more holiday tips for the Bay Area &amp;</title>
+    <updated>2024-11-11T20:12:04+00:00</updated>
+    <content>my fave San Francisco Xmas activities  ⬇️🎄 Can't believe Christmas in San Francisco is just a few weeks away!!! Some of the holiday activities has already started.  🎅Make sure you are FOLLOWING me since I'll be posting more holiday tips for the Bay Area &amp;</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7436117044577176875"/>
+    <published>2024-11-11T20:12:04+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
