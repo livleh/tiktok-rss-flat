@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-11-10T18:40:17+00:00</updated>
+  <updated>2024-11-11T18:22:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7413812069201464608</id>
-    <title>save the teddy bears!!!!</title>
-    <updated>2024-09-12T17:37:20+00:00</updated>
-    <content>save the teddy bears!!!!</content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7413812069201464608"/>
-    <published>2024-09-12T17:37:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7414935973659675936</id>
     <title>quite possibly the best day of my life so far at clacton pier in clacton featuring @Adam and @Clacton Pier  </title>
@@ -283,6 +275,14 @@
     <content>this is a clue </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7435722300747549985"/>
     <published>2024-11-10T18:40:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7436088744790347040</id>
+    <title>i want to write a number 1 worst selling book and watch it be pulped </title>
+    <updated>2024-11-11T18:22:19+00:00</updated>
+    <content>i want to write a number 1 worst selling book and watch it be pulped </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7436088744790347040"/>
+    <published>2024-11-11T18:22:19+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7391078276183215392</id>
