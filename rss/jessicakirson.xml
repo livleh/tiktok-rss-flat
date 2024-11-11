@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-11-09T14:41:52+00:00</updated>
+  <updated>2024-11-10T23:52:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7420555954674060574</id>
-    <title>I don’t even know what day it is  #fyp #foryoupageofficiall </title>
-    <updated>2024-09-30T21:47:08+00:00</updated>
-    <content>I don’t even know what day it is  #fyp #foryoupageofficiall </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7420555954674060574"/>
-    <published>2024-09-30T21:47:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7420932033112771870</id>
     <title>Person in the front row has no idea who I am  #fan #frontrow #fyp </title>
@@ -267,6 +259,14 @@
     <content>How I Met My First Girlfriend </content>
     <link href="https://tiktok.com/@jessicakirson/video/7435289716435455263"/>
     <published>2024-11-09T14:41:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7435802787922857246</id>
+    <title>I’m so bored in this career </title>
+    <updated>2024-11-10T23:52:43+00:00</updated>
+    <content>I’m so bored in this career </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7435802787922857246"/>
+    <published>2024-11-10T23:52:43+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7428227983430716703</id>
