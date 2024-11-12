@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@danielryanspaulding</id>
   <title>danielryanspaulding</title>
-  <updated>2024-09-29T12:36:21+00:00</updated>
+  <updated>2024-11-12T01:13:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from danielryanspaulding</subtitle>
-  <entry>
-    <id>https://tiktok.com/@danielryanspaulding/video/7382149466679315745</id>
-    <title>Soggy People cynthiaenixon @ilana @jamaalbowmanny are desperately trying to motivate the Antizionist Jews who have been manipulated into supporting terrorism— to help Jamaal in his pathetic last ditch effort to save his congressional seat — despite being </title>
-    <updated>2024-06-19T09:50:26+00:00</updated>
-    <content>Soggy People cynthiaenixon @ilana @jamaalbowmanny are desperately trying to motivate the Antizionist Jews who have been manipulated into supporting terrorism— to help Jamaal in his pathetic last ditch effort to save his congressional seat — despite being </content>
-    <link href="https://tiktok.com/@danielryanspaulding/video/7382149466679315745"/>
-    <published>2024-06-19T09:50:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@danielryanspaulding/video/7382971072120950048</id>
     <title>Zionism is an indigenous rights movement. Before you believe ignorant statements claiming Zionism is racism &amp; imposing American racial constructs onto a completely different culture: LISTEN &amp; LEARN. In Israel, Jews see themselves as Jews before skin tone.</title>
@@ -267,5 +259,13 @@
     <content>Middle East 101 #israel #usa #middleeast #iran #irgc #lebanon </content>
     <link href="https://tiktok.com/@danielryanspaulding/video/7420042946847706401"/>
     <published>2024-09-29T12:36:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@danielryanspaulding/video/7436194723250883873</id>
+    <title>@StartupCapitalIL Just found the ULTIMATE free startup course 🚀 Israel = Startup Nation 💅 Check it out! #startup #tech #israel </title>
+    <updated>2024-11-12T01:13:58+00:00</updated>
+    <content>@StartupCapitalIL Just found the ULTIMATE free startup course 🚀 Israel = Startup Nation 💅 Check it out! #startup #tech #israel </content>
+    <link href="https://tiktok.com/@danielryanspaulding/video/7436194723250883873"/>
+    <published>2024-11-12T01:13:58+00:00</published>
   </entry>
 </feed>
