@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@andreasfashiongalaxy</id>
   <title>andreasfashiongalaxy</title>
-  <updated>2024-11-07T21:00:38+00:00</updated>
+  <updated>2024-11-12T21:10:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from andreasfashiongalaxy</subtitle>
-  <entry>
-    <id>https://tiktok.com/@andreasfashiongalaxy/video/7382678646647016736</id>
-    <title>How to style a gothic inspired cowgirl look #letsgetdressed </title>
-    <updated>2024-06-20T20:03:48+00:00</updated>
-    <content>How to style a gothic inspired cowgirl look #letsgetdressed </content>
-    <link href="https://tiktok.com/@andreasfashiongalaxy/video/7382678646647016736"/>
-    <published>2024-06-20T20:03:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@andreasfashiongalaxy/video/7383049018831621408</id>
     <title>Ad Country style outfit inspo #letsgetdressed </title>
@@ -291,5 +283,13 @@
     <content>Styling that linen skirt as an autumn skirt #letsgetdressed </content>
     <link href="https://tiktok.com/@andreasfashiongalaxy/video/7434645197562170657"/>
     <published>2024-11-07T21:00:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@andreasfashiongalaxy/video/7436503196987690273</id>
+    <title>How to style the most versatile dress #letsgetdressed 🔗 in bio</title>
+    <updated>2024-11-12T21:10:33+00:00</updated>
+    <content>How to style the most versatile dress #letsgetdressed 🔗 in bio</content>
+    <link href="https://tiktok.com/@andreasfashiongalaxy/video/7436503196987690273"/>
+    <published>2024-11-12T21:10:33+00:00</published>
   </entry>
 </feed>
