@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-11-10T08:07:04+00:00</updated>
+  <updated>2024-11-12T15:34:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7414744849401777440</id>
-    <title>Gibt es mehr als 2 Geschlechter? #gender #nonbinary #reclaimtiktok </title>
-    <updated>2024-09-15T05:57:22+00:00</updated>
-    <content>Gibt es mehr als 2 Geschlechter? #gender #nonbinary #reclaimtiktok </content>
-    <link href="https://tiktok.com/@tandarok/video/7414744849401777440"/>
-    <published>2024-09-15T05:57:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7415132615805521185</id>
     <title>Mein Lieblings Snack zurzeit  #vegan </title>
@@ -267,6 +259,14 @@
     <content>I hate dating  #dating #singlelife #lovelife </content>
     <link href="https://tiktok.com/@tandarok/video/7435559068393164065"/>
     <published>2024-11-10T08:07:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7436416523088022806</id>
+    <title>It's giving virgin ✨</title>
+    <updated>2024-11-12T15:34:09+00:00</updated>
+    <content>It's giving virgin ✨</content>
+    <link href="https://tiktok.com/@tandarok/video/7436416523088022806"/>
+    <published>2024-11-12T15:34:09+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
