@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ramalauw</id>
   <title>ramalauw</title>
-  <updated>2024-11-08T18:14:16+00:00</updated>
+  <updated>2024-11-13T17:17:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ramalauw</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ramalauw/video/7393014705779903777</id>
-    <title>Me: I go to the gym all the time, I don't know why I'm not any results 😔🤷‍♂️😡 Also me: #gym #fitness #fitnessmotivation #gymtok #fyp #foryou #tiktokusa</title>
-    <updated>2024-07-18T16:32:57+00:00</updated>
-    <content>Me: I go to the gym all the time, I don't know why I'm not any results 😔🤷‍♂️😡 Also me: #gym #fitness #fitnessmotivation #gymtok #fyp #foryou #tiktokusa</content>
-    <link href="https://tiktok.com/@ramalauw/video/7393014705779903777"/>
-    <published>2024-07-18T16:32:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7395234857225325856</id>
     <title>Me to my ✨Anx1ety✨: People are too focused on themselves and their own problems, nobody is thinking about you! 😉  ✨Depreschön✨: ever… Me: 😭🫠🥲 #Free99 #fyp #foryou #tiktokusa #adulting #mentalhealth #therapy </title>
@@ -267,6 +259,14 @@
     <content>It still baffles me that people who were born in 2007 will turn 18 next year 🤯</content>
     <link href="https://tiktok.com/@ramalauw/video/7434973421366283552"/>
     <published>2024-11-08T18:14:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ramalauw/video/7436814268160331041</id>
+    <title>My mother tongue is ✨self-criticism✨🥰 #Free99 </title>
+    <updated>2024-11-13T17:17:40+00:00</updated>
+    <content>My mother tongue is ✨self-criticism✨🥰 #Free99 </content>
+    <link href="https://tiktok.com/@ramalauw/video/7436814268160331041"/>
+    <published>2024-11-13T17:17:40+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7270903343638187297</id>
