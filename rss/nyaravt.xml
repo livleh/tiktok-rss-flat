@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-11-12T22:39:10+00:00</updated>
+  <updated>2024-11-13T14:55:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7427842938333383968</id>
-    <title>didnt know this was eboy behaviour #valorant</title>
-    <updated>2024-10-20T13:04:27+00:00</updated>
-    <content>didnt know this was eboy behaviour #valorant</content>
-    <link href="https://tiktok.com/@nyaravt/video/7427842938333383968"/>
-    <published>2024-10-20T13:04:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7427855522658798880</id>
     <title>giving off the same vibes as @tabbypac #valorant</title>
@@ -275,6 +267,14 @@
     <content>When Transphobes say they don't have problems with trans people#lgbt #transgender #transfem</content>
     <link href="https://tiktok.com/@nyaravt/video/7436526003377212704"/>
     <published>2024-11-12T22:39:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7436777597872262433</id>
+    <title>You're not a femboy, You're just a woman #trans #streamer #twitch</title>
+    <updated>2024-11-13T14:55:22+00:00</updated>
+    <content>You're not a femboy, You're just a woman #trans #streamer #twitch</content>
+    <link href="https://tiktok.com/@nyaravt/video/7436777597872262433"/>
+    <published>2024-11-13T14:55:22+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>
