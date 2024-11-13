@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tallywyteee</id>
   <title>tallywyteee</title>
-  <updated>2024-11-12T18:09:41+00:00</updated>
+  <updated>2024-11-13T17:32:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tallywyteee</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tallywyteee/video/7386016598517091626</id>
-    <title>Freakbob going crazy rn 😭🙏🏻</title>
-    <updated>2024-06-29T19:56:46+00:00</updated>
-    <content>Freakbob going crazy rn 😭🙏🏻</content>
-    <link href="https://tiktok.com/@tallywyteee/video/7386016598517091626"/>
-    <published>2024-06-29T19:56:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7386020168570309930</id>
     <title>Would you give me 1 billion dollars for fun? 😅💸 #trans #transgender #transgirl #transwoman #transandproud </title>
@@ -275,6 +267,14 @@
     <content>I can’t believe homie said I look like a fairy 😂🧚🏼‍♀️</content>
     <link href="https://tiktok.com/@tallywyteee/video/7436456577764248878"/>
     <published>2024-11-12T18:09:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tallywyteee/video/7436818019872967979</id>
+    <title>Homie wanted me to be his habibi… 👀💙</title>
+    <updated>2024-11-13T17:32:12+00:00</updated>
+    <content>Homie wanted me to be his habibi… 👀💙</content>
+    <link href="https://tiktok.com/@tallywyteee/video/7436818019872967979"/>
+    <published>2024-11-13T17:32:12+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7261699619762048298</id>

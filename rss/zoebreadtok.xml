@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-11-11T18:22:19+00:00</updated>
+  <updated>2024-11-13T18:20:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7414935973659675936</id>
-    <title>quite possibly the best day of my life so far at clacton pier in clacton featuring @Adam and @Clacton Pier  </title>
-    <updated>2024-09-15T18:18:43+00:00</updated>
-    <content>quite possibly the best day of my life so far at clacton pier in clacton featuring @Adam and @Clacton Pier  </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7414935973659675936"/>
-    <published>2024-09-15T18:18:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7415667666918051105</id>
     <title>homage to alan partridge, who i found out today is a character played by steve coogan. as well as bono who is in the band U2, which means “you as well”. filmed at bono’s actual house! blickling hall in norwich </title>
@@ -283,6 +275,14 @@
     <content>i want to write a number 1 worst selling book and watch it be pulped </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7436088744790347040"/>
     <published>2024-11-11T18:22:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7436830365559328033</id>
+    <title>Hello. This is Roadside and Jam. This is our account now. You all belong to us. </title>
+    <updated>2024-11-13T18:20:09+00:00</updated>
+    <content>Hello. This is Roadside and Jam. This is our account now. You all belong to us. </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7436830365559328033"/>
+    <published>2024-11-13T18:20:09+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7391078276183215392</id>
