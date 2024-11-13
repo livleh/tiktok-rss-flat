@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lillytino_</id>
   <title>lillytino_</title>
-  <updated>2024-11-11T15:08:44+00:00</updated>
+  <updated>2024-11-13T13:44:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from lillytino_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@lillytino_/video/7354408141255101742</id>
-    <title>Replying to @the..great..escape toot toot 🚂</title>
-    <updated>2024-04-05T15:40:10+00:00</updated>
-    <content>Replying to @the..great..escape toot toot 🚂</content>
-    <link href="https://tiktok.com/@lillytino_/video/7354408141255101742"/>
-    <published>2024-04-05T15:40:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@lillytino_/video/7358575594042395950</id>
     <title>Now vs then ✨</title>
@@ -291,5 +283,13 @@
     <content>Do you know them all? 🤔</content>
     <link href="https://tiktok.com/@lillytino_/video/7436038868228377899"/>
     <published>2024-11-11T15:08:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lillytino_/video/7436759421629238570</id>
+    <title>So scary 😂</title>
+    <updated>2024-11-13T13:44:50+00:00</updated>
+    <content>So scary 😂</content>
+    <link href="https://tiktok.com/@lillytino_/video/7436759421629238570"/>
+    <published>2024-11-13T13:44:50+00:00</published>
   </entry>
 </feed>
