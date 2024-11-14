@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-11-14T20:07:46+00:00</updated>
+  <updated>2024-11-14T20:43:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7435330598220221728</id>
-    <title>progress out the window </title>
-    <updated>2024-11-09T17:20:17+00:00</updated>
-    <content>progress out the window </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7435330598220221728"/>
-    <published>2024-11-09T17:20:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7435331122218749216</id>
     <title>outfits recently to remind myself and maybe give you inspo?? 😭🫶 #outfits #ootd #alt #indie #kawaii #pinkhair #cutecore </title>
@@ -267,6 +259,14 @@
     <content>Replying to @🍥Äßß¥Ðråwzz🍥|FREE🇵🇸 for everyone asking!! #hellokitty #hellokittycafe #sanrio </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7437229196230872353"/>
     <published>2024-11-14T20:07:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7437238511436107041</id>
+    <title>maybe i lost brain cells that would explain a lot </title>
+    <updated>2024-11-14T20:43:54+00:00</updated>
+    <content>maybe i lost brain cells that would explain a lot </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7437238511436107041"/>
+    <published>2024-11-14T20:43:54+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
