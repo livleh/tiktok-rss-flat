@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-11-15T04:06:54+00:00</updated>
+  <updated>2024-11-15T13:16:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7416328085974289681</id>
-    <title>3 months ago I sent that video to @Evangeline James and @AJ Clementine after I made one of the scariest decisions in my adult life. I was so scared and they helped me heal every step of the way! I had no idea how much beauty I was in for! </title>
-    <updated>2024-09-19T12:20:51+00:00</updated>
-    <content>3 months ago I sent that video to @Evangeline James and @AJ Clementine after I made one of the scariest decisions in my adult life. I was so scared and they helped me heal every step of the way! I had no idea how much beauty I was in for! </content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7416328085974289681"/>
-    <published>2024-09-19T12:20:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7416961123347336464</id>
     <title>Men always think I’m so dumb 😂</title>
@@ -259,5 +251,13 @@
     <content>The best get out of date free card</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7437352547125431569"/>
     <published>2024-11-15T04:06:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7437494109914320129</id>
+    <title>We’re swiping no if Diamie doesn’t think your dog is cute.</title>
+    <updated>2024-11-15T13:16:02+00:00</updated>
+    <content>We’re swiping no if Diamie doesn’t think your dog is cute.</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7437494109914320129"/>
+    <published>2024-11-15T13:16:02+00:00</published>
   </entry>
 </feed>
