@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-11-12T21:18:33+00:00</updated>
+  <updated>2024-11-15T20:23:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7428286444181179694</id>
-    <title>you'll feel like a whole new person after 👏 #sauna #bergen #norway #bergennorway #norway🇳🇴 @Visit Bergen #visitbergen </title>
-    <updated>2024-10-21T17:45:23+00:00</updated>
-    <content>you'll feel like a whole new person after 👏 #sauna #bergen #norway #bergennorway #norway🇳🇴 @Visit Bergen #visitbergen </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7428286444181179694"/>
-    <published>2024-10-21T17:45:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7428339097393007915</id>
     <title>Just landed in Bergen, Norway after a 17 hour travel day. Can't wait to explore this special part of Norway! Give me all your tips!!  #sauna #bergen #norway #bergennorway #norway🇳🇴 #visitbergen #norwegian #europe #sfo #vlog #travelvlog #klm #klmairlines #</title>
@@ -267,6 +259,14 @@
     <content>proof you don't need to spend big $$$ to make a big difference in your apartment!! I've been wanting to give our San Francisco bathroom a mini refresh for a while.  I love the overall decor concept, so I found this bath mat by Quiet Town Home that literal</content>
     <link href="https://tiktok.com/@whimsysoul/video/7436505263974206762"/>
     <published>2024-11-12T21:18:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7437604439743057195</id>
+    <title>the CUTEST California Christmas town you need to visit!!🎄😱 You know I'm in love with @visitmurphys - it's an adorable mountain town in Calaveras County that low-key feels like California's very one Stars Hollow year-round, but especially during the holida</title>
+    <updated>2024-11-15T20:23:54+00:00</updated>
+    <content>the CUTEST California Christmas town you need to visit!!🎄😱 You know I'm in love with @visitmurphys - it's an adorable mountain town in Calaveras County that low-key feels like California's very one Stars Hollow year-round, but especially during the holida</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7437604439743057195"/>
+    <published>2024-11-15T20:23:54+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>

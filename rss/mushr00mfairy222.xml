@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-11-15T16:51:28+00:00</updated>
+  <updated>2024-11-15T19:59:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7435682454234467617</id>
-    <title>the whole vibe change:( #autism #autistic </title>
-    <updated>2024-11-10T16:05:42+00:00</updated>
-    <content>the whole vibe change:( #autism #autistic </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7435682454234467617"/>
-    <published>2024-11-10T16:05:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7435693257331313953</id>
-    <title>this song &lt;/3 #girlhood #feminist #equalrights </title>
-    <updated>2024-11-10T16:47:34+00:00</updated>
-    <content>this song &lt;/3 #girlhood #feminist #equalrights </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7435693257331313953"/>
-    <published>2024-11-10T16:47:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7435708047537818913</id>
     <title>'men actually like...' IDC!!! 🗣️‼️#girlhood #wlw </title>
@@ -267,6 +251,22 @@
     <content>@Bee 💚 and we're on our way to our holiday 😋 roadtrip core #pinkhair #dyedhair </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7437549675105750305"/>
     <published>2024-11-15T16:51:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7437597983786470688</id>
+    <title>sorry pookie 😟 @Bee 💚 #roadtrip #relatable </title>
+    <updated>2024-11-15T19:58:57+00:00</updated>
+    <content>sorry pookie 😟 @Bee 💚 #roadtrip #relatable </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7437597983786470688"/>
+    <published>2024-11-15T19:58:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7437598228477922592</id>
+    <title>i made us stop a lot 😭😟 @Bee 💚 #roadtrip #relatable #fizzydrink </title>
+    <updated>2024-11-15T19:59:52+00:00</updated>
+    <content>i made us stop a lot 😭😟 @Bee 💚 #roadtrip #relatable #fizzydrink </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7437598228477922592"/>
+    <published>2024-11-15T19:59:52+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
