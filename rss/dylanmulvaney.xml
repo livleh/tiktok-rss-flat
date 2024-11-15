@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@dylanmulvaney</id>
   <title>dylanmulvaney</title>
-  <updated>2024-11-14T09:25:43+00:00</updated>
+  <updated>2024-11-15T07:59:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylanmulvaney</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylanmulvaney/video/7399386341303176491</id>
-    <title>@Ingrid Michaelson wrote a song for my show F*GHAG which is running right now at the edinburgh fringe fesitval 👯‍♀️❤️ #theatre #notebook #edinburgh </title>
-    <updated>2024-08-04T20:38:11+00:00</updated>
-    <content>@Ingrid Michaelson wrote a song for my show F*GHAG which is running right now at the edinburgh fringe fesitval 👯‍♀️❤️ #theatre #notebook #edinburgh </content>
-    <link href="https://tiktok.com/@dylanmulvaney/video/7399386341303176491"/>
-    <published>2024-08-04T20:38:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7399679673191435566</id>
     <title>18 shows left in Scotland 💓 #fringe #onewomanshow #costumes </title>
@@ -283,6 +275,14 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@dylanmulvaney/video/7437063663288192302"/>
     <published>2024-11-14T09:25:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylanmulvaney/video/7437412673333185838</id>
+    <title>Wicked premiere facetime catch up </title>
+    <updated>2024-11-15T07:59:51+00:00</updated>
+    <content>Wicked premiere facetime catch up </content>
+    <link href="https://tiktok.com/@dylanmulvaney/video/7437412673333185838"/>
+    <published>2024-11-15T07:59:51+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7418617722923158827</id>
