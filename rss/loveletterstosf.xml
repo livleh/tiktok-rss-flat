@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2024-11-14T04:51:07+00:00</updated>
+  <updated>2024-11-15T03:12:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from loveletterstosf</subtitle>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7402801232735128878</id>
-    <title>PSA caltrain electric trains coming sept 21 ⚡️ this is huge esp for my #sfbayarea commuters livin that life  #caltrain #sf #electrictrains #bayarea #commuterlife @Caltrain @Train Girl 🤓👆🏻🚂 </title>
-    <updated>2024-08-14T01:29:41+00:00</updated>
-    <content>PSA caltrain electric trains coming sept 21 ⚡️ this is huge esp for my #sfbayarea commuters livin that life  #caltrain #sf #electrictrains #bayarea #commuterlife @Caltrain @Train Girl 🤓👆🏻🚂 </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7402801232735128878"/>
-    <published>2024-08-14T01:29:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7403158995420089642</id>
     <title>we left no crumbs (wouldve licked the plate clean too if we weren’t in public) because Itria is that good 👏 love their pasta! Def check it out #sf #sftok #sfeats #sfrestaurant #italianrestaurant </title>
@@ -291,5 +283,13 @@
     <content>from a few weekends ago // IB: @varsh 🧿 | solo travel #sf #oceanbeach #sandcastlecompetition #muni #clippercard </content>
     <link href="https://tiktok.com/@loveletterstosf/video/7436992957418458410"/>
     <published>2024-11-14T04:51:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7437338689216498990</id>
+    <title>blue hour at francisco park ✨ #sf #cablecar </title>
+    <updated>2024-11-15T03:12:39+00:00</updated>
+    <content>blue hour at francisco park ✨ #sf #cablecar </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7437338689216498990"/>
+    <published>2024-11-15T03:12:39+00:00</published>
   </entry>
 </feed>
