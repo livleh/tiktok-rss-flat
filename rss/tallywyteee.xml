@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tallywyteee</id>
   <title>tallywyteee</title>
-  <updated>2024-11-14T19:25:50+00:00</updated>
+  <updated>2024-11-15T18:53:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tallywyteee</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tallywyteee/video/7388971339266264362</id>
-    <title>Why don’t British people understand trans people? 👀🏳️‍⚧️ #trans #transgender #transgirl #transandproud #transwoman </title>
-    <updated>2024-07-07T19:02:41+00:00</updated>
-    <content>Why don’t British people understand trans people? 👀🏳️‍⚧️ #trans #transgender #transgirl #transandproud #transwoman </content>
-    <link href="https://tiktok.com/@tallywyteee/video/7388971339266264362"/>
-    <published>2024-07-07T19:02:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7389765061465754923</id>
     <title>I can’t help myself…youtube is so distracting 😅 #trans #transgender #transgirl #transandproud #transwoman</title>
@@ -275,6 +267,14 @@
     <content>Homie just found out about pronouns 😂👍🏻</content>
     <link href="https://tiktok.com/@tallywyteee/video/7437218386012065067"/>
     <published>2024-11-14T19:25:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tallywyteee/video/7437581008137882923</id>
+    <title>Do you think I look like Link, are are these puppet homies tripping? 😂👀🧝🏻‍♀️</title>
+    <updated>2024-11-15T18:53:00+00:00</updated>
+    <content>Do you think I look like Link, are are these puppet homies tripping? 😂👀🧝🏻‍♀️</content>
+    <link href="https://tiktok.com/@tallywyteee/video/7437581008137882923"/>
+    <published>2024-11-15T18:53:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7261699619762048298</id>
