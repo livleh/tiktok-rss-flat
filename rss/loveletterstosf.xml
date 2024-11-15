@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2024-11-15T03:12:39+00:00</updated>
+  <updated>2024-11-15T16:57:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from loveletterstosf</subtitle>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7403158995420089642</id>
-    <title>we left no crumbs (wouldve licked the plate clean too if we weren’t in public) because Itria is that good 👏 love their pasta! Def check it out #sf #sftok #sfeats #sfrestaurant #italianrestaurant </title>
-    <updated>2024-08-15T00:38:00+00:00</updated>
-    <content>we left no crumbs (wouldve licked the plate clean too if we weren’t in public) because Itria is that good 👏 love their pasta! Def check it out #sf #sftok #sfeats #sfrestaurant #italianrestaurant </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7403158995420089642"/>
-    <published>2024-08-15T00:38:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7403779505518595374</id>
     <title>happy weekend #sftok ✨ #thisweekendinsf #sanfrancisco #sfevents #thingstodoinsf #bratsummer #oceanbeach </title>
@@ -291,5 +283,13 @@
     <content>blue hour at francisco park ✨ #sf #cablecar </content>
     <link href="https://tiktok.com/@loveletterstosf/video/7437338689216498990"/>
     <published>2024-11-15T03:12:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7437551171985870122</id>
+    <title>#sfevents #thisweekendinsf #thingstodoinsf #sflocals #sftok #sfshopping #sfbars </title>
+    <updated>2024-11-15T16:57:15+00:00</updated>
+    <content>#sfevents #thisweekendinsf #thingstodoinsf #sflocals #sftok #sfshopping #sfbars </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7437551171985870122"/>
+    <published>2024-11-15T16:57:15+00:00</published>
   </entry>
 </feed>
