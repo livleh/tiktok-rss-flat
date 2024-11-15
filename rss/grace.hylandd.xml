@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-11-15T04:06:54+00:00</updated>
+  <updated>2024-11-15T05:56:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7416328085974289681</id>
-    <title>3 months ago I sent that video to @Evangeline James and @AJ Clementine after I made one of the scariest decisions in my adult life. I was so scared and they helped me heal every step of the way! I had no idea how much beauty I was in for! </title>
-    <updated>2024-09-19T12:20:51+00:00</updated>
-    <content>3 months ago I sent that video to @Evangeline James and @AJ Clementine after I made one of the scariest decisions in my adult life. I was so scared and they helped me heal every step of the way! I had no idea how much beauty I was in for! </content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7416328085974289681"/>
-    <published>2024-09-19T12:20:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7416961123347336464</id>
-    <title>Men always think I’m so dumb 😂</title>
-    <updated>2024-09-21T05:17:44+00:00</updated>
-    <content>Men always think I’m so dumb 😂</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7416961123347336464"/>
-    <published>2024-09-21T05:17:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7416964282811780353</id>
     <title>I feel better because I feel NOTHING! </title>
@@ -253,11 +237,27 @@
     <published>2024-11-12T04:42:42+00:00</published>
   </entry>
   <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7437135955317869841</id>
+    <title>dw her mum and him are separated </title>
+    <updated>2024-11-14T14:05:57+00:00</updated>
+    <content>dw her mum and him are separated </content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7437135955317869841"/>
+    <published>2024-11-14T14:05:57+00:00</published>
+  </entry>
+  <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7437352547125431569</id>
     <title>The best get out of date free card</title>
     <updated>2024-11-15T04:06:54+00:00</updated>
     <content>The best get out of date free card</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7437352547125431569"/>
     <published>2024-11-15T04:06:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7437380970853977345</id>
+    <title>Replying to @Hails Suddenly transphobic now that youre not friends with me anymore? Go figure 🙄</title>
+    <updated>2024-11-15T05:56:49+00:00</updated>
+    <content>Replying to @Hails Suddenly transphobic now that youre not friends with me anymore? Go figure 🙄</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7437380970853977345"/>
+    <published>2024-11-15T05:56:49+00:00</published>
   </entry>
 </feed>
