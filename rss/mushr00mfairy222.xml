@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-11-15T19:59:52+00:00</updated>
+  <updated>2024-11-16T15:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7435708047537818913</id>
-    <title>'men actually like...' IDC!!! 🗣️‼️#girlhood #wlw </title>
-    <updated>2024-11-10T17:45:00+00:00</updated>
-    <content>'men actually like...' IDC!!! 🗣️‼️#girlhood #wlw </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7435708047537818913"/>
-    <published>2024-11-10T17:45:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7435718836059393313</id>
     <title>the green with the pink :( #eyecolor #eyecolour #filter #trend </title>
@@ -267,6 +259,14 @@
     <content>i made us stop a lot 😭😟 @Bee 💚 #roadtrip #relatable #fizzydrink </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7437598228477922592"/>
     <published>2024-11-15T19:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7437892021303446816</id>
+    <title>I CANT SHUT UP 😭 #adhdtok #adhd #yapping #yap </title>
+    <updated>2024-11-16T15:00:00+00:00</updated>
+    <content>I CANT SHUT UP 😭 #adhdtok #adhd #yapping #yap </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7437892021303446816"/>
+    <published>2024-11-16T15:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
