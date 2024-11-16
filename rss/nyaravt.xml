@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-11-15T15:55:01+00:00</updated>
+  <updated>2024-11-15T23:40:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7428591708654292257</id>
-    <title>there's no way she fell for it #streamer</title>
-    <updated>2024-10-22T17:00:00+00:00</updated>
-    <content>there's no way she fell for it #streamer</content>
-    <link href="https://tiktok.com/@nyaravt/video/7428591708654292257"/>
-    <published>2024-10-22T17:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7428959923473583393</id>
     <title>Regretting not TRANSITIONING sooner #lgbt #trans</title>
@@ -267,6 +259,14 @@
     <content>Why you CAN'T WIN against Transphobes #twitch #streamer #valorant</content>
     <link href="https://tiktok.com/@nyaravt/video/7437509375851269408"/>
     <published>2024-11-15T14:15:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7437654974571580704</id>
+    <title>#onthisday men in mobile games are unhinged #twitch #streamer</title>
+    <updated>2024-11-15T23:40:14+00:00</updated>
+    <content>#onthisday men in mobile games are unhinged #twitch #streamer</content>
+    <link href="https://tiktok.com/@nyaravt/video/7437654974571580704"/>
+    <published>2024-11-15T23:40:14+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>

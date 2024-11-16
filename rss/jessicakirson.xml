@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-11-14T23:35:07+00:00</updated>
+  <updated>2024-11-15T23:27:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7422280905512799518</id>
-    <title>They had contact? 👽 #aliens #dating #fy </title>
-    <updated>2024-10-05T13:21:09+00:00</updated>
-    <content>They had contact? 👽 #aliens #dating #fy </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7422280905512799518"/>
-    <published>2024-10-05T13:21:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7422808167333088543</id>
     <title>The Pizza Director  #pizza #fy #nyc </title>
@@ -267,6 +259,14 @@
     <content>Ahhh!! The Never Ending Tour is on sale now! Tix are on my site xo</content>
     <link href="https://tiktok.com/@jessicakirson/video/7437282616564354334"/>
     <published>2024-11-14T23:35:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7437651737965628702</id>
+    <title>Las Vegas! I will be at @House of Blues Las Vegas the day after Thanksgiving! Tickets are available on my site for November 29th. See you all there xo </title>
+    <updated>2024-11-15T23:27:39+00:00</updated>
+    <content>Las Vegas! I will be at @House of Blues Las Vegas the day after Thanksgiving! Tickets are available on my site for November 29th. See you all there xo </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7437651737965628702"/>
+    <published>2024-11-15T23:27:39+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7428227983430716703</id>
