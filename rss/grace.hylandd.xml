@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-11-15T13:16:02+00:00</updated>
+  <updated>2024-11-16T12:12:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7416961123347336464</id>
-    <title>Men always think I’m so dumb 😂</title>
-    <updated>2024-09-21T05:17:44+00:00</updated>
-    <content>Men always think I’m so dumb 😂</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7416961123347336464"/>
-    <published>2024-09-21T05:17:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7416964282811780353</id>
     <title>I feel better because I feel NOTHING! </title>
@@ -259,5 +251,13 @@
     <content>We’re swiping no if Diamie doesn’t think your dog is cute.</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7437494109914320129"/>
     <published>2024-11-15T13:16:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7437848862460497168</id>
+    <title>Manifesting is real</title>
+    <updated>2024-11-16T12:12:28+00:00</updated>
+    <content>Manifesting is real</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7437848862460497168"/>
+    <published>2024-11-16T12:12:28+00:00</published>
   </entry>
 </feed>
