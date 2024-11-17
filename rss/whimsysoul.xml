@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-11-17T01:06:46+00:00</updated>
+  <updated>2024-11-17T23:14:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7429243853439372587</id>
-    <title>Anna, Elsa, where are you?? Bergen is hands down the most beautiful city in the world 🇳🇴🍁 And, the city that inspired the visual look of Arendelle  from Frozen!!!  I've been following the Bergen, Norway account for years, lusting over this gorgeous city. </title>
-    <updated>2024-10-24T07:40:53+00:00</updated>
-    <content>Anna, Elsa, where are you?? Bergen is hands down the most beautiful city in the world 🇳🇴🍁 And, the city that inspired the visual look of Arendelle  from Frozen!!!  I've been following the Bergen, Norway account for years, lusting over this gorgeous city. </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7429243853439372587"/>
-    <published>2024-10-24T07:40:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7429282242750319918</id>
     <title>Replying to @rebekka louise | fashion&amp;fun+ when you visit Norway and the mountains are so tall they can't fit into your iPhone frame 😱 it's so beautiful here #norway </title>
@@ -267,6 +259,14 @@
     <content>BEST Christmas lights in the Bay Area just launched!! 🎄😱  I love @_filoli year round but it gets EXTRA magical at Christmas time.  The gardens transform into a magical North Pole Christmas wonderland with tons of lights (including a light tunnel!), hangin</content>
     <link href="https://tiktok.com/@whimsysoul/video/7438048424953564462"/>
     <published>2024-11-17T01:06:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7438390627546484014</id>
+    <title>did I spend $40 on pretty rocks? Yes i did. Successful crystal shopping day in the Haight in San Francisco!! Found some good pretty rocks hehe #thehaight #sanfrancisco #sanfranciscovlog #bayarea #onlyinsf #whimsysoul #bayarea #crystals #crystaltok #crysta</title>
+    <updated>2024-11-17T23:14:42+00:00</updated>
+    <content>did I spend $40 on pretty rocks? Yes i did. Successful crystal shopping day in the Haight in San Francisco!! Found some good pretty rocks hehe #thehaight #sanfrancisco #sanfranciscovlog #bayarea #onlyinsf #whimsysoul #bayarea #crystals #crystaltok #crysta</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7438390627546484014"/>
+    <published>2024-11-17T23:14:42+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
