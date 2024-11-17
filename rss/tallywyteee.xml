@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tallywyteee</id>
   <title>tallywyteee</title>
-  <updated>2024-11-17T02:11:17+00:00</updated>
+  <updated>2024-11-17T18:54:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tallywyteee</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tallywyteee/video/7390864453434199342</id>
-    <title>Is this the hardest transition you’ve ever seen? 🤯🏳️‍⚧️ #trans #transgirl #transwomen #transandproud #transgender</title>
-    <updated>2024-07-12T21:28:54+00:00</updated>
-    <content>Is this the hardest transition you’ve ever seen? 🤯🏳️‍⚧️ #trans #transgirl #transwomen #transandproud #transgender</content>
-    <link href="https://tiktok.com/@tallywyteee/video/7390864453434199342"/>
-    <published>2024-07-12T21:28:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7391985026285718830</id>
     <title>Be honest…do I dance like a Caucasian individual? 😅 #trans #transgirl #transwoman #transgender #transandproud </title>
@@ -275,6 +267,14 @@
     <content>Life is complicated, and weird, and all sorts of things. Sometimes I’m like wtf and others times I’m like heck yeah this is awesome 😄</content>
     <link href="https://tiktok.com/@tallywyteee/video/7438065045491289387"/>
     <published>2024-11-17T02:11:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tallywyteee/video/7438323490802896174</id>
+    <title>I’m starting to think maybe I should’ve skipped homie… 😂</title>
+    <updated>2024-11-17T18:54:10+00:00</updated>
+    <content>I’m starting to think maybe I should’ve skipped homie… 😂</content>
+    <link href="https://tiktok.com/@tallywyteee/video/7438323490802896174"/>
+    <published>2024-11-17T18:54:10+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7261699619762048298</id>
