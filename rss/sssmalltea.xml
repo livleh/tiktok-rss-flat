@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@sssmalltea</id>
   <title>sssmalltea</title>
-  <updated>2024-06-10T19:53:06+00:00</updated>
+  <updated>2024-11-17T18:32:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from sssmalltea</subtitle>
-  <entry>
-    <id>https://tiktok.com/@sssmalltea/video/7309607386006785323</id>
-    <title>This might shock you but trans people know more about trans issues than cis people #trans #lgbt #queer #fyp </title>
-    <updated>2023-12-06T22:10:10+00:00</updated>
-    <content>This might shock you but trans people know more about trans issues than cis people #trans #lgbt #queer #fyp </content>
-    <link href="https://tiktok.com/@sssmalltea/video/7309607386006785323"/>
-    <published>2023-12-06T22:10:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@sssmalltea/video/7310317383783140651</id>
     <title>#stitch with @Election2024 “noooooo dont deadname me” *bans gender affirming care* #trans #gop #politics #lgbt #fyp </title>
@@ -275,6 +267,14 @@
     <content>Trying out being a conspiracy theorist #trans #twitch #lgbt #fyp </content>
     <link href="https://tiktok.com/@sssmalltea/video/7378965046195506475"/>
     <published>2024-06-10T19:53:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sssmalltea/video/7438317854824385822</id>
+    <title>like they deal with so much everyday #trans #transgender #lgbt </title>
+    <updated>2024-11-17T18:32:30+00:00</updated>
+    <content>like they deal with so much everyday #trans #transgender #lgbt </content>
+    <link href="https://tiktok.com/@sssmalltea/video/7438317854824385822"/>
+    <published>2024-11-17T18:32:30+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@sssmalltea/video/7238298305275514158</id>

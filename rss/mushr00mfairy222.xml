@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-11-16T20:56:47+00:00</updated>
+  <updated>2024-11-17T17:29:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7435999365208034593</id>
-    <title>hello kitty cafe day!! i'll vlog it :) #ootd #hellokitty #outfitinspo #pinkhair #kawaii #cutecore </title>
-    <updated>2024-11-11T12:35:30+00:00</updated>
-    <content>hello kitty cafe day!! i'll vlog it :) #ootd #hellokitty #outfitinspo #pinkhair #kawaii #cutecore </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7435999365208034593"/>
-    <published>2024-11-11T12:35:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7436064697914264865</id>
     <title>BEST DAY hello kitty cafe for the win @Bee 💚 #hellokitty #hellokittycafe #sanrio </title>
@@ -267,6 +259,14 @@
     <content>IN SCOTLANDDDD @Bee 💚 #roadtrip #vlog </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7437983978486910240"/>
     <published>2024-11-16T20:56:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7438301658368462113</id>
+    <title>pookie wake up @Bee 💚 #relatable #pookie </title>
+    <updated>2024-11-17T17:29:32+00:00</updated>
+    <content>pookie wake up @Bee 💚 #relatable #pookie </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7438301658368462113"/>
+    <published>2024-11-17T17:29:32+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>

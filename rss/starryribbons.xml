@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@starryribbons</id>
   <title>starryribbons</title>
-  <updated>2024-11-10T21:28:44+00:00</updated>
+  <updated>2024-11-17T18:22:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from starryribbons</subtitle>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7406381422920879393</id>
-    <title>mad woman you‘ll be famous to me #digitaldiary #coquetteaesthetic #taylorswift #folklore #madwoman #wlw #swiftietok </title>
-    <updated>2024-08-23T17:02:41+00:00</updated>
-    <content>mad woman you‘ll be famous to me #digitaldiary #coquetteaesthetic #taylorswift #folklore #madwoman #wlw #swiftietok </content>
-    <link href="https://tiktok.com/@starryribbons/video/7406381422920879393"/>
-    <published>2024-08-23T17:02:41+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7406381595571146016</id>
-    <title>whats with the blink??? #digitaldiary #coquetteaesthetic #taylorswift #gracieabrams #fangirltok #wlw </title>
-    <updated>2024-08-23T17:03:24+00:00</updated>
-    <content>whats with the blink??? #digitaldiary #coquetteaesthetic #taylorswift #gracieabrams #fangirltok #wlw </content>
-    <link href="https://tiktok.com/@starryribbons/video/7406381595571146016"/>
-    <published>2024-08-23T17:03:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7408636193916620064</id>
     <title>hey so what do you guys think about vlogs #digitaldiary #coquetteaesthetic #thoughtdaughter #wlw </title>
@@ -283,6 +267,22 @@
     <content>„what do you bring to the table“ a complicated relationship w religion #digitaldiary #coquette #femmelesbian #religioustrauma #wlw #religiousguilt </content>
     <link href="https://tiktok.com/@starryribbons/video/7435765694211411233"/>
     <published>2024-11-10T21:28:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7438314533208345889</id>
+    <title>evermore they don‘t get you like i do #digitaldiary #coquette #wlw #evermore #taylorswift #autumnaesthetic #evermorealbum </title>
+    <updated>2024-11-17T18:19:31+00:00</updated>
+    <content>evermore they don‘t get you like i do #digitaldiary #coquette #wlw #evermore #taylorswift #autumnaesthetic #evermorealbum </content>
+    <link href="https://tiktok.com/@starryribbons/video/7438314533208345889"/>
+    <published>2024-11-17T18:19:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7438315431942769952</id>
+    <title>Femme4Butch History I love you so much #digitaldiary #coquette #wlw #femmelesbian #butch4femme #lesbiansoftiktok </title>
+    <updated>2024-11-17T18:22:55+00:00</updated>
+    <content>Femme4Butch History I love you so much #digitaldiary #coquette #wlw #femmelesbian #butch4femme #lesbiansoftiktok </content>
+    <link href="https://tiktok.com/@starryribbons/video/7438315431942769952"/>
+    <published>2024-11-17T18:22:55+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7285761406664854817</id>
