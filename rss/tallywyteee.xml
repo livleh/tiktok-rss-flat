@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tallywyteee</id>
   <title>tallywyteee</title>
-  <updated>2024-11-17T18:54:10+00:00</updated>
+  <updated>2024-11-18T01:54:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tallywyteee</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tallywyteee/video/7391985026285718830</id>
-    <title>Be honest…do I dance like a Caucasian individual? 😅 #trans #transgirl #transwoman #transgender #transandproud </title>
-    <updated>2024-07-15T21:57:22+00:00</updated>
-    <content>Be honest…do I dance like a Caucasian individual? 😅 #trans #transgirl #transwoman #transgender #transandproud </content>
-    <link href="https://tiktok.com/@tallywyteee/video/7391985026285718830"/>
-    <published>2024-07-15T21:57:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7394160298057305390</id>
     <title>Seriously bro…i cant help myself 😅 #trans #transgirl #transwoman #transandproud #transgender</title>
@@ -275,6 +267,14 @@
     <content>I’m starting to think maybe I should’ve skipped homie… 😂</content>
     <link href="https://tiktok.com/@tallywyteee/video/7438323490802896174"/>
     <published>2024-11-17T18:54:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tallywyteee/video/7438431920066907438</id>
+    <title>Honestly, I love traveling to new places. There’s always all sorts of new things to learn and people to meet. New experiences while traveling are so much fun, and so freaking memorable 😄✈️🧭</title>
+    <updated>2024-11-18T01:54:56+00:00</updated>
+    <content>Honestly, I love traveling to new places. There’s always all sorts of new things to learn and people to meet. New experiences while traveling are so much fun, and so freaking memorable 😄✈️🧭</content>
+    <link href="https://tiktok.com/@tallywyteee/video/7438431920066907438"/>
+    <published>2024-11-18T01:54:56+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7261699619762048298</id>

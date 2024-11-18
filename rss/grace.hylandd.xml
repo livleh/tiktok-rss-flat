@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-11-17T09:13:04+00:00</updated>
+  <updated>2024-11-18T01:17:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7417817522549984529</id>
-    <title>The soft life awaits me…</title>
-    <updated>2024-09-23T12:40:53+00:00</updated>
-    <content>The soft life awaits me…</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7417817522549984529"/>
-    <published>2024-09-23T12:40:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7417819082449308929</id>
     <title>Imagine wasting energy on a man who isn’t 100% sure about you. Ew…</title>
@@ -259,5 +251,13 @@
     <content>Worst decision</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7438173646897581328"/>
     <published>2024-11-17T09:13:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7438421974977613073</id>
+    <title>I fear this is way too niche</title>
+    <updated>2024-11-18T01:17:07+00:00</updated>
+    <content>I fear this is way too niche</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7438421974977613073"/>
+    <published>2024-11-18T01:17:07+00:00</published>
   </entry>
 </feed>
