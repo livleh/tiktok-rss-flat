@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-11-17T23:14:42+00:00</updated>
+  <updated>2024-11-18T02:04:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7429282242750319918</id>
-    <title>Replying to @rebekka louise | fashion&amp;fun+ when you visit Norway and the mountains are so tall they can't fit into your iPhone frame 😱 it's so beautiful here #norway </title>
-    <updated>2024-10-24T10:09:45+00:00</updated>
-    <content>Replying to @rebekka louise | fashion&amp;fun+ when you visit Norway and the mountains are so tall they can't fit into your iPhone frame 😱 it's so beautiful here #norway </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7429282242750319918"/>
-    <published>2024-10-24T10:09:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7429575378475339054</id>
     <title>if fishing in Norway isn't on your bucket list yet, it needs to be. 🐟🇳🇴 Sophie and I love agritourism and  @fjordexpedition out of Bergen offers an epic fishing tour.  They pick you up in the city and drive you out to stunning remote islands to go fishing</title>
@@ -267,6 +259,14 @@
     <content>did I spend $40 on pretty rocks? Yes i did. Successful crystal shopping day in the Haight in San Francisco!! Found some good pretty rocks hehe #thehaight #sanfrancisco #sanfranciscovlog #bayarea #onlyinsf #whimsysoul #bayarea #crystals #crystaltok #crysta</content>
     <link href="https://tiktok.com/@whimsysoul/video/7438390627546484014"/>
     <published>2024-11-17T23:14:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7438434298220481838</id>
+    <title>San Francisco was good to me this week #sanfrancisco #oceanbeach #bayarea #whimsysoul #dayinmylife #guthealth #hpylori #andytown #filoli #onlyinsf </title>
+    <updated>2024-11-18T02:04:10+00:00</updated>
+    <content>San Francisco was good to me this week #sanfrancisco #oceanbeach #bayarea #whimsysoul #dayinmylife #guthealth #hpylori #andytown #filoli #onlyinsf </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7438434298220481838"/>
+    <published>2024-11-18T02:04:10+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
