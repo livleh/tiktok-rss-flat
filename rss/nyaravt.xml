@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-11-18T15:38:01+00:00</updated>
+  <updated>2024-11-18T20:14:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7428950339681897761</id>
-    <title>clicker training helps you study #vtuber</title>
-    <updated>2024-10-23T17:00:00+00:00</updated>
-    <content>clicker training helps you study #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7428950339681897761"/>
-    <published>2024-10-23T17:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7429326452337773857</id>
     <title>why passing is important to trans people #vtuber</title>
@@ -267,6 +259,14 @@
     <content>The only MAN I'd pick over the BEAR #twitch #streamer #valorant</content>
     <link href="https://tiktok.com/@nyaravt/video/7438644009146338592"/>
     <published>2024-11-18T15:38:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7438715149558484256</id>
+    <title>#onthisday when first time chatters call you out #streamer </title>
+    <updated>2024-11-18T20:14:03+00:00</updated>
+    <content>#onthisday when first time chatters call you out #streamer </content>
+    <link href="https://tiktok.com/@nyaravt/video/7438715149558484256"/>
+    <published>2024-11-18T20:14:03+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>
