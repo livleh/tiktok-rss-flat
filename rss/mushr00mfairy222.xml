@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-11-18T18:16:03+00:00</updated>
+  <updated>2024-11-18T19:20:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7436788558473481504</id>
-    <title>WE ALL DID ISTG #pinkhair #mlp #pinkypie </title>
-    <updated>2024-11-13T15:37:55+00:00</updated>
-    <content>WE ALL DID ISTG #pinkhair #mlp #pinkypie </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7436788558473481504"/>
-    <published>2024-11-13T15:37:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7436796034233158944</id>
     <title>roadmen are clones #alt #wlw </title>
@@ -267,6 +259,14 @@
     <content>and they were roommates @Bee 💚 #lesbian #wlw #nmlnm #lgbt #lgbtq </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7438684729404165409"/>
     <published>2024-11-18T18:16:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7438701335442197792</id>
+    <title>me and bro up a mountain @Bee 💚 #dayinthelife #vlog </title>
+    <updated>2024-11-18T19:20:29+00:00</updated>
+    <content>me and bro up a mountain @Bee 💚 #dayinthelife #vlog </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7438701335442197792"/>
+    <published>2024-11-18T19:20:29+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>

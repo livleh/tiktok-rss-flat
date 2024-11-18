@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@starryribbons</id>
   <title>starryribbons</title>
-  <updated>2024-11-18T15:59:30+00:00</updated>
+  <updated>2024-11-18T18:53:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from starryribbons</subtitle>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7408651280186428704</id>
-    <title>i haven’t done of of these in a moment, but i miss doing them sm #digitaldiary #coquetteaesthetic #taylorswifttok #vlog #spendthedaywithme #romanticizeyourlife #wlw </title>
-    <updated>2024-08-29T19:50:52+00:00</updated>
-    <content>i haven’t done of of these in a moment, but i miss doing them sm #digitaldiary #coquetteaesthetic #taylorswifttok #vlog #spendthedaywithme #romanticizeyourlife #wlw </content>
-    <link href="https://tiktok.com/@starryribbons/video/7408651280186428704"/>
-    <published>2024-08-29T19:50:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7409344477384527137</id>
     <title>if only it wasn’t 34 Celcius #digitaldiary #coquetteaesthetic #outfitsoftheweeks #romanticizeschool #autumnaesthetic #wlw </title>
@@ -283,6 +275,14 @@
     <content>this might be a marshmallow #digitaldiary #coquette #wlw #outfitinspiration #autumnaesthetic #femmelesbian </content>
     <link href="https://tiktok.com/@starryribbons/video/7438649541915692320"/>
     <published>2024-11-18T15:59:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7438694405692755232</id>
+    <title>„i never see you at the club“ well i never see you on a bench in coney island #digitaldiary #coquette #taylorswift #evermore #coneyisland #wlw #taylorswifttok </title>
+    <updated>2024-11-18T18:53:33+00:00</updated>
+    <content>„i never see you at the club“ well i never see you on a bench in coney island #digitaldiary #coquette #taylorswift #evermore #coneyisland #wlw #taylorswifttok </content>
+    <link href="https://tiktok.com/@starryribbons/video/7438694405692755232"/>
+    <published>2024-11-18T18:53:33+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7285761406664854817</id>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tallywyteee</id>
   <title>tallywyteee</title>
-  <updated>2024-11-18T01:54:56+00:00</updated>
+  <updated>2024-11-18T18:55:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tallywyteee</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tallywyteee/video/7394160298057305390</id>
-    <title>Seriously bro…i cant help myself 😅 #trans #transgirl #transwoman #transandproud #transgender</title>
-    <updated>2024-07-21T18:38:28+00:00</updated>
-    <content>Seriously bro…i cant help myself 😅 #trans #transgirl #transwoman #transandproud #transgender</content>
-    <link href="https://tiktok.com/@tallywyteee/video/7394160298057305390"/>
-    <published>2024-07-21T18:38:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7397129021676473642</id>
     <title>Be honest dawg…you still gooning? 👀👍🏻 #trans #transgender #transgirl #transwoman #transandproud </title>
@@ -275,6 +267,14 @@
     <content>Honestly, I love traveling to new places. There’s always all sorts of new things to learn and people to meet. New experiences while traveling are so much fun, and so freaking memorable 😄✈️🧭</content>
     <link href="https://tiktok.com/@tallywyteee/video/7438431920066907438"/>
     <published>2024-11-18T01:54:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tallywyteee/video/7438694770366631210</id>
+    <title>Why would homie say that about my mother? 😅</title>
+    <updated>2024-11-18T18:55:01+00:00</updated>
+    <content>Why would homie say that about my mother? 😅</content>
+    <link href="https://tiktok.com/@tallywyteee/video/7438694770366631210"/>
+    <published>2024-11-18T18:55:01+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7261699619762048298</id>
