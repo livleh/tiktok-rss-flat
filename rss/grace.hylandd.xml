@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-11-18T01:17:07+00:00</updated>
+  <updated>2024-11-18T14:19:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7417819082449308929</id>
-    <title>Imagine wasting energy on a man who isn’t 100% sure about you. Ew…</title>
-    <updated>2024-09-23T12:47:02+00:00</updated>
-    <content>Imagine wasting energy on a man who isn’t 100% sure about you. Ew…</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7417819082449308929"/>
-    <published>2024-09-23T12:47:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7417821641159363841</id>
     <title>Gloria raised me 😌</title>
@@ -259,5 +251,13 @@
     <content>I fear this is way too niche</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7438421974977613073"/>
     <published>2024-11-18T01:17:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7438623709553773842</id>
+    <title>You live and you learn.</title>
+    <updated>2024-11-18T14:19:13+00:00</updated>
+    <content>You live and you learn.</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7438623709553773842"/>
+    <published>2024-11-18T14:19:13+00:00</published>
   </entry>
 </feed>
