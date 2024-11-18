@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-11-18T02:04:10+00:00</updated>
+  <updated>2024-11-18T21:06:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7429575378475339054</id>
-    <title>if fishing in Norway isn't on your bucket list yet, it needs to be. 🐟🇳🇴 Sophie and I love agritourism and  @fjordexpedition out of Bergen offers an epic fishing tour.  They pick you up in the city and drive you out to stunning remote islands to go fishing</title>
-    <updated>2024-10-25T05:07:10+00:00</updated>
-    <content>if fishing in Norway isn't on your bucket list yet, it needs to be. 🐟🇳🇴 Sophie and I love agritourism and  @fjordexpedition out of Bergen offers an epic fishing tour.  They pick you up in the city and drive you out to stunning remote islands to go fishing</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7429575378475339054"/>
-    <published>2024-10-25T05:07:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7429922424675716394</id>
     <title>Would you swim in 11°C (51°F) water in Bergen, Norway? 🇳🇴 TRUST ME ON THIS - when you land in Bergen, after you check in to your hotel, immediately head to one of the harbor saunas. Nothing beats jetlag like an hour in here and a nice cold plunge in the h</title>
@@ -267,6 +259,14 @@
     <content>San Francisco was good to me this week #sanfrancisco #oceanbeach #bayarea #whimsysoul #dayinmylife #guthealth #hpylori #andytown #filoli #onlyinsf </content>
     <link href="https://tiktok.com/@whimsysoul/video/7438434298220481838"/>
     <published>2024-11-18T02:04:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7438728689061252395</id>
+    <title>Morning stroll on Ocean Beach with a Snowy Plover in hand is pure bliss ⭐️🌊 ☕️ ✨ especially on crisp autumn mornings!  Took my new @POPFLEX Active set for a test drive. Love how comfy it is and the leggings even have pockets!!!! ❤️ Linked my whole outfit </title>
+    <updated>2024-11-18T21:06:35+00:00</updated>
+    <content>Morning stroll on Ocean Beach with a Snowy Plover in hand is pure bliss ⭐️🌊 ☕️ ✨ especially on crisp autumn mornings!  Took my new @POPFLEX Active set for a test drive. Love how comfy it is and the leggings even have pockets!!!! ❤️ Linked my whole outfit </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7438728689061252395"/>
+    <published>2024-11-18T21:06:35+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
