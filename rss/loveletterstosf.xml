@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2024-11-16T05:06:16+00:00</updated>
+  <updated>2024-11-19T17:09:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from loveletterstosf</subtitle>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7406366499352415530</id>
-    <title>sf summer loading!! #sf #sftok #thisweekendinsf #thingstodoinsf #sfevents #sfbars #salsadancing #museum #sfshopping #westcoastcraft </title>
-    <updated>2024-08-23T16:04:49+00:00</updated>
-    <content>sf summer loading!! #sf #sftok #thisweekendinsf #thingstodoinsf #sfevents #sfbars #salsadancing #museum #sfshopping #westcoastcraft </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7406366499352415530"/>
-    <published>2024-08-23T16:04:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7408262265155145006</id>
     <title>park picnic + thrifting + checking out a new bar = perf girls day #sf #vlog #girlsday #sfliving </title>
@@ -267,6 +259,14 @@
     <content>Replying to @egg_yolk wasnt gonna post these but since you askeddd #sf #cablecar #sanfrancisco #russianhill #bluehour #sfnight </content>
     <link href="https://tiktok.com/@loveletterstosf/video/7437739051043605803"/>
     <published>2024-11-16T05:06:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7439038783305108778</id>
+    <title>from this weekend 🥰 #sf #presidio #sfmorning #sanfrancisco #goldengatebridge </title>
+    <updated>2024-11-19T17:09:53+00:00</updated>
+    <content>from this weekend 🥰 #sf #presidio #sfmorning #sanfrancisco #goldengatebridge </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7439038783305108778"/>
+    <published>2024-11-19T17:09:53+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7408048912394620206</id>
