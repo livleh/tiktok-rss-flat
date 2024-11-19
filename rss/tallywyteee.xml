@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tallywyteee</id>
   <title>tallywyteee</title>
-  <updated>2024-11-18T18:55:01+00:00</updated>
+  <updated>2024-11-19T17:50:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tallywyteee</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tallywyteee/video/7397129021676473642</id>
-    <title>Be honest dawg…you still gooning? 👀👍🏻 #trans #transgender #transgirl #transwoman #transandproud </title>
-    <updated>2024-07-29T18:38:39+00:00</updated>
-    <content>Be honest dawg…you still gooning? 👀👍🏻 #trans #transgender #transgirl #transwoman #transandproud </content>
-    <link href="https://tiktok.com/@tallywyteee/video/7397129021676473642"/>
-    <published>2024-07-29T18:38:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7400479314933714218</id>
     <title>Be honest bro…what are you doing in this situation? 😅 #trans #transgender #transgirl #transwoman #transandproud </title>
@@ -275,6 +267,14 @@
     <content>Why would homie say that about my mother? 😅</content>
     <link href="https://tiktok.com/@tallywyteee/video/7438694770366631210"/>
     <published>2024-11-18T18:55:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tallywyteee/video/7439049184717622571</id>
+    <title>What do you think homie was feeling for me? 😌👀💙</title>
+    <updated>2024-11-19T17:50:16+00:00</updated>
+    <content>What do you think homie was feeling for me? 😌👀💙</content>
+    <link href="https://tiktok.com/@tallywyteee/video/7439049184717622571"/>
+    <published>2024-11-19T17:50:16+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7261699619762048298</id>
