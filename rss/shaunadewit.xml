@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shaunadewit</id>
   <title>shaunadewit</title>
-  <updated>2024-11-14T11:15:35+00:00</updated>
+  <updated>2024-11-19T13:36:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shaunadewit</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shaunadewit/video/7396252623919156512</id>
-    <title>Good vibes only #foryou #humor #goviral #music #pourtoi #comedy </title>
-    <updated>2024-07-27T09:57:50+00:00</updated>
-    <content>Good vibes only #foryou #humor #goviral #music #pourtoi #comedy </content>
-    <link href="https://tiktok.com/@shaunadewit/video/7396252623919156512"/>
-    <published>2024-07-27T09:57:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/7397345479148768545</id>
     <title>Spread some love, give eachother compliments bellow 🤍 #foryou #humor #goviral #pourtoi #comedy #loveyou </title>
@@ -283,6 +275,14 @@
     <content>#advertising always with my @kipling and my @Yona ! #KiplingxWicked #wicked #wickedmovie #NeverWithoutMyKipling #LiveLight</content>
     <link href="https://tiktok.com/@shaunadewit/video/7437092031136107809"/>
     <published>2024-11-14T11:15:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shaunadewit/video/7438983804116536609</id>
+    <title>Just dare #foryou #humor #goviral #pourtoi #comedy </title>
+    <updated>2024-11-19T13:36:34+00:00</updated>
+    <content>Just dare #foryou #humor #goviral #pourtoi #comedy </content>
+    <link href="https://tiktok.com/@shaunadewit/video/7438983804116536609"/>
+    <published>2024-11-19T13:36:34+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/6994791135415766278</id>
