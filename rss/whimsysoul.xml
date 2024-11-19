@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-11-18T21:06:35+00:00</updated>
+  <updated>2024-11-19T01:43:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7429922424675716394</id>
-    <title>Would you swim in 11°C (51°F) water in Bergen, Norway? 🇳🇴 TRUST ME ON THIS - when you land in Bergen, after you check in to your hotel, immediately head to one of the harbor saunas. Nothing beats jetlag like an hour in here and a nice cold plunge in the h</title>
-    <updated>2024-10-26T03:33:47+00:00</updated>
-    <content>Would you swim in 11°C (51°F) water in Bergen, Norway? 🇳🇴 TRUST ME ON THIS - when you land in Bergen, after you check in to your hotel, immediately head to one of the harbor saunas. Nothing beats jetlag like an hour in here and a nice cold plunge in the h</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7429922424675716394"/>
-    <published>2024-10-26T03:33:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7430247132956855595</id>
     <title>Imagine all the Norwegians who casually have views like this out their bedroom or kitchen window 😭 the most beautiful country #norway #rosendalnorway #visitnorway #norwaytravel #norwaytiktok </title>
@@ -267,6 +259,14 @@
     <content>Morning stroll on Ocean Beach with a Snowy Plover in hand is pure bliss ⭐️🌊 ☕️ ✨ especially on crisp autumn mornings!  Took my new @POPFLEX Active set for a test drive. Love how comfy it is and the leggings even have pockets!!!! ❤️ Linked my whole outfit </content>
     <link href="https://tiktok.com/@whimsysoul/video/7438728689061252395"/>
     <published>2024-11-18T21:06:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7438799980196007214</id>
+    <title>wait, this viral cone IS worth the hype!!😱🎄🍦  Christmas doesn't start in San Francisco until you have this viral Soft Serve Croissant Cone at @@millerandluxprovisions (bonus points if you go ice skating the Union Square rink afterward)  Have you tried it </title>
+    <updated>2024-11-19T01:43:12+00:00</updated>
+    <content>wait, this viral cone IS worth the hype!!😱🎄🍦  Christmas doesn't start in San Francisco until you have this viral Soft Serve Croissant Cone at @@millerandluxprovisions (bonus points if you go ice skating the Union Square rink afterward)  Have you tried it </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7438799980196007214"/>
+    <published>2024-11-19T01:43:12+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>

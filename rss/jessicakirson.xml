@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-11-17T23:41:22+00:00</updated>
+  <updated>2024-11-18T23:26:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7423526080184683806</id>
-    <title>He Suffers. I relate  #fy #foryoupageofficiall </title>
-    <updated>2024-10-08T21:52:45+00:00</updated>
-    <content>He Suffers. I relate  #fy #foryoupageofficiall </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7423526080184683806"/>
-    <published>2024-10-08T21:52:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7424272036089924894</id>
     <title>A lot of editing for this crowd 😂 #foryoupageofficiall </title>
@@ -267,6 +259,14 @@
     <content>Online Drag Brunch  #drag #brunch </content>
     <link href="https://tiktok.com/@jessicakirson/video/7438397446822186271"/>
     <published>2024-11-17T23:41:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7438764783119174942</id>
+    <title>SOHO Art Dealer</title>
+    <updated>2024-11-18T23:26:45+00:00</updated>
+    <content>SOHO Art Dealer</content>
+    <link href="https://tiktok.com/@jessicakirson/video/7438764783119174942"/>
+    <published>2024-11-18T23:26:45+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7428227983430716703</id>
