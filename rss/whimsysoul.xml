@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-11-20T20:16:01+00:00</updated>
+  <updated>2024-11-20T21:24:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7431756909016927531</id>
-    <title>always double check what you're eating lol 🦗🦗🦗  nobody told us our mescal shots came with crickets and it was kinda dark in the restaurant so I thought they were like tiny peppers or something 🤡🤮 NOPE NOPE NOPE #mescal #cricket #gross #lol #omg #funny</title>
-    <updated>2024-10-31T02:12:31+00:00</updated>
-    <content>always double check what you're eating lol 🦗🦗🦗  nobody told us our mescal shots came with crickets and it was kinda dark in the restaurant so I thought they were like tiny peppers or something 🤡🤮 NOPE NOPE NOPE #mescal #cricket #gross #lol #omg #funny</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7431756909016927531"/>
-    <published>2024-10-31T02:12:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7431947051505683755</id>
     <title>if i need to be blown over to get some santa holiday magic so be it #theholiday #jackblack #santaana #wind #losangeles #socal #california @Jessica Moore </title>
@@ -267,6 +259,14 @@
     <content>wild goose chase for this hand soap 😤 #bayarea #traderjoes #christmas #handsoap #sanfrancisco #whimsysoul #traderjoeshaul #traderjoesfinds </content>
     <link href="https://tiktok.com/@whimsysoul/video/7439457824155012398"/>
     <published>2024-11-20T20:16:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7439475590870158635</id>
+    <title>Nothing hits like truffle pasta and pizza 🤤 if you're looking for a great lunch in the Marina, Little Original Joe's does not disappoint #bayarea #littleorginaljoes #originaljoes #sanfrancisco #marinasf #marinasanfrancisco #bayarea #sanfranciscorestaurant</title>
+    <updated>2024-11-20T21:24:57+00:00</updated>
+    <content>Nothing hits like truffle pasta and pizza 🤤 if you're looking for a great lunch in the Marina, Little Original Joe's does not disappoint #bayarea #littleorginaljoes #originaljoes #sanfrancisco #marinasf #marinasanfrancisco #bayarea #sanfranciscorestaurant</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7439475590870158635"/>
+    <published>2024-11-20T21:24:57+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
