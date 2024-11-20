@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@dylanmulvaney</id>
   <title>dylanmulvaney</title>
-  <updated>2024-11-17T16:20:57+00:00</updated>
+  <updated>2024-11-20T02:09:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylanmulvaney</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylanmulvaney/video/7400004337289809194</id>
-    <title>One day stan right here #oneday #edinburgh </title>
-    <updated>2024-08-06T12:36:26+00:00</updated>
-    <content>One day stan right here #oneday #edinburgh </content>
-    <link href="https://tiktok.com/@dylanmulvaney/video/7400004337289809194"/>
-    <published>2024-08-06T12:36:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7402795562753625390</id>
     <title>2 more weeks of shows 💓🪽 also @Jools Lebron is the MOMENT 👯‍♀️🎉❣️#edinburgh #fringe </title>
@@ -283,6 +275,14 @@
     <content>The juno bridge makes me feel SO sexy @Sabrina Carpenter #juno #marchesa </content>
     <link href="https://tiktok.com/@dylanmulvaney/video/7438283995928120622"/>
     <published>2024-11-17T16:20:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylanmulvaney/video/7439177916132363566</id>
+    <title>She/they outfit of the day- @ELLE (US) Women in Hollywood event #elle #tiktok #ootd #marchesa </title>
+    <updated>2024-11-20T02:09:46+00:00</updated>
+    <content>She/they outfit of the day- @ELLE (US) Women in Hollywood event #elle #tiktok #ootd #marchesa </content>
+    <link href="https://tiktok.com/@dylanmulvaney/video/7439177916132363566"/>
+    <published>2024-11-20T02:09:46+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7418617722923158827</id>
