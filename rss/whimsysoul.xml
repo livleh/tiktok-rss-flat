@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-11-19T23:27:49+00:00</updated>
+  <updated>2024-11-20T20:16:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7431732849306340651</id>
-    <title>Thanks for the invite, @Forbes !! ✨Had a blast this week at the first ever #forbescreatorupfronts conference with @Walmart Creator down here in Hollywood.   What's not pictured is tons of moments I got to meet other creators and brands, and talk shop. Com</title>
-    <updated>2024-10-31T00:39:08+00:00</updated>
-    <content>Thanks for the invite, @Forbes !! ✨Had a blast this week at the first ever #forbescreatorupfronts conference with @Walmart Creator down here in Hollywood.   What's not pictured is tons of moments I got to meet other creators and brands, and talk shop. Com</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7431732849306340651"/>
-    <published>2024-10-31T00:39:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7431756909016927531</id>
     <title>always double check what you're eating lol 🦗🦗🦗  nobody told us our mescal shots came with crickets and it was kinda dark in the restaurant so I thought they were like tiny peppers or something 🤡🤮 NOPE NOPE NOPE #mescal #cricket #gross #lol #omg #funny</title>
@@ -262,11 +254,19 @@
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7439136174788152619</id>
-    <title>No Title</title>
+    <title>it snows in Napa Valley?! 😱❄️ Well, it does at the Meritage Resort during their Meritage Merry nights!! They transform the courtyard into a magical winter wonderland complete with an ice skating rink, igloo domes, cozy firepits, tons of holiday drinks and</title>
     <updated>2024-11-19T23:27:49+00:00</updated>
-    <content>No Description</content>
+    <content>it snows in Napa Valley?! 😱❄️ Well, it does at the Meritage Resort during their Meritage Merry nights!! They transform the courtyard into a magical winter wonderland complete with an ice skating rink, igloo domes, cozy firepits, tons of holiday drinks and</content>
     <link href="https://tiktok.com/@whimsysoul/video/7439136174788152619"/>
     <published>2024-11-19T23:27:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7439457824155012398</id>
+    <title>wild goose chase for this hand soap 😤 #bayarea #traderjoes #christmas #handsoap #sanfrancisco #whimsysoul #traderjoeshaul #traderjoesfinds </title>
+    <updated>2024-11-20T20:16:01+00:00</updated>
+    <content>wild goose chase for this hand soap 😤 #bayarea #traderjoes #christmas #handsoap #sanfrancisco #whimsysoul #traderjoeshaul #traderjoesfinds </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7439457824155012398"/>
+    <published>2024-11-20T20:16:01+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
