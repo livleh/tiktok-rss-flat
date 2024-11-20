@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-11-18T23:26:45+00:00</updated>
+  <updated>2024-11-20T00:02:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7424272036089924894</id>
-    <title>A lot of editing for this crowd 😂 #foryoupageofficiall </title>
-    <updated>2024-10-10T22:07:27+00:00</updated>
-    <content>A lot of editing for this crowd 😂 #foryoupageofficiall </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7424272036089924894"/>
-    <published>2024-10-10T22:07:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7424651288513613087</id>
     <title>He does what?</title>
@@ -93,6 +85,14 @@
     <published>2024-10-20T21:31:27+00:00</published>
   </entry>
   <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7428227983430716703</id>
+    <title>HIII!! I have amazing news that I’m so excited to announce. My show at the Beacon Theatre on Friday, April 25th will go on presale this Wednesday at 10AM with the code SILLY. This will be the largest venue I’ve ever done in NYC so I need your help by liki</title>
+    <updated>2024-10-21T13:58:58+00:00</updated>
+    <content>HIII!! I have amazing news that I’m so excited to announce. My show at the Beacon Theatre on Friday, April 25th will go on presale this Wednesday at 10AM with the code SILLY. This will be the largest venue I’ve ever done in NYC so I need your help by liki</content>
+    <link href="https://tiktok.com/@jessicakirson/video/7428227983430716703"/>
+    <published>2024-10-21T13:58:58+00:00</published>
+  </entry>
+  <entry>
     <id>https://tiktok.com/@jessicakirson/video/7428730345811397918</id>
     <title>They met on so many places 😂. New York City, my show at @beacontheatre goes on presale tomorrow morning! Waitlist is on my site xoxo </title>
     <updated>2024-10-22T22:28:06+00:00</updated>
@@ -141,6 +141,14 @@
     <published>2024-10-29T21:20:46+00:00</published>
   </entry>
   <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7431566341846387999</id>
+    <title>Hiii I have added new cities to The Never Ending Tour! Presale starts tomorrow with code SILLY. Tix are on my site xoxo. #sanfrancisco #montclairnj #losangeles #sandiego #portland </title>
+    <updated>2024-10-30T13:53:05+00:00</updated>
+    <content>Hiii I have added new cities to The Never Ending Tour! Presale starts tomorrow with code SILLY. Tix are on my site xoxo. #sanfrancisco #montclairnj #losangeles #sandiego #portland </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7431566341846387999"/>
+    <published>2024-10-30T13:53:05+00:00</published>
+  </entry>
+  <entry>
     <id>https://tiktok.com/@jessicakirson/video/7432058208589466910</id>
     <title>Her Luxury Sales are different 🥵. My Never Ending Tour just added a bunch of new cities is on sale now. See you all there xo  #luxury #sales </title>
     <updated>2024-10-31T21:41:44+00:00</updated>
@@ -163,6 +171,14 @@
     <content>Roommates Turned Lovers </content>
     <link href="https://tiktok.com/@jessicakirson/video/7433173721709366558"/>
     <published>2024-11-03T21:50:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7433504278540586271</id>
+    <title>I will be at the Parx Casino this January! Tickets are on sale soon! Waitlist is on my site xo </title>
+    <updated>2024-11-04T19:13:30+00:00</updated>
+    <content>I will be at the Parx Casino this January! Tickets are on sale soon! Waitlist is on my site xo </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7433504278540586271"/>
+    <published>2024-11-04T19:13:30+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7433568698578865438</id>
@@ -269,27 +285,11 @@
     <published>2024-11-18T23:26:45+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7428227983430716703</id>
-    <title>HIII!! I have amazing news that I’m so excited to announce. My show at the Beacon Theatre on Friday, April 25th will go on presale this Wednesday at 10AM with the code SILLY. This will be the largest venue I’ve ever done in NYC so I need your help by liki</title>
-    <updated>2024-10-21T13:58:58+00:00</updated>
-    <content>HIII!! I have amazing news that I’m so excited to announce. My show at the Beacon Theatre on Friday, April 25th will go on presale this Wednesday at 10AM with the code SILLY. This will be the largest venue I’ve ever done in NYC so I need your help by liki</content>
-    <link href="https://tiktok.com/@jessicakirson/video/7428227983430716703"/>
-    <published>2024-10-21T13:58:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7431566341846387999</id>
-    <title>Hiii I have added new cities to The Never Ending Tour! Presale starts tomorrow with code SILLY. Tix are on my site xoxo. #sanfrancisco #montclairnj #losangeles #sandiego #portland </title>
-    <updated>2024-10-30T13:53:05+00:00</updated>
-    <content>Hiii I have added new cities to The Never Ending Tour! Presale starts tomorrow with code SILLY. Tix are on my site xoxo. #sanfrancisco #montclairnj #losangeles #sandiego #portland </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7431566341846387999"/>
-    <published>2024-10-30T13:53:05+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7433504278540586271</id>
-    <title>I will be at the Parx Casino this January! Tickets are on sale soon! Waitlist is on my site xo </title>
-    <updated>2024-11-04T19:13:30+00:00</updated>
-    <content>I will be at the Parx Casino this January! Tickets are on sale soon! Waitlist is on my site xo </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7433504278540586271"/>
-    <published>2024-11-04T19:13:30+00:00</published>
+    <id>https://tiktok.com/@jessicakirson/video/7439144972030414110</id>
+    <title>Bob the middle school administrator 👀. Planning my 2025 tour so comment your city!!</title>
+    <updated>2024-11-20T00:02:01+00:00</updated>
+    <content>Bob the middle school administrator 👀. Planning my 2025 tour so comment your city!!</content>
+    <link href="https://tiktok.com/@jessicakirson/video/7439144972030414110"/>
+    <published>2024-11-20T00:02:01+00:00</published>
   </entry>
 </feed>

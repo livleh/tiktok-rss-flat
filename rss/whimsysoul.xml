@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-11-19T19:26:30+00:00</updated>
+  <updated>2024-11-19T23:27:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7430587451116096814</id>
-    <title>hello Hollywoood!!! 👋 here for the #forbescreatorupfronts conference this week and wow it's hotter here than i was expecting.  Tell me your hollywood recommendations! #hollywood #losangeles #influencer #contentcreator #walmart #walmartcreator @Forbes @Wal</title>
-    <updated>2024-10-27T22:34:24+00:00</updated>
-    <content>hello Hollywoood!!! 👋 here for the #forbescreatorupfronts conference this week and wow it's hotter here than i was expecting.  Tell me your hollywood recommendations! #hollywood #losangeles #influencer #contentcreator #walmart #walmartcreator @Forbes @Wal</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7430587451116096814"/>
-    <published>2024-10-27T22:34:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7431732849306340651</id>
     <title>Thanks for the invite, @Forbes !! ✨Had a blast this week at the first ever #forbescreatorupfronts conference with @Walmart Creator down here in Hollywood.   What's not pictured is tons of moments I got to meet other creators and brands, and talk shop. Com</title>
@@ -267,6 +259,14 @@
     <content>BEST donuts in California is this little bakery off Hwy 4 outside Arnold and Murphys up in Calaveras County.  We adore the Red Apple Bakery and always stop by to pick up tasty AF apple cider donuts whenever we're on the mountain visiting @Whimsy Homes Cab</content>
     <link href="https://tiktok.com/@whimsysoul/video/7439073985742015787"/>
     <published>2024-11-19T19:26:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7439136174788152619</id>
+    <title>it snows in Napa Valley?! 😱❄️ Well, it does at the Meritage Resort during their Meritage Merry nights!! They transform the courtyard into a magical winter wonderland complete with an ice skating rink, igloo domes, cozy firepits, tons of holiday drinks and</title>
+    <updated>2024-11-19T23:27:49+00:00</updated>
+    <content>it snows in Napa Valley?! 😱❄️ Well, it does at the Meritage Resort during their Meritage Merry nights!! They transform the courtyard into a magical winter wonderland complete with an ice skating rink, igloo domes, cozy firepits, tons of holiday drinks and</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7439136174788152619"/>
+    <published>2024-11-19T23:27:49+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
