@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-11-20T13:40:18+00:00</updated>
+  <updated>2024-11-21T14:55:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7430095029126860065</id>
-    <title>the type of women conservatives want #vtuber #lgbt</title>
-    <updated>2024-10-26T14:43:33+00:00</updated>
-    <content>the type of women conservatives want #vtuber #lgbt</content>
-    <link href="https://tiktok.com/@nyaravt/video/7430095029126860065"/>
-    <published>2024-10-26T14:43:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7430071753688370464</id>
     <title>Valorant edater names are wild #vtuber</title>
@@ -267,6 +259,14 @@
     <content>trying to pass as straight guys in valorant #valorant #twitch #lgbt #transfem #streamer #masculinity</content>
     <link href="https://tiktok.com/@nyaravt/video/7439355826885774625"/>
     <published>2024-11-20T13:40:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7439746191639792928</id>
+    <title>#onthisday i still haven’t eaten from a dog bowl #trans #streamer </title>
+    <updated>2024-11-21T14:55:00+00:00</updated>
+    <content>#onthisday i still haven’t eaten from a dog bowl #trans #streamer </content>
+    <link href="https://tiktok.com/@nyaravt/video/7439746191639792928"/>
+    <published>2024-11-21T14:55:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>
