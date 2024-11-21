@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-11-21T17:12:30+00:00</updated>
+  <updated>2024-11-21T18:18:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7437546845141863713</id>
-    <title>WHO ELSE 😭 @Bee 💚 #roadtrip #adhd </title>
-    <updated>2024-11-15T16:40:32+00:00</updated>
-    <content>WHO ELSE 😭 @Bee 💚 #roadtrip #adhd </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7437546845141863713"/>
-    <published>2024-11-15T16:40:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7437549675105750305</id>
-    <title>@Bee 💚 and we're on our way to our holiday 😋 roadtrip core #pinkhair #dyedhair </title>
-    <updated>2024-11-15T16:51:28+00:00</updated>
-    <content>@Bee 💚 and we're on our way to our holiday 😋 roadtrip core #pinkhair #dyedhair </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7437549675105750305"/>
-    <published>2024-11-15T16:51:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7437597983786470688</id>
     <title>sorry pookie 😟 @Bee 💚 #roadtrip #relatable </title>
@@ -267,6 +251,22 @@
     <content>snow day ootd!! @Bee 💚 #snow #ootd #winteroutfit #matching </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7439781611324919072"/>
     <published>2024-11-21T17:12:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7439798468983393569</id>
+    <title>the trousers really make it @Bee 💚 #snow #winteroutfit #matching #winter </title>
+    <updated>2024-11-21T18:17:56+00:00</updated>
+    <content>the trousers really make it @Bee 💚 #snow #winteroutfit #matching #winter </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7439798468983393569"/>
+    <published>2024-11-21T18:17:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7439798596226125088</id>
+    <title>SO EXCITING @Bee 💚 #snow #winteroutfit #matching </title>
+    <updated>2024-11-21T18:18:26+00:00</updated>
+    <content>SO EXCITING @Bee 💚 #snow #winteroutfit #matching </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7439798596226125088"/>
+    <published>2024-11-21T18:18:26+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
