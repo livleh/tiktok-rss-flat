@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-11-20T00:02:01+00:00</updated>
+  <updated>2024-11-21T22:24:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7424651288513613087</id>
-    <title>He does what?</title>
-    <updated>2024-10-11T22:39:12+00:00</updated>
-    <content>He does what?</content>
-    <link href="https://tiktok.com/@jessicakirson/video/7424651288513613087"/>
-    <published>2024-10-11T22:39:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7424887022977895710</id>
     <title>A Ranch In New York City?!?  #newyork #ranch #funny </title>
@@ -291,5 +283,13 @@
     <content>Bob the middle school administrator 👀. Planning my 2025 tour so comment your city!!</content>
     <link href="https://tiktok.com/@jessicakirson/video/7439144972030414110"/>
     <published>2024-11-20T00:02:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7439861993638497567</id>
+    <title>They met in Temple 😂</title>
+    <updated>2024-11-21T22:24:26+00:00</updated>
+    <content>They met in Temple 😂</content>
+    <link href="https://tiktok.com/@jessicakirson/video/7439861993638497567"/>
+    <published>2024-11-21T22:24:26+00:00</published>
   </entry>
 </feed>
