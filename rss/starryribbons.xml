@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@starryribbons</id>
   <title>starryribbons</title>
-  <updated>2024-11-19T18:59:38+00:00</updated>
+  <updated>2024-11-21T18:45:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from starryribbons</subtitle>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7410499236581608736</id>
-    <title>two idiots one thought ! #digitaldiary #coquetteaesthetic #taylorswift #swiftietok #wlw #fangirl #taylorswiftedit </title>
-    <updated>2024-09-03T19:21:55+00:00</updated>
-    <content>two idiots one thought ! #digitaldiary #coquetteaesthetic #taylorswift #swiftietok #wlw #fangirl #taylorswiftedit </content>
-    <link href="https://tiktok.com/@starryribbons/video/7410499236581608736"/>
-    <published>2024-09-03T19:21:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7411239401554021665</id>
     <title>#ad : how are my hands so shakey @ersanails #digitaldiary #coquetteaesthetic #shoujo #wlw #pressonnails #swiftietok #femmelesbian </title>
@@ -283,6 +275,14 @@
     <content>they are BLOCK615, Row 5, Seat 4 and 3!! #digitaldiary #coquette #ateez #ateezworldtour #kpop #kpopfyp #cologne #lanxessarena #tickets </content>
     <link href="https://tiktok.com/@starryribbons/video/7439067059897601313"/>
     <published>2024-11-19T18:59:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7439805569155878166</id>
+    <title>asking me about straps at 9pm at lunch #digitaldiary #coquette #wuhluhwuh #lgbtq #taylorswifttok #kpop </title>
+    <updated>2024-11-21T18:45:22+00:00</updated>
+    <content>asking me about straps at 9pm at lunch #digitaldiary #coquette #wuhluhwuh #lgbtq #taylorswifttok #kpop </content>
+    <link href="https://tiktok.com/@starryribbons/video/7439805569155878166"/>
+    <published>2024-11-21T18:45:22+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7285761406664854817</id>

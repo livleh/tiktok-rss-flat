@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ramalauw</id>
   <title>ramalauw</title>
-  <updated>2024-11-13T17:17:40+00:00</updated>
+  <updated>2024-11-21T18:37:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ramalauw</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ramalauw/video/7395234857225325856</id>
-    <title>Me to my ✨Anx1ety✨: People are too focused on themselves and their own problems, nobody is thinking about you! 😉  ✨Depreschön✨: ever… Me: 😭🫠🥲 #Free99 #fyp #foryou #tiktokusa #adulting #mentalhealth #therapy </title>
-    <updated>2024-07-24T16:08:16+00:00</updated>
-    <content>Me to my ✨Anx1ety✨: People are too focused on themselves and their own problems, nobody is thinking about you! 😉  ✨Depreschön✨: ever… Me: 😭🫠🥲 #Free99 #fyp #foryou #tiktokusa #adulting #mentalhealth #therapy </content>
-    <link href="https://tiktok.com/@ramalauw/video/7395234857225325856"/>
-    <published>2024-07-24T16:08:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7395625082896370976</id>
     <title>It really be ✨Passive Aggressive Olympics✨ between these two friends 🤭🤓😮‍💨🫡 #skit #free99 #friends #funny #fyp #foryou #tiktokusa </title>
@@ -267,6 +259,14 @@
     <content>My mother tongue is ✨self-criticism✨🥰 #Free99 </content>
     <link href="https://tiktok.com/@ramalauw/video/7436814268160331041"/>
     <published>2024-11-13T17:17:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ramalauw/video/7439803433323973910</id>
+    <title>Hong Kong Insta Captions be like…. 🤪🤭</title>
+    <updated>2024-11-21T18:37:04+00:00</updated>
+    <content>Hong Kong Insta Captions be like…. 🤪🤭</content>
+    <link href="https://tiktok.com/@ramalauw/video/7439803433323973910"/>
+    <published>2024-11-21T18:37:04+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7270903343638187297</id>
