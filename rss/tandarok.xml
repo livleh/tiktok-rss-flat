@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-11-21T21:31:23+00:00</updated>
+  <updated>2024-11-20T18:36:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7416608215368060193</id>
+    <title>Ich mag es hier in München halt wirklich 😭 #bayern #queer </title>
+    <updated>2024-09-20T06:28:01+00:00</updated>
+    <content>Ich mag es hier in München halt wirklich 😭 #bayern #queer </content>
+    <link href="https://tiktok.com/@tandarok/video/7416608215368060193"/>
+    <published>2024-09-20T06:28:01+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7417360461923978528</id>
     <title>No Title</title>
@@ -259,14 +267,6 @@
     <content>Danach eine verstopfte Nase?</content>
     <link href="https://tiktok.com/@tandarok/video/7439432134344936737"/>
     <published>2024-11-20T18:36:22+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7439848345931156758</id>
-    <title>What a year  #2024recap </title>
-    <updated>2024-11-21T21:31:23+00:00</updated>
-    <content>What a year  #2024recap </content>
-    <link href="https://tiktok.com/@tandarok/video/7439848345931156758"/>
-    <published>2024-11-21T21:31:23+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
