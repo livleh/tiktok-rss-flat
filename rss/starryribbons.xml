@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@starryribbons</id>
   <title>starryribbons</title>
-  <updated>2024-11-21T18:45:22+00:00</updated>
+  <updated>2024-11-22T20:29:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from starryribbons</subtitle>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7411239401554021665</id>
-    <title>#ad : how are my hands so shakey @ersanails #digitaldiary #coquetteaesthetic #shoujo #wlw #pressonnails #swiftietok #femmelesbian </title>
-    <updated>2024-09-05T19:14:05+00:00</updated>
-    <content>#ad : how are my hands so shakey @ersanails #digitaldiary #coquetteaesthetic #shoujo #wlw #pressonnails #swiftietok #femmelesbian </content>
-    <link href="https://tiktok.com/@starryribbons/video/7411239401554021665"/>
-    <published>2024-09-05T19:14:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7412739433604156704</id>
     <title>today was my first day after summer break wtf #digitaldiary #coquetteaesthetic #roomtour #aesthetic #roominspo #wlw #kpop #fangirl #taylorswift </title>
@@ -283,6 +275,14 @@
     <content>asking me about straps at 9pm at lunch #digitaldiary #coquette #wuhluhwuh #lgbtq #taylorswifttok #kpop </content>
     <link href="https://tiktok.com/@starryribbons/video/7439805569155878166"/>
     <published>2024-11-21T18:45:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7440203549948087574</id>
+    <title>the subway they don’t love u like i do  #digitaldiary #coquette #autumnaesthetic #twilight #outfitinspo #wlw #chappellroan </title>
+    <updated>2024-11-22T20:29:45+00:00</updated>
+    <content>the subway they don’t love u like i do  #digitaldiary #coquette #autumnaesthetic #twilight #outfitinspo #wlw #chappellroan </content>
+    <link href="https://tiktok.com/@starryribbons/video/7440203549948087574"/>
+    <published>2024-11-22T20:29:45+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7285761406664854817</id>
