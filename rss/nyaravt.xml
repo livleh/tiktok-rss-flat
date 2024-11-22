@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-11-21T14:55:00+00:00</updated>
+  <updated>2024-11-22T04:53:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7430071753688370464</id>
-    <title>Valorant edater names are wild #vtuber</title>
-    <updated>2024-10-26T17:00:00+00:00</updated>
-    <content>Valorant edater names are wild #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7430071753688370464"/>
-    <published>2024-10-26T17:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7430473636210855200</id>
     <title>german voice acting is so strange #vtuber</title>
@@ -267,6 +259,14 @@
     <content>#onthisday i still haven’t eaten from a dog bowl #trans #streamer </content>
     <link href="https://tiktok.com/@nyaravt/video/7439746191639792928"/>
     <published>2024-11-21T14:55:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7439962350360218902</id>
+    <title>#onthisday when you create a trans safespace #twitch </title>
+    <updated>2024-11-22T04:53:58+00:00</updated>
+    <content>#onthisday when you create a trans safespace #twitch </content>
+    <link href="https://tiktok.com/@nyaravt/video/7439962350360218902"/>
+    <published>2024-11-22T04:53:58+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>
