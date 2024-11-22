@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-11-22T04:53:58+00:00</updated>
+  <updated>2024-11-22T15:44:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7430473636210855200</id>
-    <title>german voice acting is so strange #vtuber</title>
-    <updated>2024-10-27T15:12:47+00:00</updated>
-    <content>german voice acting is so strange #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7430473636210855200"/>
-    <published>2024-10-27T15:12:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7430483807792418081</id>
     <title>this generation is cooked #valorant</title>
@@ -267,6 +259,14 @@
     <content>#onthisday when you create a trans safespace #twitch </content>
     <link href="https://tiktok.com/@nyaravt/video/7439962350360218902"/>
     <published>2024-11-22T04:53:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7440130070368341280</id>
+    <title>when she tells you to sit #valorant #trans</title>
+    <updated>2024-11-22T15:44:41+00:00</updated>
+    <content>when she tells you to sit #valorant #trans</content>
+    <link href="https://tiktok.com/@nyaravt/video/7440130070368341280"/>
+    <published>2024-11-22T15:44:41+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>
