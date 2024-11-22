@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shaunadewit</id>
   <title>shaunadewit</title>
-  <updated>2024-11-20T14:23:48+00:00</updated>
+  <updated>2024-11-22T14:30:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shaunadewit</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shaunadewit/video/7397757012227968288</id>
-    <title>For real #foryou #humor #goviral #pourtoi #comedy #kids #children </title>
-    <updated>2024-07-31T11:15:35+00:00</updated>
-    <content>For real #foryou #humor #goviral #pourtoi #comedy #kids #children </content>
-    <link href="https://tiktok.com/@shaunadewit/video/7397757012227968288"/>
-    <published>2024-07-31T11:15:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/7399566320318156064</id>
     <title>WARNING emetophobia ! Also poop #foryou #humor #goviral #pourtoi #comedy #bird #poop </title>
@@ -283,6 +275,14 @@
     <content>How do I properly clean a window please? #foryou #humor #goviral #pourtoi #comedy </content>
     <link href="https://tiktok.com/@shaunadewit/video/7439367047584238881"/>
     <published>2024-11-20T14:23:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shaunadewit/video/7440110859768155424</id>
+    <title>ITS HUMOR I LOVE KIDS THEY ARE MAGICAL ! 🫶🏻 #foryou #humor #goviral #pourtoi #comedy </title>
+    <updated>2024-11-22T14:30:09+00:00</updated>
+    <content>ITS HUMOR I LOVE KIDS THEY ARE MAGICAL ! 🫶🏻 #foryou #humor #goviral #pourtoi #comedy </content>
+    <link href="https://tiktok.com/@shaunadewit/video/7440110859768155424"/>
+    <published>2024-11-22T14:30:09+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/6994791135415766278</id>
