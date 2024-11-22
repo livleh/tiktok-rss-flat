@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-11-19T12:32:14+00:00</updated>
+  <updated>2024-11-22T10:56:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7418190621644426513</id>
-    <title>The one thing better than a ring!!!</title>
-    <updated>2024-09-24T12:48:28+00:00</updated>
-    <content>The one thing better than a ring!!!</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7418190621644426513"/>
-    <published>2024-09-24T12:48:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7418491724059725057</id>
     <title>But apparently its the things you didnt want to go to that end up being the most fun 🤷🏼‍♀️</title>
@@ -259,5 +251,13 @@
     <content>Wifey treatment only.</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7438967229149924628"/>
     <published>2024-11-19T12:32:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7440055770747653396</id>
+    <title>The sunday reset is king</title>
+    <updated>2024-11-22T10:56:20+00:00</updated>
+    <content>The sunday reset is king</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7440055770747653396"/>
+    <published>2024-11-22T10:56:20+00:00</published>
   </entry>
 </feed>
