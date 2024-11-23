@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@pasha</id>
   <title>pasha</title>
-  <updated>2024-11-22T09:29:01+00:00</updated>
+  <updated>2024-11-23T09:23:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pasha</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pasha/video/7399226469118905620</id>
-    <title>France does wonders to you #france #traveltiktok #paris #nice #strasbourg #francetravel </title>
-    <updated>2024-08-04T10:17:46+00:00</updated>
-    <content>France does wonders to you #france #traveltiktok #paris #nice #strasbourg #francetravel </content>
-    <link href="https://tiktok.com/@pasha/video/7399226469118905620"/>
-    <published>2024-08-04T10:17:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7402257073184001301</id>
     <title>these Paris games were not what I expected… @Orange 🧡</title>
@@ -291,5 +283,13 @@
     <content>if you get asked about improving your performance at work, here is your new template response #comedy #work </content>
     <link href="https://tiktok.com/@pasha/video/7440033281904512264"/>
     <published>2024-11-22T09:29:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pasha/video/7440402976998477063</id>
+    <title>friends, this one is based on a true story… #comedy </title>
+    <updated>2024-11-23T09:23:37+00:00</updated>
+    <content>friends, this one is based on a true story… #comedy </content>
+    <link href="https://tiktok.com/@pasha/video/7440402976998477063"/>
+    <published>2024-11-23T09:23:37+00:00</published>
   </entry>
 </feed>
