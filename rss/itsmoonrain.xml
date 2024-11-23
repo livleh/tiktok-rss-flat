@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@itsmoonrain</id>
   <title>itsmoonrain</title>
-  <updated>2024-11-13T23:18:25+00:00</updated>
+  <updated>2024-11-23T15:43:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from itsmoonrain</subtitle>
-  <entry>
-    <id>https://tiktok.com/@itsmoonrain/video/7235232245689224474</id>
-    <title>Well yes i tried 🙈🥹#transition #🏳️‍🌈 #lesbian #nonbinary #selflove❤ #lgbt #queer #badhairday #suit #klaumirnichtmeinleben </title>
-    <updated>2023-05-20T11:56:39+00:00</updated>
-    <content>Well yes i tried 🙈🥹#transition #🏳️‍🌈 #lesbian #nonbinary #selflove❤ #lgbt #queer #badhairday #suit #klaumirnichtmeinleben </content>
-    <link href="https://tiktok.com/@itsmoonrain/video/7235232245689224474"/>
-    <published>2023-05-20T11:56:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@itsmoonrain/video/7236042215443680539</id>
     <title>I wish I could have come out earlier and I long for the day when nobody has to hide anymore! #selflove❤ #nonbinary #queer #sadbutrue #🏳️‍🌈 #🏳️‍⚧️ #lesbian #iammemyself✨ #klaumirnichtmeinleben </title>
@@ -267,6 +259,14 @@
     <content>Should I get my eyebrows pierced?🙈😈 #piercing #eyebrowpiercing #piercinglovers #wlw #nonbinary #🏳️‍🌈</content>
     <link href="https://tiktok.com/@itsmoonrain/video/7436907218664033568"/>
     <published>2024-11-13T23:18:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@itsmoonrain/video/7440500934800706848</id>
+    <title>they grow up way too fast!  my little baby💜😭🐾💜 #5monthsapart #kittens #love #growupwithme #foryou #🏳️‍🌈 #queer #wlw </title>
+    <updated>2024-11-23T15:43:56+00:00</updated>
+    <content>they grow up way too fast!  my little baby💜😭🐾💜 #5monthsapart #kittens #love #growupwithme #foryou #🏳️‍🌈 #queer #wlw </content>
+    <link href="https://tiktok.com/@itsmoonrain/video/7440500934800706848"/>
+    <published>2024-11-23T15:43:56+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@itsmoonrain/video/7212693803684089094</id>
