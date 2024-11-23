@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-11-22T13:38:49+00:00</updated>
+  <updated>2024-11-23T14:11:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7431953791563386142</id>
-    <title>the wealthiest people have a loving family… that’s why he’s so poor ❤️ #techie #softwareengineer #bangalore #india #programmerlife #roastbattle #darkhumor #techroastshow</title>
-    <updated>2024-10-31T14:56:36+00:00</updated>
-    <content>the wealthiest people have a loving family… that’s why he’s so poor ❤️ #techie #softwareengineer #bangalore #india #programmerlife #roastbattle #darkhumor #techroastshow</content>
-    <link href="https://tiktok.com/@techroastshow/video/7431953791563386142"/>
-    <published>2024-10-31T14:56:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7432020758198504734</id>
     <title>perfect costume for any engineer  #techie #softwareengineer #halloween #costume #programmerlife #techroastshow </title>
@@ -267,6 +259,14 @@
     <content>he’s very productive  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #standup #techroastshow </content>
     <link href="https://tiktok.com/@techroastshow/video/7440097600512068894"/>
     <published>2024-11-22T13:38:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7440477134486883615</id>
+    <title>grin lord #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</title>
+    <updated>2024-11-23T14:11:48+00:00</updated>
+    <content>grin lord #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</content>
+    <link href="https://tiktok.com/@techroastshow/video/7440477134486883615"/>
+    <published>2024-11-23T14:11:48+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>

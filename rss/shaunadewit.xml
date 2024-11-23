@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shaunadewit</id>
   <title>shaunadewit</title>
-  <updated>2024-11-22T14:30:09+00:00</updated>
+  <updated>2024-11-23T13:45:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shaunadewit</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shaunadewit/video/7399566320318156064</id>
-    <title>WARNING emetophobia ! Also poop #foryou #humor #goviral #pourtoi #comedy #bird #poop </title>
-    <updated>2024-08-05T08:16:44+00:00</updated>
-    <content>WARNING emetophobia ! Also poop #foryou #humor #goviral #pourtoi #comedy #bird #poop </content>
-    <link href="https://tiktok.com/@shaunadewit/video/7399566320318156064"/>
-    <published>2024-08-05T08:16:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/7400350942568221985</id>
     <title>Noted okay #foryou #humor #goviral #pourtoi #comedy #slay #quotes </title>
@@ -283,6 +275,14 @@
     <content>ITS HUMOR I LOVE KIDS THEY ARE MAGICAL ! 🫶🏻 #foryou #humor #goviral #pourtoi #comedy </content>
     <link href="https://tiktok.com/@shaunadewit/video/7440110859768155424"/>
     <published>2024-11-22T14:30:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shaunadewit/video/7440470324786859296</id>
+    <title>Advertising | I see everything clear now with SUN #SUNBrilliantShine+ #SUNChallenge  @Native Nation </title>
+    <updated>2024-11-23T13:45:11+00:00</updated>
+    <content>Advertising | I see everything clear now with SUN #SUNBrilliantShine+ #SUNChallenge  @Native Nation </content>
+    <link href="https://tiktok.com/@shaunadewit/video/7440470324786859296"/>
+    <published>2024-11-23T13:45:11+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/6994791135415766278</id>
