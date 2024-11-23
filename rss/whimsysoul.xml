@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-11-22T22:00:35+00:00</updated>
+  <updated>2024-11-22T23:27:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7432026139532660014</id>
-    <title>so spooky #sanfrancisco #halloween </title>
-    <updated>2024-10-31T19:37:15+00:00</updated>
-    <content>so spooky #sanfrancisco #halloween </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7432026139532660014"/>
-    <published>2024-10-31T19:37:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7432389705158626602</id>
     <title>would you fly across the world just to eat one meal?? 🫣😱 Last week I finally ate at Iris, a Michelin star restaurant in Norway that floats in the middle of a fjord!!! 😱🇳🇴 ⭐️ Send this to a friend you want to eat here with!! ⭐️ (PS more Iris feed content c</title>
@@ -267,6 +259,14 @@
     <content>those fireplace logs are truly wild 😳 #fairmont #sanfrancisco #luxuryhotel #homegoodtrend #fairmontsanfrancisco #bayarea #onlyinsf #whimsysoul #lol #hoteltour #hotelroom @Fairmont Hotels &amp; Resorts  @fairmontsanfrancisco #fairmonthotel #hotellife </content>
     <link href="https://tiktok.com/@whimsysoul/video/7440226956068556075"/>
     <published>2024-11-22T22:00:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7440249470656285998</id>
+    <title>Didnt expect that behind the door #hoteltour #fairmonthotel #sanfrancisco #fairmontsanfrancisco </title>
+    <updated>2024-11-22T23:27:57+00:00</updated>
+    <content>Didnt expect that behind the door #hoteltour #fairmonthotel #sanfrancisco #fairmontsanfrancisco </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7440249470656285998"/>
+    <published>2024-11-22T23:27:57+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lillytino_</id>
   <title>lillytino_</title>
-  <updated>2024-11-21T15:16:34+00:00</updated>
+  <updated>2024-11-22T23:42:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from lillytino_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@lillytino_/video/7371157613528272174</id>
-    <title>Cake pops were 10/10 btw 😉</title>
-    <updated>2024-05-20T18:56:29+00:00</updated>
-    <content>Cake pops were 10/10 btw 😉</content>
-    <link href="https://tiktok.com/@lillytino_/video/7371157613528272174"/>
-    <published>2024-05-20T18:56:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@lillytino_/video/7371808419914829099</id>
     <title>Best day of the month ⚡️ Shoutout to my friends at @City Laser Clinic &amp; @skinxbrie ❤️</title>
@@ -259,5 +251,13 @@
     <content>The twist at the end though…</content>
     <link href="https://tiktok.com/@lillytino_/video/7439751742792813866"/>
     <published>2024-11-21T15:16:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lillytino_/video/7440253091762425130</id>
+    <title>Trans people aren’t here to make you comfortable. If us using the bathroom bothers you, that’s your problem 😊</title>
+    <updated>2024-11-22T23:42:00+00:00</updated>
+    <content>Trans people aren’t here to make you comfortable. If us using the bathroom bothers you, that’s your problem 😊</content>
+    <link href="https://tiktok.com/@lillytino_/video/7440253091762425130"/>
+    <published>2024-11-22T23:42:00+00:00</published>
   </entry>
 </feed>
