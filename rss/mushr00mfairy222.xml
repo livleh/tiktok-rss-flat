@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-11-23T19:37:37+00:00</updated>
+  <updated>2024-11-23T20:41:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7438364352303910176</id>
-    <title>roadtrip for the pookies @Bee 💚 #vlog #roadtrip #dayinthelife #travel </title>
-    <updated>2024-11-17T21:32:49+00:00</updated>
-    <content>roadtrip for the pookies @Bee 💚 #vlog #roadtrip #dayinthelife #travel </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7438364352303910176"/>
-    <published>2024-11-17T21:32:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7438676219249331488</id>
     <title>taylor swift coded fr #folklore #evermore #swiftie #taylorswift #thelakes </title>
@@ -267,6 +259,14 @@
     <content>legend has it they're still sleeping.. @Bee 💚 #sleep #relatable </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7440561167510162721"/>
     <published>2024-11-23T19:37:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7440577530312101153</id>
+    <title>like no?? #autism #autistic #neurodivergent </title>
+    <updated>2024-11-23T20:41:07+00:00</updated>
+    <content>like no?? #autism #autistic #neurodivergent </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7440577530312101153"/>
+    <published>2024-11-23T20:41:07+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
