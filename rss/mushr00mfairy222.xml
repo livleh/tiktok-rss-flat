@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-11-23T18:17:37+00:00</updated>
+  <updated>2024-11-23T18:55:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7438343191738305824</id>
-    <title>'put kindness first 😙☺️' #mh #mentalhealth </title>
-    <updated>2024-11-17T20:10:40+00:00</updated>
-    <content>'put kindness first 😙☺️' #mh #mentalhealth </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7438343191738305824"/>
-    <published>2024-11-17T20:10:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7438349964838800672</id>
     <title>if one bro splats we both splat @Bee 💚 #dance #fall #splat </title>
@@ -267,6 +259,14 @@
     <content>but the closet was pretty see through icl 😭 #wlw #lesbian #nmlnm #lgbt #lgbtq </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7440540552887651616"/>
     <published>2024-11-23T18:17:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7440550415709588769</id>
+    <title>and when you say you dont its 'omg why not thats mean' 😭😭 like?? #lesbian #wlw #nmlnm #lgbt #lgbtq </title>
+    <updated>2024-11-23T18:55:54+00:00</updated>
+    <content>and when you say you dont its 'omg why not thats mean' 😭😭 like?? #lesbian #wlw #nmlnm #lgbt #lgbtq </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7440550415709588769"/>
+    <published>2024-11-23T18:55:54+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
