@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-11-20T18:18:54+00:00</updated>
+  <updated>2024-11-24T18:22:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7418634888456260896</id>
-    <title>baby nigel</title>
-    <updated>2024-09-25T17:32:24+00:00</updated>
-    <content>baby nigel</content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7418634888456260896"/>
-    <published>2024-09-25T17:32:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7419003699802000672</id>
     <title>appealing parking fines for fun even though i was probly in the wrong. parking wardens are scum. subhuman scum</title>
@@ -283,6 +275,14 @@
     <content>engineerong</content>
     <link href="https://tiktok.com/@zoebreadtok/video/7439427635354160417"/>
     <published>2024-11-20T18:18:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7440912953152474400</id>
+    <title>the freeway cola christmas truck is in town!!!! </title>
+    <updated>2024-11-24T18:22:46+00:00</updated>
+    <content>the freeway cola christmas truck is in town!!!! </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7440912953152474400"/>
+    <published>2024-11-24T18:22:46+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7391078276183215392</id>

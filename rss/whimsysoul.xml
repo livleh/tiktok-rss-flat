@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-11-24T15:10:34+00:00</updated>
+  <updated>2024-11-24T18:10:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7433178629892214058</id>
-    <title>Replying to @Chris Cummings floating Michelin star restaurant in Norway! 🇳🇴😱 In the middle of an unassuming fjord in Norway is Iris , a new expedition dining concept that transcends everything you know about food and the sea.  The team that just earned th</title>
-    <updated>2024-11-03T22:09:30+00:00</updated>
-    <content>Replying to @Chris Cummings floating Michelin star restaurant in Norway! 🇳🇴😱 In the middle of an unassuming fjord in Norway is Iris , a new expedition dining concept that transcends everything you know about food and the sea.  The team that just earned th</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7433178629892214058"/>
-    <published>2024-11-03T22:09:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7433193233204677931</id>
     <title>Only 28 stave churches are left in Norway😱  and I got to visit one!! Located in @Visit Bergen is Fantoft Stave Church, a beautiful medieval-style church that was originally built in 1150 and reconstructed in 1879 (and again in the 90's after it burnt down</title>
@@ -267,6 +259,14 @@
     <content>#yap #1991 #millennial #babysfirstchristmas #christmas #babybook #yapper #lol #90skids </content>
     <link href="https://tiktok.com/@whimsysoul/video/7440863455055203626"/>
     <published>2024-11-24T15:10:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7440909709579767082</id>
+    <title>Replying to @♡Stephy♡ the very cool history of Alcatraz prison in San Francisco #alcatraz #sanfrancisco #onlyinsf #history #nativeland #bayarea #prisonbreak #alcapone #whimsysoul </title>
+    <updated>2024-11-24T18:10:03+00:00</updated>
+    <content>Replying to @♡Stephy♡ the very cool history of Alcatraz prison in San Francisco #alcatraz #sanfrancisco #onlyinsf #history #nativeland #bayarea #prisonbreak #alcapone #whimsysoul </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7440909709579767082"/>
+    <published>2024-11-24T18:10:03+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
