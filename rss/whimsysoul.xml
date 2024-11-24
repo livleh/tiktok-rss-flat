@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-11-24T02:10:26+00:00</updated>
+  <updated>2024-11-24T15:10:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7432838775115451691</id>
-    <title>Replying to @Jan most beautiful hotel in Europe?!! 😱I absolutely fell in love with @hotelcharmante in Bergen, Norway.  Every corner of this hotel is whimsical and elegant. And, that champagne button is pretty fun 🤩🥂 Oh, and you can't miss that secret bar </title>
-    <updated>2024-11-03T00:10:42+00:00</updated>
-    <content>Replying to @Jan most beautiful hotel in Europe?!! 😱I absolutely fell in love with @hotelcharmante in Bergen, Norway.  Every corner of this hotel is whimsical and elegant. And, that champagne button is pretty fun 🤩🥂 Oh, and you can't miss that secret bar </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7432838775115451691"/>
-    <published>2024-11-03T00:10:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7433178629892214058</id>
     <title>Replying to @Chris Cummings floating Michelin star restaurant in Norway! 🇳🇴😱 In the middle of an unassuming fjord in Norway is Iris , a new expedition dining concept that transcends everything you know about food and the sea.  The team that just earned th</title>
@@ -267,6 +259,14 @@
     <content>I couldn’t help it! All the rain made me want my Christmas lights up. Twyla approves and only tried to eat one ornament so far 😂🎄 Clancys has been our go-to farm for years (they have pumpkins in the fall, too!) So if you’re looking for a real tree, or rea</content>
     <link href="https://tiktok.com/@whimsysoul/video/7440662427089538350"/>
     <published>2024-11-24T02:10:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7440863455055203626</id>
+    <title>#yap #1991 #millennial #babysfirstchristmas #christmas #babybook #yapper #lol #90skids </title>
+    <updated>2024-11-24T15:10:34+00:00</updated>
+    <content>#yap #1991 #millennial #babysfirstchristmas #christmas #babybook #yapper #lol #90skids </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7440863455055203626"/>
+    <published>2024-11-24T15:10:34+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
