@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-11-22T18:01:46+00:00</updated>
+  <updated>2024-11-24T20:50:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7417535412995935520</id>
-    <title>Was 1 Banger </title>
-    <updated>2024-09-22T18:25:53+00:00</updated>
-    <content>Was 1 Banger </content>
-    <link href="https://tiktok.com/@tandarok/video/7417535412995935520"/>
-    <published>2024-09-22T18:25:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7417727639210741024</id>
     <title>Warum? #beautyandthenerd #fashion #style </title>
@@ -267,6 +259,14 @@
     <content>#womeninmalefields </content>
     <link href="https://tiktok.com/@tandarok/video/7440165422189661462"/>
     <published>2024-11-22T18:01:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7440951152201583894</id>
+    <title>#womeninmalefields </title>
+    <updated>2024-11-24T20:50:50+00:00</updated>
+    <content>#womeninmalefields </content>
+    <link href="https://tiktok.com/@tandarok/video/7440951152201583894"/>
+    <published>2024-11-24T20:50:50+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
