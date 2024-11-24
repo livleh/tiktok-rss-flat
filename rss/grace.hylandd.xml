@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-11-22T12:34:22+00:00</updated>
+  <updated>2024-11-24T08:56:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7420360602582879504</id>
-    <title>Entering my dating advice era! Every phase of life comes with important lessons! This was the biggest lesson of my 20s thus far!</title>
-    <updated>2024-09-30T09:09:32+00:00</updated>
-    <content>Entering my dating advice era! Every phase of life comes with important lessons! This was the biggest lesson of my 20s thus far!</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7420360602582879504"/>
-    <published>2024-09-30T09:09:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7420372366477364497</id>
     <title>I am a biological woman now.</title>
@@ -251,5 +243,13 @@
     <content>Thats not a husband thats a room mate.</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7440081005244943632"/>
     <published>2024-11-22T12:34:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7440766965074906369</id>
+    <title>Don’t let people tell you that you can’t do it! </title>
+    <updated>2024-11-24T08:56:27+00:00</updated>
+    <content>Don’t let people tell you that you can’t do it! </content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7440766965074906369"/>
+    <published>2024-11-24T08:56:27+00:00</published>
   </entry>
 </feed>
