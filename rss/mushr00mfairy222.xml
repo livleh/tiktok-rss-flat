@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-11-23T20:41:07+00:00</updated>
+  <updated>2024-11-24T13:00:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7438676219249331488</id>
-    <title>taylor swift coded fr #folklore #evermore #swiftie #taylorswift #thelakes </title>
-    <updated>2024-11-18T17:43:00+00:00</updated>
-    <content>taylor swift coded fr #folklore #evermore #swiftie #taylorswift #thelakes </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7438676219249331488"/>
-    <published>2024-11-18T17:43:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7438684729404165409</id>
     <title>and they were roommates @Bee 💚 #lesbian #wlw #nmlnm #lgbt #lgbtq </title>
@@ -267,6 +259,14 @@
     <content>like no?? #autism #autistic #neurodivergent </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7440577530312101153"/>
     <published>2024-11-23T20:41:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7440829819568295201</id>
+    <title>mini edinburgh vlog :) @Bee 💚 #edinburgh #edinburghthingstodo #vlog </title>
+    <updated>2024-11-24T13:00:05+00:00</updated>
+    <content>mini edinburgh vlog :) @Bee 💚 #edinburgh #edinburghthingstodo #vlog </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7440829819568295201"/>
+    <published>2024-11-24T13:00:05+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
