@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-11-23T15:07:56+00:00</updated>
+  <updated>2024-11-25T00:40:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7425261846065597726</id>
-    <title>Hii tik tok doesnt love when I promote so I need your help. Raleigh, Atlanta, and Nashville are this week and tickets are available on my site xoxo</title>
-    <updated>2024-10-13T14:08:39+00:00</updated>
-    <content>Hii tik tok doesnt love when I promote so I need your help. Raleigh, Atlanta, and Nashville are this week and tickets are available on my site xoxo</content>
-    <link href="https://tiktok.com/@jessicakirson/video/7425261846065597726"/>
-    <published>2024-10-13T14:08:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7425393431767223582</id>
     <title>Still want to know where they got married #jewishtiktok #fy </title>
@@ -291,5 +283,13 @@
     <content>Chubby And Delicious  #chubby #delicious #scotland </content>
     <link href="https://tiktok.com/@jessicakirson/video/7440491621390519582"/>
     <published>2024-11-23T15:07:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7441010207783800095</id>
+    <title>Nascar Driver Gets Pulled Over  #nascar </title>
+    <updated>2024-11-25T00:40:14+00:00</updated>
+    <content>Nascar Driver Gets Pulled Over  #nascar </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7441010207783800095"/>
+    <published>2024-11-25T00:40:14+00:00</published>
   </entry>
 </feed>
