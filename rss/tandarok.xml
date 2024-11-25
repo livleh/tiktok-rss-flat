@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-11-25T08:19:43+00:00</updated>
+  <updated>2024-11-25T19:32:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7418095229997223200</id>
-    <title>Gold-Star Le$bean 😌 oder so  #queer #transgirl #gay </title>
-    <updated>2024-09-24T06:38:17+00:00</updated>
-    <content>Gold-Star Le$bean 😌 oder so  #queer #transgirl #gay </content>
-    <link href="https://tiktok.com/@tandarok/video/7418095229997223200"/>
-    <published>2024-09-24T06:38:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7418835824340372768</id>
     <title>I'd watch it! #catsoftiktok #cute </title>
@@ -267,6 +259,14 @@
     <content>Linke Macker mit lackierten Fingernägeln kennen wir alle.</content>
     <link href="https://tiktok.com/@tandarok/video/7441128660813303062"/>
     <published>2024-11-25T08:19:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7441302113285721366</id>
+    <title>#womeninmalefields </title>
+    <updated>2024-11-25T19:32:43+00:00</updated>
+    <content>#womeninmalefields </content>
+    <link href="https://tiktok.com/@tandarok/video/7441302113285721366"/>
+    <published>2024-11-25T19:32:43+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
