@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-11-24T23:44:27+00:00</updated>
+  <updated>2024-11-25T02:26:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7433598080013929771</id>
-    <title>Replying to @Camilla Dine in the clouds on top of the tallest mountain in Bergen (643 meters / about 2100 feet!) @ulriken643.no takes you by cable car to the highest mountain in Bergen. From the top you have miles and miles of views of Bergen with sea, fj</title>
-    <updated>2024-11-05T01:17:11+00:00</updated>
-    <content>Replying to @Camilla Dine in the clouds on top of the tallest mountain in Bergen (643 meters / about 2100 feet!) @ulriken643.no takes you by cable car to the highest mountain in Bergen. From the top you have miles and miles of views of Bergen with sea, fj</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7433598080013929771"/>
-    <published>2024-11-05T01:17:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7433600832542706986</id>
     <title>the cheese of gods where do i find this in America i need moreeeee #norway #cheese #browncheese #brunost </title>
@@ -267,6 +259,14 @@
     <content>the best coffee &amp; second best breakfast sandwich in San Francisco is my favorite way to spend a sunny Saturday ❤️ Have you been to Ocean Beach Cafe or Andytown yet??! If not, RUN Also, I've linked my Popflex outfit on my LTK. It DOES fit us curvy gals (!!</content>
     <link href="https://tiktok.com/@whimsysoul/video/7440995887226047787"/>
     <published>2024-11-24T23:44:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7441037563533511978</id>
+    <title>Any sugar daddies out there wanna bank roll my Eras trip? 👀 🥰 #erastour #taylorswift #vancouver #airlines #sfo #sanfrancisco #taylornation #vancouverbc #alaskaairlines #united #aircanada #canada #erastourtaylorswift #reptv #broke #budgettravel </title>
+    <updated>2024-11-25T02:26:09+00:00</updated>
+    <content>Any sugar daddies out there wanna bank roll my Eras trip? 👀 🥰 #erastour #taylorswift #vancouver #airlines #sfo #sanfrancisco #taylornation #vancouverbc #alaskaairlines #united #aircanada #canada #erastourtaylorswift #reptv #broke #budgettravel </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7441037563533511978"/>
+    <published>2024-11-25T02:26:09+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tallywyteee</id>
   <title>tallywyteee</title>
-  <updated>2024-11-22T02:20:37+00:00</updated>
+  <updated>2024-11-25T02:20:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tallywyteee</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tallywyteee/video/7413928097210174762</id>
-    <title>#trans #transgender #transgirl #transwoman #transandproud #transisbeautiful #transpride #lgbtq</title>
-    <updated>2024-09-13T01:07:34+00:00</updated>
-    <content>#trans #transgender #transgirl #transwoman #transandproud #transisbeautiful #transpride #lgbtq</content>
-    <link href="https://tiktok.com/@tallywyteee/video/7413928097210174762"/>
-    <published>2024-09-13T01:07:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7415783843409530154</id>
     <title>okay not really - all I drink is water and Dr. Pepper. Would you believe me though if I wasn’t joking? 😂🥤💞 #trans #transgender #transgirl #transwoman #transandproud #transisbeautiful</title>
@@ -275,6 +267,14 @@
     <content>I think the one thing i still struggle with is saying sorry less. I don’t know why, but i feel the need to apologize all the time for stuff i don’t need to. Sorry about ranting, hopefully you get where i’m coming from 😂👍🏻</content>
     <link href="https://tiktok.com/@tallywyteee/video/7439922881636715822"/>
     <published>2024-11-22T02:20:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tallywyteee/video/7441036046432832810</id>
+    <title>I’m not afraid to admit that I love and hate a lot of people. But, what is scary to admit is that the people I hate most are the people I once loved the most. The memories that I at one point held close in my heart are now a sad reflection of the present </title>
+    <updated>2024-11-25T02:20:16+00:00</updated>
+    <content>I’m not afraid to admit that I love and hate a lot of people. But, what is scary to admit is that the people I hate most are the people I once loved the most. The memories that I at one point held close in my heart are now a sad reflection of the present </content>
+    <link href="https://tiktok.com/@tallywyteee/video/7441036046432832810"/>
+    <published>2024-11-25T02:20:16+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7261699619762048298</id>
