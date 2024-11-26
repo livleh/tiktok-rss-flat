@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-11-25T20:13:27+00:00</updated>
+  <updated>2024-11-26T14:29:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7433104668009532703</id>
-    <title>at least it wasn’t Arby’s #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </title>
-    <updated>2024-11-03T17:22:40+00:00</updated>
-    <content>at least it wasn’t Arby’s #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </content>
-    <link href="https://tiktok.com/@techroastshow/video/7433104668009532703"/>
-    <published>2024-11-03T17:22:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7433189868030774558</id>
     <title>his tc is 🥜 #techie #softwareengineer #recovering #blind #programmerlife #roastbattle #darkhumor #techroastshow</title>
@@ -267,6 +259,14 @@
     <content>he’s a humble dude #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</content>
     <link href="https://tiktok.com/@techroastshow/video/7441312528753298718"/>
     <published>2024-11-25T20:13:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7441595081393540383</id>
+    <title>💰🤑 #techie #softwareengineer #newyork #nyc #programmerlife #roastbattle #darkhumor #techroastshow</title>
+    <updated>2024-11-26T14:29:47+00:00</updated>
+    <content>💰🤑 #techie #softwareengineer #newyork #nyc #programmerlife #roastbattle #darkhumor #techroastshow</content>
+    <link href="https://tiktok.com/@techroastshow/video/7441595081393540383"/>
+    <published>2024-11-26T14:29:47+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
