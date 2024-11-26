@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-11-26T00:19:48+00:00</updated>
+  <updated>2024-11-26T22:59:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7425764022126988574</id>
-    <title>It’s Nap Time! See me perform live in Raleigh, Nashville, Atlanta, Las Vegas and more. Tix are on my site</title>
-    <updated>2024-10-14T22:37:12+00:00</updated>
-    <content>It’s Nap Time! See me perform live in Raleigh, Nashville, Atlanta, Las Vegas and more. Tix are on my site</content>
-    <link href="https://tiktok.com/@jessicakirson/video/7425764022126988574"/>
-    <published>2024-10-14T22:37:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7426131409351216415</id>
     <title>Rich from Roblox?  #games #fy </title>
@@ -291,5 +283,13 @@
     <content>A Tik Tok Mod came to my show 😂 #tiktok #work #firstday </content>
     <link href="https://tiktok.com/@jessicakirson/video/7441376039332334878"/>
     <published>2024-11-26T00:19:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7441726421120060702</id>
+    <title>Im not saying that in a feminist way </title>
+    <updated>2024-11-26T22:59:20+00:00</updated>
+    <content>Im not saying that in a feminist way </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7441726421120060702"/>
+    <published>2024-11-26T22:59:20+00:00</published>
   </entry>
 </feed>
