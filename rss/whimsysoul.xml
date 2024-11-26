@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-11-26T05:51:36+00:00</updated>
+  <updated>2024-11-26T18:46:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7434630868003556650</id>
-    <title>weird things I bought in Norway -- I love to raid the grocery stores and pharmacies when I travel, especially in Europe since they have stricter regulations on beauty, skincare and meds.  Stocked up on pimple cream, magic aspirin, sunscreen and deodorant.</title>
-    <updated>2024-11-07T20:04:59+00:00</updated>
-    <content>weird things I bought in Norway -- I love to raid the grocery stores and pharmacies when I travel, especially in Europe since they have stricter regulations on beauty, skincare and meds.  Stocked up on pimple cream, magic aspirin, sunscreen and deodorant.</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7434630868003556650"/>
-    <published>2024-11-07T20:04:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7434687606178319658</id>
     <title>screaming into pillows is good, too 👀 this week has been super hard and I'm mostly lost for words. I will say this: the Whimsy community is a safe place if you are looking for more of those on the internet. ❤️ myself and my team value the lives of women, </title>
@@ -267,6 +259,14 @@
     <content>#defyinggravity #wicked </content>
     <link href="https://tiktok.com/@whimsysoul/video/7441461570108132654"/>
     <published>2024-11-26T05:51:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7441661346674003243</id>
+    <title>the camera man was VERY confused but we had so much fun taking these family photos with our cat for our holiday cards!! This was back in 2015 (how is that almost 10 years ago?!) We went to the JC Pennys photo studio and brought our cat dressed in a match </title>
+    <updated>2024-11-26T18:46:46+00:00</updated>
+    <content>the camera man was VERY confused but we had so much fun taking these family photos with our cat for our holiday cards!! This was back in 2015 (how is that almost 10 years ago?!) We went to the JC Pennys photo studio and brought our cat dressed in a match </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7441661346674003243"/>
+    <published>2024-11-26T18:46:46+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
