@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-11-25T02:26:09+00:00</updated>
+  <updated>2024-11-26T00:35:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7433600832542706986</id>
-    <title>the cheese of gods where do i find this in America i need moreeeee #norway #cheese #browncheese #brunost </title>
-    <updated>2024-11-05T01:27:51+00:00</updated>
-    <content>the cheese of gods where do i find this in America i need moreeeee #norway #cheese #browncheese #brunost </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7433600832542706986"/>
-    <published>2024-11-05T01:27:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7433620175083097390</id>
     <title>Thrifted traditional Norwegian  sweaters in Bergen!! Uuf is right downtown and so good!!! So many fun gems i wish i had a bigger suitcase #norway #visitnorway #bergen #bergennorway #visitbergen #norwegiansweater #thrift #thriftingfinds #norwaytravel #whim</title>
@@ -267,6 +259,14 @@
     <content>Any sugar daddies out there wanna bank roll my Eras trip? 👀 🥰 #erastour #taylorswift #vancouver #airlines #sfo #sanfrancisco #taylornation #vancouverbc #alaskaairlines #united #aircanada #canada #erastourtaylorswift #reptv #broke #budgettravel </content>
     <link href="https://tiktok.com/@whimsysoul/video/7441037563533511978"/>
     <published>2024-11-25T02:26:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7441380010759310634</id>
+    <title>San Francisco holiday bars ⬇️ 🎄 'Tis the season to get dressed up and throw all your money at festive holiday drinks to disassociate.  Top bars in San Francisco for holiday drinks (will keep this list updated as I discover more/new ones!) ❄️ Sippin’ Santa</title>
+    <updated>2024-11-26T00:35:02+00:00</updated>
+    <content>San Francisco holiday bars ⬇️ 🎄 'Tis the season to get dressed up and throw all your money at festive holiday drinks to disassociate.  Top bars in San Francisco for holiday drinks (will keep this list updated as I discover more/new ones!) ❄️ Sippin’ Santa</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7441380010759310634"/>
+    <published>2024-11-26T00:35:02+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
