@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-11-25T19:14:24+00:00</updated>
+  <updated>2024-11-26T15:09:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7438997647765048609</id>
-    <title>help 😭😭 @Bee 💚 #dance #dancefail </title>
-    <updated>2024-11-19T14:30:19+00:00</updated>
-    <content>help 😭😭 @Bee 💚 #dance #dancefail </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7438997647765048609"/>
-    <published>2024-11-19T14:30:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7439010047495064864</id>
     <title>or adhd #autistic #autism #adhd #neurodivergent </title>
@@ -267,6 +259,14 @@
     <content>IF YOUR EVER IN EDINBURGH!! @Bee 💚 #edinburgh #edinburghthingstodo #vlog </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7441297365748780320"/>
     <published>2024-11-25T19:14:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7441605291478748449</id>
+    <title>it never ends well 😭😭 #healthanxiety </title>
+    <updated>2024-11-26T15:09:20+00:00</updated>
+    <content>it never ends well 😭😭 #healthanxiety </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7441605291478748449"/>
+    <published>2024-11-26T15:09:20+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
