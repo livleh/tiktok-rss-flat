@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-11-25T19:32:43+00:00</updated>
+  <updated>2024-11-26T20:10:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7418835824340372768</id>
-    <title>I'd watch it! #catsoftiktok #cute </title>
-    <updated>2024-09-26T06:32:15+00:00</updated>
-    <content>I'd watch it! #catsoftiktok #cute </content>
-    <link href="https://tiktok.com/@tandarok/video/7418835824340372768"/>
-    <published>2024-09-26T06:32:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7418975970398375201</id>
     <title>Welche seid ihr? #vegan </title>
@@ -267,6 +259,14 @@
     <content>#womeninmalefields </content>
     <link href="https://tiktok.com/@tandarok/video/7441302113285721366"/>
     <published>2024-11-25T19:32:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7441682961428286722</id>
+    <title>Antwort auf @hartholzhanslackierte Fingernägel machen einen Mann nicht zum Feminist. #feminismus </title>
+    <updated>2024-11-26T20:10:38+00:00</updated>
+    <content>Antwort auf @hartholzhanslackierte Fingernägel machen einen Mann nicht zum Feminist. #feminismus </content>
+    <link href="https://tiktok.com/@tandarok/video/7441682961428286722"/>
+    <published>2024-11-26T20:10:38+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
