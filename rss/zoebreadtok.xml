@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-11-26T18:26:20+00:00</updated>
+  <updated>2024-11-27T18:27:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7420486892606590241</id>
-    <title>i told him i would wake him up when setptember ends 😡</title>
-    <updated>2024-09-30T17:19:07+00:00</updated>
-    <content>i told him i would wake him up when setptember ends 😡</content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7420486892606590241"/>
-    <published>2024-09-30T17:19:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7421238425262607649</id>
     <title>the new museum of illusions in manchester </title>
@@ -283,6 +275,14 @@
     <content>britain has some of europes safest roads. but where we’re going we dont need roads </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7441656070172364065"/>
     <published>2024-11-26T18:26:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7442027345004825888</id>
+    <title>my solution to everything #furby </title>
+    <updated>2024-11-27T18:27:05+00:00</updated>
+    <content>my solution to everything #furby </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7442027345004825888"/>
+    <published>2024-11-27T18:27:05+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7391078276183215392</id>
