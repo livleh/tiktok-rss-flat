@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-11-26T18:46:46+00:00</updated>
+  <updated>2024-11-27T01:00:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7434687606178319658</id>
-    <title>screaming into pillows is good, too 👀 this week has been super hard and I'm mostly lost for words. I will say this: the Whimsy community is a safe place if you are looking for more of those on the internet. ❤️ myself and my team value the lives of women, </title>
-    <updated>2024-11-07T23:45:07+00:00</updated>
-    <content>screaming into pillows is good, too 👀 this week has been super hard and I'm mostly lost for words. I will say this: the Whimsy community is a safe place if you are looking for more of those on the internet. ❤️ myself and my team value the lives of women, </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7434687606178319658"/>
-    <published>2024-11-07T23:45:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7434709348229745966</id>
     <title>must be so boring being a boy in 2024 #taylorswift #erastour #airport </title>
@@ -267,6 +259,14 @@
     <content>the camera man was VERY confused but we had so much fun taking these family photos with our cat for our holiday cards!! This was back in 2015 (how is that almost 10 years ago?!) We went to the JC Pennys photo studio and brought our cat dressed in a match </content>
     <link href="https://tiktok.com/@whimsysoul/video/7441661346674003243"/>
     <published>2024-11-26T18:46:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7441757772951145771</id>
+    <title>the world's TALLEST Christmas tree!! ⬇️ 😱 Buddy the Elf would be beside himself if he saw this. 🎄🚂 Hidden up in Northern California's redwood forest outside Willits is this giant 222 foot coastal Redwood tree that gets all decorated for the holidays. 🥰 Yo</title>
+    <updated>2024-11-27T01:00:56+00:00</updated>
+    <content>the world's TALLEST Christmas tree!! ⬇️ 😱 Buddy the Elf would be beside himself if he saw this. 🎄🚂 Hidden up in Northern California's redwood forest outside Willits is this giant 222 foot coastal Redwood tree that gets all decorated for the holidays. 🥰 Yo</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7441757772951145771"/>
+    <published>2024-11-27T01:00:56+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>

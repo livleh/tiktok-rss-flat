@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-11-26T15:52:49+00:00</updated>
+  <updated>2024-11-26T23:42:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7431944715622190368</id>
-    <title>valorant players are scared of women w/ @van1llabeanz #vtuber</title>
-    <updated>2024-10-31T14:21:18+00:00</updated>
-    <content>valorant players are scared of women w/ @van1llabeanz #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7431944715622190368"/>
-    <published>2024-10-31T14:21:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7431945099937844513</id>
     <title>don't worry about the clicker training #vtuber</title>
@@ -267,6 +259,14 @@
     <content>They put Mr Beast's Feastables in German stores?? #trans #valorant #streamer</content>
     <link href="https://tiktok.com/@nyaravt/video/7441616500609355040"/>
     <published>2024-11-26T15:52:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7441737504702631191</id>
+    <title>#onthisday all powerful being forcefully turns everyone into femboys #trans #twitch </title>
+    <updated>2024-11-26T23:42:23+00:00</updated>
+    <content>#onthisday all powerful being forcefully turns everyone into femboys #trans #twitch </content>
+    <link href="https://tiktok.com/@nyaravt/video/7441737504702631191"/>
+    <published>2024-11-26T23:42:23+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>
