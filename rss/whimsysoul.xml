@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-11-27T01:00:56+00:00</updated>
+  <updated>2024-11-27T21:51:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7434709348229745966</id>
-    <title>must be so boring being a boy in 2024 #taylorswift #erastour #airport </title>
-    <updated>2024-11-08T01:09:28+00:00</updated>
-    <content>must be so boring being a boy in 2024 #taylorswift #erastour #airport </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7434709348229745966"/>
-    <published>2024-11-08T01:09:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7434978178122140971</id>
     <title>San Francisco, the ice rink is OPEN!!! ❄️⛸️ It's my yearly tradition to visit the @unionsquarerink for a twilight skate session while listening to Christmas music.  As of last year, we added on a mandatory stop to @millerandluxprovisions beforehand for sw</title>
@@ -267,6 +259,14 @@
     <content>the world's TALLEST Christmas tree!! ⬇️ 😱 Buddy the Elf would be beside himself if he saw this. 🎄🚂 Hidden up in Northern California's redwood forest outside Willits is this giant 222 foot coastal Redwood tree that gets all decorated for the holidays. 🥰 Yo</content>
     <link href="https://tiktok.com/@whimsysoul/video/7441757772951145771"/>
     <published>2024-11-27T01:00:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7442079954906451243</id>
+    <title>AI doesnt like redheads apparently #aiself #ai #tiktok #redheads #lol #greenscreen </title>
+    <updated>2024-11-27T21:51:11+00:00</updated>
+    <content>AI doesnt like redheads apparently #aiself #ai #tiktok #redheads #lol #greenscreen </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7442079954906451243"/>
+    <published>2024-11-27T21:51:11+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
