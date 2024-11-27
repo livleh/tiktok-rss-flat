@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2024-11-27T02:03:33+00:00</updated>
+  <updated>2024-11-27T05:11:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from loveletterstosf</subtitle>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7411201753338694955</id>
-    <title>september off to a good start 💐🌅 #september #dahlias #ggpark #oceanbeach #sfweekend  </title>
-    <updated>2024-09-05T16:48:01+00:00</updated>
-    <content>september off to a good start 💐🌅 #september #dahlias #ggpark #oceanbeach #sfweekend  </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7411201753338694955"/>
-    <published>2024-09-05T16:48:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7411583815119850795</id>
     <title>comment other fun tings to do #thisweekendinsf #sfevents #sftok #sanfrancisco #nightmarket #filmscreening #thingstodoinsf </title>
@@ -267,6 +259,14 @@
     <content>friendsgiving where you make friends &gt;&gt;&gt;  so glad we made this happen, shout out to project friendzone for collaborating on this event w/ me and Neon for allowing us to use their coworking space! #sf #sfevent #friendsgiving #meetup #makingfriends #sftok </content>
     <link href="https://tiktok.com/@loveletterstosf/video/7441773911743663403"/>
     <published>2024-11-27T02:03:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7441822231765749035</id>
+    <title>friendsgiving event prep from this past weekend #sf #friendsgiving #potluck #sfevent #meetup #vlog </title>
+    <updated>2024-11-27T05:11:04+00:00</updated>
+    <content>friendsgiving event prep from this past weekend #sf #friendsgiving #potluck #sfevent #meetup #vlog </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7441822231765749035"/>
+    <published>2024-11-27T05:11:04+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7408048912394620206</id>
