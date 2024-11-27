@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-11-26T14:29:47+00:00</updated>
+  <updated>2024-11-27T14:15:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7433189868030774558</id>
-    <title>his tc is 🥜 #techie #softwareengineer #recovering #blind #programmerlife #roastbattle #darkhumor #techroastshow</title>
-    <updated>2024-11-03T22:53:18+00:00</updated>
-    <content>his tc is 🥜 #techie #softwareengineer #recovering #blind #programmerlife #roastbattle #darkhumor #techroastshow</content>
-    <link href="https://tiktok.com/@techroastshow/video/7433189868030774558"/>
-    <published>2024-11-03T22:53:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7433473397889256734</id>
     <title>having an idea does not make you a founder  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </title>
@@ -267,6 +259,14 @@
     <content>💰🤑 #techie #softwareengineer #newyork #nyc #programmerlife #roastbattle #darkhumor #techroastshow</content>
     <link href="https://tiktok.com/@techroastshow/video/7441595081393540383"/>
     <published>2024-11-26T14:29:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7441962531440151838</id>
+    <title>Jeff is listening🫶  #techie #softwareengineer #amazon #seattle #programmerlife #roastbattle #jeffbezos #techroastshow </title>
+    <updated>2024-11-27T14:15:39+00:00</updated>
+    <content>Jeff is listening🫶  #techie #softwareengineer #amazon #seattle #programmerlife #roastbattle #jeffbezos #techroastshow </content>
+    <link href="https://tiktok.com/@techroastshow/video/7441962531440151838"/>
+    <published>2024-11-27T14:15:39+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
