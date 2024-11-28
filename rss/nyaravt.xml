@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-11-27T15:35:56+00:00</updated>
+  <updated>2024-11-28T15:02:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7431945461193362721</id>
-    <title>when your voice isnt straight passing #vtuber</title>
-    <updated>2024-11-02T14:00:00+00:00</updated>
-    <content>when your voice isnt straight passing #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7431945461193362721"/>
-    <published>2024-11-02T14:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7433434943071505697</id>
     <title>valorant but you're trans #vtuber</title>
@@ -267,6 +259,14 @@
     <content>Why getting misgendered is worse for trans people #strinova #trans #streamer</content>
     <link href="https://tiktok.com/@nyaravt/video/7441983242275753249"/>
     <published>2024-11-27T15:35:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7442345605235576096</id>
+    <title>How Voice Trolling ruined gaming for Women #trans #strinova #streamer</title>
+    <updated>2024-11-28T15:02:21+00:00</updated>
+    <content>How Voice Trolling ruined gaming for Women #trans #strinova #streamer</content>
+    <link href="https://tiktok.com/@nyaravt/video/7442345605235576096"/>
+    <published>2024-11-28T15:02:21+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>
