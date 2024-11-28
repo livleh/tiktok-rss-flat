@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@starryribbons</id>
   <title>starryribbons</title>
-  <updated>2024-11-23T15:42:49+00:00</updated>
+  <updated>2024-11-28T20:13:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from starryribbons</subtitle>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7412742278860590368</id>
-    <title>why is it still so hot I was sweating after filming this #digitaldiary #coquetteaesthetic #taylorswifttok #evermore #outfitinspo #wlw </title>
-    <updated>2024-09-09T20:26:01+00:00</updated>
-    <content>why is it still so hot I was sweating after filming this #digitaldiary #coquetteaesthetic #taylorswifttok #evermore #outfitinspo #wlw </content>
-    <link href="https://tiktok.com/@starryribbons/video/7412742278860590368"/>
-    <published>2024-09-09T20:26:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7414580184109665568</id>
     <title>germany skipped autumn its winter weather suddenly #digitaldiary #coquetteaesthetic #outfitinspo #getdressedwithme #wlw #femme #taylorswift </title>
@@ -283,6 +275,14 @@
     <content>supernova glowing in the dark !! #digitaldiary #coquette #shoujo #aesthetic #kpop #outfitoftheday #wlw </content>
     <link href="https://tiktok.com/@starryribbons/video/7440500688607661334"/>
     <published>2024-11-23T15:42:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7442425753444027670</id>
+    <title>missing atwtmvftv live 😞 #digitaldiary #coquette #taylorswift #theerastour #evermore #swiftietok #wlw </title>
+    <updated>2024-11-28T20:13:01+00:00</updated>
+    <content>missing atwtmvftv live 😞 #digitaldiary #coquette #taylorswift #theerastour #evermore #swiftietok #wlw </content>
+    <link href="https://tiktok.com/@starryribbons/video/7442425753444027670"/>
+    <published>2024-11-28T20:13:01+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7285761406664854817</id>
