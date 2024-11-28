@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-11-27T19:13:25+00:00</updated>
+  <updated>2024-11-28T18:22:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7421238425262607649</id>
-    <title>the new museum of illusions in manchester </title>
-    <updated>2024-10-02T17:55:24+00:00</updated>
-    <content>the new museum of illusions in manchester </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7421238425262607649"/>
-    <published>2024-10-02T17:55:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7421606779982794017</id>
     <title>squirrels should be given free train travel. very dramatic cancelling the train </title>
@@ -283,6 +275,14 @@
     <content>my solution to everything #furby </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7442039278995000608"/>
     <published>2024-11-27T19:13:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7442397324443258144</id>
+    <title>ive got loads more cards where these came from 😡</title>
+    <updated>2024-11-28T18:22:57+00:00</updated>
+    <content>ive got loads more cards where these came from 😡</content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7442397324443258144"/>
+    <published>2024-11-28T18:22:57+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7391078276183215392</id>

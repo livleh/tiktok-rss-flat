@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@palim_tintin</id>
   <title>palim_tintin</title>
-  <updated>2024-11-09T17:18:11+00:00</updated>
+  <updated>2024-11-28T18:15:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from palim_tintin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@palim_tintin/video/7357385855872388384</id>
-    <title>Werbung| Alle Outfits sind von @WELTENTäNZER BERLIN . Die Kleidung wird mit Herz und Seele auf Bali unter fairen Bedingungen produziert. 🧡✌🏼😊 Mit meinem Code Kristina24 gibt’s 15% Rabatt auf euren Einkauf. ✨Und wenn ihr Fragen zu den einzelnen Outfits hab</title>
-    <updated>2024-04-13T16:14:51+00:00</updated>
-    <content>Werbung| Alle Outfits sind von @WELTENTäNZER BERLIN . Die Kleidung wird mit Herz und Seele auf Bali unter fairen Bedingungen produziert. 🧡✌🏼😊 Mit meinem Code Kristina24 gibt’s 15% Rabatt auf euren Einkauf. ✨Und wenn ihr Fragen zu den einzelnen Outfits hab</content>
-    <link href="https://tiktok.com/@palim_tintin/video/7357385855872388384"/>
-    <published>2024-04-13T16:14:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@palim_tintin/video/7357750209226476832</id>
     <title>Welche Frisur passt besser zum Outfit? 🧡✨😉 Haare auf oder Half Bun + Tuch?  #slowfashion #mystyle #70s #70sfashion #wiw #styleinspo </title>
@@ -267,6 +259,14 @@
     <content>2. Runde Herbstoutfits 🍁🍂🧡</content>
     <link href="https://tiktok.com/@palim_tintin/video/7435330047734582560"/>
     <published>2024-11-09T17:18:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@palim_tintin/video/7442395422506650902</id>
+    <title>😊🧣</title>
+    <updated>2024-11-28T18:15:20+00:00</updated>
+    <content>😊🧣</content>
+    <link href="https://tiktok.com/@palim_tintin/video/7442395422506650902"/>
+    <published>2024-11-28T18:15:20+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@palim_tintin/video/7189301520721005829</id>
