@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-11-27T18:27:13+00:00</updated>
+  <updated>2024-11-28T08:17:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7419111979333274912</id>
-    <title>#Duett mit @gwizzle I need her energy  #single #dating </title>
-    <updated>2024-09-27T00:23:52+00:00</updated>
-    <content>#Duett mit @gwizzle I need her energy  #single #dating </content>
-    <link href="https://tiktok.com/@tandarok/video/7419111979333274912"/>
-    <published>2024-09-27T00:23:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7419206057622261024</id>
     <title>Musty einfach der krasseste  #bachelorette </title>
@@ -267,6 +259,14 @@
     <content>Just sayin</content>
     <link href="https://tiktok.com/@tandarok/video/7442027398859607318"/>
     <published>2024-11-27T18:27:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7442241407965728002</id>
+    <title>Männer müssen dich nicht für's Mann sein entschuldigen, sondern einfach lernen sich zu hinterfragen und an sich zu arbeiten.</title>
+    <updated>2024-11-28T08:17:48+00:00</updated>
+    <content>Männer müssen dich nicht für's Mann sein entschuldigen, sondern einfach lernen sich zu hinterfragen und an sich zu arbeiten.</content>
+    <link href="https://tiktok.com/@tandarok/video/7442241407965728002"/>
+    <published>2024-11-28T08:17:48+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
