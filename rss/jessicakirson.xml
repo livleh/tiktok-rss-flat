@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-11-26T22:59:20+00:00</updated>
+  <updated>2024-11-28T00:23:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7426131409351216415</id>
-    <title>Rich from Roblox?  #games #fy </title>
-    <updated>2024-10-15T22:22:49+00:00</updated>
-    <content>Rich from Roblox?  #games #fy </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7426131409351216415"/>
-    <published>2024-10-15T22:22:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7426497687173745951</id>
     <title>He really must be ecstatic  #fy #foryou </title>
@@ -291,5 +283,13 @@
     <content>Im not saying that in a feminist way </content>
     <link href="https://tiktok.com/@jessicakirson/video/7441726421120060702"/>
     <published>2024-11-26T22:59:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7442119181828361502</id>
+    <title>Scottish Legos</title>
+    <updated>2024-11-28T00:23:33+00:00</updated>
+    <content>Scottish Legos</content>
+    <link href="https://tiktok.com/@jessicakirson/video/7442119181828361502"/>
+    <published>2024-11-28T00:23:33+00:00</published>
   </entry>
 </feed>
