@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2024-11-27T05:11:04+00:00</updated>
+  <updated>2024-11-28T03:28:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from loveletterstosf</subtitle>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7411583815119850795</id>
-    <title>comment other fun tings to do #thisweekendinsf #sfevents #sftok #sanfrancisco #nightmarket #filmscreening #thingstodoinsf </title>
-    <updated>2024-09-06T17:30:40+00:00</updated>
-    <content>comment other fun tings to do #thisweekendinsf #sfevents #sftok #sanfrancisco #nightmarket #filmscreening #thingstodoinsf </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7411583815119850795"/>
-    <published>2024-09-06T17:30:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7414137227522886954</id>
     <title>loved last night’s #transamericapyramid #lightshow #sf #skysline #sfnight #sflights #sfdowntown #transamericabuilding #shotondrone </title>
@@ -267,6 +259,14 @@
     <content>friendsgiving event prep from this past weekend #sf #friendsgiving #potluck #sfevent #meetup #vlog </content>
     <link href="https://tiktok.com/@loveletterstosf/video/7441822231765749035"/>
     <published>2024-11-27T05:11:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7442166803603754286</id>
+    <title>so grateful to everyone who showed up and expressed interest in #friendsgiving with strangers 🥰💕 📍hosted at Neon coworking space on union st #sf #sfmeetup #sfevent #whatsyourvisionforthisroom </title>
+    <updated>2024-11-28T03:28:10+00:00</updated>
+    <content>so grateful to everyone who showed up and expressed interest in #friendsgiving with strangers 🥰💕 📍hosted at Neon coworking space on union st #sf #sfmeetup #sfevent #whatsyourvisionforthisroom </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7442166803603754286"/>
+    <published>2024-11-28T03:28:10+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7408048912394620206</id>
