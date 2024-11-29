@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ramalauw</id>
   <title>ramalauw</title>
-  <updated>2024-11-22T14:13:36+00:00</updated>
+  <updated>2024-11-29T15:40:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ramalauw</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ramalauw/video/7397791702527921441</id>
-    <title>Anybody has the answer? 😭 #lifeadvice #free99 #motivational #fyp #foryou #tiktokusa </title>
-    <updated>2024-07-31T13:30:10+00:00</updated>
-    <content>Anybody has the answer? 😭 #lifeadvice #free99 #motivational #fyp #foryou #tiktokusa </content>
-    <link href="https://tiktok.com/@ramalauw/video/7397791702527921441"/>
-    <published>2024-07-31T13:30:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7399288348151418144</id>
     <title>Story of my life (this happens every night 😖😮‍💨🤡) #fyp #foryou #skit #kamalaharris #sleep #lifeadvice #motivation </title>
@@ -267,6 +259,14 @@
     <content>This is a joke ofc! Unless… 🤭 Pls tell me I’m not the only one with these intrusive thoughts 😭🤡</content>
     <link href="https://tiktok.com/@ramalauw/video/7440106621893627158"/>
     <published>2024-11-22T14:13:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ramalauw/video/7442726479328251158</id>
+    <title>Vietnam? More like VietNOM NOM NOM 🤤 Had the most delicious time in Vietnam thanks to all of your recs, my friend @BÁ TÙNG for being the best guide ever, and also @Ubigi App for keeping me connected from landing till departure as always ✨</title>
+    <updated>2024-11-29T15:40:04+00:00</updated>
+    <content>Vietnam? More like VietNOM NOM NOM 🤤 Had the most delicious time in Vietnam thanks to all of your recs, my friend @BÁ TÙNG for being the best guide ever, and also @Ubigi App for keeping me connected from landing till departure as always ✨</content>
+    <link href="https://tiktok.com/@ramalauw/video/7442726479328251158"/>
+    <published>2024-11-29T15:40:04+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7270903343638187297</id>
