@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-11-29T14:51:27+00:00</updated>
+  <updated>2024-11-29T23:03:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7433802604456512800</id>
-    <title>men in valorant aren't normal #vtuber</title>
-    <updated>2024-11-05T14:30:58+00:00</updated>
-    <content>men in valorant aren't normal #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7433802604456512800"/>
-    <published>2024-11-05T14:30:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7434191067169312032</id>
     <title>stop downplaying toxicity in games #valorant</title>
@@ -267,6 +259,14 @@
     <content>Why Gender affirming care isn't perfect #strinova #trans #twitch</content>
     <link href="https://tiktok.com/@nyaravt/video/7442713896147750176"/>
     <published>2024-11-29T14:51:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7442840699935935766</id>
+    <title>#onthisday when the fantasy is hot #trans #streamer #twitch </title>
+    <updated>2024-11-29T23:03:17+00:00</updated>
+    <content>#onthisday when the fantasy is hot #trans #streamer #twitch </content>
+    <link href="https://tiktok.com/@nyaravt/video/7442840699935935766"/>
+    <published>2024-11-29T23:03:17+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>
