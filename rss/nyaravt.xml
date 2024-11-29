@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-11-28T20:34:04+00:00</updated>
+  <updated>2024-11-28T23:31:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7433438404550987040</id>
-    <title>#onthisday how to date a trans person #lgbt </title>
-    <updated>2024-11-04T14:57:42+00:00</updated>
-    <content>#onthisday how to date a trans person #lgbt </content>
-    <link href="https://tiktok.com/@nyaravt/video/7433438404550987040"/>
-    <published>2024-11-04T14:57:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7433780662366162208</id>
     <title>#onthisday let trans kids be trans #lgbtqia </title>
@@ -267,6 +259,14 @@
     <content>Replying to @Kendra 🪼 these are my current nails💜</content>
     <link href="https://tiktok.com/@nyaravt/video/7442431166138944790"/>
     <published>2024-11-28T20:34:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7442476828788395286</id>
+    <title>#onthisday switches aren’t real #trans #twitch </title>
+    <updated>2024-11-28T23:31:25+00:00</updated>
+    <content>#onthisday switches aren’t real #trans #twitch </content>
+    <link href="https://tiktok.com/@nyaravt/video/7442476828788395286"/>
+    <published>2024-11-28T23:31:25+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>
