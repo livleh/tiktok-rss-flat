@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-11-28T21:48:48+00:00</updated>
+  <updated>2024-11-29T10:00:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7419970737768877344</id>
-    <title>Was endlich Mal schöne, nicht toxische Dating Erfahrungen mit dir machen können 😅 #dating </title>
-    <updated>2024-09-29T07:56:11+00:00</updated>
-    <content>Was endlich Mal schöne, nicht toxische Dating Erfahrungen mit dir machen können 😅 #dating </content>
-    <link href="https://tiktok.com/@tandarok/video/7419970737768877344"/>
-    <published>2024-09-29T07:56:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7420911975569329441</id>
     <title>Yay 🙃</title>
@@ -267,6 +259,14 @@
     <content>Ich liebe W.i.t.c.h. einfach ✨</content>
     <link href="https://tiktok.com/@tandarok/video/7442450415171472662"/>
     <published>2024-11-28T21:48:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7442638987606412566</id>
+    <title>😐</title>
+    <updated>2024-11-29T10:00:33+00:00</updated>
+    <content>😐</content>
+    <link href="https://tiktok.com/@tandarok/video/7442638987606412566"/>
+    <published>2024-11-29T10:00:33+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
