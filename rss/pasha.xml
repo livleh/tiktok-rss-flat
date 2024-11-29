@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@pasha</id>
   <title>pasha</title>
-  <updated>2024-11-25T08:39:56+00:00</updated>
+  <updated>2024-11-29T08:48:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pasha</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pasha/video/7402257073184001301</id>
-    <title>these Paris games were not what I expected… @Orange 🧡</title>
-    <updated>2024-08-12T14:18:05+00:00</updated>
-    <content>these Paris games were not what I expected… @Orange 🧡</content>
-    <link href="https://tiktok.com/@pasha/video/7402257073184001301"/>
-    <published>2024-08-12T14:18:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7402693921005899028</id>
     <title>this is your reminder to appreciate every step in your career and to remember that in the end, it’s all going to work out ❤️ Start searching for your dream career with @LinkedIn today! #careerjourney #careertalk #careerarvice #recruiter #jobsearch #Linked</title>
@@ -291,5 +283,13 @@
     <content>am I dreaming? #australia #comedy </content>
     <link href="https://tiktok.com/@pasha/video/7441133880968580359"/>
     <published>2024-11-25T08:39:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pasha/video/7442620425072364808</id>
+    <title>I know you think about quitting your job sometimes, so your resignation template is here! #comedy #work </title>
+    <updated>2024-11-29T08:48:28+00:00</updated>
+    <content>I know you think about quitting your job sometimes, so your resignation template is here! #comedy #work </content>
+    <link href="https://tiktok.com/@pasha/video/7442620425072364808"/>
+    <published>2024-11-29T08:48:28+00:00</published>
   </entry>
 </feed>
