@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-11-28T18:24:41+00:00</updated>
+  <updated>2024-11-29T22:11:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7427478949132799262</id>
-    <title>How Long Do German Highschools Take?  #germany #school </title>
-    <updated>2024-10-19T13:32:14+00:00</updated>
-    <content>How Long Do German Highschools Take?  #germany #school </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7427478949132799262"/>
-    <published>2024-10-19T13:32:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7427973580215897374</id>
     <title>I do Draaag! ❤️ #drag #germany</title>
@@ -291,5 +283,13 @@
     <content>Happy Thanksgiving!!! Send this to a friend, it will maje their day! 🦃😩 #fyp #mentalillness #jessicakirson #thanksgiving </content>
     <link href="https://tiktok.com/@jessicakirson/video/7442397804091149598"/>
     <published>2024-11-28T18:24:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7442827216418901278</id>
+    <title>He is hype about insurance policies </title>
+    <updated>2024-11-29T22:11:10+00:00</updated>
+    <content>He is hype about insurance policies </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7442827216418901278"/>
+    <published>2024-11-29T22:11:10+00:00</published>
   </entry>
 </feed>
