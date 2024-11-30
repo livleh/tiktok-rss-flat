@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-11-29T22:11:10+00:00</updated>
+  <updated>2024-11-30T14:56:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7427973580215897374</id>
-    <title>I do Draaag! ❤️ #drag #germany</title>
-    <updated>2024-10-20T21:31:27+00:00</updated>
-    <content>I do Draaag! ❤️ #drag #germany</content>
-    <link href="https://tiktok.com/@jessicakirson/video/7427973580215897374"/>
-    <published>2024-10-20T21:31:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7428227983430716703</id>
     <title>HIII!! I have amazing news that I’m so excited to announce. My show at the Beacon Theatre on Friday, April 25th will go on presale this Wednesday at 10AM with the code SILLY. This will be the largest venue I’ve ever done in NYC so I need your help by liki</title>
@@ -291,5 +283,13 @@
     <content>He is hype about insurance policies </content>
     <link href="https://tiktok.com/@jessicakirson/video/7442827216418901278"/>
     <published>2024-11-29T22:11:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7443086107127975199</id>
+    <title>Shes fresh out of prison </title>
+    <updated>2024-11-30T14:56:00+00:00</updated>
+    <content>Shes fresh out of prison </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7443086107127975199"/>
+    <published>2024-11-30T14:56:00+00:00</published>
   </entry>
 </feed>
