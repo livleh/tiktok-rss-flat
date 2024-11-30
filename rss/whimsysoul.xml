@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-11-27T21:51:11+00:00</updated>
+  <updated>2024-11-30T21:48:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7434978178122140971</id>
-    <title>San Francisco, the ice rink is OPEN!!! ❄️⛸️ It's my yearly tradition to visit the @unionsquarerink for a twilight skate session while listening to Christmas music.  As of last year, we added on a mandatory stop to @millerandluxprovisions beforehand for sw</title>
-    <updated>2024-11-08T18:32:43+00:00</updated>
-    <content>San Francisco, the ice rink is OPEN!!! ❄️⛸️ It's my yearly tradition to visit the @unionsquarerink for a twilight skate session while listening to Christmas music.  As of last year, we added on a mandatory stop to @millerandluxprovisions beforehand for sw</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7434978178122140971"/>
-    <published>2024-11-08T18:32:43+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7435308629353336110</id>
-    <title>brb heading to Hogwarts in the mountains 💅 🚂 ❄️ The Yosemite Mountain Sugar Pine Railroad is literally right outside the park on the Oakhurst entrance.  It’s an open-air train and if you time it right, you can see everything covered in snow! Feels so dang</title>
-    <updated>2024-11-09T15:55:01+00:00</updated>
-    <content>brb heading to Hogwarts in the mountains 💅 🚂 ❄️ The Yosemite Mountain Sugar Pine Railroad is literally right outside the park on the Oakhurst entrance.  It’s an open-air train and if you time it right, you can see everything covered in snow! Feels so dang</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7435308629353336110"/>
-    <published>2024-11-09T15:55:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7435684575176822062</id>
     <title>$8 box hair dye can look that good?!! 😱 I've been using this exact brand of hair dye for 10 years (my natural hair color is a dirty blonde but I think life is more fun as a redhead!)  I've tricked so many people into thinking this is my natural hair color</title>
@@ -267,6 +251,22 @@
     <content>AI doesnt like redheads apparently #aiself #ai #tiktok #redheads #lol #greenscreen </content>
     <link href="https://tiktok.com/@whimsysoul/video/7442079954906451243"/>
     <published>2024-11-27T21:51:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7443188721664675118</id>
+    <title>Santa Pie is the best thing you can bake this holiday season and I will die on this hill 🎅🥧 This is a recipe my mom made very Christmas season that I now make as well! Santa Pie is basically chocolate on chocolate on chocolate. 🍫 What's your favorite thin</title>
+    <updated>2024-11-30T21:33:47+00:00</updated>
+    <content>Santa Pie is the best thing you can bake this holiday season and I will die on this hill 🎅🥧 This is a recipe my mom made very Christmas season that I now make as well! Santa Pie is basically chocolate on chocolate on chocolate. 🍫 What's your favorite thin</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7443188721664675118"/>
+    <published>2024-11-30T21:33:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7443192398399966510</id>
+    <title>Replying to @Sky 🧚🏼‍♀️🧋🎀🦷 the best breakfast sandwich in San Francisco is always Devils Teeth. It is the way #sanfrancisco #sanfranciscofoodie #sanfranciscolife #breakfastsandwich #outersunset #outerrichmond #onlyinsf #bayarea #food </title>
+    <updated>2024-11-30T21:48:02+00:00</updated>
+    <content>Replying to @Sky 🧚🏼‍♀️🧋🎀🦷 the best breakfast sandwich in San Francisco is always Devils Teeth. It is the way #sanfrancisco #sanfranciscofoodie #sanfranciscolife #breakfastsandwich #outersunset #outerrichmond #onlyinsf #bayarea #food </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7443192398399966510"/>
+    <published>2024-11-30T21:48:02+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
