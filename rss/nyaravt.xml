@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-11-29T23:03:17+00:00</updated>
+  <updated>2024-11-30T14:01:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7434191067169312032</id>
-    <title>stop downplaying toxicity in games #valorant</title>
-    <updated>2024-11-06T15:38:25+00:00</updated>
-    <content>stop downplaying toxicity in games #valorant</content>
-    <link href="https://tiktok.com/@nyaravt/video/7434191067169312032"/>
-    <published>2024-11-06T15:38:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7434540394702048545</id>
     <title>why I don't just mute everyone #valorant</title>
@@ -267,6 +259,14 @@
     <content>#onthisday when the fantasy is hot #trans #streamer #twitch </content>
     <link href="https://tiktok.com/@nyaravt/video/7442840699935935766"/>
     <published>2024-11-29T23:03:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7443072066850426145</id>
+    <title>Why I wish I wasn't trans #trans #streamer #strinova #transfem #lgbt #twitch</title>
+    <updated>2024-11-30T14:01:17+00:00</updated>
+    <content>Why I wish I wasn't trans #trans #streamer #strinova #transfem #lgbt #twitch</content>
+    <link href="https://tiktok.com/@nyaravt/video/7443072066850426145"/>
+    <published>2024-11-30T14:01:17+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>
