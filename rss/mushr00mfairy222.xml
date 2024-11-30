@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-11-29T21:08:16+00:00</updated>
+  <updated>2024-11-30T17:06:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7440231513133747489</id>
-    <title>WAIT SOBBING @Bee 💚 #besties #bestfriends </title>
-    <updated>2024-11-22T22:18:21+00:00</updated>
-    <content>WAIT SOBBING @Bee 💚 #besties #bestfriends </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7440231513133747489"/>
-    <published>2024-11-22T22:18:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7440489960374947105</id>
     <title>SOBBING #taylorswift #erastour #swiftie </title>
@@ -267,6 +259,14 @@
     <content>let me be delu #lesbian #wlw #nmlnm #lgbt #lgbtq </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7442811034391383328"/>
     <published>2024-11-29T21:08:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7443119872088821024</id>
+    <title>and adhd etc 😭 #neurodivergent #autistic #mentalhealth </title>
+    <updated>2024-11-30T17:06:50+00:00</updated>
+    <content>and adhd etc 😭 #neurodivergent #autistic #mentalhealth </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7443119872088821024"/>
+    <published>2024-11-30T17:06:50+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
