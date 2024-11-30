@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@danielryanspaulding</id>
   <title>danielryanspaulding</title>
-  <updated>2024-11-23T20:32:22+00:00</updated>
+  <updated>2024-11-29T23:27:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from danielryanspaulding</subtitle>
-  <entry>
-    <id>https://tiktok.com/@danielryanspaulding/video/7413756301550849313</id>
-    <title>Bandwagon Gays #fireisland #gay #nyc #thepines #comedy </title>
-    <updated>2024-09-12T14:00:58+00:00</updated>
-    <content>Bandwagon Gays #fireisland #gay #nyc #thepines #comedy </content>
-    <link href="https://tiktok.com/@danielryanspaulding/video/7413756301550849313"/>
-    <published>2024-09-12T14:00:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@danielryanspaulding/video/7413842630443912480</id>
     <title>Sorry Ilana Glazer, no one wants Cori Bush &amp; anti-Israel democrats in the party #aipac #coribush #ilanaglazer #iran #irgc #usa #israel #democrat </title>
@@ -283,5 +275,13 @@
     <content>Aipac 101 - what is #aipac #israel #usa #fireisland #jewish #america </content>
     <link href="https://tiktok.com/@danielryanspaulding/video/7440575312930327830"/>
     <published>2024-11-23T20:32:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@danielryanspaulding/video/7442846881446645014</id>
+    <title>#rollingstones #uk #carlosoconnell #fountainesdc #zionism #israel #racist #irish #ireland #jewish </title>
+    <updated>2024-11-29T23:27:17+00:00</updated>
+    <content>#rollingstones #uk #carlosoconnell #fountainesdc #zionism #israel #racist #irish #ireland #jewish </content>
+    <link href="https://tiktok.com/@danielryanspaulding/video/7442846881446645014"/>
+    <published>2024-11-29T23:27:17+00:00</published>
   </entry>
 </feed>
