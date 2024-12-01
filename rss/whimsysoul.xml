@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-11-30T21:48:02+00:00</updated>
+  <updated>2024-12-01T00:33:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7435684575176822062</id>
-    <title>$8 box hair dye can look that good?!! 😱 I've been using this exact brand of hair dye for 10 years (my natural hair color is a dirty blonde but I think life is more fun as a redhead!)  I've tricked so many people into thinking this is my natural hair color</title>
-    <updated>2024-11-10T16:13:53+00:00</updated>
-    <content>$8 box hair dye can look that good?!! 😱 I've been using this exact brand of hair dye for 10 years (my natural hair color is a dirty blonde but I think life is more fun as a redhead!)  I've tricked so many people into thinking this is my natural hair color</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7435684575176822062"/>
-    <published>2024-11-10T16:13:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7436117044577176875</id>
     <title>my fave San Francisco Xmas activities  ⬇️🎄 Can't believe Christmas in San Francisco is just a few weeks away!!! Some of the holiday activities has already started.  🎅Make sure you are FOLLOWING me since I'll be posting more holiday tips for the Bay Area &amp;</title>
@@ -267,6 +259,14 @@
     <content>Replying to @Sky 🧚🏼‍♀️🧋🎀🦷 the best breakfast sandwich in San Francisco is always Devils Teeth. It is the way #sanfrancisco #sanfranciscofoodie #sanfranciscolife #breakfastsandwich #outersunset #outerrichmond #onlyinsf #bayarea #food </content>
     <link href="https://tiktok.com/@whimsysoul/video/7443192398399966510"/>
     <published>2024-11-30T21:48:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7443234998884240686</id>
+    <title>Replying to @Ashley Canadians how bad is this airline dont sugar coat it #flairairlines #canada #sfo #sanfrancisco #budgetairlines #whimsysoul #cheapflights </title>
+    <updated>2024-12-01T00:33:20+00:00</updated>
+    <content>Replying to @Ashley Canadians how bad is this airline dont sugar coat it #flairairlines #canada #sfo #sanfrancisco #budgetairlines #whimsysoul #cheapflights </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7443234998884240686"/>
+    <published>2024-12-01T00:33:20+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
