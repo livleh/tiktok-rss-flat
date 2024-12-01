@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-11-30T23:12:51+00:00</updated>
+  <updated>2024-12-01T14:44:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7434910083533835553</id>
-    <title>straight passing privileges in games #vtuber</title>
-    <updated>2024-11-08T14:08:34+00:00</updated>
-    <content>straight passing privileges in games #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7434910083533835553"/>
-    <published>2024-11-08T14:08:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7435271020350688544</id>
     <title>German is not a HOT language #vtuber</title>
@@ -267,6 +259,14 @@
     <content>#onthisday peak alpha male behaviour #trans #twitch </content>
     <link href="https://tiktok.com/@nyaravt/video/7443214255140195606"/>
     <published>2024-11-30T23:12:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7443454306910604577</id>
+    <title>Everyone is NON-BINARY but too scared to admit it #trans #strinova #masculinity #twitch #lgbt</title>
+    <updated>2024-12-01T14:44:35+00:00</updated>
+    <content>Everyone is NON-BINARY but too scared to admit it #trans #strinova #masculinity #twitch #lgbt</content>
+    <link href="https://tiktok.com/@nyaravt/video/7443454306910604577"/>
+    <published>2024-12-01T14:44:35+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>
