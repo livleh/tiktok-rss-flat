@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-11-28T18:22:57+00:00</updated>
+  <updated>2024-12-01T18:29:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7421606779982794017</id>
-    <title>squirrels should be given free train travel. very dramatic cancelling the train </title>
-    <updated>2024-10-03T17:44:49+00:00</updated>
-    <content>squirrels should be given free train travel. very dramatic cancelling the train </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7421606779982794017"/>
-    <published>2024-10-03T17:44:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7422713432392109345</id>
     <title>happy birthday porpy!!!!!!!</title>
@@ -283,6 +275,14 @@
     <content>ive got loads more cards where these came from 😡</content>
     <link href="https://tiktok.com/@zoebreadtok/video/7442397324443258144"/>
     <published>2024-11-28T18:22:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7443512271390690593</id>
+    <title>advent calender tutorial and opening </title>
+    <updated>2024-12-01T18:29:26+00:00</updated>
+    <content>advent calender tutorial and opening </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7443512271390690593"/>
+    <published>2024-12-01T18:29:26+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7391078276183215392</id>
