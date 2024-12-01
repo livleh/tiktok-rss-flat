@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-11-30T14:56:00+00:00</updated>
+  <updated>2024-12-01T22:57:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7428227983430716703</id>
-    <title>HIII!! I have amazing news that I’m so excited to announce. My show at the Beacon Theatre on Friday, April 25th will go on presale this Wednesday at 10AM with the code SILLY. This will be the largest venue I’ve ever done in NYC so I need your help by liki</title>
-    <updated>2024-10-21T13:58:58+00:00</updated>
-    <content>HIII!! I have amazing news that I’m so excited to announce. My show at the Beacon Theatre on Friday, April 25th will go on presale this Wednesday at 10AM with the code SILLY. This will be the largest venue I’ve ever done in NYC so I need your help by liki</content>
-    <link href="https://tiktok.com/@jessicakirson/video/7428227983430716703"/>
-    <published>2024-10-21T13:58:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7428730345811397918</id>
     <title>They met on so many places 😂. New York City, my show at @beacontheatre goes on presale tomorrow morning! Waitlist is on my site xoxo </title>
@@ -291,5 +283,13 @@
     <content>Shes fresh out of prison </content>
     <link href="https://tiktok.com/@jessicakirson/video/7443086107127975199"/>
     <published>2024-11-30T14:56:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7443581284921740574</id>
+    <title>Reject me 🥵</title>
+    <updated>2024-12-01T22:57:20+00:00</updated>
+    <content>Reject me 🥵</content>
+    <link href="https://tiktok.com/@jessicakirson/video/7443581284921740574"/>
+    <published>2024-12-01T22:57:20+00:00</published>
   </entry>
 </feed>
