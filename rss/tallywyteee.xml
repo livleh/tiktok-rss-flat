@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tallywyteee</id>
   <title>tallywyteee</title>
-  <updated>2024-11-26T02:34:50+00:00</updated>
+  <updated>2024-12-01T18:49:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tallywyteee</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tallywyteee/video/7419520042913565994</id>
-    <title>#trans #transgender #transgirl #transwoman #transandproud #transisbeautiful</title>
-    <updated>2024-09-28T02:47:12+00:00</updated>
-    <content>#trans #transgender #transgirl #transwoman #transandproud #transisbeautiful</content>
-    <link href="https://tiktok.com/@tallywyteee/video/7419520042913565994"/>
-    <published>2024-09-28T02:47:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7419885326941916459</id>
     <title>#trans #transgender #transgirl #transwoman #transandproud #transisbeautiful</title>
@@ -275,6 +267,14 @@
     <content>The best part about being friends with me is that I’m loyal. You treat me right, I treat you right. So if we’re pulling up to get ice cream and you don’t get me any, it’s over… 😂👍🏻</content>
     <link href="https://tiktok.com/@tallywyteee/video/7441410885098179886"/>
     <published>2024-11-26T02:34:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tallywyteee/video/7443517394779213099</id>
+    <title>Homie and i got a little sturdy… 😎👀💙</title>
+    <updated>2024-12-01T18:49:12+00:00</updated>
+    <content>Homie and i got a little sturdy… 😎👀💙</content>
+    <link href="https://tiktok.com/@tallywyteee/video/7443517394779213099"/>
+    <published>2024-12-01T18:49:12+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7261699619762048298</id>
