@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-11-30T17:06:50+00:00</updated>
+  <updated>2024-12-01T16:07:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7440489960374947105</id>
-    <title>SOBBING #taylorswift #erastour #swiftie </title>
-    <updated>2024-11-23T15:01:22+00:00</updated>
-    <content>SOBBING #taylorswift #erastour #swiftie </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7440489960374947105"/>
-    <published>2024-11-23T15:01:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7440490657287884064</id>
     <title>why are they so ugly 😭 #wlw #lesbian #nmlnm #lgbt #lgbtq </title>
@@ -267,6 +259,14 @@
     <content>and adhd etc 😭 #neurodivergent #autistic #mentalhealth </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7443119872088821024"/>
     <published>2024-11-30T17:06:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7443475794858462497</id>
+    <title>low key offended when someone thinks im straight? 😭 #lebian #wlw #lgbt #lgbtq </title>
+    <updated>2024-12-01T16:07:56+00:00</updated>
+    <content>low key offended when someone thinks im straight? 😭 #lebian #wlw #lgbt #lgbtq </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7443475794858462497"/>
+    <published>2024-12-01T16:07:56+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
