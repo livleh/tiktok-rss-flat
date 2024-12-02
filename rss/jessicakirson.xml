@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-12-02T01:11:16+00:00</updated>
+  <updated>2024-12-02T16:57:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7429481333560233247</id>
-    <title>Paul The Jersey Chef Is Amazing  #jersey #chef </title>
-    <updated>2024-10-24T23:02:10+00:00</updated>
-    <content>Paul The Jersey Chef Is Amazing  #jersey #chef </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7429481333560233247"/>
-    <published>2024-10-24T23:02:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7430091384960470303</id>
     <title>University Of Marlyand Therapist and her wife. NYC Beacon show is on sale now. </title>
@@ -291,5 +283,13 @@
     <content>Sing it bitches!!! #fyp #wicked #wickedthemusical #wickedmovie #mentalhealth </content>
     <link href="https://tiktok.com/@jessicakirson/video/7443615811698216223"/>
     <published>2024-12-02T01:11:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7443859698807508270</id>
+    <title>Defy Gravity B*tches!!! #fyp #wicked #wickedthemusical #wickedmovie #mentalhealth #mentalillness #jessicakirson #cake </title>
+    <updated>2024-12-02T16:57:34+00:00</updated>
+    <content>Defy Gravity B*tches!!! #fyp #wicked #wickedthemusical #wickedmovie #mentalhealth #mentalillness #jessicakirson #cake </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7443859698807508270"/>
+    <published>2024-12-02T16:57:34+00:00</published>
   </entry>
 </feed>
