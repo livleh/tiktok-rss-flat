@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-12-01T18:29:26+00:00</updated>
+  <updated>2024-12-02T18:28:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7422713432392109345</id>
-    <title>happy birthday porpy!!!!!!!</title>
-    <updated>2024-10-06T17:19:13+00:00</updated>
-    <content>happy birthday porpy!!!!!!!</content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7422713432392109345"/>
-    <published>2024-10-06T17:19:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7423089195314416929</id>
     <title>the first person to guess what song i cover next wins a free tshirt of their choosing!! </title>
@@ -283,6 +275,14 @@
     <content>advent calender tutorial and opening </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7443512271390690593"/>
     <published>2024-12-01T18:29:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7443883143666486561</id>
+    <title>day 2 of my strange advent calendar </title>
+    <updated>2024-12-02T18:28:40+00:00</updated>
+    <content>day 2 of my strange advent calendar </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7443883143666486561"/>
+    <published>2024-12-02T18:28:40+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7391078276183215392</id>
