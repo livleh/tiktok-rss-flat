@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ramalauw</id>
   <title>ramalauw</title>
-  <updated>2024-11-29T15:40:04+00:00</updated>
+  <updated>2024-12-02T13:33:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ramalauw</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ramalauw/video/7399288348151418144</id>
-    <title>Story of my life (this happens every night 😖😮‍💨🤡) #fyp #foryou #skit #kamalaharris #sleep #lifeadvice #motivation </title>
-    <updated>2024-08-04T14:17:59+00:00</updated>
-    <content>Story of my life (this happens every night 😖😮‍💨🤡) #fyp #foryou #skit #kamalaharris #sleep #lifeadvice #motivation </content>
-    <link href="https://tiktok.com/@ramalauw/video/7399288348151418144"/>
-    <published>2024-08-04T14:17:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7399692232518929696</id>
     <title>I bet everyone thinks I’m a local 🥺🤭☺️💃✨ #BetterThanEveryone #BTEFace #maincharacter #delulu #travel #traveling #traveltok #fyp #foryou</title>
@@ -267,6 +259,14 @@
     <content>Vietnam? More like VietNOM NOM NOM 🤤 Had the most delicious time in Vietnam thanks to all of your recs, my friend @BÁ TÙNG for being the best guide ever, and also @Ubigi App for keeping me connected from landing till departure as always ✨</content>
     <link href="https://tiktok.com/@ramalauw/video/7442726479328251158"/>
     <published>2024-11-29T15:40:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ramalauw/video/7443807232824708374</id>
+    <title>Istg I’m a completely different (worse) person at home idk why haha 😭🤡</title>
+    <updated>2024-12-02T13:33:53+00:00</updated>
+    <content>Istg I’m a completely different (worse) person at home idk why haha 😭🤡</content>
+    <link href="https://tiktok.com/@ramalauw/video/7443807232824708374"/>
+    <published>2024-12-02T13:33:53+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7270903343638187297</id>
