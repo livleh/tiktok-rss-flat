@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-12-01T22:57:20+00:00</updated>
+  <updated>2024-12-02T01:11:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7428730345811397918</id>
-    <title>They met on so many places 😂. New York City, my show at @beacontheatre goes on presale tomorrow morning! Waitlist is on my site xoxo </title>
-    <updated>2024-10-22T22:28:06+00:00</updated>
-    <content>They met on so many places 😂. New York City, my show at @beacontheatre goes on presale tomorrow morning! Waitlist is on my site xoxo </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7428730345811397918"/>
-    <published>2024-10-22T22:28:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7429481333560233247</id>
     <title>Paul The Jersey Chef Is Amazing  #jersey #chef </title>
@@ -291,5 +283,13 @@
     <content>Reject me 🥵</content>
     <link href="https://tiktok.com/@jessicakirson/video/7443581284921740574"/>
     <published>2024-12-01T22:57:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7443615811698216223</id>
+    <title>Sing it bitches!!! #fyp #wicked #wickedthemusical #wickedmovie #mentalhealth </title>
+    <updated>2024-12-02T01:11:16+00:00</updated>
+    <content>Sing it bitches!!! #fyp #wicked #wickedthemusical #wickedmovie #mentalhealth </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7443615811698216223"/>
+    <published>2024-12-02T01:11:16+00:00</published>
   </entry>
 </feed>
