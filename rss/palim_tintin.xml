@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@palim_tintin</id>
   <title>palim_tintin</title>
-  <updated>2024-11-30T16:16:27+00:00</updated>
+  <updated>2024-12-02T16:11:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from palim_tintin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@palim_tintin/video/7358530616616439073</id>
-    <title>🐈‍⬛🐈‍⬛🧡 #interiordesign #schlafzimmer #bedroom #catsoftiktok #catlover #solebich </title>
-    <updated>2024-04-16T18:17:05+00:00</updated>
-    <content>🐈‍⬛🐈‍⬛🧡 #interiordesign #schlafzimmer #bedroom #catsoftiktok #catlover #solebich </content>
-    <link href="https://tiktok.com/@palim_tintin/video/7358530616616439073"/>
-    <published>2024-04-16T18:17:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@palim_tintin/video/7361137714328096032</id>
     <title>Senfgelbe Outfits 👘🍯🦁🌞</title>
@@ -267,6 +259,14 @@
     <content>🍕🧡👯‍♀️ happybirthday #fürmeinezwillingsschwester #twins #heartpizza #zwillinge </content>
     <link href="https://tiktok.com/@palim_tintin/video/7443106946632207638"/>
     <published>2024-11-30T16:16:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@palim_tintin/video/7443847794881858838</id>
+    <title>✨🌝 #bedroom #bedroomdesign #cozy #cozyathome #schlafzimmer </title>
+    <updated>2024-12-02T16:11:18+00:00</updated>
+    <content>✨🌝 #bedroom #bedroomdesign #cozy #cozyathome #schlafzimmer </content>
+    <link href="https://tiktok.com/@palim_tintin/video/7443847794881858838"/>
+    <published>2024-12-02T16:11:18+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@palim_tintin/video/7189301520721005829</id>
