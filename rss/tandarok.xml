@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-11-29T10:00:33+00:00</updated>
+  <updated>2024-12-02T07:06:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7420911975569329441</id>
-    <title>Yay 🙃</title>
-    <updated>2024-10-01T20:48:40+00:00</updated>
-    <content>Yay 🙃</content>
-    <link href="https://tiktok.com/@tandarok/video/7420911975569329441"/>
-    <published>2024-10-01T20:48:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7421110117984177441</id>
     <title>Gefühle im Körper fühlen ergibt für mich irgendwie keinen Sinn 🤷‍♀️ #therapie #gefühle </title>
@@ -267,6 +259,14 @@
     <content>😐</content>
     <link href="https://tiktok.com/@tandarok/video/7442638987606412566"/>
     <published>2024-11-29T10:00:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7443707479038512406</id>
+    <title>Oder liegt's an mir?</title>
+    <updated>2024-12-02T07:06:59+00:00</updated>
+    <content>Oder liegt's an mir?</content>
+    <link href="https://tiktok.com/@tandarok/video/7443707479038512406"/>
+    <published>2024-12-02T07:06:59+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
