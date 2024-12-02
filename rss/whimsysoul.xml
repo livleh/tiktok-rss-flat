@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-12-02T20:17:40+00:00</updated>
+  <updated>2024-12-02T22:19:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7436505263974206762</id>
-    <title>proof you don't need to spend big $$$ to make a big difference in your apartment!! I've been wanting to give our San Francisco bathroom a mini refresh for a while.  I love the overall decor concept, so I found this bath mat by Quiet Town Home that literal</title>
-    <updated>2024-11-12T21:18:33+00:00</updated>
-    <content>proof you don't need to spend big $$$ to make a big difference in your apartment!! I've been wanting to give our San Francisco bathroom a mini refresh for a while.  I love the overall decor concept, so I found this bath mat by Quiet Town Home that literal</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7436505263974206762"/>
-    <published>2024-11-12T21:18:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7437604439743057195</id>
     <title>the CUTEST California Christmas town you need to visit!!🎄😱 You know I'm in love with @visitmurphys - it's an adorable mountain town in Calaveras County that low-key feels like California's very one Stars Hollow year-round, but especially during the holida</title>
@@ -267,6 +259,14 @@
     <content>PSA this makes a Christmas gift for the tea lover in your life. I bought this for myself, but it's a great gift idea. Nothing hits like Fortnums!! 🫖 🇬🇧  Ps - linked these directly on my LTK. Link in bio or linked in my comments  #fortnumandmason #tea #eng</content>
     <link href="https://tiktok.com/@whimsysoul/video/7443911274980756779"/>
     <published>2024-12-02T20:17:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7443942548684623150</id>
+    <title>I'm convinced Thanksgiving in San Francisco is the best time to be in the city #sanfrancisco we did a really long walk in Golden Gate Park.  went Trader Joe's shopping and it wasn't too crowded. Hit up the Dickens fair which was so much fun and again not </title>
+    <updated>2024-12-02T22:19:00+00:00</updated>
+    <content>I'm convinced Thanksgiving in San Francisco is the best time to be in the city #sanfrancisco we did a really long walk in Golden Gate Park.  went Trader Joe's shopping and it wasn't too crowded. Hit up the Dickens fair which was so much fun and again not </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7443942548684623150"/>
+    <published>2024-12-02T22:19:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
