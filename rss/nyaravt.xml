@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-12-01T14:44:35+00:00</updated>
+  <updated>2024-12-02T14:55:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7435271020350688544</id>
-    <title>German is not a HOT language #vtuber</title>
-    <updated>2024-11-09T13:29:08+00:00</updated>
-    <content>German is not a HOT language #vtuber</content>
-    <link href="https://tiktok.com/@nyaravt/video/7435271020350688544"/>
-    <published>2024-11-09T13:29:08+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7436030287231864096</id>
-    <title>become a pet not a partner #trans #streamer #valorant</title>
-    <updated>2024-11-11T14:35:28+00:00</updated>
-    <content>become a pet not a partner #trans #streamer #valorant</content>
-    <link href="https://tiktok.com/@nyaravt/video/7436030287231864096"/>
-    <published>2024-11-11T14:35:28+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7436526003377212704</id>
-    <title>When Transphobes say they don't have problems with trans people#lgbt #transgender #transfem</title>
-    <updated>2024-11-12T22:39:10+00:00</updated>
-    <content>When Transphobes say they don't have problems with trans people#lgbt #transgender #transfem</content>
-    <link href="https://tiktok.com/@nyaravt/video/7436526003377212704"/>
-    <published>2024-11-12T22:39:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7436777597872262433</id>
     <title>You're not a femboy, You're just a woman #trans #streamer #twitch</title>
@@ -267,6 +243,30 @@
     <content>Everyone is NON-BINARY but too scared to admit it #trans #strinova #masculinity #twitch #lgbt</content>
     <link href="https://tiktok.com/@nyaravt/video/7443454306910604577"/>
     <published>2024-12-01T14:44:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7443822764458282272</id>
+    <title>Gender Envy - Why being Trans is confusing #trans #twitch #streamer</title>
+    <updated>2024-12-02T14:34:24+00:00</updated>
+    <content>Gender Envy - Why being Trans is confusing #trans #twitch #streamer</content>
+    <link href="https://tiktok.com/@nyaravt/video/7443822764458282272"/>
+    <published>2024-12-02T14:34:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7443827446400535840</id>
+    <title>Why Trans Rights affect EVERYONE #trans #lgbt #gender</title>
+    <updated>2024-12-02T14:52:36+00:00</updated>
+    <content>Why Trans Rights affect EVERYONE #trans #lgbt #gender</content>
+    <link href="https://tiktok.com/@nyaravt/video/7443827446400535840"/>
+    <published>2024-12-02T14:52:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7443828211772968214</id>
+    <title>#onthisday I banned German for a reason #streamer #twitch </title>
+    <updated>2024-12-02T14:55:20+00:00</updated>
+    <content>#onthisday I banned German for a reason #streamer #twitch </content>
+    <link href="https://tiktok.com/@nyaravt/video/7443828211772968214"/>
+    <published>2024-12-02T14:55:20+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>
