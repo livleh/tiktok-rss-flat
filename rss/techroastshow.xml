@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-12-02T12:39:31+00:00</updated>
+  <updated>2024-12-02T22:44:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7435768318201548063</id>
-    <title>this guy is really passionate  #techie #softwareengineer #siliconvalley #investor #pitch #roastbattle #darkhumor #techroastshow</title>
-    <updated>2024-11-10T21:39:00+00:00</updated>
-    <content>this guy is really passionate  #techie #softwareengineer #siliconvalley #investor #pitch #roastbattle #darkhumor #techroastshow</content>
-    <link href="https://tiktok.com/@techroastshow/video/7435768318201548063"/>
-    <published>2024-11-10T21:39:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7436058476163403039</id>
     <title>I use cricket wireless because I like not using my phone  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </title>
@@ -267,6 +259,14 @@
     <content>just a throuple of founders  #techie #softwareengineer #WashingtonDC #DC #programmerlife #roastbattle #darkhumor #techroastshow</content>
     <link href="https://tiktok.com/@techroastshow/video/7443793175162178862"/>
     <published>2024-12-02T12:39:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7443949096626392366</id>
+    <title>He promised he would stop doing this</title>
+    <updated>2024-12-02T22:44:25+00:00</updated>
+    <content>He promised he would stop doing this</content>
+    <link href="https://tiktok.com/@techroastshow/video/7443949096626392366"/>
+    <published>2024-12-02T22:44:25+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
