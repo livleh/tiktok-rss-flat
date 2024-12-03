@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@dylanmulvaney</id>
   <title>dylanmulvaney</title>
-  <updated>2024-11-30T15:20:39+00:00</updated>
+  <updated>2024-12-03T11:27:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylanmulvaney</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylanmulvaney/video/7404474742536801578</id>
-    <title>BOATING IN SCOTLAND?! #boats #edinburgh #travel #northberwick </title>
-    <updated>2024-08-18T13:43:53+00:00</updated>
-    <content>BOATING IN SCOTLAND?! #boats #edinburgh #travel #northberwick </content>
-    <link href="https://tiktok.com/@dylanmulvaney/video/7404474742536801578"/>
-    <published>2024-08-18T13:43:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7405196883938905386</id>
     <title>Happy scale? 78 out of 10. One week left of shows!!</title>
@@ -283,6 +275,14 @@
     <content>Come with me to get a full body MRI? @Prenuvo #prenuvo #gifted  http://www.prenuvo.com/DYLANMULVANEY for 300 off ❤️</content>
     <link href="https://tiktok.com/@dylanmulvaney/video/7443092561092201774"/>
     <published>2024-11-30T15:20:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylanmulvaney/video/7444145717960215854</id>
+    <title>Opening night of Devil Wears Prada musical in London wearing @Stella McCartney diamonds @Stephen Webster Jewellery makeup @Ciara DeRoiste Makeup #fashion #musical </title>
+    <updated>2024-12-03T11:27:39+00:00</updated>
+    <content>Opening night of Devil Wears Prada musical in London wearing @Stella McCartney diamonds @Stephen Webster Jewellery makeup @Ciara DeRoiste Makeup #fashion #musical </content>
+    <link href="https://tiktok.com/@dylanmulvaney/video/7444145717960215854"/>
+    <published>2024-12-03T11:27:39+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7418617722923158827</id>
