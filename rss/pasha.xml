@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@pasha</id>
   <title>pasha</title>
-  <updated>2024-12-01T09:05:22+00:00</updated>
+  <updated>2024-12-03T11:16:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pasha</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pasha/video/7404443429616307477</id>
-    <title>dear London, try me. #london </title>
-    <updated>2024-08-18T11:42:14+00:00</updated>
-    <content>dear London, try me. #london </content>
-    <link href="https://tiktok.com/@pasha/video/7404443429616307477"/>
-    <published>2024-08-18T11:42:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7404804132760030485</id>
     <title>not worried about seeing my fake friends in business class </title>
@@ -291,5 +283,13 @@
     <content>your inner thoughts when feeding the cats in Istanbul. you are such a good person (the cats are not hungry and don’t care) 🤣 #comedy #türkiye </content>
     <link href="https://tiktok.com/@pasha/video/7443366949897211144"/>
     <published>2024-12-01T09:05:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pasha/video/7444142999694544135</id>
+    <title>you 🤝 setting healthy work boundaries with Scribe - a desktop app and browser extension that makes creating instruction manuals effortless #comedy #work #scribe</title>
+    <updated>2024-12-03T11:16:50+00:00</updated>
+    <content>you 🤝 setting healthy work boundaries with Scribe - a desktop app and browser extension that makes creating instruction manuals effortless #comedy #work #scribe</content>
+    <link href="https://tiktok.com/@pasha/video/7444142999694544135"/>
+    <published>2024-12-03T11:16:50+00:00</published>
   </entry>
 </feed>
