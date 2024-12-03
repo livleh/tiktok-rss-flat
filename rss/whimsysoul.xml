@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-12-02T23:54:07+00:00</updated>
+  <updated>2024-12-03T15:22:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7437760808248986923</id>
-    <title>dont be fooled stripping on cue while walking and dancing is a lot harder than it looks idk how our lord and savior @Brian Jordan Alvarez does it flawless repeatedly 🎄 🎄🎄#streamenglishteacheronhulu #brianjordanalvarez #iloveyourdaughter #christmaslists #f</title>
-    <updated>2024-11-16T06:30:43+00:00</updated>
-    <content>dont be fooled stripping on cue while walking and dancing is a lot harder than it looks idk how our lord and savior @Brian Jordan Alvarez does it flawless repeatedly 🎄 🎄🎄#streamenglishteacheronhulu #brianjordanalvarez #iloveyourdaughter #christmaslists #f</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7437760808248986923"/>
-    <published>2024-11-16T06:30:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7438034114323942702</id>
     <title>✨girlhood✨ also shoutout to Jo who secretly recorded us and air dropped that last video afterwards  @cityenvogue  #girlhood #christmas #filoligardens #christmasdecor #bayarea </title>
@@ -267,6 +259,14 @@
     <content>Bay Area - the Dickens Fair is BACK! Send this to someone you want to go with this year.  🎄🇬🇧Transport back in time to ye olde London at Christmas time. The team at @dickenfair seriously goes all out with insanely elaborate sets and shows, including live </content>
     <link href="https://tiktok.com/@whimsysoul/video/7443967062864710958"/>
     <published>2024-12-02T23:54:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7444206302613720366</id>
+    <title>Next year I call dibs in walking around in chains and creeping little kids out #dickensfair #vlog #whimsysoul #holidays #sanfrancisco #bayarea #onlyinsf </title>
+    <updated>2024-12-03T15:22:35+00:00</updated>
+    <content>Next year I call dibs in walking around in chains and creeping little kids out #dickensfair #vlog #whimsysoul #holidays #sanfrancisco #bayarea #onlyinsf </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7444206302613720366"/>
+    <published>2024-12-03T15:22:35+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>

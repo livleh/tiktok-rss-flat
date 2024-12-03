@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-12-02T18:55:36+00:00</updated>
+  <updated>2024-12-03T15:11:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7440907836516732192</id>
-    <title>lon n1 #swiftie #taylorswift #erastour </title>
-    <updated>2024-11-24T18:02:51+00:00</updated>
-    <content>lon n1 #swiftie #taylorswift #erastour </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7440907836516732192"/>
-    <published>2024-11-24T18:02:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7441296413939567905</id>
     <title>HELP???? #aifails  </title>
@@ -267,6 +259,14 @@
     <content>WHATS ON YOUR LIST ⁉️ stealing my own insta post for this 😋but 'weird kid' whimsical christmas present ideas 🫂 #christmaslist #giftguide </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7443890110887759137"/>
     <published>2024-12-02T18:55:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7444203423756455200</id>
+    <title>@Spotify wheres my spotify wrapped 🤨🤨 #spotify #spotifywrapped </title>
+    <updated>2024-12-03T15:11:32+00:00</updated>
+    <content>@Spotify wheres my spotify wrapped 🤨🤨 #spotify #spotifywrapped </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7444203423756455200"/>
+    <published>2024-12-03T15:11:32+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>

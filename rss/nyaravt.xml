@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-12-03T00:04:20+00:00</updated>
+  <updated>2024-12-03T14:47:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7437143425025133857</id>
-    <title>IT'S NIGHTCORE - not sped up version #twitch #streamer #valorant</title>
-    <updated>2024-11-14T14:34:59+00:00</updated>
-    <content>IT'S NIGHTCORE - not sped up version #twitch #streamer #valorant</content>
-    <link href="https://tiktok.com/@nyaravt/video/7437143425025133857"/>
-    <published>2024-11-14T14:34:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7437374095546780961</id>
     <title>#onthisday when christians spread love in safe spaces #twitch #trans </title>
@@ -267,6 +259,14 @@
     <content>#onthisday turtle mating sounds still haunt me #streamer #twitch #trans </content>
     <link href="https://tiktok.com/@nyaravt/video/7443969645431835926"/>
     <published>2024-12-03T00:04:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7444197192027344160</id>
+    <title>Incels are gay and in denial #lgbt #strinova #streamer</title>
+    <updated>2024-12-03T14:47:20+00:00</updated>
+    <content>Incels are gay and in denial #lgbt #strinova #streamer</content>
+    <link href="https://tiktok.com/@nyaravt/video/7444197192027344160"/>
+    <published>2024-12-03T14:47:20+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>
