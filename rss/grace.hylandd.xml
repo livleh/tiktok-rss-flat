@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-12-02T10:50:03+00:00</updated>
+  <updated>2024-12-03T04:55:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7423259463278169361</id>
-    <title>Episode one is Miu Miu 🎀 </title>
-    <updated>2024-10-08T04:38:46+00:00</updated>
-    <content>Episode one is Miu Miu 🎀 </content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7423259463278169361"/>
-    <published>2024-10-08T04:38:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7430783541396376848</id>
     <title>VANESSA 🔮🐚 #halloween </title>
@@ -243,5 +235,13 @@
     <content>Not a single F to give 😗</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7443764993675234578"/>
     <published>2024-12-02T10:50:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7444044742595251472</id>
+    <title>I’m taking a break from men maybe</title>
+    <updated>2024-12-03T04:55:38+00:00</updated>
+    <content>I’m taking a break from men maybe</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7444044742595251472"/>
+    <published>2024-12-03T04:55:38+00:00</published>
   </entry>
 </feed>
