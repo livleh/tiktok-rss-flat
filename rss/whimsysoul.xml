@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-12-02T22:19:00+00:00</updated>
+  <updated>2024-12-02T23:54:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7437604439743057195</id>
-    <title>the CUTEST California Christmas town you need to visit!!🎄😱 You know I'm in love with @visitmurphys - it's an adorable mountain town in Calaveras County that low-key feels like California's very one Stars Hollow year-round, but especially during the holida</title>
-    <updated>2024-11-15T20:23:54+00:00</updated>
-    <content>the CUTEST California Christmas town you need to visit!!🎄😱 You know I'm in love with @visitmurphys - it's an adorable mountain town in Calaveras County that low-key feels like California's very one Stars Hollow year-round, but especially during the holida</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7437604439743057195"/>
-    <published>2024-11-15T20:23:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7437760808248986923</id>
     <title>dont be fooled stripping on cue while walking and dancing is a lot harder than it looks idk how our lord and savior @Brian Jordan Alvarez does it flawless repeatedly 🎄 🎄🎄#streamenglishteacheronhulu #brianjordanalvarez #iloveyourdaughter #christmaslists #f</title>
@@ -269,6 +261,14 @@
     <published>2024-12-02T22:19:00+00:00</published>
   </entry>
   <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7443967062864710958</id>
+    <title>Bay Area - the Dickens Fair is BACK! Send this to someone you want to go with this year.  🎄🇬🇧Transport back in time to ye olde London at Christmas time. The team at @dickenfair seriously goes all out with insanely elaborate sets and shows, including live </title>
+    <updated>2024-12-02T23:54:07+00:00</updated>
+    <content>Bay Area - the Dickens Fair is BACK! Send this to someone you want to go with this year.  🎄🇬🇧Transport back in time to ye olde London at Christmas time. The team at @dickenfair seriously goes all out with insanely elaborate sets and shows, including live </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7443967062864710958"/>
+    <published>2024-12-02T23:54:07+00:00</published>
+  </entry>
+  <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
     <title>OMG we're ready for you to visit! 😱 Book a stay at the Whimsy Homes cabin - my Airbnb listing link is in my bio 🥰 @Whimsy Homes Cabin  I’ve spent all year renovating my old cabin in Arnold, California to turn it from meh to amazing and I can’t believe it’</title>
     <updated>2023-11-04T14:42:07+00:00</updated>
@@ -285,11 +285,11 @@
     <published>2023-12-31T01:58:51+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7314803596351016234</id>
-    <title>Replying to @seanlawn breaking news! Second square is off the world cruise bingo card! Shoutout to @joe for alerting us today.  What square do we think will be next? #ultimateworldcruise #worldcruise #bingo #worldcruisebingo #whimysoul #royalcaribbean #cr</title>
-    <updated>2023-12-20T22:13:55+00:00</updated>
-    <content>Replying to @seanlawn breaking news! Second square is off the world cruise bingo card! Shoutout to @joe for alerting us today.  What square do we think will be next? #ultimateworldcruise #worldcruise #bingo #worldcruisebingo #whimysoul #royalcaribbean #cr</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7314803596351016234"/>
-    <published>2023-12-20T22:13:55+00:00</published>
+    <id>https://tiktok.com/@whimsysoul/video/6981640201517010182</id>
+    <title>Gross or cool? What do you think? #bubblegumalley #bubblegum #bubblegumwall #slocal #photoshootideas #retro #sanluisobispo #photoshootposes</title>
+    <updated>2021-07-06T02:49:47+00:00</updated>
+    <content>Gross or cool? What do you think? #bubblegumalley #bubblegum #bubblegumwall #slocal #photoshootideas #retro #sanluisobispo #photoshootposes</content>
+    <link href="https://tiktok.com/@whimsysoul/video/6981640201517010182"/>
+    <published>2021-07-06T02:49:47+00:00</published>
   </entry>
 </feed>

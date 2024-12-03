@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-12-02T14:55:20+00:00</updated>
+  <updated>2024-12-03T00:04:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7436777597872262433</id>
-    <title>You're not a femboy, You're just a woman #trans #streamer #twitch</title>
-    <updated>2024-11-13T14:55:22+00:00</updated>
-    <content>You're not a femboy, You're just a woman #trans #streamer #twitch</content>
-    <link href="https://tiktok.com/@nyaravt/video/7436777597872262433"/>
-    <published>2024-11-13T14:55:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7437143425025133857</id>
     <title>IT'S NIGHTCORE - not sped up version #twitch #streamer #valorant</title>
@@ -267,6 +259,14 @@
     <content>#onthisday I banned German for a reason #streamer #twitch </content>
     <link href="https://tiktok.com/@nyaravt/video/7443828211772968214"/>
     <published>2024-12-02T14:55:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7443969645431835926</id>
+    <title>#onthisday turtle mating sounds still haunt me #streamer #twitch #trans </title>
+    <updated>2024-12-03T00:04:20+00:00</updated>
+    <content>#onthisday turtle mating sounds still haunt me #streamer #twitch #trans </content>
+    <link href="https://tiktok.com/@nyaravt/video/7443969645431835926"/>
+    <published>2024-12-03T00:04:20+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>
