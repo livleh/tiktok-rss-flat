@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-12-02T22:44:25+00:00</updated>
+  <updated>2024-12-03T15:50:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7436058476163403039</id>
-    <title>I use cricket wireless because I like not using my phone  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </title>
-    <updated>2024-11-11T16:24:58+00:00</updated>
-    <content>I use cricket wireless because I like not using my phone  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </content>
-    <link href="https://tiktok.com/@techroastshow/video/7436058476163403039"/>
-    <published>2024-11-11T16:24:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7436400261364452638</id>
     <title>❌🧼🚿 #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</title>
@@ -267,6 +259,14 @@
     <content>He promised he would stop doing this</content>
     <link href="https://tiktok.com/@techroastshow/video/7443949096626392366"/>
     <published>2024-12-02T22:44:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7444213513758919982</id>
+    <title>don’t ask Gemini to generate an image of her tho  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #google #gemini #techroastshow </title>
+    <updated>2024-12-03T15:50:34+00:00</updated>
+    <content>don’t ask Gemini to generate an image of her tho  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #google #gemini #techroastshow </content>
+    <link href="https://tiktok.com/@techroastshow/video/7444213513758919982"/>
+    <published>2024-12-03T15:50:34+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
