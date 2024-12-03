@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-12-03T14:47:20+00:00</updated>
+  <updated>2024-12-03T23:04:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7437374095546780961</id>
-    <title>#onthisday when christians spread love in safe spaces #twitch #trans </title>
-    <updated>2024-11-15T05:31:10+00:00</updated>
-    <content>#onthisday when christians spread love in safe spaces #twitch #trans </content>
-    <link href="https://tiktok.com/@nyaravt/video/7437374095546780961"/>
-    <published>2024-11-15T05:31:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7437509375851269408</id>
     <title>Why you CAN'T WIN against Transphobes #twitch #streamer #valorant</title>
@@ -267,6 +259,14 @@
     <content>Incels are gay and in denial #lgbt #strinova #streamer</content>
     <link href="https://tiktok.com/@nyaravt/video/7444197192027344160"/>
     <published>2024-12-03T14:47:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7444325426056514838</id>
+    <title>#onthisday in Germany we don’t ask for co*k #streamer #twitch </title>
+    <updated>2024-12-03T23:04:49+00:00</updated>
+    <content>#onthisday in Germany we don’t ask for co*k #streamer #twitch </content>
+    <link href="https://tiktok.com/@nyaravt/video/7444325426056514838"/>
+    <published>2024-12-03T23:04:49+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>
