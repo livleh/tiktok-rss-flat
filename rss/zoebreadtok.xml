@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-12-02T18:28:40+00:00</updated>
+  <updated>2024-12-03T18:26:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7423089195314416929</id>
-    <title>the first person to guess what song i cover next wins a free tshirt of their choosing!! </title>
-    <updated>2024-10-07T17:37:22+00:00</updated>
-    <content>the first person to guess what song i cover next wins a free tshirt of their choosing!! </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7423089195314416929"/>
-    <published>2024-10-07T17:37:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7423464045962890528</id>
     <title>I REALLY HAVE BURIED TREASURE AND THIS REALLY IS THE CLUE. i dont think i would be able to figure it out. good luck. please dont take 31 years </title>
@@ -283,6 +275,14 @@
     <content>day 2 of my strange advent calendar </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7443883143666486561"/>
     <published>2024-12-02T18:28:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7444253797670489377</id>
+    <title>seeing wicked at the cinema</title>
+    <updated>2024-12-03T18:26:57+00:00</updated>
+    <content>seeing wicked at the cinema</content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7444253797670489377"/>
+    <published>2024-12-03T18:26:57+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7391078276183215392</id>
