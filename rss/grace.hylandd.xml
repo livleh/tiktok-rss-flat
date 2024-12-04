@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-12-04T02:12:18+00:00</updated>
+  <updated>2024-12-04T07:30:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -243,5 +243,13 @@
     <content>And im just getting colour back into my face ~ So long London.</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7444373710779272464"/>
     <published>2024-12-04T02:12:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7444455573996850448</id>
+    <title>10 year old arfid me could never</title>
+    <updated>2024-12-04T07:30:01+00:00</updated>
+    <content>10 year old arfid me could never</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7444455573996850448"/>
+    <published>2024-12-04T07:30:01+00:00</published>
   </entry>
 </feed>
