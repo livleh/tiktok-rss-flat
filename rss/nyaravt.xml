@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-12-03T23:04:49+00:00</updated>
+  <updated>2024-12-04T15:13:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7437509375851269408</id>
-    <title>Why you CAN'T WIN against Transphobes #twitch #streamer #valorant</title>
-    <updated>2024-11-15T14:15:08+00:00</updated>
-    <content>Why you CAN'T WIN against Transphobes #twitch #streamer #valorant</content>
-    <link href="https://tiktok.com/@nyaravt/video/7437509375851269408"/>
-    <published>2024-11-15T14:15:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7437654974571580704</id>
     <title>#onthisday men in mobile games are unhinged #twitch #streamer</title>
@@ -267,6 +259,14 @@
     <content>#onthisday in Germany we don’t ask for co*k #streamer #twitch </content>
     <link href="https://tiktok.com/@nyaravt/video/7444325426056514838"/>
     <published>2024-12-03T23:04:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7444575071043194145</id>
+    <title>The weird savior complex of CIS people #strinova #trans</title>
+    <updated>2024-12-04T15:13:35+00:00</updated>
+    <content>The weird savior complex of CIS people #strinova #trans</content>
+    <link href="https://tiktok.com/@nyaravt/video/7444575071043194145"/>
+    <published>2024-12-04T15:13:35+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>
