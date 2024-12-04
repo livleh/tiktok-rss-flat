@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-12-03T04:55:38+00:00</updated>
+  <updated>2024-12-04T02:12:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7430783541396376848</id>
-    <title>VANESSA 🔮🐚 #halloween </title>
-    <updated>2024-10-28T11:15:26+00:00</updated>
-    <content>VANESSA 🔮🐚 #halloween </content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7430783541396376848"/>
-    <published>2024-10-28T11:15:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7431398720886820097</id>
     <title>I’ve always though Vanessa from the little mermaid was honestly the most cvnt disney villain! If I was Ursula I would’ve stayed like that forever!!!</title>
@@ -243,5 +235,13 @@
     <content>I’m taking a break from men maybe</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7444044742595251472"/>
     <published>2024-12-03T04:55:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7444373710779272464</id>
+    <title>And im just getting colour back into my face ~ So long London.</title>
+    <updated>2024-12-04T02:12:18+00:00</updated>
+    <content>And im just getting colour back into my face ~ So long London.</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7444373710779272464"/>
+    <published>2024-12-04T02:12:18+00:00</published>
   </entry>
 </feed>

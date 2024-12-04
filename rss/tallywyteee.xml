@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tallywyteee</id>
   <title>tallywyteee</title>
-  <updated>2024-12-03T18:31:36+00:00</updated>
+  <updated>2024-12-01T18:49:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tallywyteee</subtitle>
+  <entry>
+    <id>https://tiktok.com/@tallywyteee/video/7419885326941916459</id>
+    <title>#trans #transgender #transgirl #transwoman #transandproud #transisbeautiful</title>
+    <updated>2024-09-29T02:24:41+00:00</updated>
+    <content>#trans #transgender #transgirl #transwoman #transandproud #transisbeautiful</content>
+    <link href="https://tiktok.com/@tallywyteee/video/7419885326941916459"/>
+    <published>2024-09-29T02:24:41+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7420238377452047659</id>
     <title>#trans #transgender #transgirl #transwoman #transandproud #transisbeautiful</title>
@@ -267,14 +275,6 @@
     <content>Homie and i got a little sturdy… 😎👀💙</content>
     <link href="https://tiktok.com/@tallywyteee/video/7443517394779213099"/>
     <published>2024-12-01T18:49:12+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@tallywyteee/video/7444254952379141407</id>
-    <title>Maybe the world is (slowly) healing for trans girls… 😂❤️‍🩹</title>
-    <updated>2024-12-03T18:31:36+00:00</updated>
-    <content>Maybe the world is (slowly) healing for trans girls… 😂❤️‍🩹</content>
-    <link href="https://tiktok.com/@tallywyteee/video/7444254952379141407"/>
-    <published>2024-12-03T18:31:36+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7261699619762048298</id>
