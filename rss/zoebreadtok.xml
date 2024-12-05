@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-12-04T18:27:50+00:00</updated>
+  <updated>2024-12-05T18:33:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7424203874115783969</id>
-    <title>earning a brownies badge (canal)</title>
-    <updated>2024-10-10T17:42:51+00:00</updated>
-    <content>earning a brownies badge (canal)</content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7424203874115783969"/>
-    <published>2024-10-10T17:42:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7425317189063937312</id>
     <title>getting my swimming garlic  brownies badge in sale </title>
@@ -283,6 +275,14 @@
     <content>the elf that may or may not be on the shelf and also may or may not be suing me. thats not very christmassy !!!!!</content>
     <link href="https://tiktok.com/@zoebreadtok/video/7444625099451403552"/>
     <published>2024-12-04T18:27:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7444997704641547552</id>
+    <title>new cork (york) i love you but you’re bringing me down - lcd soundsystem cover !!! this is what was in day five of my advent calendar </title>
+    <updated>2024-12-05T18:33:36+00:00</updated>
+    <content>new cork (york) i love you but you’re bringing me down - lcd soundsystem cover !!! this is what was in day five of my advent calendar </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7444997704641547552"/>
+    <published>2024-12-05T18:33:36+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7391078276183215392</id>

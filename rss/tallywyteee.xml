@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tallywyteee</id>
   <title>tallywyteee</title>
-  <updated>2024-12-04T17:58:32+00:00</updated>
+  <updated>2024-12-05T17:24:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tallywyteee</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tallywyteee/video/7420238377452047659</id>
-    <title>#trans #transgender #transgirl #transwoman #transandproud #transisbeautiful</title>
-    <updated>2024-09-30T01:14:40+00:00</updated>
-    <content>#trans #transgender #transgirl #transwoman #transandproud #transisbeautiful</content>
-    <link href="https://tiktok.com/@tallywyteee/video/7420238377452047659"/>
-    <published>2024-09-30T01:14:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7421975257105370410</id>
     <title>Why did homie wanna put me on his snap story? 😂💙</title>
@@ -275,6 +267,14 @@
     <content>This year I explored and listened to a lot of new music. Discovering artists like Young Miko and Villano Antillano have been lowkey lifechanging. I’ve never seen or listened to such icons until now. I’m not afraid to say that I’ve been considering my iden</content>
     <link href="https://tiktok.com/@tallywyteee/video/7444617561766972703"/>
     <published>2024-12-04T17:58:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tallywyteee/video/7444979859727617311</id>
+    <title>She stunlocked me with the “boy” combo 😭</title>
+    <updated>2024-12-05T17:24:22+00:00</updated>
+    <content>She stunlocked me with the “boy” combo 😭</content>
+    <link href="https://tiktok.com/@tallywyteee/video/7444979859727617311"/>
+    <published>2024-12-05T17:24:22+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7261699619762048298</id>
