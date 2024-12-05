@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-12-03T15:22:35+00:00</updated>
+  <updated>2024-12-04T23:33:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7438034114323942702</id>
-    <title>✨girlhood✨ also shoutout to Jo who secretly recorded us and air dropped that last video afterwards  @cityenvogue  #girlhood #christmas #filoligardens #christmasdecor #bayarea </title>
-    <updated>2024-11-17T00:11:15+00:00</updated>
-    <content>✨girlhood✨ also shoutout to Jo who secretly recorded us and air dropped that last video afterwards  @cityenvogue  #girlhood #christmas #filoligardens #christmasdecor #bayarea </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7438034114323942702"/>
-    <published>2024-11-17T00:11:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7438048424953564462</id>
     <title>BEST Christmas lights in the Bay Area just launched!! 🎄😱  I love @_filoli year round but it gets EXTRA magical at Christmas time.  The gardens transform into a magical North Pole Christmas wonderland with tons of lights (including a light tunnel!), hangin</title>
@@ -267,6 +259,14 @@
     <content>Next year I call dibs in walking around in chains and creeping little kids out #dickensfair #vlog #whimsysoul #holidays #sanfrancisco #bayarea #onlyinsf </content>
     <link href="https://tiktok.com/@whimsysoul/video/7444206302613720366"/>
     <published>2024-12-03T15:22:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7444703941603953962</id>
+    <title>im nosy and hate being excluded 👀 tell me im not the only one #sanfrancisco #nosyneighbor #drama </title>
+    <updated>2024-12-04T23:33:36+00:00</updated>
+    <content>im nosy and hate being excluded 👀 tell me im not the only one #sanfrancisco #nosyneighbor #drama </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7444703941603953962"/>
+    <published>2024-12-04T23:33:36+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-12-03T23:24:55+00:00</updated>
+  <updated>2024-12-04T23:41:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7430951876436299039</id>
-    <title>I can’t believe he woke up so early! </title>
-    <updated>2024-10-28T22:08:48+00:00</updated>
-    <content>I can’t believe he woke up so early! </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7430951876436299039"/>
-    <published>2024-10-28T22:08:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7431310580402752799</id>
     <title>Lesbians In The Front Row Of My Show </title>
@@ -283,6 +275,14 @@
     <content>I’m old school ✊ #lesbiansoftiktok #fyp </content>
     <link href="https://tiktok.com/@jessicakirson/video/7443961184052710698"/>
     <published>2024-12-02T23:31:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7444706055776587054</id>
+    <title>Would you buy from me?  #sales #fyp </title>
+    <updated>2024-12-04T23:41:47+00:00</updated>
+    <content>Would you buy from me?  #sales #fyp </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7444706055776587054"/>
+    <published>2024-12-04T23:41:47+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7444330623767940394</id>
