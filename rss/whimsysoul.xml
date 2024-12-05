@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-12-05T02:50:14+00:00</updated>
+  <updated>2024-12-05T20:29:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7438434298220481838</id>
-    <title>San Francisco was good to me this week #sanfrancisco #oceanbeach #bayarea #whimsysoul #dayinmylife #guthealth #hpylori #andytown #filoli #onlyinsf </title>
-    <updated>2024-11-18T02:04:10+00:00</updated>
-    <content>San Francisco was good to me this week #sanfrancisco #oceanbeach #bayarea #whimsysoul #dayinmylife #guthealth #hpylori #andytown #filoli #onlyinsf </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7438434298220481838"/>
-    <published>2024-11-18T02:04:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7438728689061252395</id>
     <title>Morning stroll on Ocean Beach with a Snowy Plover in hand is pure bliss ⭐️🌊 ☕️ ✨ especially on crisp autumn mornings!  Took my new @POPFLEX Active set for a test drive. Love how comfy it is and the leggings even have pockets!!!! ❤️ Linked my whole outfit </title>
@@ -267,6 +259,14 @@
     <content>best San Jose, CA holiday pop-up bars ⬇️ 🎄 this is your sign to go on a Christmas pop-up bar crawl in Downtown San Jose!! Went last week with the girls and had so much fun. 🎄Stop 1: Paper Planes, a Miracle pop-up bar. LOVED their unicorn cocktail and frie</content>
     <link href="https://tiktok.com/@whimsysoul/video/7444754619026427182"/>
     <published>2024-12-05T02:50:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7445027581541272875</id>
+    <title>Yes that's a massive hole in the wall, too 🤡 #sanfrancisco #renter #rentershack #apartment #landlord #lol #sanfranciscoapartment #sanfranciscolife #bayarea #whimsysoul </title>
+    <updated>2024-12-05T20:29:28+00:00</updated>
+    <content>Yes that's a massive hole in the wall, too 🤡 #sanfrancisco #renter #rentershack #apartment #landlord #lol #sanfranciscoapartment #sanfranciscolife #bayarea #whimsysoul </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7445027581541272875"/>
+    <published>2024-12-05T20:29:28+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7297617228432756010</id>
