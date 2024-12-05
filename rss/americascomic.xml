@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@americascomic</id>
   <title>americascomic</title>
-  <updated>2024-12-03T15:46:41+00:00</updated>
+  <updated>2024-12-05T16:10:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from americascomic</subtitle>
-  <entry>
-    <id>https://tiktok.com/@americascomic/video/7338457608816233774</id>
-    <title>my @npr tiny desk audition! I'm so excited for this chance to shine! #nprtinydeskconcert #nprtinydeskcontest #nprtinydesk #npr #amberiscuteandfunny </title>
-    <updated>2024-02-22T16:03:45+00:00</updated>
-    <content>my @npr tiny desk audition! I'm so excited for this chance to shine! #nprtinydeskconcert #nprtinydeskcontest #nprtinydesk #npr #amberiscuteandfunny </content>
-    <link href="https://tiktok.com/@americascomic/video/7338457608816233774"/>
-    <published>2024-02-22T16:03:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@americascomic/video/7340378218706357547</id>
     <title>#abolition #nexbenedict #protecttranskids #transfemme #transliberation </title>
@@ -179,6 +171,14 @@
     <content>election is over; should you had voted? #leftism #communityorganizing #leftisttiktok #voting #amberiscuteandfunny </content>
     <link href="https://tiktok.com/@americascomic/video/7444212434807639326"/>
     <published>2024-12-03T15:46:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@americascomic/video/7444960735215553823</id>
+    <title>transitioning into a woman is hard  #trans #transfemme ansfemme #transcommunity #amberiscuteandfunny </title>
+    <updated>2024-12-05T16:10:13+00:00</updated>
+    <content>transitioning into a woman is hard  #trans #transfemme ansfemme #transcommunity #amberiscuteandfunny </content>
+    <link href="https://tiktok.com/@americascomic/video/7444960735215553823"/>
+    <published>2024-12-05T16:10:13+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@americascomic/video/7231569804690328878</id>
