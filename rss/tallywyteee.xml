@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tallywyteee</id>
   <title>tallywyteee</title>
-  <updated>2024-12-05T17:24:22+00:00</updated>
+  <updated>2024-12-06T17:53:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tallywyteee</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tallywyteee/video/7421975257105370410</id>
-    <title>Why did homie wanna put me on his snap story? 😂💙</title>
-    <updated>2024-10-04T17:34:43+00:00</updated>
-    <content>Why did homie wanna put me on his snap story? 😂💙</content>
-    <link href="https://tiktok.com/@tallywyteee/video/7421975257105370410"/>
-    <published>2024-10-04T17:34:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7422299386710920491</id>
     <title>Why was homie was homie trippin over my rap skills - were my bars really that trash? 😂‼️👀</title>
@@ -275,6 +267,14 @@
     <content>She stunlocked me with the “boy” combo 😭</content>
     <link href="https://tiktok.com/@tallywyteee/video/7444979859727617311"/>
     <published>2024-12-05T17:24:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tallywyteee/video/7445358368379686174</id>
+    <title>I taught homie the truth about trans girls…with scoence 😏🧬</title>
+    <updated>2024-12-06T17:53:21+00:00</updated>
+    <content>I taught homie the truth about trans girls…with scoence 😏🧬</content>
+    <link href="https://tiktok.com/@tallywyteee/video/7445358368379686174"/>
+    <published>2024-12-06T17:53:21+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7261699619762048298</id>
