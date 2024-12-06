@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-12-04T23:41:47+00:00</updated>
+  <updated>2024-12-05T23:50:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7431310580402752799</id>
-    <title>Lesbians In The Front Row Of My Show </title>
-    <updated>2024-10-29T21:20:46+00:00</updated>
-    <content>Lesbians In The Front Row Of My Show </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7431310580402752799"/>
-    <published>2024-10-29T21:20:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7431566341846387999</id>
     <title>Hiii I have added new cities to The Never Ending Tour! Presale starts tomorrow with code SILLY. Tix are on my site xoxo. #sanfrancisco #montclairnj #losangeles #sandiego #portland </title>
@@ -283,6 +275,14 @@
     <content>Would you buy from me?  #sales #fyp </content>
     <link href="https://tiktok.com/@jessicakirson/video/7444706055776587054"/>
     <published>2024-12-04T23:41:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7445079416318872878</id>
+    <title>She had a perfect life</title>
+    <updated>2024-12-05T23:50:36+00:00</updated>
+    <content>She had a perfect life</content>
+    <link href="https://tiktok.com/@jessicakirson/video/7445079416318872878"/>
+    <published>2024-12-05T23:50:36+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7444330623767940394</id>
