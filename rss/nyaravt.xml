@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-12-06T14:05:45+00:00</updated>
+  <updated>2024-12-06T14:36:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7438715149558484256</id>
-    <title>#onthisday when first time chatters call you out #streamer </title>
-    <updated>2024-11-18T20:14:03+00:00</updated>
-    <content>#onthisday when first time chatters call you out #streamer </content>
-    <link href="https://tiktok.com/@nyaravt/video/7438715149558484256"/>
-    <published>2024-11-18T20:14:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7438988812061101345</id>
     <title>THE PERFECT PANCAKE - Nyara Style #cooking #tutorial #streamer</title>
@@ -267,6 +259,14 @@
     <content>Make room for people who support you #trans #lgbtq #twitch</content>
     <link href="https://tiktok.com/@nyaravt/video/7445299765937507617"/>
     <published>2024-12-06T14:05:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7445307765230243104</id>
+    <title>What male privilege actually means and why it's ALL MEN #streamer #twitch #lgbtq</title>
+    <updated>2024-12-06T14:36:49+00:00</updated>
+    <content>What male privilege actually means and why it's ALL MEN #streamer #twitch #lgbtq</content>
+    <link href="https://tiktok.com/@nyaravt/video/7445307765230243104"/>
+    <published>2024-12-06T14:36:49+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>

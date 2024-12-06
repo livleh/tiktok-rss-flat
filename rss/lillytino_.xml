@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lillytino_</id>
   <title>lillytino_</title>
-  <updated>2024-12-02T16:21:25+00:00</updated>
+  <updated>2024-12-06T15:18:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from lillytino_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@lillytino_/video/7398266736900017454</id>
-    <title>Ms. Lilly teaches pronouns! 🏳️‍⚧️</title>
-    <updated>2024-08-01T20:13:40+00:00</updated>
-    <content>Ms. Lilly teaches pronouns! 🏳️‍⚧️</content>
-    <link href="https://tiktok.com/@lillytino_/video/7398266736900017454"/>
-    <published>2024-08-01T20:13:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@lillytino_/video/7402051538056645930</id>
     <title>@Colleen 🌸 </title>
@@ -179,5 +171,13 @@
     <content>Watch out 😉</content>
     <link href="https://tiktok.com/@lillytino_/video/7443850381291015470"/>
     <published>2024-12-02T16:21:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lillytino_/video/7445318405101653294</id>
+    <title>Did you get them all right? 🤔</title>
+    <updated>2024-12-06T15:18:03+00:00</updated>
+    <content>Did you get them all right? 🤔</content>
+    <link href="https://tiktok.com/@lillytino_/video/7445318405101653294"/>
+    <published>2024-12-06T15:18:03+00:00</published>
   </entry>
 </feed>
