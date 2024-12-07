@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@runetsout</id>
   <title>runetsout</title>
-  <updated>2024-12-05T20:00:50+00:00</updated>
+  <updated>2024-12-07T21:53:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from runetsout</subtitle>
-  <entry>
-    <id>https://tiktok.com/@runetsout/video/7323290809770495265</id>
-    <title>Is it cheaper than 10 10-minute Uber ride in your country? #uber #uberboat #immigrantstories #londonlife </title>
-    <updated>2024-01-12T19:08:39+00:00</updated>
-    <content>Is it cheaper than 10 10-minute Uber ride in your country? #uber #uberboat #immigrantstories #londonlife </content>
-    <link href="https://tiktok.com/@runetsout/video/7323290809770495265"/>
-    <published>2024-01-12T19:08:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@runetsout/video/7325531363455634720</id>
     <title>Don’t come to the UK, they will rip you off 😂 #uk #london #businessideas </title>
@@ -267,6 +259,14 @@
     <content>Would you pay that mich for safety? #zurich #switzerland #swisslab </content>
     <link href="https://tiktok.com/@runetsout/video/7445020208634334486"/>
     <published>2024-12-05T20:00:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@runetsout/video/7445791498483928342</id>
+    <title>Swiss Christmas vibe is unbeatable 🇨🇭 #switzerland #swisslife #swissalps #christmastiktok </title>
+    <updated>2024-12-07T21:53:51+00:00</updated>
+    <content>Swiss Christmas vibe is unbeatable 🇨🇭 #switzerland #swisslife #swissalps #christmastiktok </content>
+    <link href="https://tiktok.com/@runetsout/video/7445791498483928342"/>
+    <published>2024-12-07T21:53:51+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@runetsout/video/7174788628042779910</id>
