@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@dylanmulvaney</id>
   <title>dylanmulvaney</title>
-  <updated>2024-12-03T11:27:39+00:00</updated>
+  <updated>2024-12-07T01:07:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylanmulvaney</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylanmulvaney/video/7405196883938905386</id>
-    <title>Happy scale? 78 out of 10. One week left of shows!!</title>
-    <updated>2024-08-20T12:26:14+00:00</updated>
-    <content>Happy scale? 78 out of 10. One week left of shows!!</content>
-    <link href="https://tiktok.com/@dylanmulvaney/video/7405196883938905386"/>
-    <published>2024-08-20T12:26:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7406371293903211819</id>
     <title>🦅🇺🇸🦅🇺🇸🦅</title>
@@ -283,6 +275,14 @@
     <content>Opening night of Devil Wears Prada musical in London wearing @Stella McCartney diamonds @Stephen Webster Jewellery makeup @Ciara DeRoiste Makeup #fashion #musical </content>
     <link href="https://tiktok.com/@dylanmulvaney/video/7444145717960215854"/>
     <published>2024-12-03T11:27:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylanmulvaney/video/7445470413427215662</id>
+    <title>No Title</title>
+    <updated>2024-12-07T01:07:53+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@dylanmulvaney/video/7445470413427215662"/>
+    <published>2024-12-07T01:07:53+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7418617722923158827</id>

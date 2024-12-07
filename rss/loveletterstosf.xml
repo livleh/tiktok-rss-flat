@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2024-12-06T19:22:08+00:00</updated>
+  <updated>2024-12-07T00:07:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from loveletterstosf</subtitle>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7414137227522886954</id>
-    <title>loved last night’s #transamericapyramid #lightshow #sf #skysline #sfnight #sflights #sfdowntown #transamericabuilding #shotondrone </title>
-    <updated>2024-09-13T14:39:08+00:00</updated>
-    <content>loved last night’s #transamericapyramid #lightshow #sf #skysline #sfnight #sflights #sfdowntown #transamericabuilding #shotondrone </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7414137227522886954"/>
-    <published>2024-09-13T14:39:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7414145389051383082</id>
     <title>lots to do in #sf this weekend! I’m personally excited flower piano is back 🌸 #thisweekendinsf #sfevents #thingstodoinsf #nightmarket #sfdowntown #haightashbury #chinatown </title>
@@ -275,6 +267,14 @@
     <content>upcoming #sfevents #sfholiday #sf #sfneighborhood #sfdowntown #northbeach #hayesvalley #dogpatch #cowhollow #unionst #innersunset #japantown </content>
     <link href="https://tiktok.com/@loveletterstosf/video/7445381302733360426"/>
     <published>2024-12-06T19:22:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7445454795969793323</id>
+    <title>I still think about this sunset and how I ran to a rooftop near me when I saw the colors 💜 #sf #sfsunset #randomwednesday #sunset #fog #ggbridge #sfbayarea #sfviews </title>
+    <updated>2024-12-07T00:07:18+00:00</updated>
+    <content>I still think about this sunset and how I ran to a rooftop near me when I saw the colors 💜 #sf #sfsunset #randomwednesday #sunset #fog #ggbridge #sfbayarea #sfviews </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7445454795969793323"/>
+    <published>2024-12-07T00:07:18+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7408048912394620206</id>

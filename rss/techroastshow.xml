@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-12-06T18:18:10+00:00</updated>
+  <updated>2024-12-07T01:57:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7437553977341857054</id>
-    <title>now I ain’t sayin she a gold digger  #techie #softwareengineer #nyc #newyork #programmerlife #roastbattle #darkhumor #techroastshow</title>
-    <updated>2024-11-15T17:08:27+00:00</updated>
-    <content>now I ain’t sayin she a gold digger  #techie #softwareengineer #nyc #newyork #programmerlife #roastbattle #darkhumor #techroastshow</content>
-    <link href="https://tiktok.com/@techroastshow/video/7437553977341857054"/>
-    <published>2024-11-15T17:08:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7437686878628760862</id>
     <title>he’s wise beyond his dollars  #techie #softwareengineer #CEO #twitter #X #programmerlife #techroastshow </title>
@@ -267,6 +259,14 @@
     <content>we found her love ❤️ #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </content>
     <link href="https://tiktok.com/@techroastshow/video/7445364823736454446"/>
     <published>2024-12-06T18:18:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7445483162601475374</id>
+    <title>The shareholders are counting on him #techbro #techie #softwareengineer #siliconvalley #seattle #sanfrancisco #bayarea #engineeringlife #comedy</title>
+    <updated>2024-12-07T01:57:20+00:00</updated>
+    <content>The shareholders are counting on him #techbro #techie #softwareengineer #siliconvalley #seattle #sanfrancisco #bayarea #engineeringlife #comedy</content>
+    <link href="https://tiktok.com/@techroastshow/video/7445483162601475374"/>
+    <published>2024-12-07T01:57:20+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
