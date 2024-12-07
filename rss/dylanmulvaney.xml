@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@dylanmulvaney</id>
   <title>dylanmulvaney</title>
-  <updated>2024-12-07T01:07:53+00:00</updated>
+  <updated>2024-12-07T19:13:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylanmulvaney</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylanmulvaney/video/7406371293903211819</id>
-    <title>🦅🇺🇸🦅🇺🇸🦅</title>
-    <updated>2024-08-23T16:23:24+00:00</updated>
-    <content>🦅🇺🇸🦅🇺🇸🦅</content>
-    <link href="https://tiktok.com/@dylanmulvaney/video/7406371293903211819"/>
-    <published>2024-08-23T16:23:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7411713817446468907</id>
     <title>Model misbehavior with  @maitreyi for @Rachel Antonoff @🌸Susan Alexandra🎀 NYFW </title>
@@ -283,6 +275,14 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@dylanmulvaney/video/7445470413427215662"/>
     <published>2024-12-07T01:07:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylanmulvaney/video/7445750072295345454</id>
+    <title>DAY 1000 OF GIRLHOOD!!!! </title>
+    <updated>2024-12-07T19:13:06+00:00</updated>
+    <content>DAY 1000 OF GIRLHOOD!!!! </content>
+    <link href="https://tiktok.com/@dylanmulvaney/video/7445750072295345454"/>
+    <published>2024-12-07T19:13:06+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7418617722923158827</id>
