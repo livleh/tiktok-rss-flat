@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-12-07T15:44:58+00:00</updated>
+  <updated>2024-12-08T14:08:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7439176222384459040</id>
-    <title>#onthisday youtube sponsorships are awful #airup </title>
-    <updated>2024-11-20T02:03:25+00:00</updated>
-    <content>#onthisday youtube sponsorships are awful #airup </content>
-    <link href="https://tiktok.com/@nyaravt/video/7439176222384459040"/>
-    <published>2024-11-20T02:03:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7439355826885774625</id>
     <title>trying to pass as straight guys in valorant #valorant #twitch #lgbt #transfem #streamer #masculinity</title>
@@ -267,6 +259,14 @@
     <content>When you accidentally fluster a femboy @scaryberryvt #transfem #streamer #twitch</content>
     <link href="https://tiktok.com/@nyaravt/video/7445696435368070432"/>
     <published>2024-12-07T15:44:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7446042733480840480</id>
+    <title>When you fold each other like paper @scaryberryvt #streamer #strinova</title>
+    <updated>2024-12-08T14:08:52+00:00</updated>
+    <content>When you fold each other like paper @scaryberryvt #streamer #strinova</content>
+    <link href="https://tiktok.com/@nyaravt/video/7446042733480840480"/>
+    <published>2024-12-08T14:08:52+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>
