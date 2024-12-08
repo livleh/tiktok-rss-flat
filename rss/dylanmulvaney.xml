@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@dylanmulvaney</id>
   <title>dylanmulvaney</title>
-  <updated>2024-12-07T19:13:06+00:00</updated>
+  <updated>2024-12-08T01:51:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylanmulvaney</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylanmulvaney/video/7411713817446468907</id>
-    <title>Model misbehavior with  @maitreyi for @Rachel Antonoff @🌸Susan Alexandra🎀 NYFW </title>
-    <updated>2024-09-07T01:55:03+00:00</updated>
-    <content>Model misbehavior with  @maitreyi for @Rachel Antonoff @🌸Susan Alexandra🎀 NYFW </content>
-    <link href="https://tiktok.com/@dylanmulvaney/video/7411713817446468907"/>
-    <published>2024-09-07T01:55:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7412749273336515882</id>
     <title>Trigger warning: @JoJo Siwa and I met and it was just as chaotic as you would have imagined. @christiancowan </title>
@@ -283,6 +275,14 @@
     <content>DAY 1000 OF GIRLHOOD!!!! </content>
     <link href="https://tiktok.com/@dylanmulvaney/video/7445750072295345454"/>
     <published>2024-12-07T19:13:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylanmulvaney/video/7445852639142677791</id>
+    <title>Jaccuzzi boat and percy pigs to celebrate #london #girlhood </title>
+    <updated>2024-12-08T01:51:14+00:00</updated>
+    <content>Jaccuzzi boat and percy pigs to celebrate #london #girlhood </content>
+    <link href="https://tiktok.com/@dylanmulvaney/video/7445852639142677791"/>
+    <published>2024-12-08T01:51:14+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7418617722923158827</id>
