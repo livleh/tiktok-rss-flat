@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ramalauw</id>
   <title>ramalauw</title>
-  <updated>2024-12-02T13:33:53+00:00</updated>
+  <updated>2024-12-08T15:56:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ramalauw</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ramalauw/video/7399692232518929696</id>
-    <title>I bet everyone thinks I’m a local 🥺🤭☺️💃✨ #BetterThanEveryone #BTEFace #maincharacter #delulu #travel #traveling #traveltok #fyp #foryou</title>
-    <updated>2024-08-05T16:25:12+00:00</updated>
-    <content>I bet everyone thinks I’m a local 🥺🤭☺️💃✨ #BetterThanEveryone #BTEFace #maincharacter #delulu #travel #traveling #traveltok #fyp #foryou</content>
-    <link href="https://tiktok.com/@ramalauw/video/7399692232518929696"/>
-    <published>2024-08-05T16:25:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7400401174463057185</id>
     <title>I’m convinced the only reason anyone would do a ✨master’s degree✨ is to delay adult responsibilities 😤😮‍💨🫠🤡💃✨ #Free99 #mastersdegree #school #studentlife #fyp #foryou</title>
@@ -267,6 +259,14 @@
     <content>Istg I’m a completely different (worse) person at home idk why haha 😭🤡</content>
     <link href="https://tiktok.com/@ramalauw/video/7443807232824708374"/>
     <published>2024-12-02T13:33:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ramalauw/video/7446070479460240663</id>
+    <title>Is this too much to ask? 🥲</title>
+    <updated>2024-12-08T15:56:26+00:00</updated>
+    <content>Is this too much to ask? 🥲</content>
+    <link href="https://tiktok.com/@ramalauw/video/7446070479460240663"/>
+    <published>2024-12-08T15:56:26+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7270903343638187297</id>
