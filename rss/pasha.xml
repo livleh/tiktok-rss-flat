@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@pasha</id>
   <title>pasha</title>
-  <updated>2024-12-05T17:45:41+00:00</updated>
+  <updated>2024-12-09T11:05:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pasha</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pasha/video/7407033253317643527</id>
-    <title>what visiting Germany can do to you 😅 #german #germany #deutschland #lifeingermany</title>
-    <updated>2024-08-25T11:12:05+00:00</updated>
-    <content>what visiting Germany can do to you 😅 #german #germany #deutschland #lifeingermany</content>
-    <link href="https://tiktok.com/@pasha/video/7407033253317643527"/>
-    <published>2024-08-25T11:12:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7408136603039796481</id>
     <title>cover letter and resume writing is my forte ❤️ #recruiter #linkedin #jobs #comedy</title>
@@ -291,5 +283,13 @@
     <content>you deserve this special main character moment ❤️ and wow it’s that time of the year again… #comedy #spotifywrapped </content>
     <link href="https://tiktok.com/@pasha/video/7444985376881659143"/>
     <published>2024-12-05T17:45:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pasha/video/7446366521145822472</id>
+    <title>the tone of our voice is the best way to know if we are excited about something and how we feel  #easterneuropean #slavic #easterneuropeancomedy </title>
+    <updated>2024-12-09T11:05:13+00:00</updated>
+    <content>the tone of our voice is the best way to know if we are excited about something and how we feel  #easterneuropean #slavic #easterneuropeancomedy </content>
+    <link href="https://tiktok.com/@pasha/video/7446366521145822472"/>
+    <published>2024-12-09T11:05:13+00:00</published>
   </entry>
 </feed>
