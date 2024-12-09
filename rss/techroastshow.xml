@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-12-08T15:15:05+00:00</updated>
+  <updated>2024-12-08T23:09:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7438283072799378719</id>
-    <title>send them via Polaroid in a letter  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</title>
-    <updated>2024-11-17T16:17:36+00:00</updated>
-    <content>send them via Polaroid in a letter  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</content>
-    <link href="https://tiktok.com/@techroastshow/video/7438283072799378719"/>
-    <published>2024-11-17T16:17:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7438389674210594079</id>
     <title>he has a lot of emails to send  #techie #softwareengineer #siliconvalley #PM #programmerlife #roastbattle #darkhumor #techroastshow</title>
@@ -267,6 +259,14 @@
     <content>cirque du tech roast show  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </content>
     <link href="https://tiktok.com/@techroastshow/video/7446059810258160938"/>
     <published>2024-12-08T15:15:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7446181965180472619</id>
+    <title>this guy augmented himself to be worse  #techie #softwareengineer #nyc #meta #programmerlife #rayban #techroastshow</title>
+    <updated>2024-12-08T23:09:04+00:00</updated>
+    <content>this guy augmented himself to be worse  #techie #softwareengineer #nyc #meta #programmerlife #rayban #techroastshow</content>
+    <link href="https://tiktok.com/@techroastshow/video/7446181965180472619"/>
+    <published>2024-12-08T23:09:04+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>

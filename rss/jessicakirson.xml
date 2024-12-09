@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-12-07T13:49:15+00:00</updated>
+  <updated>2024-12-08T23:21:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7432662936289676574</id>
-    <title>Complicated Gay Relationship </title>
-    <updated>2024-11-02T12:49:01+00:00</updated>
-    <content>Complicated Gay Relationship </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7432662936289676574"/>
-    <published>2024-11-02T12:49:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7433173721709366558</id>
     <title>Roommates Turned Lovers </title>
@@ -283,6 +275,14 @@
     <content>So reserved he wont go to fire island </content>
     <link href="https://tiktok.com/@jessicakirson/video/7445666592349818155"/>
     <published>2024-12-07T13:49:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7446185092604693806</id>
+    <title>Pierre From Paris  #paris #france </title>
+    <updated>2024-12-08T23:21:11+00:00</updated>
+    <content>Pierre From Paris  #paris #france </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7446185092604693806"/>
+    <published>2024-12-08T23:21:11+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7444330623767940394</id>
