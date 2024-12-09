@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-12-08T19:16:41+00:00</updated>
+  <updated>2024-12-09T15:19:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7444203423756455200</id>
-    <title>@Spotify wheres my spotify wrapped 🤨🤨 #spotify #spotifywrapped </title>
-    <updated>2024-12-03T15:11:32+00:00</updated>
-    <content>@Spotify wheres my spotify wrapped 🤨🤨 #spotify #spotifywrapped </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7444203423756455200"/>
-    <published>2024-12-03T15:11:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7444216801979911457</id>
-    <title>i wanted to seem straight do bad 😭 #lesbian #wlw #nmlnm #lgbt #lgbtq </title>
-    <updated>2024-12-03T16:03:25+00:00</updated>
-    <content>i wanted to seem straight do bad 😭 #lesbian #wlw #nmlnm #lgbt #lgbtq </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7444216801979911457"/>
-    <published>2024-12-03T16:03:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7444242679568813344</id>
     <title>5 things i wish i knew before coming out! #lesbian #wlw #nmlnm #lgbt #lgbtq #comingout </title>
@@ -267,6 +251,22 @@
     <content>I LOVE HAVING PINK HAIR TBH #pinkhair #dyedhair #hairdye </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7446122057705803041"/>
     <published>2024-12-08T19:16:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7446431088127282464</id>
+    <title>Replying to @Vicky Vicious more unique/ non basic etc christmas list / gift ideas! #christmaslist #xmaslist #giftinspo </title>
+    <updated>2024-12-09T15:15:53+00:00</updated>
+    <content>Replying to @Vicky Vicious more unique/ non basic etc christmas list / gift ideas! #christmaslist #xmaslist #giftinspo </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7446431088127282464"/>
+    <published>2024-12-09T15:15:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7446432073532853536</id>
+    <title>like do they not know what lesbian means 😭 #wlw #lesbian #lgbt #lgbtq </title>
+    <updated>2024-12-09T15:19:40+00:00</updated>
+    <content>like do they not know what lesbian means 😭 #wlw #lesbian #lgbt #lgbtq </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7446432073532853536"/>
+    <published>2024-12-09T15:19:40+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
