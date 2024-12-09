@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-12-05T18:33:36+00:00</updated>
+  <updated>2024-12-09T18:48:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7425317189063937312</id>
-    <title>getting my swimming garlic  brownies badge in sale </title>
-    <updated>2024-10-13T17:43:08+00:00</updated>
-    <content>getting my swimming garlic  brownies badge in sale </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7425317189063937312"/>
-    <published>2024-10-13T17:43:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7425755499037084960</id>
     <title>this is the only version of this video that exists. if you saw a different one.. no you didnt </title>
@@ -283,6 +275,14 @@
     <content>new cork (york) i love you but you’re bringing me down - lcd soundsystem cover !!! this is what was in day five of my advent calendar.  song will be out tomorrow on streaming things!! and i would like to thank @Olly Vert for guitar! @jackloz_bass for pian</content>
     <link href="https://tiktok.com/@zoebreadtok/video/7444997704641547552"/>
     <published>2024-12-05T18:33:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7446485980023901473</id>
+    <title>NO MORE ELVES IN THE ADVENT CALENDAR PLEASE 😡</title>
+    <updated>2024-12-09T18:48:51+00:00</updated>
+    <content>NO MORE ELVES IN THE ADVENT CALENDAR PLEASE 😡</content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7446485980023901473"/>
+    <published>2024-12-09T18:48:51+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7391078276183215392</id>
