@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@melshoshahi</id>
   <title>melshoshahi</title>
-  <updated>2024-12-07T19:27:32+00:00</updated>
+  <updated>2024-12-09T17:07:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from melshoshahi</subtitle>
-  <entry>
-    <id>https://tiktok.com/@melshoshahi/video/7417165157228350750</id>
-    <title>Chicago tour guide here, you nio 💅🏽 #tourguide #chicago #humor #standup #richman #luxury #yacht #boat </title>
-    <updated>2024-09-21T18:29:08+00:00</updated>
-    <content>Chicago tour guide here, you nio 💅🏽 #tourguide #chicago #humor #standup #richman #luxury #yacht #boat </content>
-    <link href="https://tiktok.com/@melshoshahi/video/7417165157228350750"/>
-    <published>2024-09-21T18:29:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@melshoshahi/video/7418310519553002783</id>
     <title>Checking in at the hotel be like…💅🏽 #frontdesk #hotel #reception #tiktokskit #sketchcomedy </title>
@@ -267,6 +259,14 @@
     <content>Best custom hair servicing during the holidays 😅💅🏽 #tiktokskit #holidayshopping #customerservice #retail #sketchcomedy </content>
     <link href="https://tiktok.com/@melshoshahi/video/7445753787500940590"/>
     <published>2024-12-07T19:27:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@melshoshahi/video/7446459740328348974</id>
+    <title>Gift cards on @Venmo a great holiday gift, make sure to send me one! #venmopartner #venmo </title>
+    <updated>2024-12-09T17:07:03+00:00</updated>
+    <content>Gift cards on @Venmo a great holiday gift, make sure to send me one! #venmopartner #venmo </content>
+    <link href="https://tiktok.com/@melshoshahi/video/7446459740328348974"/>
+    <published>2024-12-09T17:07:03+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@melshoshahi/video/7282846082986462507</id>
