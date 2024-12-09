@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jade..harmony</id>
   <title>jade..harmony</title>
-  <updated>2024-12-09T04:15:53+00:00</updated>
+  <updated>2024-12-09T17:57:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jade..harmony</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jade..harmony/video/7417262667485826334</id>
-    <title>#foryoupage </title>
-    <updated>2024-09-22T00:47:32+00:00</updated>
-    <content>#foryoupage </content>
-    <link href="https://tiktok.com/@jade..harmony/video/7417262667485826334"/>
-    <published>2024-09-22T00:47:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jade..harmony/video/7420912639573888286</id>
     <title>#foryoupage </title>
@@ -267,6 +259,14 @@
     <content>Thats all #fyp #foryoupage #postivity #no #drama #viral </content>
     <link href="https://tiktok.com/@jade..harmony/video/7446261032713997610"/>
     <published>2024-12-09T04:15:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jade..harmony/video/7446472864955518250</id>
+    <title>#fyp #foryoupage #postivity #drag #queer #nightlife #kalamazoo </title>
+    <updated>2024-12-09T17:57:59+00:00</updated>
+    <content>#fyp #foryoupage #postivity #drag #queer #nightlife #kalamazoo </content>
+    <link href="https://tiktok.com/@jade..harmony/video/7446472864955518250"/>
+    <published>2024-12-09T17:57:59+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jade..harmony/video/7398275947750804766</id>
