@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-12-05T22:46:37+00:00</updated>
+  <updated>2024-12-09T21:10:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7422947585075285281</id>
-    <title>🤷‍♀️ #fdp </title>
-    <updated>2024-10-07T08:28:00+00:00</updated>
-    <content>🤷‍♀️ #fdp </content>
-    <link href="https://tiktok.com/@tandarok/video/7422947585075285281"/>
-    <published>2024-10-07T08:28:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7423526756075703585</id>
     <title>Du musst dir Liebe nicht erst verdienen  #dating #liebe </title>
@@ -267,6 +259,14 @@
     <content>#stitch with @Peter Hans 🤔🤔🤔</content>
     <link href="https://tiktok.com/@tandarok/video/7445062910398729494"/>
     <published>2024-12-05T22:46:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7446347241264139552</id>
+    <title>Frauenhass vs. Männerhass</title>
+    <updated>2024-12-09T21:10:00+00:00</updated>
+    <content>Frauenhass vs. Männerhass</content>
+    <link href="https://tiktok.com/@tandarok/video/7446347241264139552"/>
+    <published>2024-12-09T21:10:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
