@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-12-08T23:21:11+00:00</updated>
+  <updated>2024-12-10T00:20:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7433173721709366558</id>
-    <title>Roommates Turned Lovers </title>
-    <updated>2024-11-03T21:50:36+00:00</updated>
-    <content>Roommates Turned Lovers </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7433173721709366558"/>
-    <published>2024-11-03T21:50:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7433504278540586271</id>
     <title>I will be at the Parx Casino this January! Tickets are on sale soon! Waitlist is on my site xo </title>
@@ -283,6 +275,14 @@
     <content>Pierre From Paris  #paris #france </content>
     <link href="https://tiktok.com/@jessicakirson/video/7446185092604693806"/>
     <published>2024-12-08T23:21:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7446571544169434399</id>
+    <title>I pulled something in the back of my neck </title>
+    <updated>2024-12-10T00:20:59+00:00</updated>
+    <content>I pulled something in the back of my neck </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7446571544169434399"/>
+    <published>2024-12-10T00:20:59+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7444330623767940394</id>
