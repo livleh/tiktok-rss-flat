@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-12-09T18:48:51+00:00</updated>
+  <updated>2024-12-11T18:40:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7425755499037084960</id>
-    <title>this is the only version of this video that exists. if you saw a different one.. no you didnt </title>
-    <updated>2024-10-14T22:04:02+00:00</updated>
-    <content>this is the only version of this video that exists. if you saw a different one.. no you didnt </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7425755499037084960"/>
-    <published>2024-10-14T22:04:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7426056013989645600</id>
     <title>its a beautiful place for a bank, i much prefer it to the high street</title>
@@ -283,6 +275,14 @@
     <content>NO MORE ELVES IN THE ADVENT CALENDAR PLEASE 😡</content>
     <link href="https://tiktok.com/@zoebreadtok/video/7446485980023901473"/>
     <published>2024-12-09T18:48:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7447225891861613856</id>
+    <title>full tour and back story of new cork city ! </title>
+    <updated>2024-12-11T18:40:03+00:00</updated>
+    <content>full tour and back story of new cork city ! </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7447225891861613856"/>
+    <published>2024-12-11T18:40:03+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7391078276183215392</id>

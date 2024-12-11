@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2024-12-11T14:18:07+00:00</updated>
+  <updated>2024-12-11T19:48:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7439169594771770655</id>
-    <title>he’s a musical genius  #techie #softwareengineer #zuck #zuckerberg #WAP #techroastshow </title>
-    <updated>2024-11-20T01:37:35+00:00</updated>
-    <content>he’s a musical genius  #techie #softwareengineer #zuck #zuckerberg #WAP #techroastshow </content>
-    <link href="https://tiktok.com/@techroastshow/video/7439169594771770655"/>
-    <published>2024-11-20T01:37:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7439663410645601566</id>
     <title>call her daddy  #techie #softwareengineer #nyc #newyork #programmerlife #roastbattle #darkhumor #techroastshow</title>
@@ -267,6 +259,14 @@
     <content>modern day Jesus definitely does crossfit  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</content>
     <link href="https://tiktok.com/@techroastshow/video/7447158383318273323"/>
     <published>2024-12-11T14:18:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7447243570043571499</id>
+    <title>more uptime means more downtime with Temporal  #techie #softwareengineer #programmerlife #temporalio #temporalpartner #techroastshow #ad</title>
+    <updated>2024-12-11T19:48:39+00:00</updated>
+    <content>more uptime means more downtime with Temporal  #techie #softwareengineer #programmerlife #temporalio #temporalpartner #techroastshow #ad</content>
+    <link href="https://tiktok.com/@techroastshow/video/7447243570043571499"/>
+    <published>2024-12-11T19:48:39+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>

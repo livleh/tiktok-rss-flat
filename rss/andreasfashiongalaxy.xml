@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@andreasfashiongalaxy</id>
   <title>andreasfashiongalaxy</title>
-  <updated>2024-11-27T19:04:15+00:00</updated>
+  <updated>2024-12-11T21:00:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from andreasfashiongalaxy</subtitle>
-  <entry>
-    <id>https://tiktok.com/@andreasfashiongalaxy/video/7392327960029646113</id>
-    <title>Let’s style this mini sequin skirt as a top #letsgetdressed </title>
-    <updated>2024-07-16T20:08:06+00:00</updated>
-    <content>Let’s style this mini sequin skirt as a top #letsgetdressed </content>
-    <link href="https://tiktok.com/@andreasfashiongalaxy/video/7392327960029646113"/>
-    <published>2024-07-16T20:08:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@andreasfashiongalaxy/video/7392712675169422625</id>
     <title>How to find fashion inspiration to successfully style an outfit #letsgetdressed </title>
@@ -291,5 +283,13 @@
     <content>How to choose the perfect dress for New Year’s #letsgetdressed </content>
     <link href="https://tiktok.com/@andreasfashiongalaxy/video/7442036928851004704"/>
     <published>2024-11-27T19:04:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@andreasfashiongalaxy/video/7447262043494747424</id>
+    <title>How to style this thrifted pirate jacket #letsgetdressed </title>
+    <updated>2024-12-11T21:00:23+00:00</updated>
+    <content>How to style this thrifted pirate jacket #letsgetdressed </content>
+    <link href="https://tiktok.com/@andreasfashiongalaxy/video/7447262043494747424"/>
+    <published>2024-12-11T21:00:23+00:00</published>
   </entry>
 </feed>
