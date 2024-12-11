@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-12-11T13:43:20+00:00</updated>
+  <updated>2024-12-11T14:56:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7440987999195893015</id>
-    <title>#onthisday Stop calling trans women femboys #trans #streamer </title>
-    <updated>2024-11-24T23:13:53+00:00</updated>
-    <content>#onthisday Stop calling trans women femboys #trans #streamer </content>
-    <link href="https://tiktok.com/@nyaravt/video/7440987999195893015"/>
-    <published>2024-11-24T23:13:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7441226997990198561</id>
     <title>how not to assert your dominance in valorant #trans #valorant</title>
@@ -267,6 +259,14 @@
     <content>I AM NO LONGER A TRANS WOMAN #trans #streamer #valorant</content>
     <link href="https://tiktok.com/@nyaravt/video/7447149420455415073"/>
     <published>2024-12-11T13:43:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7447168203555441953</id>
+    <title>Being trans is hard enough - stop making it worse #valorant #transfem</title>
+    <updated>2024-12-11T14:56:15+00:00</updated>
+    <content>Being trans is hard enough - stop making it worse #valorant #transfem</content>
+    <link href="https://tiktok.com/@nyaravt/video/7447168203555441953"/>
+    <published>2024-12-11T14:56:15+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>
