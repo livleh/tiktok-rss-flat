@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-12-11T18:40:03+00:00</updated>
+  <updated>2024-12-12T18:30:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7426056013989645600</id>
-    <title>its a beautiful place for a bank, i much prefer it to the high street</title>
-    <updated>2024-10-15T17:30:16+00:00</updated>
-    <content>its a beautiful place for a bank, i much prefer it to the high street</content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7426056013989645600"/>
-    <published>2024-10-15T17:30:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7426424066787101985</id>
     <title>planet ice brownies badge at planet ice on planet earth </title>
@@ -283,6 +275,14 @@
     <content>full tour and back story of new cork city ! </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7447225891861613856"/>
     <published>2024-12-11T18:40:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7447594486886092065</id>
+    <title>christmas caroling or saying merry christmas to people called carol. for brownies. </title>
+    <updated>2024-12-12T18:30:24+00:00</updated>
+    <content>christmas caroling or saying merry christmas to people called carol. for brownies. </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7447594486886092065"/>
+    <published>2024-12-12T18:30:24+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7391078276183215392</id>

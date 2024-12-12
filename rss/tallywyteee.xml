@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tallywyteee</id>
   <title>tallywyteee</title>
-  <updated>2024-12-11T19:12:57+00:00</updated>
+  <updated>2024-12-12T20:38:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tallywyteee</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tallywyteee/video/7423087072602344750</id>
-    <title>Why would homie use such colorful language to  describe me? 💀😅👀</title>
-    <updated>2024-10-07T17:29:09+00:00</updated>
-    <content>Why would homie use such colorful language to  describe me? 💀😅👀</content>
-    <link href="https://tiktok.com/@tallywyteee/video/7423087072602344750"/>
-    <published>2024-10-07T17:29:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7423450552320773419</id>
     <title>Do you think he lowkey wants me? 😂👀💙 </title>
@@ -275,6 +267,14 @@
     <content>I don’t think anyone has ever asked me this question before… 😂</content>
     <link href="https://tiktok.com/@tallywyteee/video/7447234342197284126"/>
     <published>2024-12-11T19:12:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tallywyteee/video/7447627398222187806</id>
+    <title>Whatchu doin if i ask you this question? 😝</title>
+    <updated>2024-12-12T20:38:17+00:00</updated>
+    <content>Whatchu doin if i ask you this question? 😝</content>
+    <link href="https://tiktok.com/@tallywyteee/video/7447627398222187806"/>
+    <published>2024-12-12T20:38:17+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7261699619762048298</id>

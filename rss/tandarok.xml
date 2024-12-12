@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-12-09T21:10:00+00:00</updated>
+  <updated>2024-12-12T16:34:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7423526756075703585</id>
-    <title>Du musst dir Liebe nicht erst verdienen  #dating #liebe </title>
-    <updated>2024-10-08T21:55:31+00:00</updated>
-    <content>Du musst dir Liebe nicht erst verdienen  #dating #liebe </content>
-    <link href="https://tiktok.com/@tandarok/video/7423526756075703585"/>
-    <published>2024-10-08T21:55:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7427749026684046624</id>
     <title>Welche Leserichtung ist richtig? #comics #lesen </title>
@@ -267,6 +259,14 @@
     <content>Frauenhass vs. Männerhass</content>
     <link href="https://tiktok.com/@tandarok/video/7446347241264139552"/>
     <published>2024-12-09T21:10:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7447564497855761686</id>
+    <title>Mein #datingwrapped  Für meine Friends gibt's in der Powerpoint btw noch eine Bonusseite mit Bildern aller Anwärter*innen.</title>
+    <updated>2024-12-12T16:34:00+00:00</updated>
+    <content>Mein #datingwrapped  Für meine Friends gibt's in der Powerpoint btw noch eine Bonusseite mit Bildern aller Anwärter*innen.</content>
+    <link href="https://tiktok.com/@tandarok/video/7447564497855761686"/>
+    <published>2024-12-12T16:34:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
