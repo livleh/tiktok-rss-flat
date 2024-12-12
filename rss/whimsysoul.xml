@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-12-11T01:54:19+00:00</updated>
+  <updated>2024-12-12T00:27:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7440662427089538350</id>
-    <title>I couldn’t help it! All the rain made me want my Christmas lights up. Twyla approves and only tried to eat one ornament so far 😂🎄 Clancys has been our go-to farm for years (they have pumpkins in the fall, too!) So if you’re looking for a real tree, or rea</title>
-    <updated>2024-11-24T02:10:26+00:00</updated>
-    <content>I couldn’t help it! All the rain made me want my Christmas lights up. Twyla approves and only tried to eat one ornament so far 😂🎄 Clancys has been our go-to farm for years (they have pumpkins in the fall, too!) So if you’re looking for a real tree, or rea</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7440662427089538350"/>
-    <published>2024-11-24T02:10:26+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7440863455055203626</id>
-    <title>#yap #1991 #millennial #babysfirstchristmas #christmas #babybook #yapper #lol #90skids </title>
-    <updated>2024-11-24T15:10:34+00:00</updated>
-    <content>#yap #1991 #millennial #babysfirstchristmas #christmas #babybook #yapper #lol #90skids </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7440863455055203626"/>
-    <published>2024-11-24T15:10:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7440909709579767082</id>
     <title>Replying to @♡Stephy♡ the very cool history of Alcatraz prison in San Francisco #alcatraz #sanfrancisco #onlyinsf #history #nativeland #bayarea #prisonbreak #alcapone #whimsysoul </title>
@@ -291,5 +275,21 @@
     <content>This millennial girl needs a whole month to recover from Eras. I see lots of wine, hallmark movies, face masks and nail polish in my near future. ✨🫶 ⭐️ follow me for more relatable content  #millennial #lol #humor #30something #over30 #erastour #taylorswi</content>
     <link href="https://tiktok.com/@whimsysoul/video/7446966723783249195"/>
     <published>2024-12-11T01:54:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7447313256525483310</id>
+    <title>Lyfts were $9 after Eras. I had 3 wines and a water at BC place for under $27. After traveling mostly in the UK and Scandinavia this year, I feel rich here #canada #currency #canadadollar #travel #vancouver </title>
+    <updated>2024-12-12T00:19:04+00:00</updated>
+    <content>Lyfts were $9 after Eras. I had 3 wines and a water at BC place for under $27. After traveling mostly in the UK and Scandinavia this year, I feel rich here #canada #currency #canadadollar #travel #vancouver </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7447313256525483310"/>
+    <published>2024-12-12T00:19:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7447315522967981354</id>
+    <title>In Vancouver? You need to try Tality, a sauna and cold plunge wellness center with free kombucha!!  we both felt so tired after the Eras Tour so we got up really early and did our sauna at 8 AM felt amazing afterwards. It's the only thing that saved our 🍑</title>
+    <updated>2024-12-12T00:27:51+00:00</updated>
+    <content>In Vancouver? You need to try Tality, a sauna and cold plunge wellness center with free kombucha!!  we both felt so tired after the Eras Tour so we got up really early and did our sauna at 8 AM felt amazing afterwards. It's the only thing that saved our 🍑</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7447315522967981354"/>
+    <published>2024-12-12T00:27:51+00:00</published>
   </entry>
 </feed>
