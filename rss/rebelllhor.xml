@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rebelllhor</id>
   <title>rebelllhor</title>
-  <updated>2024-12-05T18:00:55+00:00</updated>
+  <updated>2024-12-13T17:12:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rebelllhor</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rebelllhor/video/7400813313803783456</id>
-    <title>No Title</title>
-    <updated>2024-08-08T16:55:33+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@rebelllhor/video/7400813313803783456"/>
-    <published>2024-08-08T16:55:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rebelllhor/video/7405239022152453409</id>
     <title>#NewMusic </title>
@@ -267,6 +259,14 @@
     <content>Video @Sinclair Bryant </content>
     <link href="https://tiktok.com/@rebelllhor/video/7444989303844818198"/>
     <published>2024-12-05T18:00:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rebelllhor/video/7447945626077121814</id>
+    <title>No Title</title>
+    <updated>2024-12-13T17:12:58+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@rebelllhor/video/7447945626077121814"/>
+    <published>2024-12-13T17:12:58+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@rebelllhor/video/7321789662287187233</id>

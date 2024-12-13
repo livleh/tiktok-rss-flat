@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-12-12T13:48:28+00:00</updated>
+  <updated>2024-12-13T14:26:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7441616500609355040</id>
-    <title>They put Mr Beast's Feastables in German stores?? #trans #valorant #streamer</title>
-    <updated>2024-11-26T15:52:49+00:00</updated>
-    <content>They put Mr Beast's Feastables in German stores?? #trans #valorant #streamer</content>
-    <link href="https://tiktok.com/@nyaravt/video/7441616500609355040"/>
-    <published>2024-11-26T15:52:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7441737504702631191</id>
-    <title>#onthisday all powerful being forcefully turns everyone into femboys #trans #twitch </title>
-    <updated>2024-11-26T23:42:23+00:00</updated>
-    <content>#onthisday all powerful being forcefully turns everyone into femboys #trans #twitch </content>
-    <link href="https://tiktok.com/@nyaravt/video/7441737504702631191"/>
-    <published>2024-11-26T23:42:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7441983242275753249</id>
     <title>Why getting misgendered is worse for trans people #strinova #trans #streamer</title>
@@ -267,6 +251,22 @@
     <content>Anti Trans Laws DON'T protect anyone #valorant #trans #streamer</content>
     <link href="https://tiktok.com/@nyaravt/video/7447521798729649440"/>
     <published>2024-12-12T13:48:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7447689334217657622</id>
+    <title>#onthisday i’m not an orange cat pretending to be a human #portal #streamer </title>
+    <updated>2024-12-13T00:38:41+00:00</updated>
+    <content>#onthisday i’m not an orange cat pretending to be a human #portal #streamer </content>
+    <link href="https://tiktok.com/@nyaravt/video/7447689334217657622"/>
+    <published>2024-12-13T00:38:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7447902740472139041</id>
+    <title>How Misogyny is being used against Trans people #valorant #trans #streamer</title>
+    <updated>2024-12-13T14:26:49+00:00</updated>
+    <content>How Misogyny is being used against Trans people #valorant #trans #streamer</content>
+    <link href="https://tiktok.com/@nyaravt/video/7447902740472139041"/>
+    <published>2024-12-13T14:26:49+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>

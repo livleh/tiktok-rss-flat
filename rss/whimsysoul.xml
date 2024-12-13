@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-12-12T18:59:22+00:00</updated>
+  <updated>2024-12-13T16:44:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7440995887226047787</id>
-    <title>the best coffee &amp; second best breakfast sandwich in San Francisco is my favorite way to spend a sunny Saturday ❤️ Have you been to Ocean Beach Cafe or Andytown yet??! If not, RUN Also, I've linked my Popflex outfit on my LTK. It DOES fit us curvy gals (!!</title>
-    <updated>2024-11-24T23:44:27+00:00</updated>
-    <content>the best coffee &amp; second best breakfast sandwich in San Francisco is my favorite way to spend a sunny Saturday ❤️ Have you been to Ocean Beach Cafe or Andytown yet??! If not, RUN Also, I've linked my Popflex outfit on my LTK. It DOES fit us curvy gals (!!</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7440995887226047787"/>
-    <published>2024-11-24T23:44:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7441037563533511978</id>
     <title>Any sugar daddies out there wanna bank roll my Eras trip? 👀 🥰 #erastour #taylorswift #vancouver #airlines #sfo #sanfrancisco #taylornation #vancouverbc #alaskaairlines #united #aircanada #canada #erastourtaylorswift #reptv #broke #budgettravel </title>
@@ -291,5 +283,13 @@
     <content>my mental health hinges on gluhwein during Christmas #christmas #vancouver #vancouverchristmasmarket #christmasmarket #gluhwein #wine #mulledwine #canada #whimsysoul </content>
     <link href="https://tiktok.com/@whimsysoul/video/7447601944228662570"/>
     <published>2024-12-12T18:59:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7447938247545818414</id>
+    <title>Bay Area, you can't miss this!!! 😱  I just saw the Amy Sherald: American Sublime exhibition at SFMOMA (up now until March!) and it's just fantastic.  You probably recognize @asherald Michelle Obama portrait, but now there's a chance to see 50 of her other</title>
+    <updated>2024-12-13T16:44:23+00:00</updated>
+    <content>Bay Area, you can't miss this!!! 😱  I just saw the Amy Sherald: American Sublime exhibition at SFMOMA (up now until March!) and it's just fantastic.  You probably recognize @asherald Michelle Obama portrait, but now there's a chance to see 50 of her other</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7447938247545818414"/>
+    <published>2024-12-13T16:44:23+00:00</published>
   </entry>
 </feed>

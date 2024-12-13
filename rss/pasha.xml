@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@pasha</id>
   <title>pasha</title>
-  <updated>2024-12-09T11:05:13+00:00</updated>
+  <updated>2024-12-13T15:03:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pasha</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pasha/video/7408136603039796481</id>
-    <title>cover letter and resume writing is my forte ❤️ #recruiter #linkedin #jobs #comedy</title>
-    <updated>2024-08-28T10:33:39+00:00</updated>
-    <content>cover letter and resume writing is my forte ❤️ #recruiter #linkedin #jobs #comedy</content>
-    <link href="https://tiktok.com/@pasha/video/7408136603039796481"/>
-    <published>2024-08-28T10:33:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7408900032927239431</id>
     <title>when you have ran out of excuses for your friends…. #comedy </title>
@@ -291,5 +283,13 @@
     <content>the tone of our voice is the best way to know if we are excited about something and how we feel  #easterneuropean #slavic #easterneuropeancomedy </content>
     <link href="https://tiktok.com/@pasha/video/7446366521145822472"/>
     <published>2024-12-09T11:05:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pasha/video/7447912377598610695</id>
+    <title>my out of office starts now ❤️ #comedy #work</title>
+    <updated>2024-12-13T15:03:55+00:00</updated>
+    <content>my out of office starts now ❤️ #comedy #work</content>
+    <link href="https://tiktok.com/@pasha/video/7447912377598610695"/>
+    <published>2024-12-13T15:03:55+00:00</published>
   </entry>
 </feed>

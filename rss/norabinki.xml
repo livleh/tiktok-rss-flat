@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@norabinki</id>
   <title>norabinki</title>
-  <updated>2024-12-05T18:41:49+00:00</updated>
+  <updated>2024-12-13T18:33:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from norabinki</subtitle>
-  <entry>
-    <id>https://tiktok.com/@norabinki/video/7354040538456165665</id>
-    <title>der beste bahnhof in europa @Bruzzli #schweiz #fyp #bahnhof #CapCut </title>
-    <updated>2024-04-04T15:53:19+00:00</updated>
-    <content>der beste bahnhof in europa @Bruzzli #schweiz #fyp #bahnhof #CapCut </content>
-    <link href="https://tiktok.com/@norabinki/video/7354040538456165665"/>
-    <published>2024-04-04T15:53:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@norabinki/video/7358177465514183968</id>
     <title>Fast Sechseläuten #schweiz #fyp #CapCut </title>
@@ -259,6 +251,14 @@
     <content>Bei der Samichlaus-Schulung  @Bruzzli #fyp #schweiz #weihnachten #CapCut </content>
     <link href="https://tiktok.com/@norabinki/video/7444999845749771542"/>
     <published>2024-12-05T18:41:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@norabinki/video/7447966333636971798</id>
+    <title>Die grosse ESC-Kampagne  @Bruzzli #schweiz #fyp #eurovisionsongcontest #CapCut </title>
+    <updated>2024-12-13T18:33:17+00:00</updated>
+    <content>Die grosse ESC-Kampagne  @Bruzzli #schweiz #fyp #eurovisionsongcontest #CapCut </content>
+    <link href="https://tiktok.com/@norabinki/video/7447966333636971798"/>
+    <published>2024-12-13T18:33:17+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@norabinki/video/7298386766359203105</id>

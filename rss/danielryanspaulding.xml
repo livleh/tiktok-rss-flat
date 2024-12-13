@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@danielryanspaulding</id>
   <title>danielryanspaulding</title>
-  <updated>2024-12-10T18:19:59+00:00</updated>
+  <updated>2024-12-13T01:15:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from danielryanspaulding</subtitle>
-  <entry>
-    <id>https://tiktok.com/@danielryanspaulding/video/7413842630443912480</id>
-    <title>Sorry Ilana Glazer, no one wants Cori Bush &amp; anti-Israel democrats in the party #aipac #coribush #ilanaglazer #iran #irgc #usa #israel #democrat </title>
-    <updated>2024-09-12T19:35:56+00:00</updated>
-    <content>Sorry Ilana Glazer, no one wants Cori Bush &amp; anti-Israel democrats in the party #aipac #coribush #ilanaglazer #iran #irgc #usa #israel #democrat </content>
-    <link href="https://tiktok.com/@danielryanspaulding/video/7413842630443912480"/>
-    <published>2024-09-12T19:35:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@danielryanspaulding/video/7413843888621817120</id>
     <title>Will Ilana ever say that Hamas is bad? #ilanaglazer #coribush #irgc #israel #democrats #coribush #iran </title>
@@ -283,5 +275,13 @@
     <content>No Bandwagon Gays: Murder &amp; Terrorism isn’t sexy— please re-direct your horny energy towards Law Enforcement &amp; the Military. Men who protect our safety &amp; security &amp; fight for freedom worldwide deserve our homoerotic fantasies — not anarchists &amp; sociopaths</content>
     <link href="https://tiktok.com/@danielryanspaulding/video/7446849642869837078"/>
     <published>2024-12-10T18:19:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@danielryanspaulding/video/7447698853597416726</id>
+    <title>Did you finally notice? #theview #abc #nyc #nypost #whoopi #usa #democrats #republican </title>
+    <updated>2024-12-13T01:15:50+00:00</updated>
+    <content>Did you finally notice? #theview #abc #nyc #nypost #whoopi #usa #democrats #republican </content>
+    <link href="https://tiktok.com/@danielryanspaulding/video/7447698853597416726"/>
+    <published>2024-12-13T01:15:50+00:00</published>
   </entry>
 </feed>
