@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-12-12T18:30:24+00:00</updated>
+  <updated>2024-12-14T00:18:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7426424066787101985</id>
-    <title>planet ice brownies badge at planet ice on planet earth </title>
-    <updated>2024-10-16T17:18:21+00:00</updated>
-    <content>planet ice brownies badge at planet ice on planet earth </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7426424066787101985"/>
-    <published>2024-10-16T17:18:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7426795775776034081</id>
     <title>free piece of paper with every wee </title>
@@ -283,6 +275,14 @@
     <content>christmas caroling or saying merry christmas to people called carol. for brownies. </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7447594486886092065"/>
     <published>2024-12-12T18:30:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7448055294715776288</id>
+    <title>(:</title>
+    <updated>2024-12-14T00:18:42+00:00</updated>
+    <content>(:</content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7448055294715776288"/>
+    <published>2024-12-14T00:18:42+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7391078276183215392</id>

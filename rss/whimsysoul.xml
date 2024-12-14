@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2024-12-13T16:44:23+00:00</updated>
+  <updated>2024-12-14T00:45:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7441037563533511978</id>
-    <title>Any sugar daddies out there wanna bank roll my Eras trip? 👀 🥰 #erastour #taylorswift #vancouver #airlines #sfo #sanfrancisco #taylornation #vancouverbc #alaskaairlines #united #aircanada #canada #erastourtaylorswift #reptv #broke #budgettravel </title>
-    <updated>2024-11-25T02:26:09+00:00</updated>
-    <content>Any sugar daddies out there wanna bank roll my Eras trip? 👀 🥰 #erastour #taylorswift #vancouver #airlines #sfo #sanfrancisco #taylornation #vancouverbc #alaskaairlines #united #aircanada #canada #erastourtaylorswift #reptv #broke #budgettravel </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7441037563533511978"/>
-    <published>2024-11-25T02:26:09+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7441380010759310634</id>
-    <title>San Francisco holiday bars ⬇️ 🎄 'Tis the season to get dressed up and throw all your money at festive holiday drinks to disassociate.  Top bars in San Francisco for holiday drinks (will keep this list updated as I discover more/new ones!) ❄️ Sippin’ Santa</title>
-    <updated>2024-11-26T00:35:02+00:00</updated>
-    <content>San Francisco holiday bars ⬇️ 🎄 'Tis the season to get dressed up and throw all your money at festive holiday drinks to disassociate.  Top bars in San Francisco for holiday drinks (will keep this list updated as I discover more/new ones!) ❄️ Sippin’ Santa</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7441380010759310634"/>
-    <published>2024-11-26T00:35:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7441445364462259498</id>
     <title>where to go in San Francisco for over the top holiday bars #whimsysoul #sanfrancisco #christmas #popupbar #christmasbar #cocktails #sanfranciscofoodie #sanfranciscococktails #christmasdrinks #holidays #bayarea #holidays #sanfranciscoworld </title>
@@ -291,5 +275,21 @@
     <content>Bay Area, you can't miss this!!! 😱  I just saw the Amy Sherald: American Sublime exhibition at SFMOMA (up now until March!) and it's just fantastic.  You probably recognize @asherald Michelle Obama portrait, but now there's a chance to see 50 of her other</content>
     <link href="https://tiktok.com/@whimsysoul/video/7447938247545818414"/>
     <published>2024-12-13T16:44:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7447999882285059370</id>
+    <title>what a wild year ✨🫶🤌❤️ #2024 #endoftheyear #wanderlust #girlhood #travel #yolo #endofsummer #2025 #2025future #maincharacter </title>
+    <updated>2024-12-13T20:43:42+00:00</updated>
+    <content>what a wild year ✨🫶🤌❤️ #2024 #endoftheyear #wanderlust #girlhood #travel #yolo #endofsummer #2025 #2025future #maincharacter </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7447999882285059370"/>
+    <published>2024-12-13T20:43:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7448062196799606059</id>
+    <title>this is embarrassing one of us has to change 😤 | LTK link in comments! #curvy #curvystyle #sezanelovers #pantsuit #sfmoma #artmuseum #museum #curvybodies  #midsize #museumoutfit #outfit </title>
+    <updated>2024-12-14T00:45:19+00:00</updated>
+    <content>this is embarrassing one of us has to change 😤 | LTK link in comments! #curvy #curvystyle #sezanelovers #pantsuit #sfmoma #artmuseum #museum #curvybodies  #midsize #museumoutfit #outfit </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7448062196799606059"/>
+    <published>2024-12-14T00:45:19+00:00</published>
   </entry>
 </feed>
