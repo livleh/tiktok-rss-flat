@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-12-13T14:26:49+00:00</updated>
+  <updated>2024-12-16T14:29:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,38 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7441983242275753249</id>
-    <title>Why getting misgendered is worse for trans people #strinova #trans #streamer</title>
-    <updated>2024-11-27T15:35:56+00:00</updated>
-    <content>Why getting misgendered is worse for trans people #strinova #trans #streamer</content>
-    <link href="https://tiktok.com/@nyaravt/video/7441983242275753249"/>
-    <published>2024-11-27T15:35:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7442345605235576096</id>
-    <title>How Voice Trolling ruined gaming for Women #trans #strinova #streamer</title>
-    <updated>2024-11-28T15:02:21+00:00</updated>
-    <content>How Voice Trolling ruined gaming for Women #trans #strinova #streamer</content>
-    <link href="https://tiktok.com/@nyaravt/video/7442345605235576096"/>
-    <published>2024-11-28T15:02:21+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7442431166138944790</id>
-    <title>Replying to @Kendra 🪼 these are my current nails💜</title>
-    <updated>2024-11-28T20:34:04+00:00</updated>
-    <content>Replying to @Kendra 🪼 these are my current nails💜</content>
-    <link href="https://tiktok.com/@nyaravt/video/7442431166138944790"/>
-    <published>2024-11-28T20:34:04+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7442476828788395286</id>
-    <title>#onthisday switches aren’t real #trans #twitch </title>
-    <updated>2024-11-28T23:31:25+00:00</updated>
-    <content>#onthisday switches aren’t real #trans #twitch </content>
-    <link href="https://tiktok.com/@nyaravt/video/7442476828788395286"/>
-    <published>2024-11-28T23:31:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7442713896147750176</id>
     <title>Why Gender affirming care isn't perfect #strinova #trans #twitch</title>
@@ -267,6 +235,38 @@
     <content>How Misogyny is being used against Trans people #valorant #trans #streamer</content>
     <link href="https://tiktok.com/@nyaravt/video/7447902740472139041"/>
     <published>2024-12-13T14:26:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7448284695302851872</id>
+    <title>Why Chromosomes DO NOT matter #trans #streamer #valorant</title>
+    <updated>2024-12-14T15:08:46+00:00</updated>
+    <content>Why Chromosomes DO NOT matter #trans #streamer #valorant</content>
+    <link href="https://tiktok.com/@nyaravt/video/7448284695302851872"/>
+    <published>2024-12-14T15:08:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7448642509602966806</id>
+    <title>#onthisday there is no top vtuber #portal #streamer #trans </title>
+    <updated>2024-12-15T14:17:14+00:00</updated>
+    <content>#onthisday there is no top vtuber #portal #streamer #trans </content>
+    <link href="https://tiktok.com/@nyaravt/video/7448642509602966806"/>
+    <published>2024-12-15T14:17:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7448655890405756192</id>
+    <title>Trans people aren't the reason why you can't afford anything #trans #streamer #valorant</title>
+    <updated>2024-12-15T15:09:13+00:00</updated>
+    <content>Trans people aren't the reason why you can't afford anything #trans #streamer #valorant</content>
+    <link href="https://tiktok.com/@nyaravt/video/7448655890405756192"/>
+    <published>2024-12-15T15:09:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7449016714290941217</id>
+    <title>Stop sacrificing your own mental health for the comfort of others #trans #streamer #valorant</title>
+    <updated>2024-12-16T14:29:35+00:00</updated>
+    <content>Stop sacrificing your own mental health for the comfort of others #trans #streamer #valorant</content>
+    <link href="https://tiktok.com/@nyaravt/video/7449016714290941217"/>
+    <published>2024-12-16T14:29:35+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>

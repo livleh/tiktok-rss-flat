@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rebelllhor</id>
   <title>rebelllhor</title>
-  <updated>2024-12-13T17:12:58+00:00</updated>
+  <updated>2024-12-15T17:00:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rebelllhor</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rebelllhor/video/7405239022152453409</id>
-    <title>#NewMusic </title>
-    <updated>2024-08-20T15:09:38+00:00</updated>
-    <content>#NewMusic </content>
-    <link href="https://tiktok.com/@rebelllhor/video/7405239022152453409"/>
-    <published>2024-08-20T15:09:38+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@rebelllhor/video/7407498754082852128</id>
-    <title>@Talika Cosmetics @Anastasia Beverly Hills @Catrice Cosmetics @essence cosmetics @flaconi @Huda Beauty @lorealparisuk @Makeup Revolution @Redken @revlon @Max Factor @nyxcosmetics_de @Olaplex @sephora @Windsor Smith Women @Weleda USA @wetnwildbeauty </title>
-    <updated>2024-08-26T17:18:31+00:00</updated>
-    <content>@Talika Cosmetics @Anastasia Beverly Hills @Catrice Cosmetics @essence cosmetics @flaconi @Huda Beauty @lorealparisuk @Makeup Revolution @Redken @revlon @Max Factor @nyxcosmetics_de @Olaplex @sephora @Windsor Smith Women @Weleda USA @wetnwildbeauty </content>
-    <link href="https://tiktok.com/@rebelllhor/video/7407498754082852128"/>
-    <published>2024-08-26T17:18:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rebelllhor/video/7407874570608250145</id>
     <title>Makeup @Leana Ardeleanu Hair @rubyhowes</title>
@@ -267,6 +251,22 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@rebelllhor/video/7447945626077121814"/>
     <published>2024-12-13T17:12:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rebelllhor/video/7448355383250308374</id>
+    <title>#NewMusic </title>
+    <updated>2024-12-14T19:43:01+00:00</updated>
+    <content>#NewMusic </content>
+    <link href="https://tiktok.com/@rebelllhor/video/7448355383250308374"/>
+    <published>2024-12-14T19:43:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rebelllhor/video/7448684597157678358</id>
+    <title>No Title</title>
+    <updated>2024-12-15T17:00:33+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@rebelllhor/video/7448684597157678358"/>
+    <published>2024-12-15T17:00:33+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@rebelllhor/video/7321789662287187233</id>

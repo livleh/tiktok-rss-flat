@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-12-14T00:18:42+00:00</updated>
+  <updated>2024-12-15T18:31:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7426795775776034081</id>
-    <title>free piece of paper with every wee </title>
-    <updated>2024-10-17T17:20:45+00:00</updated>
-    <content>free piece of paper with every wee </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7426795775776034081"/>
-    <published>2024-10-17T17:20:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7427908069402643744</id>
     <title>i didnt feel like going out side today and i had a packet of 4 melody pops lying around   </title>
@@ -283,6 +275,14 @@
     <content>(:</content>
     <link href="https://tiktok.com/@zoebreadtok/video/7448055294715776288"/>
     <published>2024-12-14T00:18:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7448707912400194849</id>
+    <title>😡 this is not on</title>
+    <updated>2024-12-15T18:31:04+00:00</updated>
+    <content>😡 this is not on</content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7448707912400194849"/>
+    <published>2024-12-15T18:31:04+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7391078276183215392</id>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-12-12T16:34:00+00:00</updated>
+  <updated>2024-12-15T20:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7427749026684046624</id>
-    <title>Welche Leserichtung ist richtig? #comics #lesen </title>
-    <updated>2024-10-20T07:00:04+00:00</updated>
-    <content>Welche Leserichtung ist richtig? #comics #lesen </content>
-    <link href="https://tiktok.com/@tandarok/video/7427749026684046624"/>
-    <published>2024-10-20T07:00:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7430914067239292192</id>
     <title>Antwort auf @estell_95  Trotzdem ist und bleibt W.i.t.c.h. einfach ein banger. #witchcomics #magicalgirl </title>
@@ -267,6 +259,14 @@
     <content>Mein #datingwrapped  Für meine Friends gibt's in der Powerpoint btw noch eine Bonusseite mit Bildern aller Anwärter*innen.</content>
     <link href="https://tiktok.com/@tandarok/video/7447564497855761686"/>
     <published>2024-12-12T16:34:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7448695609432739104</id>
+    <title>Ein paar Streamhighlights der letzten Jahre. Danke euch allen, fürs dabeisein und unterstüzten ❤️ #twitchclips #twitchgermany</title>
+    <updated>2024-12-15T20:00:00+00:00</updated>
+    <content>Ein paar Streamhighlights der letzten Jahre. Danke euch allen, fürs dabeisein und unterstüzten ❤️ #twitchclips #twitchgermany</content>
+    <link href="https://tiktok.com/@tandarok/video/7448695609432739104"/>
+    <published>2024-12-15T20:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>

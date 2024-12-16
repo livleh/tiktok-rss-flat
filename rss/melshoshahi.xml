@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@melshoshahi</id>
   <title>melshoshahi</title>
-  <updated>2024-12-13T18:17:31+00:00</updated>
+  <updated>2024-12-15T21:31:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from melshoshahi</subtitle>
-  <entry>
-    <id>https://tiktok.com/@melshoshahi/video/7420844926226697503</id>
-    <title>Family guilt trips…anybody else? 😅 #standup #standupcomedy #persian </title>
-    <updated>2024-10-01T16:28:44+00:00</updated>
-    <content>Family guilt trips…anybody else? 😅 #standup #standupcomedy #persian </content>
-    <link href="https://tiktok.com/@melshoshahi/video/7420844926226697503"/>
-    <published>2024-10-01T16:28:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@melshoshahi/video/7421615529477049631</id>
     <title>Forgetting your wallet is not good, u nio 😅 #retail #vintage #fashion #customerservice #tiktokskit #sketchcomedy </title>
@@ -267,6 +259,14 @@
     <content>Secret Santa at work 😅🎅🏽  #santa #christmas #gift #tiktokskit #sketchcomedy</content>
     <link href="https://tiktok.com/@melshoshahi/video/7447962250163342635"/>
     <published>2024-12-13T18:17:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@melshoshahi/video/7448754353843899694</id>
+    <title>Highest sales for the week goes to… 😎😅 #tiktokskit #retail #sketchcomedy </title>
+    <updated>2024-12-15T21:31:15+00:00</updated>
+    <content>Highest sales for the week goes to… 😎😅 #tiktokskit #retail #sketchcomedy </content>
+    <link href="https://tiktok.com/@melshoshahi/video/7448754353843899694"/>
+    <published>2024-12-15T21:31:15+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@melshoshahi/video/7282846082986462507</id>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-12-13T23:33:29+00:00</updated>
+  <updated>2024-12-15T23:51:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7434669386406907167</id>
-    <title>Going to a Stylist </title>
-    <updated>2024-11-07T22:34:36+00:00</updated>
-    <content>Going to a Stylist </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7434669386406907167"/>
-    <published>2024-11-07T22:34:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7435289716435455263</id>
-    <title>How I Met My First Girlfriend </title>
-    <updated>2024-11-09T14:41:52+00:00</updated>
-    <content>How I Met My First Girlfriend </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7435289716435455263"/>
-    <published>2024-11-09T14:41:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7435802787922857246</id>
     <title>I’m so bored in this career </title>
@@ -283,6 +267,22 @@
     <content>Intimacy Issues On Level 10 </content>
     <link href="https://tiktok.com/@jessicakirson/video/7448043682348993838"/>
     <published>2024-12-13T23:33:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7448281638766759214</id>
+    <title>Greek And German. Planning my 2025 tour so comment your city below xo</title>
+    <updated>2024-12-14T14:56:55+00:00</updated>
+    <content>Greek And German. Planning my 2025 tour so comment your city below xo</content>
+    <link href="https://tiktok.com/@jessicakirson/video/7448281638766759214"/>
+    <published>2024-12-14T14:56:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7448790505682455839</id>
+    <title>My fans know me so well </title>
+    <updated>2024-12-15T23:51:42+00:00</updated>
+    <content>My fans know me so well </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7448790505682455839"/>
+    <published>2024-12-15T23:51:42+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7444330623767940394</id>
