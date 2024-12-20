@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@americascomic</id>
   <title>americascomic</title>
-  <updated>2024-12-05T16:10:13+00:00</updated>
+  <updated>2024-12-18T22:12:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from americascomic</subtitle>
-  <entry>
-    <id>https://tiktok.com/@americascomic/video/7341876442629770538</id>
-    <title>No Title</title>
-    <updated>2024-03-02T21:10:46+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@americascomic/video/7341876442629770538"/>
-    <published>2024-03-02T21:10:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@americascomic/video/7351817352662617390</id>
     <title>I figured out the secret identity of Batman #gothamtok #gotham #gothamtiktok #gothamfyp </title>
@@ -171,6 +163,22 @@
     <content>transitioning into a woman is hard  #trans #transfemme ansfemme #transcommunity #amberiscuteandfunny </content>
     <link href="https://tiktok.com/@americascomic/video/7444960735215553823"/>
     <published>2024-12-05T16:10:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@americascomic/video/7449402861559074079</id>
+    <title>most famous person I met in nyc #newyorkcity #nycstory #newyorkcityguide #brooklynstory #amberiscuteandfunny </title>
+    <updated>2024-12-17T15:28:07+00:00</updated>
+    <content>most famous person I met in nyc #newyorkcity #nycstory #newyorkcityguide #brooklynstory #amberiscuteandfunny </content>
+    <link href="https://tiktok.com/@americascomic/video/7449402861559074079"/>
+    <published>2024-12-17T15:28:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@americascomic/video/7449878321137028383</id>
+    <title>let's not put all of our eggs in one basket here #wlw #wlwtok #transbian #isawthetvglow </title>
+    <updated>2024-12-18T22:12:59+00:00</updated>
+    <content>let's not put all of our eggs in one basket here #wlw #wlwtok #transbian #isawthetvglow </content>
+    <link href="https://tiktok.com/@americascomic/video/7449878321137028383"/>
+    <published>2024-12-18T22:12:59+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@americascomic/video/7231569804690328878</id>

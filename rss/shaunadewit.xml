@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shaunadewit</id>
   <title>shaunadewit</title>
-  <updated>2024-12-14T13:26:48+00:00</updated>
+  <updated>2024-12-20T15:46:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shaunadewit</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shaunadewit/video/7407803130144001313</id>
-    <title>call me if you need help ##foryou##humor##goviral##pourtoi##comedy</title>
-    <updated>2024-08-27T12:59:39+00:00</updated>
-    <content>call me if you need help ##foryou##humor##goviral##pourtoi##comedy</content>
-    <link href="https://tiktok.com/@shaunadewit/video/7407803130144001313"/>
-    <published>2024-08-27T12:59:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/7408921261709069601</id>
     <title>Always here to help #foryou #humor #goviral #pourtoi #comedy </title>
@@ -283,6 +275,22 @@
     <content>It was so long to wrap me up #foryou #humor #goviral #pourtoi #comedy </content>
     <link href="https://tiktok.com/@shaunadewit/video/7448258420957891862"/>
     <published>2024-12-14T13:26:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shaunadewit/video/7450138550839889174</id>
+    <title>The best way to start the year fr #foryou #humor #goviral #pourtoi #comedy </title>
+    <updated>2024-12-19T15:02:40+00:00</updated>
+    <content>The best way to start the year fr #foryou #humor #goviral #pourtoi #comedy </content>
+    <link href="https://tiktok.com/@shaunadewit/video/7450138550839889174"/>
+    <published>2024-12-19T15:02:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shaunadewit/video/7450520977861119254</id>
+    <title>Advertising Stressed about finding the perfect gifts on time? Don’t worry, Amazon got your back ✨ @Amazon #amazonbelgium</title>
+    <updated>2024-12-20T15:46:41+00:00</updated>
+    <content>Advertising Stressed about finding the perfect gifts on time? Don’t worry, Amazon got your back ✨ @Amazon #amazonbelgium</content>
+    <link href="https://tiktok.com/@shaunadewit/video/7450520977861119254"/>
+    <published>2024-12-20T15:46:41+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/6994791135415766278</id>

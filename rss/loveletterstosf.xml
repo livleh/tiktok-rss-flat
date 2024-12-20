@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2024-12-15T23:08:29+00:00</updated>
+  <updated>2024-12-20T02:59:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from loveletterstosf</subtitle>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7419353878086356267</id>
-    <title>there goes sept 💛 #thisweekendinsf #sfevents #sftok #sfsummer #sfmarket #nightmarket #outdoormovienight </title>
-    <updated>2024-09-27T16:02:23+00:00</updated>
-    <content>there goes sept 💛 #thisweekendinsf #sfevents #sftok #sfsummer #sfmarket #nightmarket #outdoormovienight </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7419353878086356267"/>
-    <published>2024-09-27T16:02:23+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7419497369894653230</id>
-    <title>plans for the next week: be outside #sf #sfsummer #oceanbeach #beachweather  </title>
-    <updated>2024-09-28T01:19:13+00:00</updated>
-    <content>plans for the next week: be outside #sf #sfsummer #oceanbeach #beachweather  </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7419497369894653230"/>
-    <published>2024-09-28T01:19:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7420495615299292458</id>
     <title>palm city was better than I had hoped for, sandwich slayed, vibes were vibing 🌊🫶 #sf #winebar #sfbars #sunsetdistrict #ilikethislife </title>
@@ -285,11 +269,35 @@
     <published>2024-12-15T23:08:29+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7408048912394620206</id>
-    <title>No Title</title>
-    <updated>2024-08-28T04:53:23+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7408048912394620206"/>
-    <published>2024-08-28T04:53:23+00:00</published>
+    <id>https://tiktok.com/@loveletterstosf/video/7449957020658257198</id>
+    <title>this particular art projection reminded me of that one scene from tangled / rapunzel 🤭 #ferrybuilding #lightprojection #sf #downtownsf #letsglowsf #sfholidays #baybridge </title>
+    <updated>2024-12-19T03:18:13+00:00</updated>
+    <content>this particular art projection reminded me of that one scene from tangled / rapunzel 🤭 #ferrybuilding #lightprojection #sf #downtownsf #letsglowsf #sfholidays #baybridge </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7449957020658257198"/>
+    <published>2024-12-19T03:18:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7450007803885882666</id>
+    <title>sf has my ❤️ #sanfrancisco </title>
+    <updated>2024-12-19T06:35:23+00:00</updated>
+    <content>sf has my ❤️ #sanfrancisco </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7450007803885882666"/>
+    <published>2024-12-19T06:35:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7450323348858637614</id>
+    <title>ty for supporting my love for sf &amp; hopefully loving it too 💌 #sf </title>
+    <updated>2024-12-20T02:59:44+00:00</updated>
+    <content>ty for supporting my love for sf &amp; hopefully loving it too 💌 #sf </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7450323348858637614"/>
+    <published>2024-12-20T02:59:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7313646083958132011</id>
+    <title>if their love language is quality time, an experiential gift that you can do together might be more meaningful and special 🫶 also if they don’t have something you can book rn or a gift certificate, make a cute custom ticket or coupon for the activity (I w</title>
+    <updated>2023-12-17T19:22:15+00:00</updated>
+    <content>if their love language is quality time, an experiential gift that you can do together might be more meaningful and special 🫶 also if they don’t have something you can book rn or a gift certificate, make a cute custom ticket or coupon for the activity (I w</content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7313646083958132011"/>
+    <published>2023-12-17T19:22:15+00:00</published>
   </entry>
 </feed>

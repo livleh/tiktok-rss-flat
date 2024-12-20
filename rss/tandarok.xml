@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2024-12-15T20:00:00+00:00</updated>
+  <updated>2024-12-16T20:00:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,22 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7423526756075703585</id>
+    <title>Du musst dir Liebe nicht erst verdienen  #dating #liebe </title>
+    <updated>2024-10-08T21:55:31+00:00</updated>
+    <content>Du musst dir Liebe nicht erst verdienen  #dating #liebe </content>
+    <link href="https://tiktok.com/@tandarok/video/7423526756075703585"/>
+    <published>2024-10-08T21:55:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7427749026684046624</id>
+    <title>Welche Leserichtung ist richtig? #comics #lesen </title>
+    <updated>2024-10-20T07:00:04+00:00</updated>
+    <content>Welche Leserichtung ist richtig? #comics #lesen </content>
+    <link href="https://tiktok.com/@tandarok/video/7427749026684046624"/>
+    <published>2024-10-20T07:00:04+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7430914067239292192</id>
     <title>Antwort auf @estell_95  Trotzdem ist und bleibt W.i.t.c.h. einfach ein banger. #witchcomics #magicalgirl </title>
@@ -269,20 +285,12 @@
     <published>2024-12-15T20:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@tandarok/video/7313835911203147040</id>
-    <title>Meine erste Rede zum Genderverbot von Söder #gendern #genderverbot #csusöder #bayern </title>
-    <updated>2023-12-18T07:38:55+00:00</updated>
-    <content>Meine erste Rede zum Genderverbot von Söder #gendern #genderverbot #csusöder #bayern </content>
-    <link href="https://tiktok.com/@tandarok/video/7313835911203147040"/>
-    <published>2023-12-18T07:38:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7244413115574521114</id>
-    <title>Die Demo war ein voller Erfolg 🥰 #drag #trans #noafd </title>
-    <updated>2023-06-14T05:43:20+00:00</updated>
-    <content>Die Demo war ein voller Erfolg 🥰 #drag #trans #noafd </content>
-    <link href="https://tiktok.com/@tandarok/video/7244413115574521114"/>
-    <published>2023-06-14T05:43:20+00:00</published>
+    <id>https://tiktok.com/@tandarok/video/7449101984944131350</id>
+    <title>Was für ein krasses Jahr. 2024 war wirklich ein Film und hat mich teils an meine Grenzen gebracht. Von unfassbar tollen und schönen Meilensteinen und Begegnungen, die ich nie vergessen werde, bis hin zu Enttäuschungen und Abschieden. Schon Anfang des Jahr</title>
+    <updated>2024-12-16T20:00:13+00:00</updated>
+    <content>Was für ein krasses Jahr. 2024 war wirklich ein Film und hat mich teils an meine Grenzen gebracht. Von unfassbar tollen und schönen Meilensteinen und Begegnungen, die ich nie vergessen werde, bis hin zu Enttäuschungen und Abschieden. Schon Anfang des Jahr</content>
+    <link href="https://tiktok.com/@tandarok/video/7449101984944131350"/>
+    <published>2024-12-16T20:00:13+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7378607614940220704</id>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-12-15T18:31:04+00:00</updated>
+  <updated>2024-12-20T11:57:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7427908069402643744</id>
-    <title>i didnt feel like going out side today and i had a packet of 4 melody pops lying around   </title>
-    <updated>2024-10-20T17:17:03+00:00</updated>
-    <content>i didnt feel like going out side today and i had a packet of 4 melody pops lying around   </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7427908069402643744"/>
-    <published>2024-10-20T17:17:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7428283184304901409</id>
-    <title>still no one has guessed the song we’re recording yet! this is not a clue sorry</title>
-    <updated>2024-10-21T17:32:45+00:00</updated>
-    <content>still no one has guessed the song we’re recording yet! this is not a clue sorry</content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7428283184304901409"/>
-    <published>2024-10-21T17:32:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7429393968451833120</id>
-    <title>voltaire… hair…  personally, id rather play solitaire </title>
-    <updated>2024-10-24T17:23:05+00:00</updated>
-    <content>voltaire… hair…  personally, id rather play solitaire </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7429393968451833120"/>
-    <published>2024-10-24T17:23:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7430525215454629152</id>
     <title>shannon matthews the musical first ever screening in leeds in april ! since its in the news i thought i might as well upload this cos it was meant for a vlog and this is how behind i am on editing those </title>
@@ -283,6 +259,38 @@
     <content>😡 this is not on</content>
     <link href="https://tiktok.com/@zoebreadtok/video/7448707912400194849"/>
     <published>2024-12-15T18:31:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7449079855989247265</id>
+    <title>working at asda. helping customers, cleaning and pickle egg </title>
+    <updated>2024-12-16T18:34:24+00:00</updated>
+    <content>working at asda. helping customers, cleaning and pickle egg </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7449079855989247265"/>
+    <published>2024-12-16T18:34:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7449821034364079393</id>
+    <title>im completely fine except that mt heart feels like it will explod!! sorry for lazy video just been busy getting mary fixed and having my heart explode  </title>
+    <updated>2024-12-18T18:30:52+00:00</updated>
+    <content>im completely fine except that mt heart feels like it will explod!! sorry for lazy video just been busy getting mary fixed and having my heart explode  </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7449821034364079393"/>
+    <published>2024-12-18T18:30:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7450196945089383712</id>
+    <title>CALLING OUT THE GRINCH FOR STEALING MY BIT, I THIBK HE HAS BEEN VISITING ALL SORTS OF RADIO STATIONS. HE MUST BE FOUND AND BROUGHT TO ME </title>
+    <updated>2024-12-19T18:49:16+00:00</updated>
+    <content>CALLING OUT THE GRINCH FOR STEALING MY BIT, I THIBK HE HAS BEEN VISITING ALL SORTS OF RADIO STATIONS. HE MUST BE FOUND AND BROUGHT TO ME </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7450196945089383712"/>
+    <published>2024-12-19T18:49:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7450461796806249760</id>
+    <title>i swear i will make it my lifes work to bring the grinch down </title>
+    <updated>2024-12-20T11:57:10+00:00</updated>
+    <content>i swear i will make it my lifes work to bring the grinch down </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7450461796806249760"/>
+    <published>2024-12-20T11:57:10+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7391078276183215392</id>

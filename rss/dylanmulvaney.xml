@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@dylanmulvaney</id>
   <title>dylanmulvaney</title>
-  <updated>2024-12-10T02:06:44+00:00</updated>
+  <updated>2024-12-18T20:21:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylanmulvaney</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylanmulvaney/video/7413655688477461803</id>
-    <title>Day 915- browgate </title>
-    <updated>2024-09-12T07:30:37+00:00</updated>
-    <content>Day 915- browgate </content>
-    <link href="https://tiktok.com/@dylanmulvaney/video/7413655688477461803"/>
-    <published>2024-09-12T07:30:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dylanmulvaney/video/7414644301428231467</id>
-    <title>@JVN getting me ready for Emmy’s weekend 👯‍♀️❤️ @JVN Hair </title>
-    <updated>2024-09-14T23:26:50+00:00</updated>
-    <content>@JVN getting me ready for Emmy’s weekend 👯‍♀️❤️ @JVN Hair </content>
-    <link href="https://tiktok.com/@dylanmulvaney/video/7414644301428231467"/>
-    <published>2024-09-14T23:26:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7415511471007730987</id>
     <title>@Joelocke singlehandedly turning me into a Marvel stan and me singlehandedly forcing him to make tiktoks @Marvel Entertainment @Disney+ #agatha </title>
@@ -283,6 +267,22 @@
     <content>@Joelocke NEVER again </content>
     <link href="https://tiktok.com/@dylanmulvaney/video/7446598836111363374"/>
     <published>2024-12-10T02:06:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylanmulvaney/video/7449150161294527786</id>
+    <title>IM STARTING A BOOK CLUB! Powered by @allstorabooks link in bio and first book for January is The Age of Magical Overthinking by Amanda Montell 💕🎀 #bookclub #trans </title>
+    <updated>2024-12-16T23:07:12+00:00</updated>
+    <content>IM STARTING A BOOK CLUB! Powered by @allstorabooks link in bio and first book for January is The Age of Magical Overthinking by Amanda Montell 💕🎀 #bookclub #trans </content>
+    <link href="https://tiktok.com/@dylanmulvaney/video/7449150161294527786"/>
+    <published>2024-12-16T23:07:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylanmulvaney/video/7449849540317908267</id>
+    <title>Cindy lou who,who ? @Angelina Panelli </title>
+    <updated>2024-12-18T20:21:08+00:00</updated>
+    <content>Cindy lou who,who ? @Angelina Panelli </content>
+    <link href="https://tiktok.com/@dylanmulvaney/video/7449849540317908267"/>
+    <published>2024-12-18T20:21:08+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7418617722923158827</id>

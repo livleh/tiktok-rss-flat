@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lillytino_</id>
   <title>lillytino_</title>
-  <updated>2024-12-12T21:16:40+00:00</updated>
+  <updated>2024-12-18T00:11:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,38 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from lillytino_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@lillytino_/video/7425621753193303338</id>
-    <title>Shoutout to all the Michaels out there 😂</title>
-    <updated>2024-10-14T13:24:59+00:00</updated>
-    <content>Shoutout to all the Michaels out there 😂</content>
-    <link href="https://tiktok.com/@lillytino_/video/7425621753193303338"/>
-    <published>2024-10-14T13:24:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@lillytino_/video/7430869884625538346</id>
-    <title>At least he tried 😅</title>
-    <updated>2024-10-28T16:50:25+00:00</updated>
-    <content>At least he tried 😅</content>
-    <link href="https://tiktok.com/@lillytino_/video/7430869884625538346"/>
-    <published>2024-10-28T16:50:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@lillytino_/video/7433430010662292778</id>
-    <title>PROTECT 👏 TRANS 👏 KIDS 👏</title>
-    <updated>2024-11-04T14:25:04+00:00</updated>
-    <content>PROTECT 👏 TRANS 👏 KIDS 👏</content>
-    <link href="https://tiktok.com/@lillytino_/video/7433430010662292778"/>
-    <published>2024-11-04T14:25:04+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@lillytino_/video/7433806373936287022</id>
-    <title>Replying to @🤍Sara🤍 let’s talk about *that* disney video</title>
-    <updated>2024-11-05T14:45:32+00:00</updated>
-    <content>Replying to @🤍Sara🤍 let’s talk about *that* disney video</content>
-    <link href="https://tiktok.com/@lillytino_/video/7433806373936287022"/>
-    <published>2024-11-05T14:45:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@lillytino_/video/7434205915085032750</id>
     <title>We didn’t pick this fight</title>
@@ -139,5 +107,21 @@
     <content>Please use gender neutral language if you’re not sure. For the record, i did not make a stink or call the manager for any of these. Just stood up and left.</content>
     <link href="https://tiktok.com/@lillytino_/video/7447637338429099307"/>
     <published>2024-12-12T21:16:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lillytino_/video/7449022286562200875</id>
+    <title>Take a look, it’s in a book 🌈</title>
+    <updated>2024-12-16T14:51:03+00:00</updated>
+    <content>Take a look, it’s in a book 🌈</content>
+    <link href="https://tiktok.com/@lillytino_/video/7449022286562200875"/>
+    <published>2024-12-16T14:51:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lillytino_/video/7449537928264584494</id>
+    <title>Forreal y’all 😤</title>
+    <updated>2024-12-18T00:11:55+00:00</updated>
+    <content>Forreal y’all 😤</content>
+    <link href="https://tiktok.com/@lillytino_/video/7449537928264584494"/>
+    <published>2024-12-18T00:11:55+00:00</published>
   </entry>
 </feed>
