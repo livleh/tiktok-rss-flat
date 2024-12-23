@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2024-12-20T15:16:10+00:00</updated>
+  <updated>2024-12-22T18:06:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7443822764458282272</id>
-    <title>Gender Envy - Why being Trans is confusing #trans #twitch #streamer</title>
-    <updated>2024-12-02T14:34:24+00:00</updated>
-    <content>Gender Envy - Why being Trans is confusing #trans #twitch #streamer</content>
-    <link href="https://tiktok.com/@nyaravt/video/7443822764458282272"/>
-    <published>2024-12-02T14:34:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7443827446400535840</id>
-    <title>Why Trans Rights affect EVERYONE #trans #lgbt #gender</title>
-    <updated>2024-12-02T14:52:36+00:00</updated>
-    <content>Why Trans Rights affect EVERYONE #trans #lgbt #gender</content>
-    <link href="https://tiktok.com/@nyaravt/video/7443827446400535840"/>
-    <published>2024-12-02T14:52:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7443828211772968214</id>
-    <title>#onthisday I banned German for a reason #streamer #twitch </title>
-    <updated>2024-12-02T14:55:20+00:00</updated>
-    <content>#onthisday I banned German for a reason #streamer #twitch </content>
-    <link href="https://tiktok.com/@nyaravt/video/7443828211772968214"/>
-    <published>2024-12-02T14:55:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7443969645431835926</id>
     <title>#onthisday turtle mating sounds still haunt me #streamer #twitch #trans </title>
@@ -291,6 +267,30 @@
     <content>Why Disney removing a Trans storyline is awful #lgbtq #trans</content>
     <link href="https://tiktok.com/@nyaravt/video/7450513120251874592"/>
     <published>2024-12-20T15:16:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7451254819219590422</id>
+    <title>it’s been a year since a judge declared me female #trans #onthisday </title>
+    <updated>2024-12-22T15:14:20+00:00</updated>
+    <content>it’s been a year since a judge declared me female #trans #onthisday </content>
+    <link href="https://tiktok.com/@nyaravt/video/7451254819219590422"/>
+    <published>2024-12-22T15:14:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7451264327371328800</id>
+    <title>you will never afford a house, might as well give your money to me #vtuber</title>
+    <updated>2024-12-22T15:51:14+00:00</updated>
+    <content>you will never afford a house, might as well give your money to me #vtuber</content>
+    <link href="https://tiktok.com/@nyaravt/video/7451264327371328800"/>
+    <published>2024-12-22T15:51:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7451299041322847521</id>
+    <title>Being trans is NOT a choice #vtuber</title>
+    <updated>2024-12-22T18:06:00+00:00</updated>
+    <content>Being trans is NOT a choice #vtuber</content>
+    <link href="https://tiktok.com/@nyaravt/video/7451299041322847521"/>
+    <published>2024-12-22T18:06:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>

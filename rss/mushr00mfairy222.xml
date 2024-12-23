@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2024-12-19T22:10:46+00:00</updated>
+  <updated>2024-12-22T14:57:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7446122057705803041</id>
-    <title>I LOVE HAVING PINK HAIR TBH #pinkhair #dyedhair #hairdye </title>
-    <updated>2024-12-08T19:16:41+00:00</updated>
-    <content>I LOVE HAVING PINK HAIR TBH #pinkhair #dyedhair #hairdye </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7446122057705803041"/>
-    <published>2024-12-08T19:16:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7446431088127282464</id>
     <title>Replying to @Vicky Vicious more unique/ non basic etc christmas list / gift ideas! #christmaslist #xmaslist #giftinspo </title>
@@ -291,6 +283,14 @@
     <content>photos from today :) #christmas #christmaslights #pinkhair </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7450248879615823137"/>
     <published>2024-12-19T22:10:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7451250491264109857</id>
+    <title>probably forgetting something it's actually been such a fun year 😭 #2024 </title>
+    <updated>2024-12-22T14:57:37+00:00</updated>
+    <content>probably forgetting something it's actually been such a fun year 😭 #2024 </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7451250491264109857"/>
+    <published>2024-12-22T14:57:37+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>

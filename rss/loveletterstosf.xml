@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2024-12-20T02:59:44+00:00</updated>
+  <updated>2024-12-21T22:03:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from loveletterstosf</subtitle>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7420495615299292458</id>
-    <title>palm city was better than I had hoped for, sandwich slayed, vibes were vibing 🌊🫶 #sf #winebar #sfbars #sunsetdistrict #ilikethislife </title>
-    <updated>2024-09-30T17:52:59+00:00</updated>
-    <content>palm city was better than I had hoped for, sandwich slayed, vibes were vibing 🌊🫶 #sf #winebar #sfbars #sunsetdistrict #ilikethislife </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7420495615299292458"/>
-    <published>2024-09-30T17:52:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7421213563085229354</id>
     <title>some stunning sunsets we’ve been having #sf #sfsunset #bikerides #oceanbeach #crissyfield </title>
@@ -293,11 +285,11 @@
     <published>2024-12-20T02:59:44+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7313646083958132011</id>
-    <title>if their love language is quality time, an experiential gift that you can do together might be more meaningful and special 🫶 also if they don’t have something you can book rn or a gift certificate, make a cute custom ticket or coupon for the activity (I w</title>
-    <updated>2023-12-17T19:22:15+00:00</updated>
-    <content>if their love language is quality time, an experiential gift that you can do together might be more meaningful and special 🫶 also if they don’t have something you can book rn or a gift certificate, make a cute custom ticket or coupon for the activity (I w</content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7313646083958132011"/>
-    <published>2023-12-17T19:22:15+00:00</published>
+    <id>https://tiktok.com/@loveletterstosf/video/7450989110023441707</id>
+    <title>transamerica pyramid channeling 🎄✨ energy last night #transamericapyramid #sf #sfholidays #sfskyline #sfbuilding #sflights #sfnight </title>
+    <updated>2024-12-21T22:03:14+00:00</updated>
+    <content>transamerica pyramid channeling 🎄✨ energy last night #transamericapyramid #sf #sfholidays #sfskyline #sfbuilding #sflights #sfnight </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7450989110023441707"/>
+    <published>2024-12-21T22:03:14+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tallywyteee</id>
   <title>tallywyteee</title>
-  <updated>2024-12-20T18:13:35+00:00</updated>
+  <updated>2024-12-22T17:26:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tallywyteee</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tallywyteee/video/7423087072602344750</id>
-    <title>Why would homie use such colorful language to  describe me? 💀😅👀</title>
-    <updated>2024-10-07T17:29:09+00:00</updated>
-    <content>Why would homie use such colorful language to  describe me? 💀😅👀</content>
-    <link href="https://tiktok.com/@tallywyteee/video/7423087072602344750"/>
-    <published>2024-10-07T17:29:09+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@tallywyteee/video/7423450552320773419</id>
-    <title>Do you think he lowkey wants me? 😂👀💙 </title>
-    <updated>2024-10-08T16:59:38+00:00</updated>
-    <content>Do you think he lowkey wants me? 😂👀💙 </content>
-    <link href="https://tiktok.com/@tallywyteee/video/7423450552320773419"/>
-    <published>2024-10-08T16:59:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7423816372435815726</id>
     <title>Why would homie scream “not again!?” 😂👀💙</title>
@@ -285,12 +269,28 @@
     <published>2024-12-12T20:38:17+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@tallywyteee/video/7450558781634743582</id>
-    <title>Homie thought i was cute 😃</title>
-    <updated>2024-12-20T18:13:35+00:00</updated>
-    <content>Homie thought i was cute 😃</content>
-    <link href="https://tiktok.com/@tallywyteee/video/7450558781634743582"/>
-    <published>2024-12-20T18:13:35+00:00</published>
+    <id>https://tiktok.com/@tallywyteee/video/7450664209798515998</id>
+    <title>Personally, i like asian ppl. They are dope. I happen to be a little bit asian myself. Whenever i see an asian person i am like omg they are just like me, but i think a lot of ppl just think i am white 😁👍🏻</title>
+    <updated>2024-12-21T01:02:38+00:00</updated>
+    <content>Personally, i like asian ppl. They are dope. I happen to be a little bit asian myself. Whenever i see an asian person i am like omg they are just like me, but i think a lot of ppl just think i am white 😁👍🏻</content>
+    <link href="https://tiktok.com/@tallywyteee/video/7450664209798515998"/>
+    <published>2024-12-21T01:02:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tallywyteee/video/7450931340721016094</id>
+    <title>Can you say meow real quick? 😺</title>
+    <updated>2024-12-21T18:19:14+00:00</updated>
+    <content>Can you say meow real quick? 😺</content>
+    <link href="https://tiktok.com/@tallywyteee/video/7450931340721016094"/>
+    <published>2024-12-21T18:19:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tallywyteee/video/7451288719761444127</id>
+    <title>What if i told you i look like an elf for a actually very true reason? 😅</title>
+    <updated>2024-12-22T17:26:05+00:00</updated>
+    <content>What if i told you i look like an elf for a actually very true reason? 😅</content>
+    <link href="https://tiktok.com/@tallywyteee/video/7451288719761444127"/>
+    <published>2024-12-22T17:26:05+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7261699619762048298</id>

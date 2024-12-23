@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@dylanmulvaney</id>
   <title>dylanmulvaney</title>
-  <updated>2024-12-18T20:21:08+00:00</updated>
+  <updated>2024-12-21T20:25:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylanmulvaney</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylanmulvaney/video/7415511471007730987</id>
-    <title>@Joelocke singlehandedly turning me into a Marvel stan and me singlehandedly forcing him to make tiktoks @Marvel Entertainment @Disney+ #agatha </title>
-    <updated>2024-09-17T07:32:07+00:00</updated>
-    <content>@Joelocke singlehandedly turning me into a Marvel stan and me singlehandedly forcing him to make tiktoks @Marvel Entertainment @Disney+ #agatha </content>
-    <link href="https://tiktok.com/@dylanmulvaney/video/7415511471007730987"/>
-    <published>2024-09-17T07:32:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7415669050790939946</id>
     <title>Agatha premiere 🪄🔮 @Marvel Entertainment  glam: @Angelina Panelli @IG: @kole_mua @christiancowan </title>
@@ -283,6 +275,14 @@
     <content>Cindy lou who,who ? @Angelina Panelli </content>
     <link href="https://tiktok.com/@dylanmulvaney/video/7449849540317908267"/>
     <published>2024-12-18T20:21:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylanmulvaney/video/7450964007130893610</id>
+    <title>hear me out 🥵</title>
+    <updated>2024-12-21T20:25:51+00:00</updated>
+    <content>hear me out 🥵</content>
+    <link href="https://tiktok.com/@dylanmulvaney/video/7450964007130893610"/>
+    <published>2024-12-21T20:25:51+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@dylanmulvaney/video/7418617722923158827</id>

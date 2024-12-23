@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-12-20T16:21:37+00:00</updated>
+  <updated>2024-12-22T23:03:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7437651737965628702</id>
-    <title>Las Vegas! I will be at @House of Blues Las Vegas the day after Thanksgiving! Tickets are available on my site for November 29th. See you all there xo </title>
-    <updated>2024-11-15T23:27:39+00:00</updated>
-    <content>Las Vegas! I will be at @House of Blues Las Vegas the day after Thanksgiving! Tickets are available on my site for November 29th. See you all there xo </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7437651737965628702"/>
-    <published>2024-11-15T23:27:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7437879957352746270</id>
-    <title>Of course its a dot net  #dating #rabbi </title>
-    <updated>2024-11-16T14:13:24+00:00</updated>
-    <content>Of course its a dot net  #dating #rabbi </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7437879957352746270"/>
-    <published>2024-11-16T14:13:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7438397446822186271</id>
     <title>Online Drag Brunch  #drag #brunch </title>
@@ -283,6 +267,22 @@
     <content>Security at my show! </content>
     <link href="https://tiktok.com/@jessicakirson/video/7450247037716532522"/>
     <published>2024-12-19T22:03:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7450857615011237151</id>
+    <title>I Love How They Are So Honest ❤️</title>
+    <updated>2024-12-21T13:33:34+00:00</updated>
+    <content>I Love How They Are So Honest ❤️</content>
+    <link href="https://tiktok.com/@jessicakirson/video/7450857615011237151"/>
+    <published>2024-12-21T13:33:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7451375575408692510</id>
+    <title>They Came From Barcelona </title>
+    <updated>2024-12-22T23:03:10+00:00</updated>
+    <content>They Came From Barcelona </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7451375575408692510"/>
+    <published>2024-12-22T23:03:10+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7450529978304777518</id>

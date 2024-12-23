@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shaunadewit</id>
   <title>shaunadewit</title>
-  <updated>2024-12-20T15:46:41+00:00</updated>
+  <updated>2024-12-21T13:19:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shaunadewit</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shaunadewit/video/7408921261709069601</id>
-    <title>Always here to help #foryou #humor #goviral #pourtoi #comedy </title>
-    <updated>2024-08-30T13:18:32+00:00</updated>
-    <content>Always here to help #foryou #humor #goviral #pourtoi #comedy </content>
-    <link href="https://tiktok.com/@shaunadewit/video/7408921261709069601"/>
-    <published>2024-08-30T13:18:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/7410013200172797216</id>
     <title>So tell me why #foryou #humor #goviral #pourtoi #comedy </title>
@@ -291,6 +283,14 @@
     <content>Advertising Stressed about finding the perfect gifts on time? Don’t worry, Amazon got your back ✨ @Amazon #amazonbelgium</content>
     <link href="https://tiktok.com/@shaunadewit/video/7450520977861119254"/>
     <published>2024-12-20T15:46:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shaunadewit/video/7450854018802355478</id>
+    <title>Facts #foryou #humor #goviral #pourtoi #comedy </title>
+    <updated>2024-12-21T13:19:02+00:00</updated>
+    <content>Facts #foryou #humor #goviral #pourtoi #comedy </content>
+    <link href="https://tiktok.com/@shaunadewit/video/7450854018802355478"/>
+    <published>2024-12-21T13:19:02+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/6994791135415766278</id>
