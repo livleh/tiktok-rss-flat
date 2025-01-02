@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shaunadewit</id>
   <title>shaunadewit</title>
-  <updated>2024-12-21T13:19:02+00:00</updated>
+  <updated>2024-12-29T13:42:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shaunadewit</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shaunadewit/video/7410013200172797216</id>
-    <title>So tell me why #foryou #humor #goviral #pourtoi #comedy </title>
-    <updated>2024-09-02T11:55:53+00:00</updated>
-    <content>So tell me why #foryou #humor #goviral #pourtoi #comedy </content>
-    <link href="https://tiktok.com/@shaunadewit/video/7410013200172797216"/>
-    <published>2024-09-02T11:55:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@shaunadewit/video/7412256833898941729</id>
-    <title>Food is love #foryou #humor #goviral #pourtoi #comedy </title>
-    <updated>2024-09-08T13:02:20+00:00</updated>
-    <content>Food is love #foryou #humor #goviral #pourtoi #comedy </content>
-    <link href="https://tiktok.com/@shaunadewit/video/7412256833898941729"/>
-    <published>2024-09-08T13:02:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@shaunadewit/video/7413763100467580193</id>
-    <title>Well well #foryou #humor #goviral #pourtoi #comedy </title>
-    <updated>2024-09-12T14:27:21+00:00</updated>
-    <content>Well well #foryou #humor #goviral #pourtoi #comedy </content>
-    <link href="https://tiktok.com/@shaunadewit/video/7413763100467580193"/>
-    <published>2024-09-12T14:27:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/7414115275886365985</id>
     <title>This trick is really effective !! #foryou #humor #goviral #pourtoi #comedy </title>
@@ -291,6 +267,30 @@
     <content>Facts #foryou #humor #goviral #pourtoi #comedy </content>
     <link href="https://tiktok.com/@shaunadewit/video/7450854018802355478"/>
     <published>2024-12-21T13:19:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shaunadewit/video/7451603946617048322</id>
+    <title>Uno reverse card #foryou #humor #goviral #pourtoi #comedy </title>
+    <updated>2024-12-23T13:49:08+00:00</updated>
+    <content>Uno reverse card #foryou #humor #goviral #pourtoi #comedy </content>
+    <link href="https://tiktok.com/@shaunadewit/video/7451603946617048322"/>
+    <published>2024-12-23T13:49:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shaunadewit/video/7452720624625061142</id>
+    <title>For anymore tip I’m your good friend #foryou #humor #goviral #pourtoi #comedy </title>
+    <updated>2024-12-26T14:02:25+00:00</updated>
+    <content>For anymore tip I’m your good friend #foryou #humor #goviral #pourtoi #comedy </content>
+    <link href="https://tiktok.com/@shaunadewit/video/7452720624625061142"/>
+    <published>2024-12-26T14:02:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shaunadewit/video/7453828728586603798</id>
+    <title>Queen never cry I guess #foryou #humor #goviral #pourtoi #comedy </title>
+    <updated>2024-12-29T13:42:25+00:00</updated>
+    <content>Queen never cry I guess #foryou #humor #goviral #pourtoi #comedy </content>
+    <link href="https://tiktok.com/@shaunadewit/video/7453828728586603798"/>
+    <published>2024-12-29T13:42:25+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/6994791135415766278</id>

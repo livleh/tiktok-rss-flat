@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2024-12-21T11:55:19+00:00</updated>
+  <updated>2024-12-29T09:19:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7431550124138007824</id>
-    <title>Imagine meeting your date in this </title>
-    <updated>2024-10-30T12:50:10+00:00</updated>
-    <content>Imagine meeting your date in this </content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7431550124138007824"/>
-    <published>2024-10-30T12:50:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7431787698429414672</id>
     <title>It’s wifey or NOTHING 💋</title>
@@ -251,5 +243,13 @@
     <content>I was the prettiest little girl</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7450832366634798337"/>
     <published>2024-12-21T11:55:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7453760958243097873</id>
+    <title>No Title</title>
+    <updated>2024-12-29T09:19:56+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7453760958243097873"/>
+    <published>2024-12-29T09:19:56+00:00</published>
   </entry>
 </feed>

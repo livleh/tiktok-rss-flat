@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ramalauw</id>
   <title>ramalauw</title>
-  <updated>2024-12-12T15:22:04+00:00</updated>
+  <updated>2024-12-27T01:57:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ramalauw</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ramalauw/video/7399692232518929696</id>
-    <title>I bet everyone thinks I’m a local 🥺🤭☺️💃✨ #BetterThanEveryone #BTEFace #maincharacter #delulu #travel #traveling #traveltok #fyp #foryou</title>
-    <updated>2024-08-05T16:25:12+00:00</updated>
-    <content>I bet everyone thinks I’m a local 🥺🤭☺️💃✨ #BetterThanEveryone #BTEFace #maincharacter #delulu #travel #traveling #traveltok #fyp #foryou</content>
-    <link href="https://tiktok.com/@ramalauw/video/7399692232518929696"/>
-    <published>2024-08-05T16:25:12+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@ramalauw/video/7400401174463057185</id>
-    <title>I’m convinced the only reason anyone would do a ✨master’s degree✨ is to delay adult responsibilities 😤😮‍💨🫠🤡💃✨ #Free99 #mastersdegree #school #studentlife #fyp #foryou</title>
-    <updated>2024-08-07T14:16:15+00:00</updated>
-    <content>I’m convinced the only reason anyone would do a ✨master’s degree✨ is to delay adult responsibilities 😤😮‍💨🫠🤡💃✨ #Free99 #mastersdegree #school #studentlife #fyp #foryou</content>
-    <link href="https://tiktok.com/@ramalauw/video/7400401174463057185"/>
-    <published>2024-08-07T14:16:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7401897392355953952</id>
     <title>Me: I’m not dramatique Also me:</title>
@@ -291,6 +275,22 @@
     <content>I just wanna know what it feels like to actually love my body 😭 #free99 </content>
     <link href="https://tiktok.com/@ramalauw/video/7447545959665503511"/>
     <published>2024-12-12T15:22:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ramalauw/video/7452388818290003222</id>
+    <title>As a kid, I couldn't wait to grow up. I thought adulthood meant getting my dream job, finding my soulmate, and living a fulfilled life-as if getting older would magically make it all happen. But after college, I quickly realized adulthood is complicated. </title>
+    <updated>2024-12-25T16:34:50+00:00</updated>
+    <content>As a kid, I couldn't wait to grow up. I thought adulthood meant getting my dream job, finding my soulmate, and living a fulfilled life-as if getting older would magically make it all happen. But after college, I quickly realized adulthood is complicated. </content>
+    <link href="https://tiktok.com/@ramalauw/video/7452388818290003222"/>
+    <published>2024-12-25T16:34:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ramalauw/video/7452904906610035990</id>
+    <title>#ad Me being forced to work in the office: I would be WAY more productive and focused working from home Me ✨working from home✨: @KAYAK #kayakpartner</title>
+    <updated>2024-12-27T01:57:37+00:00</updated>
+    <content>#ad Me being forced to work in the office: I would be WAY more productive and focused working from home Me ✨working from home✨: @KAYAK #kayakpartner</content>
+    <link href="https://tiktok.com/@ramalauw/video/7452904906610035990"/>
+    <published>2024-12-27T01:57:37+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7270903343638187297</id>

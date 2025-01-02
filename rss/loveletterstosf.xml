@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2024-12-21T22:03:14+00:00</updated>
+  <updated>2024-12-28T23:53:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from loveletterstosf</subtitle>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7421213563085229354</id>
-    <title>some stunning sunsets we’ve been having #sf #sfsunset #bikerides #oceanbeach #crissyfield </title>
-    <updated>2024-10-02T16:19:01+00:00</updated>
-    <content>some stunning sunsets we’ve been having #sf #sfsunset #bikerides #oceanbeach #crissyfield </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7421213563085229354"/>
-    <published>2024-10-02T16:19:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7421785235462933803</id>
-    <title>@Waystone is always such a vibe, this wine bar in #northbeach is so underrated, delicious bites, great wine &amp; friendly owners, you gotta add it to your lisr 🫶 #sf #sfwinebar #sfbars #livemusic #sfjazz </title>
-    <updated>2024-10-04T05:17:25+00:00</updated>
-    <content>@Waystone is always such a vibe, this wine bar in #northbeach is so underrated, delicious bites, great wine &amp; friendly owners, you gotta add it to your lisr 🫶 #sf #sfwinebar #sfbars #livemusic #sfjazz </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7421785235462933803"/>
-    <published>2024-10-04T05:17:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7421962634087501102</id>
-    <title>#thisweekendinsf #thingstodoinsf #sfevents #sftok #castrostreetfair #castrodistrict </title>
-    <updated>2024-10-04T16:45:43+00:00</updated>
-    <content>#thisweekendinsf #thingstodoinsf #sfevents #sftok #castrostreetfair #castrodistrict </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7421962634087501102"/>
-    <published>2024-10-04T16:45:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7422373613434703146</id>
     <title>gracie + ocean beach sunset 😌 #sfsunset </title>
@@ -291,5 +267,29 @@
     <content>transamerica pyramid channeling 🎄✨ energy last night #transamericapyramid #sf #sfholidays #sfskyline #sfbuilding #sflights #sfnight </content>
     <link href="https://tiktok.com/@loveletterstosf/video/7450989110023441707"/>
     <published>2024-12-21T22:03:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7452210204541783342</id>
+    <title>may or may not have been waiting to use this sound &amp; make this vid since ttpd came out 🤭 #sf #baywindows #sfholidays #xmas #sfxmas #xmastrees #sftok #ttpd #ilookinpeopleswindows </title>
+    <updated>2024-12-25T05:01:42+00:00</updated>
+    <content>may or may not have been waiting to use this sound &amp; make this vid since ttpd came out 🤭 #sf #baywindows #sfholidays #xmas #sfxmas #xmastrees #sftok #ttpd #ilookinpeopleswindows </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7452210204541783342"/>
+    <published>2024-12-25T05:01:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7452534702184975659</id>
+    <title>pov: ur home in sf for the holidays 🎄❄️✨🫶 #sf #sftok #sfholidays #cityhall #ferrybuilding #transamericapyramid #nobhill #pier39 #sfxmas </title>
+    <updated>2024-12-26T02:00:55+00:00</updated>
+    <content>pov: ur home in sf for the holidays 🎄❄️✨🫶 #sf #sftok #sfholidays #cityhall #ferrybuilding #transamericapyramid #nobhill #pier39 #sfxmas </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7452534702184975659"/>
+    <published>2024-12-26T02:00:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7453615244045241642</id>
+    <title>#pier39 #sf #sanfrancisco #sfholidays #sfxmas </title>
+    <updated>2024-12-28T23:53:59+00:00</updated>
+    <content>#pier39 #sf #sanfrancisco #sfholidays #sfxmas </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7453615244045241642"/>
+    <published>2024-12-28T23:53:59+00:00</published>
   </entry>
 </feed>

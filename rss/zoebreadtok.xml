@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2024-12-22T20:20:06+00:00</updated>
+  <updated>2024-12-31T18:20:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,54 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7430894578431036704</id>
-    <title>earning my healthy heart brownies badge </title>
-    <updated>2024-10-28T18:26:15+00:00</updated>
-    <content>earning my healthy heart brownies badge </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7430894578431036704"/>
-    <published>2024-10-28T18:26:15+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7431279942119329056</id>
-    <title>women in STEM</title>
-    <updated>2024-10-29T19:21:40+00:00</updated>
-    <content>women in STEM</content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7431279942119329056"/>
-    <published>2024-10-29T19:21:40+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7432007418625789217</id>
-    <title>i think i need a lawyer </title>
-    <updated>2024-10-31T18:24:37+00:00</updated>
-    <content>i think i need a lawyer </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7432007418625789217"/>
-    <published>2024-10-31T18:24:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7433120478929243424</id>
-    <title>the rarest brownies badge!!! st albans chippy hike</title>
-    <updated>2024-11-03T18:23:54+00:00</updated>
-    <content>the rarest brownies badge!!! st albans chippy hike</content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7433120478929243424"/>
-    <published>2024-11-03T18:23:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7433862773551009057</id>
-    <title>solving the case of the missing cheese with my completely impartial team </title>
-    <updated>2024-11-05T18:24:22+00:00</updated>
-    <content>solving the case of the missing cheese with my completely impartial team </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7433862773551009057"/>
-    <published>2024-11-05T18:24:22+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7434233950651960609</id>
-    <title>this description box has been intentionally left blank </title>
-    <updated>2024-11-06T18:24:45+00:00</updated>
-    <content>this description box has been intentionally left blank </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7434233950651960609"/>
-    <published>2024-11-06T18:24:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7434604949482360097</id>
     <title>a bad video beause i had admins to do sorry. i didnt even do the admins :( </title>
@@ -283,6 +235,54 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@zoebreadtok/video/7451333611321609505"/>
     <published>2024-12-22T20:20:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7451679012654419232</id>
+    <title>grinch update number 2!!!! i’m so confused </title>
+    <updated>2024-12-23T18:40:27+00:00</updated>
+    <content>grinch update number 2!!!! i’m so confused </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7451679012654419232"/>
+    <published>2024-12-23T18:40:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7452020937584561441</id>
+    <title>Replying to @Dougie </title>
+    <updated>2024-12-24T16:47:19+00:00</updated>
+    <content>Replying to @Dougie </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7452020937584561441"/>
+    <published>2024-12-24T16:47:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7453149283617967392</id>
+    <title>yeah</title>
+    <updated>2024-12-27T17:45:51+00:00</updated>
+    <content>yeah</content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7453149283617967392"/>
+    <published>2024-12-27T17:45:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7453546886453054753</id>
+    <title>writing a long description can also help me get more than 3x as many views !!!!</title>
+    <updated>2024-12-28T19:28:45+00:00</updated>
+    <content>writing a long description can also help me get more than 3x as many views !!!!</content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7453546886453054753"/>
+    <published>2024-12-28T19:28:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7453901672692075808</id>
+    <title>congratulation i guess 😡 this isn’t the end of this zoë bread </title>
+    <updated>2024-12-29T18:25:33+00:00</updated>
+    <content>congratulation i guess 😡 this isn’t the end of this zoë bread </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7453901672692075808"/>
+    <published>2024-12-29T18:25:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7454642650403196192</id>
+    <title>merry new year one and all and to all a new year </title>
+    <updated>2024-12-31T18:20:50+00:00</updated>
+    <content>merry new year one and all and to all a new year </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7454642650403196192"/>
+    <published>2024-12-31T18:20:50+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7391078276183215392</id>

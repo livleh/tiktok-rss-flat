@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lillytino_</id>
   <title>lillytino_</title>
-  <updated>2024-12-18T00:11:55+00:00</updated>
+  <updated>2025-01-02T15:52:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,38 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from lillytino_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@lillytino_/video/7434205915085032750</id>
-    <title>We didn’t pick this fight</title>
-    <updated>2024-11-06T16:35:55+00:00</updated>
-    <content>We didn’t pick this fight</content>
-    <link href="https://tiktok.com/@lillytino_/video/7434205915085032750"/>
-    <published>2024-11-06T16:35:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@lillytino_/video/7436038868228377899</id>
-    <title>Do you know them all? 🤔</title>
-    <updated>2024-11-11T15:08:44+00:00</updated>
-    <content>Do you know them all? 🤔</content>
-    <link href="https://tiktok.com/@lillytino_/video/7436038868228377899"/>
-    <published>2024-11-11T15:08:44+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@lillytino_/video/7436759421629238570</id>
-    <title>So scary 😂</title>
-    <updated>2024-11-13T13:44:50+00:00</updated>
-    <content>So scary 😂</content>
-    <link href="https://tiktok.com/@lillytino_/video/7436759421629238570"/>
-    <published>2024-11-13T13:44:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@lillytino_/video/7437143609117396266</id>
-    <title>There’s a reason that 🏳️‍🌈 and 🏳️‍⚧️ are different flags 😂</title>
-    <updated>2024-11-14T14:35:40+00:00</updated>
-    <content>There’s a reason that 🏳️‍🌈 and 🏳️‍⚧️ are different flags 😂</content>
-    <link href="https://tiktok.com/@lillytino_/video/7437143609117396266"/>
-    <published>2024-11-14T14:35:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@lillytino_/video/7439751742792813866</id>
     <title>The twist at the end though…</title>
@@ -123,5 +91,21 @@
     <content>Forreal y’all 😤</content>
     <link href="https://tiktok.com/@lillytino_/video/7449537928264584494"/>
     <published>2024-12-18T00:11:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lillytino_/video/7452742581349272874</id>
+    <title>Just use gender neutral language - it’s not that hard 🤦🏻‍♀️</title>
+    <updated>2024-12-26T15:27:37+00:00</updated>
+    <content>Just use gender neutral language - it’s not that hard 🤦🏻‍♀️</content>
+    <link href="https://tiktok.com/@lillytino_/video/7452742581349272874"/>
+    <published>2024-12-26T15:27:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lillytino_/video/7455346443239427371</id>
+    <title>Goodbye candy cane 🙏</title>
+    <updated>2025-01-02T15:52:09+00:00</updated>
+    <content>Goodbye candy cane 🙏</content>
+    <link href="https://tiktok.com/@lillytino_/video/7455346443239427371"/>
+    <published>2025-01-02T15:52:09+00:00</published>
   </entry>
 </feed>

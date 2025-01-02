@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2024-12-22T23:03:10+00:00</updated>
+  <updated>2025-01-01T22:38:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,62 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7438397446822186271</id>
-    <title>Online Drag Brunch  #drag #brunch </title>
-    <updated>2024-11-17T23:41:22+00:00</updated>
-    <content>Online Drag Brunch  #drag #brunch </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7438397446822186271"/>
-    <published>2024-11-17T23:41:22+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7438764783119174942</id>
-    <title>SOHO Art Dealer</title>
-    <updated>2024-11-18T23:26:45+00:00</updated>
-    <content>SOHO Art Dealer</content>
-    <link href="https://tiktok.com/@jessicakirson/video/7438764783119174942"/>
-    <published>2024-11-18T23:26:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7439144972030414110</id>
-    <title>Bob the middle school administrator 👀. Planning my 2025 tour so comment your city!!</title>
-    <updated>2024-11-20T00:02:01+00:00</updated>
-    <content>Bob the middle school administrator 👀. Planning my 2025 tour so comment your city!!</content>
-    <link href="https://tiktok.com/@jessicakirson/video/7439144972030414110"/>
-    <published>2024-11-20T00:02:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7439861993638497567</id>
-    <title>They met in Temple 😂</title>
-    <updated>2024-11-21T22:24:26+00:00</updated>
-    <content>They met in Temple 😂</content>
-    <link href="https://tiktok.com/@jessicakirson/video/7439861993638497567"/>
-    <published>2024-11-21T22:24:26+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7440491621390519582</id>
-    <title>Chubby And Delicious  #chubby #delicious #scotland </title>
-    <updated>2024-11-23T15:07:56+00:00</updated>
-    <content>Chubby And Delicious  #chubby #delicious #scotland </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7440491621390519582"/>
-    <published>2024-11-23T15:07:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7441010207783800095</id>
-    <title>Nascar Driver Gets Pulled Over  #nascar </title>
-    <updated>2024-11-25T00:40:14+00:00</updated>
-    <content>Nascar Driver Gets Pulled Over  #nascar </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7441010207783800095"/>
-    <published>2024-11-25T00:40:14+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7441376039332334878</id>
-    <title>A Tik Tok Mod came to my show 😂 #tiktok #work #firstday </title>
-    <updated>2024-11-26T00:19:48+00:00</updated>
-    <content>A Tik Tok Mod came to my show 😂 #tiktok #work #firstday </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7441376039332334878"/>
-    <published>2024-11-26T00:19:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7441726421120060702</id>
     <title>Im not saying that in a feminist way </title>
@@ -283,6 +227,62 @@
     <content>They Came From Barcelona </content>
     <link href="https://tiktok.com/@jessicakirson/video/7451375575408692510"/>
     <published>2024-12-22T23:03:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7451742533333568814</id>
+    <title>He Is Incredible! If you know him please tag him ❤️</title>
+    <updated>2024-12-23T22:46:54+00:00</updated>
+    <content>He Is Incredible! If you know him please tag him ❤️</content>
+    <link href="https://tiktok.com/@jessicakirson/video/7451742533333568814"/>
+    <published>2024-12-23T22:46:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7452110095162363179</id>
+    <title>Glass breaking at the show</title>
+    <updated>2024-12-24T22:33:13+00:00</updated>
+    <content>Glass breaking at the show</content>
+    <link href="https://tiktok.com/@jessicakirson/video/7452110095162363179"/>
+    <published>2024-12-24T22:33:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7452856889035083050</id>
+    <title>I could tell it wasn’t going anywhere </title>
+    <updated>2024-12-26T22:51:12+00:00</updated>
+    <content>I could tell it wasn’t going anywhere </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7452856889035083050"/>
+    <published>2024-12-26T22:51:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7453229581550538015</id>
+    <title>Lesbian Bar in Paris </title>
+    <updated>2024-12-27T22:57:32+00:00</updated>
+    <content>Lesbian Bar in Paris </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7453229581550538015"/>
+    <published>2024-12-27T22:57:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7453952928743689515</id>
+    <title>I do need a new rabbit </title>
+    <updated>2024-12-29T21:44:22+00:00</updated>
+    <content>I do need a new rabbit </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7453952928743689515"/>
+    <published>2024-12-29T21:44:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7454353152616189227</id>
+    <title>Should I go to Ireland? </title>
+    <updated>2024-12-30T23:37:26+00:00</updated>
+    <content>Should I go to Ireland? </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7454353152616189227"/>
+    <published>2024-12-30T23:37:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7455080110509641006</id>
+    <title>She spoons well. I remember </title>
+    <updated>2025-01-01T22:38:28+00:00</updated>
+    <content>She spoons well. I remember </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7455080110509641006"/>
+    <published>2025-01-01T22:38:28+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7450529978304777518</id>

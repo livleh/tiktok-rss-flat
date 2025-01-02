@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jade..harmony</id>
   <title>jade..harmony</title>
-  <updated>2024-12-23T01:27:34+00:00</updated>
+  <updated>2024-12-29T13:32:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,46 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jade..harmony</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jade..harmony/video/7425600031790468382</id>
-    <title>#foryoupage #funny </title>
-    <updated>2024-10-14T12:01:06+00:00</updated>
-    <content>#foryoupage #funny </content>
-    <link href="https://tiktok.com/@jade..harmony/video/7425600031790468382"/>
-    <published>2024-10-14T12:01:06+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jade..harmony/video/7427220821887814942</id>
-    <title>#foryoupage </title>
-    <updated>2024-10-18T20:50:26+00:00</updated>
-    <content>#foryoupage </content>
-    <link href="https://tiktok.com/@jade..harmony/video/7427220821887814942"/>
-    <published>2024-10-18T20:50:26+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jade..harmony/video/7429059530518056222</id>
-    <title>#foryoupage #funny #transgender #imgibbey </title>
-    <updated>2024-10-23T19:45:24+00:00</updated>
-    <content>#foryoupage #funny #transgender #imgibbey </content>
-    <link href="https://tiktok.com/@jade..harmony/video/7429059530518056222"/>
-    <published>2024-10-23T19:45:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jade..harmony/video/7429083476600556830</id>
-    <title>#foryoupage #transgender #iwillfindyou </title>
-    <updated>2024-10-23T21:18:16+00:00</updated>
-    <content>#foryoupage #transgender #iwillfindyou </content>
-    <link href="https://tiktok.com/@jade..harmony/video/7429083476600556830"/>
-    <published>2024-10-23T21:18:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jade..harmony/video/7429693416381959454</id>
-    <title>#foryoupage </title>
-    <updated>2024-10-25T12:45:35+00:00</updated>
-    <content>#foryoupage </content>
-    <link href="https://tiktok.com/@jade..harmony/video/7429693416381959454"/>
-    <published>2024-10-25T12:45:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jade..harmony/video/7434297164391599390</id>
     <title>#foryoupage #angel #fyp #performer #lgbtqia #queer </title>
@@ -149,14 +109,6 @@
     <published>2024-12-07T01:01:15+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@jade..harmony/video/7445476610465156394</id>
-    <title>And thats facts #fyp #performer #entertainer #nightlife #queer #lgbtqia </title>
-    <updated>2024-12-07T01:31:56+00:00</updated>
-    <content>And thats facts #fyp #performer #entertainer #nightlife #queer #lgbtqia </content>
-    <link href="https://tiktok.com/@jade..harmony/video/7445476610465156394"/>
-    <published>2024-12-07T01:31:56+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@jade..harmony/video/7445684006009556266</id>
     <title>I mean anyone else ?!!! #fyp #wicked #oz #thewizardofoz #fun #funny #viral #foryoupage #theater </title>
     <updated>2024-12-07T14:56:47+00:00</updated>
@@ -211,6 +163,14 @@
     <content>I really be so happy to see you all too 💚💚💚#fyp #foryoupage #postivity #trans #lgbtqia #strippatok #drag #queer #nightlife #kalamazoo #lgbtqiaplus #viral </content>
     <link href="https://tiktok.com/@jade..harmony/video/7446804770507050282"/>
     <published>2024-12-10T15:25:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jade..harmony/video/7448044982235057450</id>
+    <title>#greenscreen #fyp </title>
+    <updated>2024-12-13T23:38:31+00:00</updated>
+    <content>#greenscreen #fyp </content>
+    <link href="https://tiktok.com/@jade..harmony/video/7448044982235057450"/>
+    <published>2024-12-13T23:38:31+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jade..harmony/video/7448093575100910890</id>
@@ -269,6 +229,54 @@
     <published>2024-12-23T01:27:34+00:00</published>
   </entry>
   <entry>
+    <id>https://tiktok.com/@jade..harmony/video/7451623380232441130</id>
+    <title>#fyp #bingo #drag #dragqueen #trans #funny #lgbtqiaplus #viral </title>
+    <updated>2024-12-23T15:04:33+00:00</updated>
+    <content>#fyp #bingo #drag #dragqueen #trans #funny #lgbtqiaplus #viral </content>
+    <link href="https://tiktok.com/@jade..harmony/video/7451623380232441130"/>
+    <published>2024-12-23T15:04:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jade..harmony/video/7451682630275239214</id>
+    <title>#fyp #drag </title>
+    <updated>2024-12-23T18:54:27+00:00</updated>
+    <content>#fyp #drag </content>
+    <link href="https://tiktok.com/@jade..harmony/video/7451682630275239214"/>
+    <published>2024-12-23T18:54:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jade..harmony/video/7451784768166939950</id>
+    <title>#michigan #michiganevents #queer#kalamazoomichigan #kalamazoo #portage #queermichigan #mi #lansing #detroit #dragqueen #queertiktok #lgbtqia #pride </title>
+    <updated>2024-12-24T01:30:47+00:00</updated>
+    <content>#michigan #michiganevents #queer#kalamazoomichigan #kalamazoo #portage #queermichigan #mi #lansing #detroit #dragqueen #queertiktok #lgbtqia #pride </content>
+    <link href="https://tiktok.com/@jade..harmony/video/7451784768166939950"/>
+    <published>2024-12-24T01:30:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jade..harmony/video/7452797849588206891</id>
+    <title>No Title</title>
+    <updated>2024-12-26T19:02:04+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@jade..harmony/video/7452797849588206891"/>
+    <published>2024-12-26T19:02:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jade..harmony/video/7452798256909733162</id>
+    <title>No Title</title>
+    <updated>2024-12-26T19:03:40+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@jade..harmony/video/7452798256909733162"/>
+    <published>2024-12-26T19:03:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jade..harmony/video/7453826107822001454</id>
+    <title>##michigan #michiganevents #kalamazoo #dragqueen #trans #transition </title>
+    <updated>2024-12-29T13:32:19+00:00</updated>
+    <content>##michigan #michiganevents #kalamazoo #dragqueen #trans #transition </content>
+    <link href="https://tiktok.com/@jade..harmony/video/7453826107822001454"/>
+    <published>2024-12-29T13:32:19+00:00</published>
+  </entry>
+  <entry>
     <id>https://tiktok.com/@jade..harmony/video/7434508458151480607</id>
     <title>#foryoupage #hera #zeus #greekgods #fyp #epicthemusical #olympus #gods #cosplay </title>
     <updated>2024-11-07T12:11:53+00:00</updated>
@@ -285,11 +293,11 @@
     <published>2024-11-06T18:42:07+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@jade..harmony/video/7448044982235057450</id>
-    <title>#greenscreen #fyp </title>
-    <updated>2024-12-13T23:38:31+00:00</updated>
-    <content>#greenscreen #fyp </content>
-    <link href="https://tiktok.com/@jade..harmony/video/7448044982235057450"/>
-    <published>2024-12-13T23:38:31+00:00</published>
+    <id>https://tiktok.com/@jade..harmony/video/7445476610465156394</id>
+    <title>And thats facts #fyp #performer #entertainer #nightlife #queer #lgbtqia </title>
+    <updated>2024-12-07T01:31:56+00:00</updated>
+    <content>And thats facts #fyp #performer #entertainer #nightlife #queer #lgbtqia </content>
+    <link href="https://tiktok.com/@jade..harmony/video/7445476610465156394"/>
+    <published>2024-12-07T01:31:56+00:00</published>
   </entry>
 </feed>
