@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2025-01-02T13:58:24+00:00</updated>
+  <updated>2025-01-02T22:54:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7447243570043571499</id>
-    <title>more uptime means more downtime with Temporal  #techie #softwareengineer #programmerlife #temporalio #temporalpartner #techroastshow #ad</title>
-    <updated>2024-12-11T19:48:39+00:00</updated>
-    <content>more uptime means more downtime with Temporal  #techie #softwareengineer #programmerlife #temporalio #temporalpartner #techroastshow #ad</content>
-    <link href="https://tiktok.com/@techroastshow/video/7447243570043571499"/>
-    <published>2024-12-11T19:48:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7447538660217638190</id>
     <title>philanthropy hedge fund  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</title>
@@ -291,6 +283,14 @@
     <content>let him cook  #techie #softwareengineer #chicago #programmerlife #roastbattle #darkhumor #techroastshow</content>
     <link href="https://tiktok.com/@techroastshow/video/7455317123078851883"/>
     <published>2025-01-02T13:58:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7455455254469954859</id>
+    <title>bottles as a service  #vc #miami #softwareengineer #programmerlife #techroastshow </title>
+    <updated>2025-01-02T22:54:15+00:00</updated>
+    <content>bottles as a service  #vc #miami #softwareengineer #programmerlife #techroastshow </content>
+    <link href="https://tiktok.com/@techroastshow/video/7455455254469954859"/>
+    <published>2025-01-02T22:54:15+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
