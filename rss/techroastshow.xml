@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2025-01-03T14:07:09+00:00</updated>
+  <updated>2025-01-03T19:26:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7447667397391043883</id>
-    <title>everyone has a packed weekend #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #darkhumor #techroastshow</title>
-    <updated>2024-12-12T23:13:18+00:00</updated>
-    <content>everyone has a packed weekend #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #darkhumor #techroastshow</content>
-    <link href="https://tiktok.com/@techroastshow/video/7447667397391043883"/>
-    <published>2024-12-12T23:13:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7447906742303722798</id>
     <title>his tests never fail 😍 (as long as it’s not a loyalty test)  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </title>
@@ -291,6 +283,14 @@
     <content>911 what is your emergency  #techie #nyc #softwareengineer #programmerlife #roastbattle #darkhumor #techroastshow </content>
     <link href="https://tiktok.com/@techroastshow/video/7455690492538260782"/>
     <published>2025-01-03T14:07:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7455772911706787118</id>
+    <title>chat is this rizz  #techie #softwareengineer #speeddate #dating #techroastshow </title>
+    <updated>2025-01-03T19:26:55+00:00</updated>
+    <content>chat is this rizz  #techie #softwareengineer #speeddate #dating #techroastshow </content>
+    <link href="https://tiktok.com/@techroastshow/video/7455772911706787118"/>
+    <published>2025-01-03T19:26:55+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
