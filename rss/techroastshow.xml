@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2025-01-02T22:54:15+00:00</updated>
+  <updated>2025-01-03T14:07:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7447538660217638190</id>
-    <title>philanthropy hedge fund  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</title>
-    <updated>2024-12-12T14:53:48+00:00</updated>
-    <content>philanthropy hedge fund  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</content>
-    <link href="https://tiktok.com/@techroastshow/video/7447538660217638190"/>
-    <published>2024-12-12T14:53:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7447667397391043883</id>
     <title>everyone has a packed weekend #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #darkhumor #techroastshow</title>
@@ -291,6 +283,14 @@
     <content>bottles as a service  #vc #miami #softwareengineer #programmerlife #techroastshow </content>
     <link href="https://tiktok.com/@techroastshow/video/7455455254469954859"/>
     <published>2025-01-02T22:54:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7455690492538260782</id>
+    <title>911 what is your emergency  #techie #nyc #softwareengineer #programmerlife #roastbattle #darkhumor #techroastshow </title>
+    <updated>2025-01-03T14:07:09+00:00</updated>
+    <content>911 what is your emergency  #techie #nyc #softwareengineer #programmerlife #roastbattle #darkhumor #techroastshow </content>
+    <link href="https://tiktok.com/@techroastshow/video/7455690492538260782"/>
+    <published>2025-01-03T14:07:09+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>

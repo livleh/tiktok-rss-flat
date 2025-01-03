@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lillytino_</id>
   <title>lillytino_</title>
-  <updated>2025-01-02T15:52:09+00:00</updated>
+  <updated>2025-01-03T14:07:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -107,5 +107,13 @@
     <content>Goodbye candy cane 🙏</content>
     <link href="https://tiktok.com/@lillytino_/video/7455346443239427371"/>
     <published>2025-01-02T15:52:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lillytino_/video/7455690456496688427</id>
+    <title>I later learned that a hateful off-duty hard rock employee was watching my stream before this happened and told their manager I was a trouble maker that should be removed from the restaurant. This is why the manager approached me and passively asked me to</title>
+    <updated>2025-01-03T14:07:10+00:00</updated>
+    <content>I later learned that a hateful off-duty hard rock employee was watching my stream before this happened and told their manager I was a trouble maker that should be removed from the restaurant. This is why the manager approached me and passively asked me to</content>
+    <link href="https://tiktok.com/@lillytino_/video/7455690456496688427"/>
+    <published>2025-01-03T14:07:10+00:00</published>
   </entry>
 </feed>
