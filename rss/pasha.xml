@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@pasha</id>
   <title>pasha</title>
-  <updated>2025-01-01T10:18:08+00:00</updated>
+  <updated>2025-01-03T09:13:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pasha</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pasha/video/7413726384012430600</id>
-    <title>your reminder to keep focusing on yourself until the focus will be on you… #comedy </title>
-    <updated>2024-09-12T12:04:52+00:00</updated>
-    <content>your reminder to keep focusing on yourself until the focus will be on you… #comedy </content>
-    <link href="https://tiktok.com/@pasha/video/7413726384012430600"/>
-    <published>2024-09-12T12:04:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7416283931693075719</id>
     <title>I know you all secretly think about doing this 🤨😅 #comedy #jobs </title>
@@ -291,5 +283,13 @@
     <content>new year same you…because you are already perfect ✨ #newyear </content>
     <link href="https://tiktok.com/@pasha/video/7454889333393214738"/>
     <published>2025-01-01T10:18:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pasha/video/7455614780401847559</id>
+    <title>how you feel after you place a new book on your bookshelf (you may or may not ever read it) 🤭 #booktok #books #bookshelf </title>
+    <updated>2025-01-03T09:13:14+00:00</updated>
+    <content>how you feel after you place a new book on your bookshelf (you may or may not ever read it) 🤭 #booktok #books #bookshelf </content>
+    <link href="https://tiktok.com/@pasha/video/7455614780401847559"/>
+    <published>2025-01-03T09:13:14+00:00</published>
   </entry>
 </feed>
