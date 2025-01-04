@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shaunadewit</id>
   <title>shaunadewit</title>
-  <updated>2024-12-29T13:42:25+00:00</updated>
+  <updated>2025-01-04T01:00:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shaunadewit</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shaunadewit/video/7414115275886365985</id>
-    <title>This trick is really effective !! #foryou #humor #goviral #pourtoi #comedy </title>
-    <updated>2024-09-13T13:13:58+00:00</updated>
-    <content>This trick is really effective !! #foryou #humor #goviral #pourtoi #comedy </content>
-    <link href="https://tiktok.com/@shaunadewit/video/7414115275886365985"/>
-    <published>2024-09-13T13:13:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/7415598948846505249</id>
     <title>Best day of my life fr #foryou #humor #goviral #pourtoi #comedy </title>
@@ -291,6 +283,14 @@
     <content>Queen never cry I guess #foryou #humor #goviral #pourtoi #comedy </content>
     <link href="https://tiktok.com/@shaunadewit/video/7453828728586603798"/>
     <published>2024-12-29T13:42:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shaunadewit/video/7455858979017657622</id>
+    <title>This is the best idea ever #foryou #goviral #pourtoi #humor #comedy </title>
+    <updated>2025-01-04T01:00:58+00:00</updated>
+    <content>This is the best idea ever #foryou #goviral #pourtoi #humor #comedy </content>
+    <link href="https://tiktok.com/@shaunadewit/video/7455858979017657622"/>
+    <published>2025-01-04T01:00:58+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/6994791135415766278</id>
