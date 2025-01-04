@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@starryribbons</id>
   <title>starryribbons</title>
-  <updated>2025-01-02T15:23:43+00:00</updated>
+  <updated>2025-01-04T18:06:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from starryribbons</subtitle>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7424214302522985760</id>
-    <title>can you tell that theres a pattern #coquettecore #digitaldiary #femmelesbian #kpop #bts #bangtanboys #minyoongi #hyyh </title>
-    <updated>2024-10-10T18:23:21+00:00</updated>
-    <content>can you tell that theres a pattern #coquettecore #digitaldiary #femmelesbian #kpop #bts #bangtanboys #minyoongi #hyyh </content>
-    <link href="https://tiktok.com/@starryribbons/video/7424214302522985760"/>
-    <published>2024-10-10T18:23:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7424933331596332320</id>
     <title>i love that song so much wtf #coquettecore #digitaldiary #femmelesbian #wlw #outfitoftheday #ootd </title>
@@ -291,6 +283,14 @@
     <content>happy new year; so excited for 2015 #digitaldiary #wlw #mentalhealthmatters #coquette #femmelesbian </content>
     <link href="https://tiktok.com/@starryribbons/video/7455339167237573910"/>
     <published>2025-01-02T15:23:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7456123345822584086</id>
+    <title>glitchy outfit of the day !! #digitaldiary #wlw #outfitoftheday #coquette </title>
+    <updated>2025-01-04T18:06:41+00:00</updated>
+    <content>glitchy outfit of the day !! #digitaldiary #wlw #outfitoftheday #coquette </content>
+    <link href="https://tiktok.com/@starryribbons/video/7456123345822584086"/>
+    <published>2025-01-04T18:06:41+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7285761406664854817</id>
