@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2025-01-03T22:38:27+00:00</updated>
+  <updated>2025-01-04T21:48:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7447689334217657622</id>
-    <title>#onthisday i’m not an orange cat pretending to be a human #portal #streamer </title>
-    <updated>2024-12-13T00:38:41+00:00</updated>
-    <content>#onthisday i’m not an orange cat pretending to be a human #portal #streamer </content>
-    <link href="https://tiktok.com/@nyaravt/video/7447689334217657622"/>
-    <published>2024-12-13T00:38:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7447902740472139041</id>
     <title>How Misogyny is being used against Trans people #valorant #trans #streamer</title>
@@ -291,6 +283,14 @@
     <content>#onthisday I’m not a sub.. I’m a dommy mommy #trans </content>
     <link href="https://tiktok.com/@nyaravt/video/7455822282372533526"/>
     <published>2025-01-03T22:38:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7456180463447608598</id>
+    <title>#onthisday the perfect website for trans fems #vtuber </title>
+    <updated>2025-01-04T21:48:21+00:00</updated>
+    <content>#onthisday the perfect website for trans fems #vtuber </content>
+    <link href="https://tiktok.com/@nyaravt/video/7456180463447608598"/>
+    <published>2025-01-04T21:48:21+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>
