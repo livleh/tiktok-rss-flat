@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jade..harmony</id>
   <title>jade..harmony</title>
-  <updated>2024-12-29T13:32:19+00:00</updated>
+  <updated>2025-01-05T20:17:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jade..harmony</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jade..harmony/video/7434297164391599390</id>
-    <title>#foryoupage #angel #fyp #performer #lgbtqia #queer </title>
-    <updated>2024-11-06T22:30:10+00:00</updated>
-    <content>#foryoupage #angel #fyp #performer #lgbtqia #queer </content>
-    <link href="https://tiktok.com/@jade..harmony/video/7434297164391599390"/>
-    <published>2024-11-06T22:30:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jade..harmony/video/7434549716236520735</id>
     <title>#musical #theatere #cosplay #god #greekgods #mythology #aphrodite #zeus #epicthemusical #olympus #cosplayersoftiktok #cosplayer #hot #fun #viralvideo </title>
@@ -275,6 +267,14 @@
     <content>##michigan #michiganevents #kalamazoo #dragqueen #trans #transition </content>
     <link href="https://tiktok.com/@jade..harmony/video/7453826107822001454"/>
     <published>2024-12-29T13:32:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jade..harmony/video/7456528125384477994</id>
+    <title>#michigan #transition #trans #fyp </title>
+    <updated>2025-01-05T20:17:32+00:00</updated>
+    <content>#michigan #transition #trans #fyp </content>
+    <link href="https://tiktok.com/@jade..harmony/video/7456528125384477994"/>
+    <published>2025-01-05T20:17:32+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jade..harmony/video/7434508458151480607</id>

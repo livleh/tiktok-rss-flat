@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2025-01-04T21:48:21+00:00</updated>
+  <updated>2025-01-05T18:15:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7447902740472139041</id>
-    <title>How Misogyny is being used against Trans people #valorant #trans #streamer</title>
-    <updated>2024-12-13T14:26:49+00:00</updated>
-    <content>How Misogyny is being used against Trans people #valorant #trans #streamer</content>
-    <link href="https://tiktok.com/@nyaravt/video/7447902740472139041"/>
-    <published>2024-12-13T14:26:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7448284695302851872</id>
     <title>Why Chromosomes DO NOT matter #trans #streamer #valorant</title>
@@ -291,6 +283,14 @@
     <content>#onthisday the perfect website for trans fems #vtuber </content>
     <link href="https://tiktok.com/@nyaravt/video/7456180463447608598"/>
     <published>2025-01-04T21:48:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7456496706625064224</id>
+    <title>Having to prove your gender identity as a trans person #vtuber</title>
+    <updated>2025-01-05T18:15:33+00:00</updated>
+    <content>Having to prove your gender identity as a trans person #vtuber</content>
+    <link href="https://tiktok.com/@nyaravt/video/7456496706625064224"/>
+    <published>2025-01-05T18:15:33+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7373330026596502816</id>
