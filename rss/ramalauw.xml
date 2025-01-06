@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ramalauw</id>
   <title>ramalauw</title>
-  <updated>2024-12-27T01:57:37+00:00</updated>
+  <updated>2025-01-06T16:42:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ramalauw</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ramalauw/video/7401897392355953952</id>
-    <title>Me: I’m not dramatique Also me:</title>
-    <updated>2024-08-11T15:02:24+00:00</updated>
-    <content>Me: I’m not dramatique Also me:</content>
-    <link href="https://tiktok.com/@ramalauw/video/7401897392355953952"/>
-    <published>2024-08-11T15:02:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7404111586270399776</id>
     <title>But seriously how come there are so many heartbreak songs but none of them are about non-romantic love? I've experienced a fair share of friendship heartbreaks - From the unexpected fall outs to the inevitable force of time and distance that gradually dri</title>
@@ -291,6 +283,14 @@
     <content>#ad Me being forced to work in the office: I would be WAY more productive and focused working from home Me ✨working from home✨: @KAYAK #kayakpartner</content>
     <link href="https://tiktok.com/@ramalauw/video/7452904906610035990"/>
     <published>2024-12-27T01:57:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ramalauw/video/7456843922501913878</id>
+    <title>Me rn bc my birth year starts with “19..” 🤡</title>
+    <updated>2025-01-06T16:42:55+00:00</updated>
+    <content>Me rn bc my birth year starts with “19..” 🤡</content>
+    <link href="https://tiktok.com/@ramalauw/video/7456843922501913878"/>
+    <published>2025-01-06T16:42:55+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7270903343638187297</id>
