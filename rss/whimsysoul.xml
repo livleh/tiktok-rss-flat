@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2025-01-02T19:45:23+00:00</updated>
+  <updated>2025-01-05T21:40:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7446517391476985131</id>
-    <title>never gonna be able to look at any giant case or cleaning cart the same way again #taylorswift #erastour </title>
-    <updated>2024-12-09T20:50:43+00:00</updated>
-    <content>never gonna be able to look at any giant case or cleaning cart the same way again #taylorswift #erastour </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7446517391476985131"/>
-    <published>2024-12-09T20:50:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7446905483471965482</id>
     <title>It was about girlhood all along &amp; having the time of our lives fighting dragons together in sequin outfits. ✨ From grainy livestreams to shows, thank you Taylor 🫶✨ Currently sitting in my bed still processing this weekend in Vancouver. I've seen a lot of </title>
@@ -291,5 +283,13 @@
     <content>San Francisco is the best city and you can't convince me otherwise #sanfrancisco #sanfranciscolife #alamosquare #paintedladies #fullhouse #whimsysoul #onlyinsf #bayarea </content>
     <link href="https://tiktok.com/@whimsysoul/video/7455406566838242603"/>
     <published>2025-01-02T19:45:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7456549440917179690</id>
+    <title>Travel PSA! 🚨You now NEED a Visa to enter the UK! 🇬🇧 Starting Jan 2025, you need to have an approved UK ETA (electronic travel authorisation) which is basically just a visa, and a program to pre-screen travelers passing through the UK.  You need this even</title>
+    <updated>2025-01-05T21:40:12+00:00</updated>
+    <content>Travel PSA! 🚨You now NEED a Visa to enter the UK! 🇬🇧 Starting Jan 2025, you need to have an approved UK ETA (electronic travel authorisation) which is basically just a visa, and a program to pre-screen travelers passing through the UK.  You need this even</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7456549440917179690"/>
+    <published>2025-01-05T21:40:12+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2025-01-04T13:04:33+00:00</updated>
+  <updated>2025-01-05T23:27:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7442397804091149598</id>
-    <title>Happy Thanksgiving!!! Send this to a friend, it will maje their day! 🦃😩 #fyp #mentalillness #jessicakirson #thanksgiving </title>
-    <updated>2024-11-28T18:24:41+00:00</updated>
-    <content>Happy Thanksgiving!!! Send this to a friend, it will maje their day! 🦃😩 #fyp #mentalillness #jessicakirson #thanksgiving </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7442397804091149598"/>
-    <published>2024-11-28T18:24:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7442827216418901278</id>
     <title>He is hype about insurance policies </title>
@@ -283,6 +275,14 @@
     <content>I’m enraged 😂. Planning my 2025 tour so comment your city 👇 #lesbiansoftiktok </content>
     <link href="https://tiktok.com/@jessicakirson/video/7456045367969434926"/>
     <published>2025-01-04T13:04:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7456577044869139742</id>
+    <title>The Wildest Thing A Gyno Has Found </title>
+    <updated>2025-01-05T23:27:27+00:00</updated>
+    <content>The Wildest Thing A Gyno Has Found </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7456577044869139742"/>
+    <published>2025-01-05T23:27:27+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7450529978304777518</id>
