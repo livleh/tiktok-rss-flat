@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2025-01-05T20:24:22+00:00</updated>
+  <updated>2025-01-07T16:58:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7453143122781031712</id>
-    <title>live laugh lesbian #wlw #lesbian #lgbt #lgbtq </title>
-    <updated>2024-12-27T17:22:00+00:00</updated>
-    <content>live laugh lesbian #wlw #lesbian #lgbt #lgbtq </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7453143122781031712"/>
-    <published>2024-12-27T17:22:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7453170300079951137</id>
     <title>like OH 😦‼️ #mh #mentalhealth </title>
@@ -283,6 +275,14 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7456529892113534240"/>
     <published>2025-01-05T20:24:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7457218965719354656</id>
+    <title>Replying to @S🩷 bc every time i've been diagnosed like I KNEW BEFORE!! #mentalhealth #mh </title>
+    <updated>2025-01-07T16:58:17+00:00</updated>
+    <content>Replying to @S🩷 bc every time i've been diagnosed like I KNEW BEFORE!! #mentalhealth #mh </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7457218965719354656"/>
+    <published>2025-01-07T16:58:17+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7155893055449468166</id>
