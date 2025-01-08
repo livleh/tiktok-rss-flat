@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2025-01-05T21:40:12+00:00</updated>
+  <updated>2025-01-08T00:42:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7446905483471965482</id>
-    <title>It was about girlhood all along &amp; having the time of our lives fighting dragons together in sequin outfits. ✨ From grainy livestreams to shows, thank you Taylor 🫶✨ Currently sitting in my bed still processing this weekend in Vancouver. I've seen a lot of </title>
-    <updated>2024-12-10T21:56:41+00:00</updated>
-    <content>It was about girlhood all along &amp; having the time of our lives fighting dragons together in sequin outfits. ✨ From grainy livestreams to shows, thank you Taylor 🫶✨ Currently sitting in my bed still processing this weekend in Vancouver. I've seen a lot of </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7446905483471965482"/>
-    <published>2024-12-10T21:56:41+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7446966723783249195</id>
-    <title>This millennial girl needs a whole month to recover from Eras. I see lots of wine, hallmark movies, face masks and nail polish in my near future. ✨🫶 ⭐️ follow me for more relatable content  #millennial #lol #humor #30something #over30 #erastour #taylorswi</title>
-    <updated>2024-12-11T01:54:19+00:00</updated>
-    <content>This millennial girl needs a whole month to recover from Eras. I see lots of wine, hallmark movies, face masks and nail polish in my near future. ✨🫶 ⭐️ follow me for more relatable content  #millennial #lol #humor #30something #over30 #erastour #taylorswi</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7446966723783249195"/>
-    <published>2024-12-11T01:54:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7447313256525483310</id>
     <title>Lyfts were $9 after Eras. I had 3 wines and a water at BC place for under $27. After traveling mostly in the UK and Scandinavia this year, I feel rich here #canada #currency #canadadollar #travel #vancouver </title>
@@ -291,5 +275,21 @@
     <content>Travel PSA! 🚨You now NEED a Visa to enter the UK! 🇬🇧 Starting Jan 2025, you need to have an approved UK ETA (electronic travel authorisation) which is basically just a visa, and a program to pre-screen travelers passing through the UK.  You need this even</content>
     <link href="https://tiktok.com/@whimsysoul/video/7456549440917179690"/>
     <published>2025-01-05T21:40:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7457275670964604203</id>
+    <title>Palm Springs Airport is insane like what do you mean I can snack on a cheesy quesadilla while sitting on actual grass under the shade of an actual palm tree all without leaving the airport??? 😱🌴✈️ California forever 🫶 If you haven't had a chance to fly th</title>
+    <updated>2025-01-07T20:38:24+00:00</updated>
+    <content>Palm Springs Airport is insane like what do you mean I can snack on a cheesy quesadilla while sitting on actual grass under the shade of an actual palm tree all without leaving the airport??? 😱🌴✈️ California forever 🫶 If you haven't had a chance to fly th</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7457275670964604203"/>
+    <published>2025-01-07T20:38:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7457338498681457963</id>
+    <title>#stitch with @Sydney Cason 🌈 I will die on this hill that this is the best way to choose airplane seats #airplane #travel #traveltiktok #unitedairlines #travellife </title>
+    <updated>2025-01-08T00:42:11+00:00</updated>
+    <content>#stitch with @Sydney Cason 🌈 I will die on this hill that this is the best way to choose airplane seats #airplane #travel #traveltiktok #unitedairlines #travellife </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7457338498681457963"/>
+    <published>2025-01-08T00:42:11+00:00</published>
   </entry>
 </feed>

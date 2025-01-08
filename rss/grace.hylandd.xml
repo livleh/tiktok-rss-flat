@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2025-01-07T10:31:34+00:00</updated>
+  <updated>2025-01-08T01:43:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7432205019207814417</id>
-    <title>How could I actually do this TF?</title>
-    <updated>2024-11-01T07:11:33+00:00</updated>
-    <content>How could I actually do this TF?</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7432205019207814417"/>
-    <published>2024-11-01T07:11:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7432212133066083585</id>
     <title>The transgender Namiii</title>
@@ -259,5 +251,13 @@
     <content>Replying to @green12305 I’d certainly be the man for how well I handle all of the bullshit like this that I receive on the daily. Women are just expected to remain composed and unbothered by constant criticism and hatred. I’m surprised I’m not in a mental</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7457119190579678481"/>
     <published>2025-01-07T10:31:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7457354381663522065</id>
+    <title>Nothing lasts forever.</title>
+    <updated>2025-01-08T01:43:58+00:00</updated>
+    <content>Nothing lasts forever.</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7457354381663522065"/>
+    <published>2025-01-08T01:43:58+00:00</published>
   </entry>
 </feed>
