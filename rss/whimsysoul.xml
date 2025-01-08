@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2025-01-08T00:42:11+00:00</updated>
+  <updated>2025-01-08T03:20:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7447313256525483310</id>
-    <title>Lyfts were $9 after Eras. I had 3 wines and a water at BC place for under $27. After traveling mostly in the UK and Scandinavia this year, I feel rich here #canada #currency #canadadollar #travel #vancouver </title>
-    <updated>2024-12-12T00:19:04+00:00</updated>
-    <content>Lyfts were $9 after Eras. I had 3 wines and a water at BC place for under $27. After traveling mostly in the UK and Scandinavia this year, I feel rich here #canada #currency #canadadollar #travel #vancouver </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7447313256525483310"/>
-    <published>2024-12-12T00:19:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7447315522967981354</id>
     <title>In Vancouver? You need to try Tality, a sauna and cold plunge wellness center with free kombucha!!  we both felt so tired after the Eras Tour so we got up really early and did our sauna at 8 AM felt amazing afterwards. It's the only thing that saved our 🍑</title>
@@ -291,5 +283,13 @@
     <content>#stitch with @Sydney Cason 🌈 I will die on this hill that this is the best way to choose airplane seats #airplane #travel #traveltiktok #unitedairlines #travellife </content>
     <link href="https://tiktok.com/@whimsysoul/video/7457338498681457963"/>
     <published>2025-01-08T00:42:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7457379278036929835</id>
+    <title>NO big lights in this house!! ❌Who's with me? #biglights #bigligth #homedecor #lol #cozy #hygge #apartment #sanfrancisco #lighting #cozyathome #philipshue </title>
+    <updated>2025-01-08T03:20:24+00:00</updated>
+    <content>NO big lights in this house!! ❌Who's with me? #biglights #bigligth #homedecor #lol #cozy #hygge #apartment #sanfrancisco #lighting #cozyathome #philipshue </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7457379278036929835"/>
+    <published>2025-01-08T03:20:24+00:00</published>
   </entry>
 </feed>
