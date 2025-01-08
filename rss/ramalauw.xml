@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ramalauw</id>
   <title>ramalauw</title>
-  <updated>2025-01-07T14:02:09+00:00</updated>
+  <updated>2025-01-08T14:23:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ramalauw</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ramalauw/video/7405986338257866017</id>
-    <title>✨Jumping to Conclusions✨ is my favorite form of exercise. What’s yours? 🥰 #fitness #gym #gymmotivation #lifestyle #free99 #fyp #tiktokusa #foryou </title>
-    <updated>2024-08-22T15:29:38+00:00</updated>
-    <content>✨Jumping to Conclusions✨ is my favorite form of exercise. What’s yours? 🥰 #fitness #gym #gymmotivation #lifestyle #free99 #fyp #tiktokusa #foryou </content>
-    <link href="https://tiktok.com/@ramalauw/video/7405986338257866017"/>
-    <published>2024-08-22T15:29:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7408579016342424865</id>
     <title>My whole personality in one video 🥺 #travel #traveling #skit #traveltok #fyp #foryou #tiktokusa #maincharacter #delulu #pov </title>
@@ -291,6 +283,14 @@
     <content>It’s always the loudest when it’s the quietest 😰😮‍💨😭🤡</content>
     <link href="https://tiktok.com/@ramalauw/video/7457173576798506263"/>
     <published>2025-01-07T14:02:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ramalauw/video/7457550276829023510</id>
+    <title>The only reason why I love going to the gym 🥰💪🫶 #gym #workout #fitness #gymtok #gymmotivation #foryou #fyp </title>
+    <updated>2025-01-08T14:23:54+00:00</updated>
+    <content>The only reason why I love going to the gym 🥰💪🫶 #gym #workout #fitness #gymtok #gymmotivation #foryou #fyp </content>
+    <link href="https://tiktok.com/@ramalauw/video/7457550276829023510"/>
+    <published>2025-01-08T14:23:54+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7270903343638187297</id>
