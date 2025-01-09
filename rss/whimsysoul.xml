@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2025-01-08T18:07:48+00:00</updated>
+  <updated>2025-01-09T19:07:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7447315522967981354</id>
-    <title>In Vancouver? You need to try Tality, a sauna and cold plunge wellness center with free kombucha!!  we both felt so tired after the Eras Tour so we got up really early and did our sauna at 8 AM felt amazing afterwards. It's the only thing that saved our 🍑</title>
-    <updated>2024-12-12T00:27:51+00:00</updated>
-    <content>In Vancouver? You need to try Tality, a sauna and cold plunge wellness center with free kombucha!!  we both felt so tired after the Eras Tour so we got up really early and did our sauna at 8 AM felt amazing afterwards. It's the only thing that saved our 🍑</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7447315522967981354"/>
-    <published>2024-12-12T00:27:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7447601944228662570</id>
     <title>my mental health hinges on gluhwein during Christmas #christmas #vancouver #vancouverchristmasmarket #christmasmarket #gluhwein #wine #mulledwine #canada #whimsysoul </title>
@@ -291,5 +283,13 @@
     <content>Ugly shelf makeover!! 😱 Our Shelf Of Doom finally broke me.  We thrifted this red shelf almost 10 years ago from Facebook Marketplace when we were broke AF and just moved into this apartment.  But it's always been a clutter zone. Living in a small space m</content>
     <link href="https://tiktok.com/@whimsysoul/video/7457607948546723115"/>
     <published>2025-01-08T18:07:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7457994343396232490</id>
+    <title>I challenge YOU to donate $25 to LA fire victims!!  If you have an extra $25, instead of sharing thoughts and prayers Story slides, I challenge you to donate $25 to someone displaced by these fires.  I've learned from friends that have gone through CA wil</title>
+    <updated>2025-01-09T19:07:10+00:00</updated>
+    <content>I challenge YOU to donate $25 to LA fire victims!!  If you have an extra $25, instead of sharing thoughts and prayers Story slides, I challenge you to donate $25 to someone displaced by these fires.  I've learned from friends that have gone through CA wil</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7457994343396232490"/>
+    <published>2025-01-09T19:07:10+00:00</published>
   </entry>
 </feed>
