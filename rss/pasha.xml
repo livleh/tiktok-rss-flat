@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@pasha</id>
   <title>pasha</title>
-  <updated>2025-01-08T10:25:49+00:00</updated>
+  <updated>2025-01-09T09:18:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pasha</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pasha/video/7418494510390381832</id>
-    <title>Italy does wonders to you #italy #italia #traveltiktok #rome #italytravel </title>
-    <updated>2024-09-25T08:27:41+00:00</updated>
-    <content>Italy does wonders to you #italy #italia #traveltiktok #rome #italytravel </content>
-    <link href="https://tiktok.com/@pasha/video/7418494510390381832"/>
-    <published>2024-09-25T08:27:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7418887928694246674</id>
     <title>this espresso was an instant regret 🤡 #italy #italian #italia #lifeinitaly #italianculture </title>
@@ -291,5 +283,13 @@
     <content>when your manager wants to know about your goals, plans and strategies for the new year, this is your possible template response 🤣 #jobs #manager #corporate #relatable #office </content>
     <link href="https://tiktok.com/@pasha/video/7457488916745112839"/>
     <published>2025-01-08T10:25:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pasha/video/7457842648435428626</id>
+    <title>our Gen Z future is looking very bright 🤣 #genz #relatable #comedy</title>
+    <updated>2025-01-09T09:18:31+00:00</updated>
+    <content>our Gen Z future is looking very bright 🤣 #genz #relatable #comedy</content>
+    <link href="https://tiktok.com/@pasha/video/7457842648435428626"/>
+    <published>2025-01-09T09:18:31+00:00</published>
   </entry>
 </feed>
