@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2025-01-07T23:51:27+00:00</updated>
+  <updated>2025-01-08T23:10:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7443581284921740574</id>
-    <title>Reject me 🥵</title>
-    <updated>2024-12-01T22:57:20+00:00</updated>
-    <content>Reject me 🥵</content>
-    <link href="https://tiktok.com/@jessicakirson/video/7443581284921740574"/>
-    <published>2024-12-01T22:57:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7443615811698216223</id>
     <title>Sing it bitches!!! #fyp #wicked #wickedthemusical #wickedmovie #mentalhealth </title>
@@ -283,6 +275,14 @@
     <content>Exit Through The Gift Shop </content>
     <link href="https://tiktok.com/@jessicakirson/video/7457325431386098990"/>
     <published>2025-01-07T23:51:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7457685995924835630</id>
+    <title>New Flying Fear Unlocked </title>
+    <updated>2025-01-08T23:10:38+00:00</updated>
+    <content>New Flying Fear Unlocked </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7457685995924835630"/>
+    <published>2025-01-08T23:10:38+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7450529978304777518</id>

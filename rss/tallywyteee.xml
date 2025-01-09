@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tallywyteee</id>
   <title>tallywyteee</title>
-  <updated>2025-01-01T00:53:11+00:00</updated>
+  <updated>2025-01-08T21:31:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tallywyteee</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tallywyteee/video/7433482450442947883</id>
-    <title>Did you expect her to say that?? 😱</title>
-    <updated>2024-11-04T17:48:30+00:00</updated>
-    <content>Did you expect her to say that?? 😱</content>
-    <link href="https://tiktok.com/@tallywyteee/video/7433482450442947883"/>
-    <published>2024-11-04T17:48:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7435340581536320814</id>
     <title>I was just born with a deep voice… 😂</title>
@@ -291,6 +283,14 @@
     <content>Calling the people I love passes time quite well. Besides, who doesn’t like a little bit of gossip 😌❤️</content>
     <link href="https://tiktok.com/@tallywyteee/video/7454743726267665694"/>
     <published>2025-01-01T00:53:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tallywyteee/video/7457660379930447135</id>
+    <title>Is it really that hard to believe I’m not from California? 😅</title>
+    <updated>2025-01-08T21:31:16+00:00</updated>
+    <content>Is it really that hard to believe I’m not from California? 😅</content>
+    <link href="https://tiktok.com/@tallywyteee/video/7457660379930447135"/>
+    <published>2025-01-08T21:31:16+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tallywyteee/video/7261699619762048298</id>
