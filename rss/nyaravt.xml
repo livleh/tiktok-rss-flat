@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2025-01-08T15:06:17+00:00</updated>
+  <updated>2025-01-10T14:21:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7448655890405756192</id>
-    <title>Trans people aren't the reason why you can't afford anything #trans #streamer #valorant</title>
-    <updated>2024-12-15T15:09:13+00:00</updated>
-    <content>Trans people aren't the reason why you can't afford anything #trans #streamer #valorant</content>
-    <link href="https://tiktok.com/@nyaravt/video/7448655890405756192"/>
-    <published>2024-12-15T15:09:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7449016714290941217</id>
     <title>Stop sacrificing your own mental health for the comfort of others #trans #streamer #valorant</title>
@@ -291,6 +283,14 @@
     <content>cis men don't want to be trans women #vtuber</content>
     <link href="https://tiktok.com/@nyaravt/video/7457561187547352352"/>
     <published>2025-01-08T15:06:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7458291749480402209</id>
+    <title>When Gay right wingers DENY being Gay #vtuber</title>
+    <updated>2025-01-10T14:21:19+00:00</updated>
+    <content>When Gay right wingers DENY being Gay #vtuber</content>
+    <link href="https://tiktok.com/@nyaravt/video/7458291749480402209"/>
+    <published>2025-01-10T14:21:19+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7419009625602673953</id>
