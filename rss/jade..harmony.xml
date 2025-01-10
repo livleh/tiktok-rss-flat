@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jade..harmony</id>
   <title>jade..harmony</title>
-  <updated>2025-01-05T20:54:41+00:00</updated>
+  <updated>2025-01-09T23:51:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jade..harmony</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jade..harmony/video/7434549716236520735</id>
-    <title>#musical #theatere #cosplay #god #greekgods #mythology #aphrodite #zeus #epicthemusical #olympus #cosplayersoftiktok #cosplayer #hot #fun #viralvideo </title>
-    <updated>2024-11-07T14:50:25+00:00</updated>
-    <content>#musical #theatere #cosplay #god #greekgods #mythology #aphrodite #zeus #epicthemusical #olympus #cosplayersoftiktok #cosplayer #hot #fun #viralvideo </content>
-    <link href="https://tiktok.com/@jade..harmony/video/7434549716236520735"/>
-    <published>2024-11-07T14:50:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jade..harmony/video/7434643073231031582</id>
-    <title>This one was my first attempt #musical #theatere #cosplay #god #greekgods #mythology #hera #epicthemusical </title>
-    <updated>2024-11-07T20:52:34+00:00</updated>
-    <content>This one was my first attempt #musical #theatere #cosplay #god #greekgods #mythology #hera #epicthemusical </content>
-    <link href="https://tiktok.com/@jade..harmony/video/7434643073231031582"/>
-    <published>2024-11-07T20:52:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jade..harmony/video/7436172211859246367</id>
     <title>#fyp </title>
@@ -283,6 +267,22 @@
     <content>#fyp </content>
     <link href="https://tiktok.com/@jade..harmony/video/7456537712170978603"/>
     <published>2025-01-05T20:54:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jade..harmony/video/7458051538070572334</id>
+    <title>#fyp </title>
+    <updated>2025-01-09T22:49:06+00:00</updated>
+    <content>#fyp </content>
+    <link href="https://tiktok.com/@jade..harmony/video/7458051538070572334"/>
+    <published>2025-01-09T22:49:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jade..harmony/video/7458067706831736110</id>
+    <title>#theaterkid #broadway #musical #fyp</title>
+    <updated>2025-01-09T23:51:52+00:00</updated>
+    <content>#theaterkid #broadway #musical #fyp</content>
+    <link href="https://tiktok.com/@jade..harmony/video/7458067706831736110"/>
+    <published>2025-01-09T23:51:52+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jade..harmony/video/7434508458151480607</id>
