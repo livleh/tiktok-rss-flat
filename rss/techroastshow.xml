@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2025-01-10T15:43:51+00:00</updated>
+  <updated>2025-01-10T21:45:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7450604288243420459</id>
-    <title>your on-call miracle has arrived - it’s called temporal  #techie #softwareengineer #temporalpartner  #programmerlife #holidays #techroastshow #ad </title>
-    <updated>2024-12-20T21:09:56+00:00</updated>
-    <content>your on-call miracle has arrived - it’s called temporal  #techie #softwareengineer #temporalpartner  #programmerlife #holidays #techroastshow #ad </content>
-    <link href="https://tiktok.com/@techroastshow/video/7450604288243420459"/>
-    <published>2024-12-20T21:09:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7450871211917118763</id>
     <title>not sponsored, just sad #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </title>
@@ -291,6 +283,14 @@
     <content>Copy paste working overtime #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </content>
     <link href="https://tiktok.com/@techroastshow/video/7458313013867842862"/>
     <published>2025-01-10T15:43:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7458406344115178794</id>
+    <title>why don’t people come around here anymore 😔 #techie #softwareengineer #stackoverflow #chatgpt #techroastshow </title>
+    <updated>2025-01-10T21:45:57+00:00</updated>
+    <content>why don’t people come around here anymore 😔 #techie #softwareengineer #stackoverflow #chatgpt #techroastshow </content>
+    <link href="https://tiktok.com/@techroastshow/video/7458406344115178794"/>
+    <published>2025-01-10T21:45:57+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
