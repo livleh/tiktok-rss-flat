@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2025-01-11T02:49:37+00:00</updated>
+  <updated>2025-01-09T00:36:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7432574442078817537</id>
+    <title>Dont throw stones at glass houses</title>
+    <updated>2024-11-02T07:05:04+00:00</updated>
+    <content>Dont throw stones at glass houses</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7432574442078817537"/>
+    <published>2024-11-02T07:05:04+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7433360067421949201</id>
     <title>Cotton on for those who wanna know</title>
@@ -251,13 +259,5 @@
     <content>#disney #eris #cinderella</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7457707666396187905"/>
     <published>2025-01-09T00:36:05+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7458484440172350721</id>
-    <title>Who needs ozempic when you can get the flu?</title>
-    <updated>2025-01-11T02:49:37+00:00</updated>
-    <content>Who needs ozempic when you can get the flu?</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7458484440172350721"/>
-    <published>2025-01-11T02:49:37+00:00</published>
   </entry>
 </feed>
