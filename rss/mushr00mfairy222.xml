@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2025-01-10T19:25:22+00:00</updated>
+  <updated>2025-01-11T20:20:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7455393455586413856</id>
-    <title>me and my playlist against the world </title>
-    <updated>2025-01-02T18:54:26+00:00</updated>
-    <content>me and my playlist against the world </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7455393455586413856"/>
-    <published>2025-01-02T18:54:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7456115430571167008</id>
     <title>how do you find the new year? what helps!! ❤️‍🩹🗣️‼️#mentalhealth #mh #neurodivergent </title>
@@ -283,6 +275,14 @@
     <content>Replying to @꧁⪻🌠ℛοꫜꪱꪖ🎧⪼꧂ AM I RIGHT OR AM I RIGHT #pinkhair #pinkiepie </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7458370123506699553"/>
     <published>2025-01-10T19:25:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7458755310795099425</id>
+    <title>HELLO KITTY CAFE KINDA DAY :) #hellokitty #hellokittycafe #sanrio #artbox #artboxcafe </title>
+    <updated>2025-01-11T20:20:05+00:00</updated>
+    <content>HELLO KITTY CAFE KINDA DAY :) #hellokitty #hellokittycafe #sanrio #artbox #artboxcafe </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7458755310795099425"/>
+    <published>2025-01-11T20:20:05+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7295791125389004065</id>
