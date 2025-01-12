@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2025-01-10T14:21:19+00:00</updated>
+  <updated>2025-01-12T14:28:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7449016714290941217</id>
-    <title>Stop sacrificing your own mental health for the comfort of others #trans #streamer #valorant</title>
-    <updated>2024-12-16T14:29:35+00:00</updated>
-    <content>Stop sacrificing your own mental health for the comfort of others #trans #streamer #valorant</content>
-    <link href="https://tiktok.com/@nyaravt/video/7449016714290941217"/>
-    <published>2024-12-16T14:29:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7449381982254943521</id>
     <title>Why coming out is so important #lgbtq #twitch #trans</title>
@@ -291,6 +283,14 @@
     <content>When Gay right wingers DENY being Gay #vtuber</content>
     <link href="https://tiktok.com/@nyaravt/video/7458291749480402209"/>
     <published>2025-01-10T14:21:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7459035849515158817</id>
+    <title>This is a sign to leave Twitter w/ @stuoofid @azaleafoxx #vtuber #trans</title>
+    <updated>2025-01-12T14:28:43+00:00</updated>
+    <content>This is a sign to leave Twitter w/ @stuoofid @azaleafoxx #vtuber #trans</content>
+    <link href="https://tiktok.com/@nyaravt/video/7459035849515158817"/>
+    <published>2025-01-12T14:28:43+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7419009625602673953</id>

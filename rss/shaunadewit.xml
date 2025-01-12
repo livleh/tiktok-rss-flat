@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shaunadewit</id>
   <title>shaunadewit</title>
-  <updated>2025-01-11T13:34:31+00:00</updated>
+  <updated>2025-01-12T13:50:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shaunadewit</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shaunadewit/video/7417822069993295137</id>
-    <title>It is what it is, why did I run after him idk #foryou #humor #goviral #pourtoi #comedy </title>
-    <updated>2024-09-23T12:58:18+00:00</updated>
-    <content>It is what it is, why did I run after him idk #foryou #humor #goviral #pourtoi #comedy </content>
-    <link href="https://tiktok.com/@shaunadewit/video/7417822069993295137"/>
-    <published>2024-09-23T12:58:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/7418935402754542881</id>
     <title>This is the ultime training! #foryou #humor #goviral #pourtoi #comedy </title>
@@ -291,6 +283,14 @@
     <content>Do I need to be sorry for this joke? 😭😂 #foryou #goviral #pourtoi #humor #comedy </content>
     <link href="https://tiktok.com/@shaunadewit/video/7458650793995029782"/>
     <published>2025-01-11T13:34:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shaunadewit/video/7459026120894057750</id>
+    <title>You see its not on fire #foryou #goviral #pourtoi #humor #comedy </title>
+    <updated>2025-01-12T13:50:57+00:00</updated>
+    <content>You see its not on fire #foryou #goviral #pourtoi #humor #comedy </content>
+    <link href="https://tiktok.com/@shaunadewit/video/7459026120894057750"/>
+    <published>2025-01-12T13:50:57+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/6994791135415766278</id>

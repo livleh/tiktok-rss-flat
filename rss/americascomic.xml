@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@americascomic</id>
   <title>americascomic</title>
-  <updated>2025-01-08T17:34:12+00:00</updated>
+  <updated>2025-01-12T15:37:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from americascomic</subtitle>
-  <entry>
-    <id>https://tiktok.com/@americascomic/video/7383337083634453802</id>
-    <title>#onthisday I think if I wrote this video today I would have used more cautious language around the "identity poker" line but idk, whatever  #transfemme #protecttranslives #transcommunity #trans </title>
-    <updated>2024-06-22T14:38:55+00:00</updated>
-    <content>#onthisday I think if I wrote this video today I would have used more cautious language around the "identity poker" line but idk, whatever  #transfemme #protecttranslives #transcommunity #trans </content>
-    <link href="https://tiktok.com/@americascomic/video/7383337083634453802"/>
-    <published>2024-06-22T14:38:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@americascomic/video/7385201035402300714</id>
     <title>we're a mother and son team!</title>
@@ -171,6 +163,14 @@
     <content>Starbucks boycott is still dumb  I don't have a lot of details to add to this repost other than that I think I really solved the final question of this video about starbucks, and it's just this idea that... I can't control the discourse or the fact that r</content>
     <link href="https://tiktok.com/@americascomic/video/7457599275116055838"/>
     <published>2025-01-08T17:34:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@americascomic/video/7459053643577183518</id>
+    <title>9/11 and transness  #transhistory  #transfemme  #transgender  #transliberation </title>
+    <updated>2025-01-12T15:37:56+00:00</updated>
+    <content>9/11 and transness  #transhistory  #transfemme  #transgender  #transliberation </content>
+    <link href="https://tiktok.com/@americascomic/video/7459053643577183518"/>
+    <published>2025-01-12T15:37:56+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@americascomic/video/7231569804690328878</id>
