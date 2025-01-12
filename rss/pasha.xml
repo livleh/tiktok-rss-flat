@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@pasha</id>
   <title>pasha</title>
-  <updated>2025-01-11T09:40:51+00:00</updated>
+  <updated>2025-01-12T10:17:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pasha</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pasha/video/7420043569710353672</id>
-    <title>what your favourite LinkedIn phrases ACTUALLY mean: “this is just the beginning!” - …of a very confusing journey for all of us. “so proud of everything you’ve achieved!” - I have no idea what you actually did in this, but this sounds supportive, right? “I</title>
-    <updated>2024-09-29T12:38:44+00:00</updated>
-    <content>what your favourite LinkedIn phrases ACTUALLY mean: “this is just the beginning!” - …of a very confusing journey for all of us. “so proud of everything you’ve achieved!” - I have no idea what you actually did in this, but this sounds supportive, right? “I</content>
-    <link href="https://tiktok.com/@pasha/video/7420043569710353672"/>
-    <published>2024-09-29T12:38:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7424071397254696199</id>
     <title>just a simple little life in Korea… #korea #lifeinkorea #koreanculture #comedy </title>
@@ -291,5 +283,13 @@
     <content>new computer, new year, new me. best feeling ever ☺️ #tech #unboxing #microsoft #surfacepro </content>
     <link href="https://tiktok.com/@pasha/video/7458590578582768914"/>
     <published>2025-01-11T09:40:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pasha/video/7458970981768498450</id>
+    <title>when your manager continues to bother you, always remember to say this #jobs #manager #corporate #relatable #office </title>
+    <updated>2025-01-12T10:17:00+00:00</updated>
+    <content>when your manager continues to bother you, always remember to say this #jobs #manager #corporate #relatable #office </content>
+    <link href="https://tiktok.com/@pasha/video/7458970981768498450"/>
+    <published>2025-01-12T10:17:00+00:00</published>
   </entry>
 </feed>
