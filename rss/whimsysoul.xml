@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2025-01-11T21:08:53+00:00</updated>
+  <updated>2025-01-12T18:25:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7449508905597685038</id>
-    <title>Why is it so cold today? This @Sézane sweater is so festive and cozy.  i'm a size 14. I do have my whole office linked on LTK by the way.   #curvy #sezane #holidayoutfit #sanfrancisco #bayarea #size14 #curvystyle </title>
-    <updated>2024-12-17T22:19:18+00:00</updated>
-    <content>Why is it so cold today? This @Sézane sweater is so festive and cozy.  i'm a size 14. I do have my whole office linked on LTK by the way.   #curvy #sezane #holidayoutfit #sanfrancisco #bayarea #size14 #curvystyle </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7449508905597685038"/>
-    <published>2024-12-17T22:19:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7449550688452922667</id>
     <title>San Francisco, we just got the FIRST @Rocksbox store!! 😱 You may remember Rockbox from their subscription box days, but now they’re available to shop online and in person for the FIRST TIME ever right here in the Filmore! 🫶✨ I just had to swing by their g</title>
@@ -291,5 +283,13 @@
     <content>Been in denial about this ban 😭 #tiktokban </content>
     <link href="https://tiktok.com/@whimsysoul/video/7458767883183639850"/>
     <published>2025-01-11T21:08:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7459096794430065963</id>
+    <title>waking up with perfect hair after 9 hours of sleep is my jam. ✨ @theordinary products for skin cycling @niveausa my fave winter moisturizer  @kiehls avocado eye cream @solawave wand red light  @target acne cream (it's just $6!) @philipshue smart lights fo</title>
+    <updated>2025-01-12T18:25:20+00:00</updated>
+    <content>waking up with perfect hair after 9 hours of sleep is my jam. ✨ @theordinary products for skin cycling @niveausa my fave winter moisturizer  @kiehls avocado eye cream @solawave wand red light  @target acne cream (it's just $6!) @philipshue smart lights fo</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7459096794430065963"/>
+    <published>2025-01-12T18:25:20+00:00</published>
   </entry>
 </feed>
