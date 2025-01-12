@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shoptunnelvision</id>
   <title>shoptunnelvision</title>
-  <updated>2025-01-10T23:20:18+00:00</updated>
+  <updated>2025-01-11T22:29:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shoptunnelvision</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shoptunnelvision/video/7421659727689551147</id>
-    <title>No Title</title>
-    <updated>2024-10-03T21:10:16+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@shoptunnelvision/video/7421659727689551147"/>
-    <published>2024-10-03T21:10:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shoptunnelvision/video/7424192404410125614</id>
     <title>Replying to @deej #greenscreen </title>
@@ -267,6 +259,14 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@shoptunnelvision/video/7458430647602777374"/>
     <published>2025-01-10T23:20:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shoptunnelvision/video/7458788704459558175</id>
+    <title>Veruca dresses, available for pre order now! </title>
+    <updated>2025-01-11T22:29:47+00:00</updated>
+    <content>Veruca dresses, available for pre order now! </content>
+    <link href="https://tiktok.com/@shoptunnelvision/video/7458788704459558175"/>
+    <published>2025-01-11T22:29:47+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@shoptunnelvision/video/7443868570615876895</id>

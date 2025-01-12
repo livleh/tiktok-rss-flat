@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@starryribbons</id>
   <title>starryribbons</title>
-  <updated>2025-01-04T18:06:41+00:00</updated>
+  <updated>2025-01-11T20:28:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from starryribbons</subtitle>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7424933331596332320</id>
-    <title>i love that song so much wtf #coquettecore #digitaldiary #femmelesbian #wlw #outfitoftheday #ootd </title>
-    <updated>2024-10-12T16:53:40+00:00</updated>
-    <content>i love that song so much wtf #coquettecore #digitaldiary #femmelesbian #wlw #outfitoftheday #ootd </content>
-    <link href="https://tiktok.com/@starryribbons/video/7424933331596332320"/>
-    <published>2024-10-12T16:53:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7425656810977168672</id>
     <title>#AD @Hanakoko Official | ignore the fact that some are missing, they do come w 10 😭 #coquettecore #digitaldiary #femmelesbian #outfitoftheweek #shoujo </title>
@@ -291,6 +283,14 @@
     <content>glitchy outfit of the day !! #digitaldiary #wlw #outfitoftheday #coquette </content>
     <link href="https://tiktok.com/@starryribbons/video/7456123345822584086"/>
     <published>2025-01-04T18:06:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7458757396291243286</id>
+    <title>growing up weird and now being confused when people find me attractive #digitaldiary #wlw #weirdkid #femmelesbian #taylorswift #kpop #tumblr2015</title>
+    <updated>2025-01-11T20:28:09+00:00</updated>
+    <content>growing up weird and now being confused when people find me attractive #digitaldiary #wlw #weirdkid #femmelesbian #taylorswift #kpop #tumblr2015</content>
+    <link href="https://tiktok.com/@starryribbons/video/7458757396291243286"/>
+    <published>2025-01-11T20:28:09+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7285761406664854817</id>

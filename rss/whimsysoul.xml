@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2025-01-11T17:54:51+00:00</updated>
+  <updated>2025-01-11T21:08:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7448757866309176619</id>
-    <title>Have you heard the Golden Gate Bridge whistle yet?  This humming whistling sound happens on a really  windy days I think the sound is really beautiful. It's a very ethereal sounding but some people don't like it.  What do you think?   Have you heard the G</title>
-    <updated>2024-12-15T21:44:53+00:00</updated>
-    <content>Have you heard the Golden Gate Bridge whistle yet?  This humming whistling sound happens on a really  windy days I think the sound is really beautiful. It's a very ethereal sounding but some people don't like it.  What do you think?   Have you heard the G</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7448757866309176619"/>
-    <published>2024-12-15T21:44:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7449072904383302958</id>
-    <title>couldn't believe the price!!! Trader joes 🙏 out here helping me fuel my holiday parties without breaking the bank.  Black girl magic is an awesome winery by the McBride sisters. They're black owned woman owned. They made great wines they're local to the B</title>
-    <updated>2024-12-16T18:07:37+00:00</updated>
-    <content>couldn't believe the price!!! Trader joes 🙏 out here helping me fuel my holiday parties without breaking the bank.  Black girl magic is an awesome winery by the McBride sisters. They're black owned woman owned. They made great wines they're local to the B</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7449072904383302958"/>
-    <published>2024-12-16T18:07:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7449508905597685038</id>
     <title>Why is it so cold today? This @Sézane sweater is so festive and cozy.  i'm a size 14. I do have my whole office linked on LTK by the way.   #curvy #sezane #holidayoutfit #sanfrancisco #bayarea #size14 #curvystyle </title>
@@ -291,5 +275,21 @@
     <content>PSA for makeup artist who lost everything in the LA fires I have brand new unopened sigma beauty, blush sets, and makeup that has not been expired. I would love to send this directly to you if you need to get back on your feet so you can start your busine</content>
     <link href="https://tiktok.com/@whimsysoul/video/7458717873897442606"/>
     <published>2025-01-11T17:54:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7458766177758612778</id>
+    <title>They say you build your fyp brick by brick </title>
+    <updated>2025-01-11T21:02:16+00:00</updated>
+    <content>They say you build your fyp brick by brick </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7458766177758612778"/>
+    <published>2025-01-11T21:02:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7458767883183639850</id>
+    <title>Been in denial about this ban 😭 #tiktokban </title>
+    <updated>2025-01-11T21:08:53+00:00</updated>
+    <content>Been in denial about this ban 😭 #tiktokban </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7458767883183639850"/>
+    <published>2025-01-11T21:08:53+00:00</published>
   </entry>
 </feed>
