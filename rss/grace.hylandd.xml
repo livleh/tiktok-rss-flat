@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2025-01-12T06:49:40+00:00</updated>
+  <updated>2025-01-13T11:42:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7433360067421949201</id>
-    <title>Cotton on for those who wanna know</title>
-    <updated>2024-11-04T09:53:45+00:00</updated>
-    <content>Cotton on for those who wanna know</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7433360067421949201"/>
-    <published>2024-11-04T09:53:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7433716664706862353</id>
     <title>You don’t haunt me anymore. When I was 14 I had my first picture day as Grace. A heard of 50 boys were all watching me pointing, laughing and saying horrible things. Whenever I passed them in school I would always go into fight or flight. I now pass some </title>
@@ -259,5 +251,13 @@
     <content>There’s too many people in the world to cling to toxicity </content>
     <link href="https://tiktok.com/@grace.hylandd/video/7458917382099176720"/>
     <published>2025-01-12T06:49:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7459363988753763600</id>
+    <title>I unearthed this old video! I was so wholesome and cute! What happened? 😂</title>
+    <updated>2025-01-13T11:42:37+00:00</updated>
+    <content>I unearthed this old video! I was so wholesome and cute! What happened? 😂</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7459363988753763600"/>
+    <published>2025-01-13T11:42:37+00:00</published>
   </entry>
 </feed>
