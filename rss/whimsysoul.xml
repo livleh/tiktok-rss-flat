@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2025-01-13T00:23:01+00:00</updated>
+  <updated>2025-01-13T20:07:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7451329903305411886</id>
-    <title>Best place in SF to get live, fresh crab!!🦀  For winter solstice, Robin and I got up early and headed to Alioto Lazio Fish Co in Fisherman's Wharf to pick up a couple of fresh Dungeness crab! 🦀 Free parking out front 🦀 MUST pre-order online first (or, giv</title>
-    <updated>2024-12-22T20:05:42+00:00</updated>
-    <content>Best place in SF to get live, fresh crab!!🦀  For winter solstice, Robin and I got up early and headed to Alioto Lazio Fish Co in Fisherman's Wharf to pick up a couple of fresh Dungeness crab! 🦀 Free parking out front 🦀 MUST pre-order online first (or, giv</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7451329903305411886"/>
-    <published>2024-12-22T20:05:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7451330914300480814</id>
-    <title>Crab season! For winter solstice, Robin and I got up early and headed to Alioto Lazio Fish Co in Fisherman's Wharf to pick up a couple of fresh Dungeness crab! 🦀 Free parking out front 🦀 MUST pre-order online first (or, give them a call) 🦀 Alioto is a loc</title>
-    <updated>2024-12-22T20:09:38+00:00</updated>
-    <content>Crab season! For winter solstice, Robin and I got up early and headed to Alioto Lazio Fish Co in Fisherman's Wharf to pick up a couple of fresh Dungeness crab! 🦀 Free parking out front 🦀 MUST pre-order online first (or, give them a call) 🦀 Alioto is a loc</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7451330914300480814"/>
-    <published>2024-12-22T20:09:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7451695804521254186</id>
     <title>merry Christmas 🎄</title>
@@ -291,5 +275,21 @@
     <content>Haven't re-introduced myself in forever. 🫣 and since it's goodbye soon, I wanted to say: Welcome to club Whimsy! So happy to have you here ❤️✨ Please follow me on Instagram, I want to stay connected! #tiktokban  #whimsysoul #sanfrancisco #influencer #cont</content>
     <link href="https://tiktok.com/@whimsysoul/video/7459188986976849198"/>
     <published>2025-01-13T00:23:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7459481966862454062</id>
+    <title>How to donate to the LA fire victims in a meaningful way  ⭐️ list of community member gofundmes in my bio  #california #lafires #donate #eatonfire #palisadesfire #redcross #salvationarmy </title>
+    <updated>2025-01-13T19:20:01+00:00</updated>
+    <content>How to donate to the LA fire victims in a meaningful way  ⭐️ list of community member gofundmes in my bio  #california #lafires #donate #eatonfire #palisadesfire #redcross #salvationarmy </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7459481966862454062"/>
+    <published>2025-01-13T19:20:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7459494199533276462</id>
+    <title>Capitalism has made even the most average slog in the machine heartless and doing it all for the bottom line #california #lafires #contentcreator #captalism #consumerism #influencer #marketing #eatonfire #palisadesfire #losangeles #content #influencermark</title>
+    <updated>2025-01-13T20:07:26+00:00</updated>
+    <content>Capitalism has made even the most average slog in the machine heartless and doing it all for the bottom line #california #lafires #contentcreator #captalism #consumerism #influencer #marketing #eatonfire #palisadesfire #losangeles #content #influencermark</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7459494199533276462"/>
+    <published>2025-01-13T20:07:26+00:00</published>
   </entry>
 </feed>
