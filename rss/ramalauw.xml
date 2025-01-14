@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ramalauw</id>
   <title>ramalauw</title>
-  <updated>2025-01-13T15:17:29+00:00</updated>
+  <updated>2025-01-14T15:15:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ramalauw</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ramalauw/video/7410055499644751136</id>
-    <title>When you want sleep but sleep doesn’t want you 🤡🫠 #free99 #lifeadvice #lifehacks #motivational </title>
-    <updated>2024-09-02T14:40:00+00:00</updated>
-    <content>When you want sleep but sleep doesn’t want you 🤡🫠 #free99 #lifeadvice #lifehacks #motivational </content>
-    <link href="https://tiktok.com/@ramalauw/video/7410055499644751136"/>
-    <published>2024-09-02T14:40:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7410454928205892896</id>
     <title>Can you guess how many years apart these clips were taken? 🥵🥰🥹🫶✨</title>
@@ -291,6 +283,14 @@
     <content>Green grapes be crunchy af 🥺😮‍💨🍇💚🫶✨ </content>
     <link href="https://tiktok.com/@ramalauw/video/7459419507077942550"/>
     <published>2025-01-13T15:17:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ramalauw/video/7459790004731055382</id>
+    <title>My thoughts on the ✨75-day hard✨ challenge 🥰💪🤡 #75hardchallenge #75hard  #fitness #lifestyle #motivation #inspiredawesomelife #fyp #foryou #tiktokusa </title>
+    <updated>2025-01-14T15:15:15+00:00</updated>
+    <content>My thoughts on the ✨75-day hard✨ challenge 🥰💪🤡 #75hardchallenge #75hard  #fitness #lifestyle #motivation #inspiredawesomelife #fyp #foryou #tiktokusa </content>
+    <link href="https://tiktok.com/@ramalauw/video/7459790004731055382"/>
+    <published>2025-01-14T15:15:15+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7270903343638187297</id>

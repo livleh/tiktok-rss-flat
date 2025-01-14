@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2025-01-13T20:52:24+00:00</updated>
+  <updated>2025-01-14T14:31:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7451993377710542122</id>
-    <title>started from the bottom(microsoft) #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</title>
-    <updated>2024-12-24T15:00:20+00:00</updated>
-    <content>started from the bottom(microsoft) #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</content>
-    <link href="https://tiktok.com/@techroastshow/video/7451993377710542122"/>
-    <published>2024-12-24T15:00:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7452058561326124330</id>
     <title>tis the quarter #techbro #techie #softwareengineer #christmas #holiday #engineeringlife #comedy </title>
@@ -291,6 +283,14 @@
     <content>don’t forget the VR stick and poke experience  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #CEO #techceo #techroastshow </content>
     <link href="https://tiktok.com/@techroastshow/video/7459505784452435243"/>
     <published>2025-01-13T20:52:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7459778786914028842</id>
+    <title>all the better to hear you with  #techie #softwareengineer #dc #washingtondc #programmerlife #roastbattle #darkhumor #techroastshow </title>
+    <updated>2025-01-14T14:31:48+00:00</updated>
+    <content>all the better to hear you with  #techie #softwareengineer #dc #washingtondc #programmerlife #roastbattle #darkhumor #techroastshow </content>
+    <link href="https://tiktok.com/@techroastshow/video/7459778786914028842"/>
+    <published>2025-01-14T14:31:48+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2025-01-14T05:48:04+00:00</updated>
+  <updated>2025-01-14T14:49:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7451695804521254186</id>
-    <title>merry Christmas 🎄</title>
-    <updated>2024-12-23T19:45:35+00:00</updated>
-    <content>merry Christmas 🎄</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7451695804521254186"/>
-    <published>2024-12-23T19:45:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7451711414235827502</id>
     <title>have you spotted this unique Christmas tree in Golden Gate Park yet? Find it on the South side of Stowe Lake / Blue Heron Lake!  #sanfrancisco #christmas #christmastree #bayarea #onlyinsf #sanfranciscolife #whimsysoul #goldengatepark </title>
@@ -291,5 +283,13 @@
     <content>Shelf of Doom tour 💀 don't worry I have it a new year makeover #shelf #tour #hometour #homedecor #clutter #organizedhome #ikea #california #sanfrancisco #ikeashelf </content>
     <link href="https://tiktok.com/@whimsysoul/video/7459643831974137134"/>
     <published>2025-01-14T05:48:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7459783416792370475</id>
+    <title>PSA if you still have your Christmas lights up, you don't actually like Christmas THAT much. You just need better mood lighting!! We're anti-Big Light people (unless you need it for a task, and then it goes RIGHT off again!) 1. Start by replacing your lig</title>
+    <updated>2025-01-14T14:49:52+00:00</updated>
+    <content>PSA if you still have your Christmas lights up, you don't actually like Christmas THAT much. You just need better mood lighting!! We're anti-Big Light people (unless you need it for a task, and then it goes RIGHT off again!) 1. Start by replacing your lig</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7459783416792370475"/>
+    <published>2025-01-14T14:49:52+00:00</published>
   </entry>
 </feed>
