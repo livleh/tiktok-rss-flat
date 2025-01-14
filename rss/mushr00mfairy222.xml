@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2025-01-13T20:16:03+00:00</updated>
+  <updated>2025-01-13T21:10:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7457646188158815520</id>
-    <title>the focus on my face 😭 #pinkhair #pinkoutfit #hellokitty </title>
-    <updated>2025-01-08T20:36:08+00:00</updated>
-    <content>the focus on my face 😭 #pinkhair #pinkoutfit #hellokitty </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7457646188158815520"/>
-    <published>2025-01-08T20:36:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7457926665864236320</id>
     <title>hope the pink hair helps scream i'm a lesbian #lesbian #wlw #nmlnm #lgbt #lgbtq </title>
@@ -283,6 +275,14 @@
     <content>Replying to @𝓻𝓾𝓫𝔂 💘💍 AND it's just a tiktok at the end of the day (also not to target this person at all, a lot of these comments so) ##realmandance #pinkhair </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7459496427387997473"/>
     <published>2025-01-13T20:16:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7459510383024426273</id>
+    <title>better to be a bit behind then letting bad mental health win permanently! ❤️‍🩹‼️ #mentalhealth #mh </title>
+    <updated>2025-01-13T21:10:09+00:00</updated>
+    <content>better to be a bit behind then letting bad mental health win permanently! ❤️‍🩹‼️ #mentalhealth #mh </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7459510383024426273"/>
+    <published>2025-01-13T21:10:09+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7295791125389004065</id>
