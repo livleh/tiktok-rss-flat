@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@melshoshahi</id>
   <title>melshoshahi</title>
-  <updated>2025-01-13T16:57:27+00:00</updated>
+  <updated>2025-01-14T23:26:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from melshoshahi</subtitle>
-  <entry>
-    <id>https://tiktok.com/@melshoshahi/video/7431997763224636703</id>
-    <title>Should we get free drinks on our birthdays? ☕️  #barista #customerservice #tiktokskit #coffee </title>
-    <updated>2024-10-31T17:47:14+00:00</updated>
-    <content>Should we get free drinks on our birthdays? ☕️  #barista #customerservice #tiktokskit #coffee </content>
-    <link href="https://tiktok.com/@melshoshahi/video/7431997763224636703"/>
-    <published>2024-10-31T17:47:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@melshoshahi/video/7432743206564973854</id>
     <title>I want to get carded until I’m 109, u niooo 💅🏽 #tiktokskit #bartender  #sketchcomedy </title>
@@ -275,6 +267,14 @@
     <content>Who’s kids are these? The store is not daycare uhkay 😅 #retail #tiktokskit #sephorakids #customerservice </content>
     <link href="https://tiktok.com/@melshoshahi/video/7459445243155385642"/>
     <published>2025-01-13T16:57:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@melshoshahi/video/7459916497624780075</id>
+    <title>My favorite pastime? Playing the es slotts at work u nio 💅🏽  @DraftKings Casino  #DKPartner  Using promo code: MELCOMEDY </title>
+    <updated>2025-01-14T23:26:07+00:00</updated>
+    <content>My favorite pastime? Playing the es slotts at work u nio 💅🏽  @DraftKings Casino  #DKPartner  Using promo code: MELCOMEDY </content>
+    <link href="https://tiktok.com/@melshoshahi/video/7459916497624780075"/>
+    <published>2025-01-14T23:26:07+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@melshoshahi/video/7282846082986462507</id>
