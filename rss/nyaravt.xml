@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2025-01-12T14:28:43+00:00</updated>
+  <updated>2025-01-15T14:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7449381982254943521</id>
-    <title>Why coming out is so important #lgbtq #twitch #trans</title>
-    <updated>2024-12-17T14:06:54+00:00</updated>
-    <content>Why coming out is so important #lgbtq #twitch #trans</content>
-    <link href="https://tiktok.com/@nyaravt/video/7449381982254943521"/>
-    <published>2024-12-17T14:06:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7449732248334568727</id>
     <title>#onthisday the real reason why being trans is difficult #streamer #trans #twitch </title>
@@ -291,6 +283,14 @@
     <content>This is a sign to leave Twitter w/ @stuoofid @azaleafoxx #vtuber #trans</content>
     <link href="https://tiktok.com/@nyaravt/video/7459035849515158817"/>
     <published>2025-01-12T14:28:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7460097767856229664</id>
+    <title>Sound like a Woman with this voice feminization technique #trans #valorant</title>
+    <updated>2025-01-15T14:00:00+00:00</updated>
+    <content>Sound like a Woman with this voice feminization technique #trans #valorant</content>
+    <link href="https://tiktok.com/@nyaravt/video/7460097767856229664"/>
+    <published>2025-01-15T14:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7419009625602673953</id>

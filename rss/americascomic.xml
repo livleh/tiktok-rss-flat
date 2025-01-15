@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@americascomic</id>
   <title>americascomic</title>
-  <updated>2025-01-12T15:37:56+00:00</updated>
+  <updated>2025-01-15T17:45:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from americascomic</subtitle>
-  <entry>
-    <id>https://tiktok.com/@americascomic/video/7385201035402300714</id>
-    <title>we're a mother and son team!</title>
-    <updated>2024-06-27T15:11:58+00:00</updated>
-    <content>we're a mother and son team!</content>
-    <link href="https://tiktok.com/@americascomic/video/7385201035402300714"/>
-    <published>2024-06-27T15:11:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@americascomic/video/7390025227054501162</id>
     <title>favorite band drama. Names changed to protect the innocent. #drama #storytime #fyp #bandlife #amberiscuteandfunny </title>
@@ -171,6 +163,14 @@
     <content>9/11 and transness  #transhistory  #transfemme  #transgender  #transliberation </content>
     <link href="https://tiktok.com/@americascomic/video/7459053643577183518"/>
     <published>2025-01-12T15:37:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@americascomic/video/7460199800508583198</id>
+    <title>The Final TikTok #trans  #transfemme  #protecttranskids  #transgender  #transliberation </title>
+    <updated>2025-01-15T17:45:31+00:00</updated>
+    <content>The Final TikTok #trans  #transfemme  #protecttranskids  #transgender  #transliberation </content>
+    <link href="https://tiktok.com/@americascomic/video/7460199800508583198"/>
+    <published>2025-01-15T17:45:31+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@americascomic/video/7231569804690328878</id>
