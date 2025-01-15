@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2025-01-13T23:36:33+00:00</updated>
+  <updated>2025-01-15T03:20:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7444706055776587054</id>
-    <title>Would you buy from me?  #sales #fyp </title>
-    <updated>2024-12-04T23:41:47+00:00</updated>
-    <content>Would you buy from me?  #sales #fyp </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7444706055776587054"/>
-    <published>2024-12-04T23:41:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7445079416318872878</id>
     <title>She had a perfect life</title>
@@ -283,6 +275,14 @@
     <content>Erotic ASMR</content>
     <link href="https://tiktok.com/@jessicakirson/video/7459548066316700959"/>
     <published>2025-01-13T23:36:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7459976905933245742</id>
+    <title>I was disgusted 🤮</title>
+    <updated>2025-01-15T03:20:35+00:00</updated>
+    <content>I was disgusted 🤮</content>
+    <link href="https://tiktok.com/@jessicakirson/video/7459976905933245742"/>
+    <published>2025-01-15T03:20:35+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7450529978304777518</id>

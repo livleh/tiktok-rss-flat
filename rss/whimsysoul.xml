@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2025-01-15T00:54:42+00:00</updated>
+  <updated>2025-01-15T02:10:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7451724500158385454</id>
-    <title>Stop rushing through this season. It's not meant to be rushed #winter #winterbreak #solstice #wintersolstice #hibernate #wellness #mentalhealth #burnout #wellnessjourney #sanfrancisco </title>
-    <updated>2024-12-23T21:36:55+00:00</updated>
-    <content>Stop rushing through this season. It's not meant to be rushed #winter #winterbreak #solstice #wintersolstice #hibernate #wellness #mentalhealth #burnout #wellnessjourney #sanfrancisco </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7451724500158385454"/>
-    <published>2024-12-23T21:36:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7451768099281505582</id>
     <title>Beef with the committee who renamed Stowe Lake #sanfrancisco #stowelake #goldengatepark </title>
@@ -291,5 +283,13 @@
     <content>Kevin is new to San Francisco and needs your recommendations on favorite restaurants, cafes, stores, trails, etc. let's show him some love and showcase the power of TikTok!  #cbs #cbsnews #tiktokban #capcut #sanfrancisco #bayarea #sanfranciscolife #sanfra</content>
     <link href="https://tiktok.com/@whimsysoul/video/7459939313959193899"/>
     <published>2025-01-15T00:54:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7459958963166022954</id>
+    <title>Can't stop being paparazzi to the Golden Gate Bridge #goldengatebridge #sanfrancisco #bayarea #sanfranciscolife #whimsysoul </title>
+    <updated>2025-01-15T02:10:55+00:00</updated>
+    <content>Can't stop being paparazzi to the Golden Gate Bridge #goldengatebridge #sanfrancisco #bayarea #sanfranciscolife #whimsysoul </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7459958963166022954"/>
+    <published>2025-01-15T02:10:55+00:00</published>
   </entry>
 </feed>
