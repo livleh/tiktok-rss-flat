@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2025-01-15T03:20:35+00:00</updated>
+  <updated>2025-01-15T23:29:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7445079416318872878</id>
-    <title>She had a perfect life</title>
-    <updated>2024-12-05T23:50:36+00:00</updated>
-    <content>She had a perfect life</content>
-    <link href="https://tiktok.com/@jessicakirson/video/7445079416318872878"/>
-    <published>2024-12-05T23:50:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7445431626286419246</id>
     <title>Paris Pansexual </title>
@@ -283,6 +275,14 @@
     <content>I was disgusted 🤮</content>
     <link href="https://tiktok.com/@jessicakirson/video/7459976905933245742"/>
     <published>2025-01-15T03:20:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7460288463754071339</id>
+    <title>A Theatre Professor </title>
+    <updated>2025-01-15T23:29:36+00:00</updated>
+    <content>A Theatre Professor </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7460288463754071339"/>
+    <published>2025-01-15T23:29:36+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7450529978304777518</id>
