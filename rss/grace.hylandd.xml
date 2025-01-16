@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2025-01-13T11:42:37+00:00</updated>
+  <updated>2025-01-16T07:25:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7433716664706862353</id>
-    <title>You don’t haunt me anymore. When I was 14 I had my first picture day as Grace. A heard of 50 boys were all watching me pointing, laughing and saying horrible things. Whenever I passed them in school I would always go into fight or flight. I now pass some </title>
-    <updated>2024-11-05T08:57:33+00:00</updated>
-    <content>You don’t haunt me anymore. When I was 14 I had my first picture day as Grace. A heard of 50 boys were all watching me pointing, laughing and saying horrible things. Whenever I passed them in school I would always go into fight or flight. I now pass some </content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7433716664706862353"/>
-    <published>2024-11-05T08:57:33+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7434058980357377281</id>
-    <title>As a trans girl I have been in relationships and situationships where I was not treated like the Queen that I know I am. This is because I had a scarcity mindset when it came to men. I used to cling onto the first man that was giving me attention regardle</title>
-    <updated>2024-11-06T07:05:52+00:00</updated>
-    <content>As a trans girl I have been in relationships and situationships where I was not treated like the Queen that I know I am. This is because I had a scarcity mindset when it came to men. I used to cling onto the first man that was giving me attention regardle</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7434058980357377281"/>
-    <published>2024-11-06T07:05:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7434804187063487761</id>
     <title>I also lost an ipad that had subscriptions on it!</title>
@@ -259,5 +243,21 @@
     <content>I unearthed this old video! I was so wholesome and cute! What happened? 😂</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7459363988753763600"/>
     <published>2025-01-13T11:42:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7460371371344874769</id>
+    <title>Lord knows what happens when you reject the scary mall men! </title>
+    <updated>2025-01-16T04:51:43+00:00</updated>
+    <content>Lord knows what happens when you reject the scary mall men! </content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7460371371344874769"/>
+    <published>2025-01-16T04:51:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7460410990778256641</id>
+    <title>Legs on the menu</title>
+    <updated>2025-01-16T07:25:32+00:00</updated>
+    <content>Legs on the menu</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7460410990778256641"/>
+    <published>2025-01-16T07:25:32+00:00</published>
   </entry>
 </feed>
