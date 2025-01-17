@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@americascomic</id>
   <title>americascomic</title>
-  <updated>2025-01-15T17:45:31+00:00</updated>
+  <updated>2025-01-16T19:37:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from americascomic</subtitle>
-  <entry>
-    <id>https://tiktok.com/@americascomic/video/7400041662971694382</id>
-    <title>should you vote? I will tell you. shout out to Olive Delights Restaurant for the support. that part about deep green resistance is true. #voting #leftism #environmentalism #olivedelights #amberiscuteandfunny </title>
-    <updated>2024-08-06T15:01:14+00:00</updated>
-    <content>should you vote? I will tell you. shout out to Olive Delights Restaurant for the support. that part about deep green resistance is true. #voting #leftism #environmentalism #olivedelights #amberiscuteandfunny </content>
-    <link href="https://tiktok.com/@americascomic/video/7400041662971694382"/>
-    <published>2024-08-06T15:01:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@americascomic/video/7403010014065233198</id>
     <title>any of those roommates reading this, hope y'all grown, not because I'm concerned for you, but because I'm concerned about the safety of the people and especially women who would be in proximity to you #environmentalism #amberiscuteandfunny #socialism #rev</title>
@@ -163,6 +155,14 @@
     <content>The Final TikTok #trans  #transfemme  #protecttranskids  #transgender  #transliberation </content>
     <link href="https://tiktok.com/@americascomic/video/7460199800508583198"/>
     <published>2025-01-15T17:45:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@americascomic/video/7460599729970367775</id>
+    <title>how to organize  #communityorganizing #ledtism #leftistorganizing #buildingcommunity </title>
+    <updated>2025-01-16T19:37:29+00:00</updated>
+    <content>how to organize  #communityorganizing #ledtism #leftistorganizing #buildingcommunity </content>
+    <link href="https://tiktok.com/@americascomic/video/7460599729970367775"/>
+    <published>2025-01-16T19:37:29+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@americascomic/video/7231569804690328878</id>

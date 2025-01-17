@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@andreasfashiongalaxy</id>
   <title>andreasfashiongalaxy</title>
-  <updated>2025-01-14T21:11:29+00:00</updated>
+  <updated>2025-01-16T21:00:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from andreasfashiongalaxy</subtitle>
-  <entry>
-    <id>https://tiktok.com/@andreasfashiongalaxy/video/7400507195181239584</id>
-    <title>How to style an outfit to fight crime #letsgetdressed ad</title>
-    <updated>2024-08-07T21:07:40+00:00</updated>
-    <content>How to style an outfit to fight crime #letsgetdressed ad</content>
-    <link href="https://tiktok.com/@andreasfashiongalaxy/video/7400507195181239584"/>
-    <published>2024-08-07T21:07:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@andreasfashiongalaxy/video/7403458624292408609</id>
     <title>How to style a vintage midi skirt as a dress #letsgetdressed </title>
@@ -291,5 +283,13 @@
     <content>How to style a confidence boosting outfit using vintage clothes #letsgetdressed </content>
     <link href="https://tiktok.com/@andreasfashiongalaxy/video/7459881780246580513"/>
     <published>2025-01-14T21:11:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@andreasfashiongalaxy/video/7460621177690639648</id>
+    <title>How I’m styling my new glittery clothes #letsgetdressed </title>
+    <updated>2025-01-16T21:00:35+00:00</updated>
+    <content>How I’m styling my new glittery clothes #letsgetdressed </content>
+    <link href="https://tiktok.com/@andreasfashiongalaxy/video/7460621177690639648"/>
+    <published>2025-01-16T21:00:35+00:00</published>
   </entry>
 </feed>
