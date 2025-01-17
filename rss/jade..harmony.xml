@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jade..harmony</id>
   <title>jade..harmony</title>
-  <updated>2025-01-12T12:20:31+00:00</updated>
+  <updated>2025-01-17T15:05:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jade..harmony</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jade..harmony/video/7437246883472444703</id>
-    <title>#suesylvester #glee #fyp </title>
-    <updated>2024-11-14T21:16:28+00:00</updated>
-    <content>#suesylvester #glee #fyp </content>
-    <link href="https://tiktok.com/@jade..harmony/video/7437246883472444703"/>
-    <published>2024-11-14T21:16:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jade..harmony/video/7440361470333930782</id>
     <title>#fyp #glamour #queen #oldhollywood #glamor #fyp #entertainment #foryoupage </title>
@@ -283,6 +275,14 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@jade..harmony/video/7459002687535779115"/>
     <published>2025-01-12T12:20:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jade..harmony/video/7460900679322717482</id>
+    <title>#fyp #broadway #wicked #glinda #glindadress #wickedmovie #fashion #dress #arianagrande </title>
+    <updated>2025-01-17T15:05:23+00:00</updated>
+    <content>#fyp #broadway #wicked #glinda #glindadress #wickedmovie #fashion #dress #arianagrande </content>
+    <link href="https://tiktok.com/@jade..harmony/video/7460900679322717482"/>
+    <published>2025-01-17T15:05:23+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jade..harmony/video/7434508458151480607</id>
