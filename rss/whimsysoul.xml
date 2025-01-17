@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2025-01-16T05:43:16+00:00</updated>
+  <updated>2025-01-17T18:44:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7453270790801296683</id>
-    <title>Could it be like this always? 🙏 outfit details on my LTK #sanfrancisco #bayare #sanfranciscolife #whimsysoul #sezane #sezanelovers #sanfranciscooutfits #californiastyle #ltkseasonal #shopltk #ltkcurves #curvy </title>
-    <updated>2024-12-28T01:37:19+00:00</updated>
-    <content>Could it be like this always? 🙏 outfit details on my LTK #sanfrancisco #bayare #sanfranciscolife #whimsysoul #sezane #sezanelovers #sanfranciscooutfits #californiastyle #ltkseasonal #shopltk #ltkcurves #curvy </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7453270790801296683"/>
-    <published>2024-12-28T01:37:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7453556989134802222</id>
     <title>I plan on having less money &amp; more memories please and thank you. Follow me if you have the same plan, I'll show ya fun things ❤️  #5yearplan #travel #travellife #amsterdam #netherlands #holland #traveltok #lol #whimsysoul </title>
@@ -291,5 +283,13 @@
     <content>two major news stations in a week?? Pinch me! (Like really hard so I forget about this ban for a minute ok??)  Shoutout to my pal @sideofstef for slaying the first half of this CBS Interview!! *snaps*  #tiktok #tiktokban #whimsysoul #sanfrancisco #bayarea</content>
     <link href="https://tiktok.com/@whimsysoul/video/7460384739686583598"/>
     <published>2025-01-16T05:43:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7460957196181081390</id>
+    <title>What do you guys think about this secret treehouse Airbnb in the Santa Cruz mountains - would you stay here? 📍 Redwood Treefort in Felton  ##airbnb##santacruz##felton##airbnbfinds##california##visitcalifornia##bayarea##sanjose##sanfrancisco##treehouse##ou</title>
+    <updated>2025-01-17T18:44:36+00:00</updated>
+    <content>What do you guys think about this secret treehouse Airbnb in the Santa Cruz mountains - would you stay here? 📍 Redwood Treefort in Felton  ##airbnb##santacruz##felton##airbnbfinds##california##visitcalifornia##bayarea##sanjose##sanfrancisco##treehouse##ou</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7460957196181081390"/>
+    <published>2025-01-17T18:44:36+00:00</published>
   </entry>
 </feed>
