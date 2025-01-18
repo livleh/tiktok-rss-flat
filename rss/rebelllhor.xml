@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rebelllhor</id>
   <title>rebelllhor</title>
-  <updated>2025-01-16T14:34:50+00:00</updated>
+  <updated>2025-01-18T12:35:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rebelllhor</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rebelllhor/video/7426780979836046625</id>
-    <title>No Title</title>
-    <updated>2024-10-17T16:23:21+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@rebelllhor/video/7426780979836046625"/>
-    <published>2024-10-17T16:23:21+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@rebelllhor/video/7427520452559441184</id>
-    <title>Makeup @Leana Ardeleanu </title>
-    <updated>2024-10-19T16:12:58+00:00</updated>
-    <content>Makeup @Leana Ardeleanu </content>
-    <link href="https://tiktok.com/@rebelllhor/video/7427520452559441184"/>
-    <published>2024-10-19T16:12:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rebelllhor/video/7427886552224763168</id>
     <title>No Title</title>
@@ -291,6 +275,22 @@
     <content>#NewMusic </content>
     <link href="https://tiktok.com/@rebelllhor/video/7460521765815651606"/>
     <published>2025-01-16T14:34:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rebelllhor/video/7461229484667129110</id>
+    <title>#NewMusic #ffyn #natalieh #blockhim </title>
+    <updated>2025-01-18T12:21:08+00:00</updated>
+    <content>#NewMusic #ffyn #natalieh #blockhim </content>
+    <link href="https://tiktok.com/@rebelllhor/video/7461229484667129110"/>
+    <published>2025-01-18T12:21:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rebelllhor/video/7461233191668485378</id>
+    <title>#NewMusic #love #mylove #isthislovechallenge #bodaciousthang @BodaciousThang </title>
+    <updated>2025-01-18T12:35:32+00:00</updated>
+    <content>#NewMusic #love #mylove #isthislovechallenge #bodaciousthang @BodaciousThang </content>
+    <link href="https://tiktok.com/@rebelllhor/video/7461233191668485378"/>
+    <published>2025-01-18T12:35:32+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@rebelllhor/video/7321789662287187233</id>
