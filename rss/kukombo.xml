@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@kukombo</id>
   <title>kukombo</title>
-  <updated>2024-12-21T17:00:34+00:00</updated>
+  <updated>2025-01-18T17:10:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from kukombo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kukombo/video/7163398974185966849</id>
-    <title>Who needs a coven when you have @MARVELSNAP? 😌 Download and play today to unlock these exclusive Agatha variants! #marvelsnap </title>
-    <updated>2022-11-07T22:06:45+00:00</updated>
-    <content>Who needs a coven when you have @MARVELSNAP? 😌 Download and play today to unlock these exclusive Agatha variants! #marvelsnap </content>
-    <link href="https://tiktok.com/@kukombo/video/7163398974185966849"/>
-    <published>2022-11-07T22:06:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kukombo/video/7167402120847674626</id>
     <title>Nothing is ever what it seems in @Coca-Cola US Dreamworld! Let me know your wildest dreams and it might just come to life in a future video! #cocacola #cocacoladreamworld #cocacolacreations  #cokepartner </title>
@@ -291,6 +283,14 @@
     <content>Eenie, Meenie, Mini Me 🤭 Join CapCut Winter Carnival now by clicking the button above ⬆️⬆️⬆️ #CapCut #CapCutCarnival #CCCreator </content>
     <link href="https://tiktok.com/@kukombo/video/7450911066969623839"/>
     <published>2024-12-21T17:00:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kukombo/video/7461303911962479902</id>
+    <title>No Title</title>
+    <updated>2025-01-18T17:10:01+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@kukombo/video/7461303911962479902"/>
+    <published>2025-01-18T17:10:01+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@kukombo/video/6985183691433659650</id>

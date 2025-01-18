@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2025-01-17T23:43:31+00:00</updated>
+  <updated>2025-01-18T16:48:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7453984250757385514</id>
-    <title>IKEA is my happy place ✨❤️ That New Year itch to reorganize and finally tackle my Shelf Of Doom has finally hit, so Robin and I headed to the @IKEA in Downtown San Francisco to pick up some goodies.  I actually haven't been in here before, so it was a fun</title>
-    <updated>2024-12-29T23:45:54+00:00</updated>
-    <content>IKEA is my happy place ✨❤️ That New Year itch to reorganize and finally tackle my Shelf Of Doom has finally hit, so Robin and I headed to the @IKEA in Downtown San Francisco to pick up some goodies.  I actually haven't been in here before, so it was a fun</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7453984250757385514"/>
-    <published>2024-12-29T23:45:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7453992671779015978</id>
     <title>San Francisco food hall you can't miss! Imagine hitting up happy hour here with the girls at Saluhall and then tipsy shopping at IKEA?  Makes for a great lunch, too. I know this isn't brand new (about a year old) but it took me this long to stop by and no</title>
@@ -291,5 +283,13 @@
     <content>Replying to @Robins_roost we listen and don't judge??  That treehouse Airbnb in Santa Cruz was one I will remember forever. We laugh about it now #santacruz #airbnb #felton #california #bayarea #sanjose #welistenanddontjudge #treehouse #whimsysoul </content>
     <link href="https://tiktok.com/@whimsysoul/video/7461034223915322670"/>
     <published>2025-01-17T23:43:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7461298484344311083</id>
+    <title>Glow Up with me at San Francisco’s newest hydrafacial! @FACE FOUNDRIÉ San Francisco is on Chestnut and I’m obsessed with their bright, airy decor.  We looked at all the gunk my esthetician pulled out of my face and 🤮 gross but satisfying, my skin is liter</title>
+    <updated>2025-01-18T16:48:53+00:00</updated>
+    <content>Glow Up with me at San Francisco’s newest hydrafacial! @FACE FOUNDRIÉ San Francisco is on Chestnut and I’m obsessed with their bright, airy decor.  We looked at all the gunk my esthetician pulled out of my face and 🤮 gross but satisfying, my skin is liter</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7461298484344311083"/>
+    <published>2025-01-18T16:48:53+00:00</published>
   </entry>
 </feed>
