@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@danielryanspaulding</id>
   <title>danielryanspaulding</title>
-  <updated>2024-12-30T20:49:52+00:00</updated>
+  <updated>2025-01-18T16:26:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from danielryanspaulding</subtitle>
-  <entry>
-    <id>https://tiktok.com/@danielryanspaulding/video/7413846074785434913</id>
-    <title>Sorry Cori Bush, you arent going to destroy #aipac &amp; the holy jewish nation #israel #usa #coribush #ilanaglazer #middleeast #irgc #hezbollah #houthis </title>
-    <updated>2024-09-12T19:49:18+00:00</updated>
-    <content>Sorry Cori Bush, you arent going to destroy #aipac &amp; the holy jewish nation #israel #usa #coribush #ilanaglazer #middleeast #irgc #hezbollah #houthis </content>
-    <link href="https://tiktok.com/@danielryanspaulding/video/7413846074785434913"/>
-    <published>2024-09-12T19:49:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@danielryanspaulding/video/7414140351977491745</id>
     <title>So many fucking living rooms #powergay #highlandpark #gay #comedy #chicago #suburbs </title>
@@ -283,5 +275,13 @@
     <content>POWERGAY.NYC #gay #fireisland #brand #merch </content>
     <link href="https://tiktok.com/@danielryanspaulding/video/7454309961473051926"/>
     <published>2024-12-30T20:49:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@danielryanspaulding/video/7461292684699880726</id>
+    <title>Follow me on IG @danielryanspaulding </title>
+    <updated>2025-01-18T16:26:22+00:00</updated>
+    <content>Follow me on IG @danielryanspaulding </content>
+    <link href="https://tiktok.com/@danielryanspaulding/video/7461292684699880726"/>
+    <published>2025-01-18T16:26:22+00:00</published>
   </entry>
 </feed>
