@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2025-01-18T16:48:53+00:00</updated>
+  <updated>2025-01-19T02:20:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7453992671779015978</id>
-    <title>San Francisco food hall you can't miss! Imagine hitting up happy hour here with the girls at Saluhall and then tipsy shopping at IKEA?  Makes for a great lunch, too. I know this isn't brand new (about a year old) but it took me this long to stop by and no</title>
-    <updated>2024-12-30T00:18:36+00:00</updated>
-    <content>San Francisco food hall you can't miss! Imagine hitting up happy hour here with the girls at Saluhall and then tipsy shopping at IKEA?  Makes for a great lunch, too. I know this isn't brand new (about a year old) but it took me this long to stop by and no</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7453992671779015978"/>
-    <published>2024-12-30T00:18:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7454702684323728686</id>
     <title>Spotted in San Francisco ❤️ I think the mint green and red one is my fave (very wes anderson vibes) hbu?  #sanfrancisco #streetcar #cablecar #bayarea #downtownsanfrancisco #onlyinsf #sanfranciscoworld </title>
@@ -291,5 +283,13 @@
     <content>Glow Up with me at San Francisco’s newest hydrafacial! @FACE FOUNDRIÉ San Francisco is on Chestnut and I’m obsessed with their bright, airy decor.  We looked at all the gunk my esthetician pulled out of my face and 🤮 gross but satisfying, my skin is liter</content>
     <link href="https://tiktok.com/@whimsysoul/video/7461298484344311083"/>
     <published>2025-01-18T16:48:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7461445645304433962</id>
+    <title>Farewell and I love you all. Stay vigilant, keep fighting. Find me on Instagram </title>
+    <updated>2025-01-19T02:20:00+00:00</updated>
+    <content>Farewell and I love you all. Stay vigilant, keep fighting. Find me on Instagram </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7461445645304433962"/>
+    <published>2025-01-19T02:20:00+00:00</published>
   </entry>
 </feed>

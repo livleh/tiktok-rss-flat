@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2025-01-17T14:41:27+00:00</updated>
+  <updated>2025-01-19T07:30:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7436248597672267024</id>
-    <title>Being trans is the best filter @Evangeline James </title>
-    <updated>2024-11-12T04:42:42+00:00</updated>
-    <content>Being trans is the best filter @Evangeline James </content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7436248597672267024"/>
-    <published>2024-11-12T04:42:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7437352547125431569</id>
-    <title>The best get out of date free card</title>
-    <updated>2024-11-15T04:06:54+00:00</updated>
-    <content>The best get out of date free card</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7437352547125431569"/>
-    <published>2024-11-15T04:06:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7437494109914320129</id>
     <title>We’re swiping no if Diamie doesn’t think your dog is cute.</title>
@@ -267,5 +251,21 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7460894460818378000"/>
     <published>2025-01-17T14:41:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7461482226774002961</id>
+    <title>Going to LENGTHS to see me</title>
+    <updated>2025-01-19T04:42:31+00:00</updated>
+    <content>Going to LENGTHS to see me</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7461482226774002961"/>
+    <published>2025-01-19T04:42:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7461525431297084688</id>
+    <title>Thank u, next 🪽</title>
+    <updated>2025-01-19T07:30:00+00:00</updated>
+    <content>Thank u, next 🪽</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7461525431297084688"/>
+    <published>2025-01-19T07:30:00+00:00</published>
   </entry>
 </feed>

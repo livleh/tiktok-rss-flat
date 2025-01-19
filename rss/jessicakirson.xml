@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2025-01-17T20:27:40+00:00</updated>
+  <updated>2025-01-19T17:52:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7445666592349818155</id>
-    <title>So reserved he wont go to fire island </title>
-    <updated>2024-12-07T13:49:15+00:00</updated>
-    <content>So reserved he wont go to fire island </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7445666592349818155"/>
-    <published>2024-12-07T13:49:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7446185092604693806</id>
     <title>Pierre From Paris  #paris #france </title>
@@ -107,6 +99,14 @@
     <content>Security at my show! </content>
     <link href="https://tiktok.com/@jessicakirson/video/7450247037716532522"/>
     <published>2024-12-19T22:03:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7450529978304777518</id>
+    <title>Hiii I have added new dates to the Never Ending Tour. If your city isn’t listed comment it below xoxo </title>
+    <updated>2024-12-20T16:21:37+00:00</updated>
+    <content>Hiii I have added new dates to the Never Ending Tour. If your city isn’t listed comment it below xoxo </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7450529978304777518"/>
+    <published>2024-12-20T16:21:37+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7450857615011237151</id>
@@ -285,11 +285,11 @@
     <published>2025-01-17T20:27:40+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7450529978304777518</id>
-    <title>Hiii I have added new dates to the Never Ending Tour. If your city isn’t listed comment it below xoxo </title>
-    <updated>2024-12-20T16:21:37+00:00</updated>
-    <content>Hiii I have added new dates to the Never Ending Tour. If your city isn’t listed comment it below xoxo </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7450529978304777518"/>
-    <published>2024-12-20T16:21:37+00:00</published>
+    <id>https://tiktok.com/@jessicakirson/video/7461685829425974571</id>
+    <title>Hiii!! Now that tik tok is back I just wanted to make sure you all could see my live dates I have coming up. Tik Tok may stop but The Never Ending Tour continues! If your city isn’t listed please comment it below xoxo </title>
+    <updated>2025-01-19T17:52:07+00:00</updated>
+    <content>Hiii!! Now that tik tok is back I just wanted to make sure you all could see my live dates I have coming up. Tik Tok may stop but The Never Ending Tour continues! If your city isn’t listed please comment it below xoxo </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7461685829425974571"/>
+    <published>2025-01-19T17:52:07+00:00</published>
   </entry>
 </feed>
