@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@maddie.cleary</id>
   <title>maddie.cleary</title>
-  <updated>2025-01-18T20:06:57+00:00</updated>
+  <updated>2023-09-20T20:37:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from maddie.cleary</subtitle>
+  <entry>
+    <id>https://tiktok.com/@maddie.cleary/video/7249510920026623278</id>
+    <title>is it giving it girl or rasputin don’t lie 🤨 #grwm #fit #fitcheck #city</title>
+    <updated>2023-06-27T23:25:06+00:00</updated>
+    <content>is it giving it girl or rasputin don’t lie 🤨 #grwm #fit #fitcheck #city</content>
+    <link href="https://tiktok.com/@maddie.cleary/video/7249510920026623278"/>
+    <published>2023-06-27T23:25:06+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@maddie.cleary/video/7249888603290078507</id>
     <title>ok give me more dares lol #rejectiontherapy </title>
@@ -283,13 +291,5 @@
     <content>spooky szn vibes</content>
     <link href="https://tiktok.com/@maddie.cleary/video/7281010082102480174"/>
     <published>2023-09-20T20:37:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@maddie.cleary/video/7461349531049790763</id>
-    <title>thank you tiktok 🤍</title>
-    <updated>2025-01-18T20:06:57+00:00</updated>
-    <content>thank you tiktok 🤍</content>
-    <link href="https://tiktok.com/@maddie.cleary/video/7461349531049790763"/>
-    <published>2025-01-18T20:06:57+00:00</published>
   </entry>
 </feed>
