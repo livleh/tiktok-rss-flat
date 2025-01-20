@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2025-01-19T17:55:22+00:00</updated>
+  <updated>2025-01-19T23:26:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7453852414538550570</id>
-    <title>layoffs to laid  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</title>
-    <updated>2024-12-29T15:14:23+00:00</updated>
-    <content>layoffs to laid  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</content>
-    <link href="https://tiktok.com/@techroastshow/video/7453852414538550570"/>
-    <published>2024-12-29T15:14:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7454237747176394030</id>
     <title>he’s a real boy now  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</title>
@@ -291,6 +283,14 @@
     <content>we are American idk why we can still post here  . . . . #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </content>
     <link href="https://tiktok.com/@techroastshow/video/7461686544957639982"/>
     <published>2025-01-19T17:55:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7461771989418560814</id>
+    <title>🏎️ #techie #softwareengineer #programmerlife #founders #whalepond #techroastshow </title>
+    <updated>2025-01-19T23:26:41+00:00</updated>
+    <content>🏎️ #techie #softwareengineer #programmerlife #founders #whalepond #techroastshow </content>
+    <link href="https://tiktok.com/@techroastshow/video/7461771989418560814"/>
+    <published>2025-01-19T23:26:41+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
