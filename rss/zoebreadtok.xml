@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2025-01-11T18:27:45+00:00</updated>
+  <updated>2025-01-20T18:26:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7437542864474656032</id>
-    <title>all legitimate business expenses   im inncent</title>
-    <updated>2024-11-15T16:25:05+00:00</updated>
-    <content>all legitimate business expenses   im inncent</content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7437542864474656032"/>
-    <published>2024-11-15T16:25:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7437582623012097312</id>
     <title>No Title</title>
@@ -283,6 +275,14 @@
     <content>the final instalment of my ageist and depressong series. maybe fun stuff can resume. maybe </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7458726360719068448"/>
     <published>2025-01-11T18:27:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7462065917644655905</id>
+    <title>i’m a bit rusty after being off for a whole week and being very old. bare with me please and hi!!!!!!!!!!</title>
+    <updated>2025-01-20T18:26:57+00:00</updated>
+    <content>i’m a bit rusty after being off for a whole week and being very old. bare with me please and hi!!!!!!!!!!</content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7462065917644655905"/>
+    <published>2025-01-20T18:26:57+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7391078276183215392</id>
