@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2025-01-20T09:51:27+00:00</updated>
+  <updated>2025-01-21T03:23:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7437848862460497168</id>
-    <title>Manifesting is real</title>
-    <updated>2024-11-16T12:12:28+00:00</updated>
-    <content>Manifesting is real</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7437848862460497168"/>
-    <published>2024-11-16T12:12:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7438023254842854657</id>
     <title>Maddy Perez where are you?</title>
@@ -267,5 +259,13 @@
     <content>Replying to @awakenwithinyou it should be noted that I’ve had the surgery.</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7461932954340707601"/>
     <published>2025-01-20T09:51:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7462204149233421569</id>
+    <title>You put up with what you think you deserve.</title>
+    <updated>2025-01-21T03:23:51+00:00</updated>
+    <content>You put up with what you think you deserve.</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7462204149233421569"/>
+    <published>2025-01-21T03:23:51+00:00</published>
   </entry>
 </feed>
