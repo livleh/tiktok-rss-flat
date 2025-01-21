@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2025-01-19T17:52:07+00:00</updated>
+  <updated>2025-01-20T23:38:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7446185092604693806</id>
-    <title>Pierre From Paris  #paris #france </title>
-    <updated>2024-12-08T23:21:11+00:00</updated>
-    <content>Pierre From Paris  #paris #france </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7446185092604693806"/>
-    <published>2024-12-08T23:21:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7446571544169434399</id>
     <title>I pulled something in the back of my neck </title>
@@ -283,6 +275,14 @@
     <content>Follow me on these other platforms! #fyp #tok  IG: @jessykirson  YouTube: @JessicaKirsonComedy Website/Tour Schedule: jessicakirson.com</content>
     <link href="https://tiktok.com/@jessicakirson/video/7460983752081280302"/>
     <published>2025-01-17T20:27:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7462146161420422430</id>
+    <title>Blippi? The Never Ending Tour is happening now and I am adding shows. Comment your city 👇</title>
+    <updated>2025-01-20T23:38:57+00:00</updated>
+    <content>Blippi? The Never Ending Tour is happening now and I am adding shows. Comment your city 👇</content>
+    <link href="https://tiktok.com/@jessicakirson/video/7462146161420422430"/>
+    <published>2025-01-20T23:38:57+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7461685829425974571</id>
