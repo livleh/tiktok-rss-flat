@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ramalauw</id>
   <title>ramalauw</title>
-  <updated>2025-01-14T15:15:15+00:00</updated>
+  <updated>2025-01-21T12:33:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ramalauw</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ramalauw/video/7410454928205892896</id>
-    <title>Can you guess how many years apart these clips were taken? 🥵🥰🥹🫶✨</title>
-    <updated>2024-09-03T16:30:00+00:00</updated>
-    <content>Can you guess how many years apart these clips were taken? 🥵🥰🥹🫶✨</content>
-    <link href="https://tiktok.com/@ramalauw/video/7410454928205892896"/>
-    <published>2024-09-03T16:30:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7412671978206809377</id>
     <title>I’m working late (stayed up till 4am) cause I’m a singer (spent 4 hours r0tt1ng in bed doomscrolling 🤡)</title>
@@ -291,6 +283,14 @@
     <content>My thoughts on the ✨75-day hard✨ challenge 🥰💪🤡 #75hardchallenge #75hard  #fitness #lifestyle #motivation #inspiredawesomelife #fyp #foryou #tiktokusa </content>
     <link href="https://tiktok.com/@ramalauw/video/7459790004731055382"/>
     <published>2025-01-14T15:15:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ramalauw/video/7462345842364599574</id>
+    <title>If I just start believing in other people’s opinions of me more, I’d be a much much happier man 😭🤡 #advice #lifequotes #motivational #inspiring #quoteoftheday #tiktokusa #fyp #foryou </title>
+    <updated>2025-01-21T12:33:14+00:00</updated>
+    <content>If I just start believing in other people’s opinions of me more, I’d be a much much happier man 😭🤡 #advice #lifequotes #motivational #inspiring #quoteoftheday #tiktokusa #fyp #foryou </content>
+    <link href="https://tiktok.com/@ramalauw/video/7462345842364599574"/>
+    <published>2025-01-21T12:33:14+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7270903343638187297</id>

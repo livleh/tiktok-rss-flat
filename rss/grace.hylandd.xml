@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2025-01-21T03:23:51+00:00</updated>
+  <updated>2025-01-21T09:38:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7438023254842854657</id>
-    <title>Maddy Perez where are you?</title>
-    <updated>2024-11-16T23:29:26+00:00</updated>
-    <content>Maddy Perez where are you?</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7438023254842854657"/>
-    <published>2024-11-16T23:29:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7438173646897581328</id>
     <title>Worst decision</title>
@@ -267,5 +259,13 @@
     <content>You put up with what you think you deserve.</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7462204149233421569"/>
     <published>2025-01-21T03:23:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7462300638794288385</id>
+    <title>UPDATE: I’m alive, it was fun and my makeup was obliterated by the waves!</title>
+    <updated>2025-01-21T09:38:12+00:00</updated>
+    <content>UPDATE: I’m alive, it was fun and my makeup was obliterated by the waves!</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7462300638794288385"/>
+    <published>2025-01-21T09:38:12+00:00</published>
   </entry>
 </feed>
