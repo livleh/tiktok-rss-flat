@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2025-01-20T18:26:57+00:00</updated>
+  <updated>2025-01-21T18:42:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7437582623012097312</id>
-    <title>No Title</title>
-    <updated>2024-11-15T18:59:18+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7437582623012097312"/>
-    <published>2024-11-15T18:59:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7438316110275005728</id>
     <title>earning a brownies badge and making friends along the way </title>
@@ -283,6 +275,14 @@
     <content>i’m a bit rusty after being off for a whole week and being very old. bare with me please and hi!!!!!!!!!!</content>
     <link href="https://tiktok.com/@zoebreadtok/video/7462065917644655905"/>
     <published>2025-01-20T18:26:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7462441000489831712</id>
+    <title>you’ve passed. so long cry baby</title>
+    <updated>2025-01-21T18:42:33+00:00</updated>
+    <content>you’ve passed. so long cry baby</content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7462441000489831712"/>
+    <published>2025-01-21T18:42:33+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7391078276183215392</id>
