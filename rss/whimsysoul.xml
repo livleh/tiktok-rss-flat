@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2025-01-20T23:52:05+00:00</updated>
+  <updated>2025-01-21T23:35:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7454766844814216494</id>
-    <title>Skål to 2025 on the beach in San Francisco #gammeldansk #danish #denmark #dansk #nye #2025 #newyearseve #sanfrancisco #oceanbeach </title>
-    <updated>2025-01-01T02:22:45+00:00</updated>
-    <content>Skål to 2025 on the beach in San Francisco #gammeldansk #danish #denmark #dansk #nye #2025 #newyearseve #sanfrancisco #oceanbeach </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7454766844814216494"/>
-    <published>2025-01-01T02:22:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7454780161863568686</id>
-    <title>#stitch with @sideofstef Guinness is always consistent, light and is a girlie drink! #Guinness </title>
-    <updated>2025-01-01T03:14:26+00:00</updated>
-    <content>#stitch with @sideofstef Guinness is always consistent, light and is a girlie drink! #Guinness </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7454780161863568686"/>
-    <published>2025-01-01T03:14:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7455026088012565806</id>
     <title>ended 2024 on the beach with Veuve Clicquot, truffle popcorn and the love of my life ❤️✨ #sanfrancisco #onlyinsf #oceanbeach #VeuveClicquot #picnic #california #2024 #2025 #newyearseve #sunset #oceansunset #beach #californialiving #norcal #bayarea  #sanfr</title>
@@ -291,5 +275,21 @@
     <content>Dumplings and yap in San Mateo to distract from today is a good plan right?  ⭐️ outfit on my LTK!  #ltk #liketoknowit #ltkcurves #whimsysoul #curvy #curvyfashion #curvystyle #bayarea #sezane #sezanelovers #trenchcoat #layeringoutfits #outfit #winterfashio</content>
     <link href="https://tiktok.com/@whimsysoul/video/7462149568210242862"/>
     <published>2025-01-20T23:52:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7462513674662595883</id>
+    <title>there wasn't even a Ticketmaster war?? The boys have it niceeee 😂 #mondaynightraw #prowrestling #taylorswift #erastour #wrestling #netflix #sanjose #sanfrancisco #sethrollins #damienpriest #whimsysoul #bayarea #girls #girlsgirlsgirls #eras @Netflix @WWE #</title>
+    <updated>2025-01-21T23:24:57+00:00</updated>
+    <content>there wasn't even a Ticketmaster war?? The boys have it niceeee 😂 #mondaynightraw #prowrestling #taylorswift #erastour #wrestling #netflix #sanjose #sanfrancisco #sethrollins #damienpriest #whimsysoul #bayarea #girls #girlsgirlsgirls #eras @Netflix @WWE #</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7462513674662595883"/>
+    <published>2025-01-21T23:24:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7462516311633956139</id>
+    <title>who was gonna tell me this is a vibe?!  The DRAMA. The MUSIC. THE COSTUMES?!! Robin is a huge WWE fan boy and as a (very) early birthday present I got him tickets to Monday Night Raw last week in San Jose. I got floor tickets but didn't realize they were </title>
+    <updated>2025-01-21T23:35:04+00:00</updated>
+    <content>who was gonna tell me this is a vibe?!  The DRAMA. The MUSIC. THE COSTUMES?!! Robin is a huge WWE fan boy and as a (very) early birthday present I got him tickets to Monday Night Raw last week in San Jose. I got floor tickets but didn't realize they were </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7462516311633956139"/>
+    <published>2025-01-21T23:35:04+00:00</published>
   </entry>
 </feed>
