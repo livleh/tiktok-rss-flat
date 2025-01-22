@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2025-01-21T16:05:37+00:00</updated>
+  <updated>2025-01-22T16:30:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7454673955064991018</id>
-    <title>he will go to the gym once #techie #softwareengineer #newyear #holiday #programmerlife #resolutions #techroastshow </title>
-    <updated>2024-12-31T20:22:19+00:00</updated>
-    <content>he will go to the gym once #techie #softwareengineer #newyear #holiday #programmerlife #resolutions #techroastshow </content>
-    <link href="https://tiktok.com/@techroastshow/video/7454673955064991018"/>
-    <published>2024-12-31T20:22:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7454964089593285934</id>
     <title>the only phone call I’m making is to 911 #techie #softwareengineer #chicago #programmerlife #roastbattle #darkhumor #techroastshow</title>
@@ -291,6 +283,14 @@
     <content>he needs a pacifier  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </content>
     <link href="https://tiktok.com/@techroastshow/video/7462400433277898027"/>
     <published>2025-01-21T16:05:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7462777767873154350</id>
+    <title>treating her friendships like products 🤝 #techie #productmanager #metaverse #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</title>
+    <updated>2025-01-22T16:30:05+00:00</updated>
+    <content>treating her friendships like products 🤝 #techie #productmanager #metaverse #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</content>
+    <link href="https://tiktok.com/@techroastshow/video/7462777767873154350"/>
+    <published>2025-01-22T16:30:05+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
