@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2025-01-21T18:42:33+00:00</updated>
+  <updated>2025-01-22T18:41:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7438316110275005728</id>
-    <title>earning a brownies badge and making friends along the way </title>
-    <updated>2024-11-17T18:25:35+00:00</updated>
-    <content>earning a brownies badge and making friends along the way </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7438316110275005728"/>
-    <published>2024-11-17T18:25:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7439427635354160417</id>
     <title>engineerong</title>
@@ -283,6 +275,14 @@
     <content>you’ve passed. so long cry baby</content>
     <link href="https://tiktok.com/@zoebreadtok/video/7462441000489831712"/>
     <published>2025-01-21T18:42:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7462811751776554272</id>
+    <title>big news. massive news. i can’t believe this has happened twice </title>
+    <updated>2025-01-22T18:41:10+00:00</updated>
+    <content>big news. massive news. i can’t believe this has happened twice </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7462811751776554272"/>
+    <published>2025-01-22T18:41:10+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7391078276183215392</id>

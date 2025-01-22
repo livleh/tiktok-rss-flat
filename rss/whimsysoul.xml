@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2025-01-21T23:35:04+00:00</updated>
+  <updated>2025-01-22T18:37:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7455026088012565806</id>
-    <title>ended 2024 on the beach with Veuve Clicquot, truffle popcorn and the love of my life ❤️✨ #sanfrancisco #onlyinsf #oceanbeach #VeuveClicquot #picnic #california #2024 #2025 #newyearseve #sunset #oceansunset #beach #californialiving #norcal #bayarea  #sanfr</title>
-    <updated>2025-01-01T19:08:49+00:00</updated>
-    <content>ended 2024 on the beach with Veuve Clicquot, truffle popcorn and the love of my life ❤️✨ #sanfrancisco #onlyinsf #oceanbeach #VeuveClicquot #picnic #california #2024 #2025 #newyearseve #sunset #oceansunset #beach #californialiving #norcal #bayarea  #sanfr</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7455026088012565806"/>
-    <published>2025-01-01T19:08:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7455035878142971178</id>
-    <title>Ended 2024 with a bang ✨🎉 Started by heading to Ocean Beach here in San Francisco to catch the last sunset of 2024. Brought a bottle of  Veuve Clicquot, some truffle popcorn and a cozy Sezane sweater + scarf (it got cold FAST once the sun set!!)  Then bac</title>
-    <updated>2025-01-01T19:46:49+00:00</updated>
-    <content>Ended 2024 with a bang ✨🎉 Started by heading to Ocean Beach here in San Francisco to catch the last sunset of 2024. Brought a bottle of  Veuve Clicquot, some truffle popcorn and a cozy Sezane sweater + scarf (it got cold FAST once the sun set!!)  Then bac</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7455035878142971178"/>
-    <published>2025-01-01T19:46:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7455406566838242603</id>
     <title>San Francisco is the best city and you can't convince me otherwise #sanfrancisco #sanfranciscolife #alamosquare #paintedladies #fullhouse #whimsysoul #onlyinsf #bayarea </title>
@@ -291,5 +275,21 @@
     <content>who was gonna tell me this is a vibe?!  The DRAMA. The MUSIC. THE COSTUMES?!! Robin is a huge WWE fan boy and as a (very) early birthday present I got him tickets to Monday Night Raw last week in San Jose. I got floor tickets but didn't realize they were </content>
     <link href="https://tiktok.com/@whimsysoul/video/7462516311633956139"/>
     <published>2025-01-21T23:35:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7462800349452078382</id>
+    <title>Posting spoilers without warnings a day after the book comes out is not nice. Remember when we asked people if they finished book 6 before we talked about dumble's demise? Bring that same courtesy here 😭 ##onyxstorm##booktok##spoilers</title>
+    <updated>2025-01-22T17:57:48+00:00</updated>
+    <content>Posting spoilers without warnings a day after the book comes out is not nice. Remember when we asked people if they finished book 6 before we talked about dumble's demise? Bring that same courtesy here 😭 ##onyxstorm##booktok##spoilers</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7462800349452078382"/>
+    <published>2025-01-22T17:57:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7462810588234796334</id>
+    <title>weirdest place in California 😵‍💫 Hidden down in Santa Cruz is the Mystery Spot, a super strange gravitational anomaly that only costs $10 to enter and experience yourself.  You'll stand sideways on walls and at odd angles you should be able to.  WARNING: </title>
+    <updated>2025-01-22T18:37:22+00:00</updated>
+    <content>weirdest place in California 😵‍💫 Hidden down in Santa Cruz is the Mystery Spot, a super strange gravitational anomaly that only costs $10 to enter and experience yourself.  You'll stand sideways on walls and at odd angles you should be able to.  WARNING: </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7462810588234796334"/>
+    <published>2025-01-22T18:37:22+00:00</published>
   </entry>
 </feed>

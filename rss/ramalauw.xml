@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ramalauw</id>
   <title>ramalauw</title>
-  <updated>2025-01-21T12:33:14+00:00</updated>
+  <updated>2025-01-22T16:41:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ramalauw</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ramalauw/video/7412671978206809377</id>
-    <title>I’m working late (stayed up till 4am) cause I’m a singer (spent 4 hours r0tt1ng in bed doomscrolling 🤡)</title>
-    <updated>2024-09-09T15:53:18+00:00</updated>
-    <content>I’m working late (stayed up till 4am) cause I’m a singer (spent 4 hours r0tt1ng in bed doomscrolling 🤡)</content>
-    <link href="https://tiktok.com/@ramalauw/video/7412671978206809377"/>
-    <published>2024-09-09T15:53:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7413035263661837601</id>
     <title>My life changed when I adopted this mindset about ✨Money✨ and I thought I’d share the wisdom with you guys 🥰🫶✨ #lifeadvice #free99 #motivational #lifehacks #fyp #foryou #tiktokusa #quotes #quoteoftheday </title>
@@ -291,6 +283,14 @@
     <content>If I just start believing in other people’s opinions of me more, I’d be a much much happier man 😭🤡 #advice #lifequotes #motivational #inspiring #quoteoftheday #tiktokusa #fyp #foryou </content>
     <link href="https://tiktok.com/@ramalauw/video/7462345842364599574"/>
     <published>2025-01-21T12:33:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ramalauw/video/7462780934593531158</id>
+    <title>I gotta protect my bestie but it’s so hard to fight that urge to say “I knew already 😌” thoo 🥲😮‍💨😭</title>
+    <updated>2025-01-22T16:41:34+00:00</updated>
+    <content>I gotta protect my bestie but it’s so hard to fight that urge to say “I knew already 😌” thoo 🥲😮‍💨😭</content>
+    <link href="https://tiktok.com/@ramalauw/video/7462780934593531158"/>
+    <published>2025-01-22T16:41:34+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7270903343638187297</id>
