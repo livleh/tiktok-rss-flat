@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2025-01-21T09:38:12+00:00</updated>
+  <updated>2025-01-22T06:56:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7438173646897581328</id>
-    <title>Worst decision</title>
-    <updated>2024-11-17T09:13:04+00:00</updated>
-    <content>Worst decision</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7438173646897581328"/>
-    <published>2024-11-17T09:13:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7438421974977613073</id>
     <title>I fear this is way too niche</title>
@@ -267,5 +259,13 @@
     <content>UPDATE: I’m alive, it was fun and my makeup was obliterated by the waves!</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7462300638794288385"/>
     <published>2025-01-21T09:38:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7462630037104217361</id>
+    <title>Would you let your bestie bleach your 🍩?</title>
+    <updated>2025-01-22T06:56:50+00:00</updated>
+    <content>Would you let your bestie bleach your 🍩?</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7462630037104217361"/>
+    <published>2025-01-22T06:56:50+00:00</published>
   </entry>
 </feed>
