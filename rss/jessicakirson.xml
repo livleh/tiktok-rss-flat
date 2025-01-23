@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2025-01-21T23:46:26+00:00</updated>
+  <updated>2025-01-22T20:56:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7446933941065387307</id>
-    <title>Hi Mom </title>
-    <updated>2024-12-10T23:47:07+00:00</updated>
-    <content>Hi Mom </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7446933941065387307"/>
-    <published>2024-12-10T23:47:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7447311372548918574</id>
     <title>He made me so hungry </title>
@@ -283,6 +275,14 @@
     <content>Her voice doesn’t match </content>
     <link href="https://tiktok.com/@jessicakirson/video/7462519205619895595"/>
     <published>2025-01-21T23:46:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7462846532153298218</id>
+    <title>Vivian is so gassy!!! #fyp #elonmusk #trump #gas </title>
+    <updated>2025-01-22T20:56:42+00:00</updated>
+    <content>Vivian is so gassy!!! #fyp #elonmusk #trump #gas </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7462846532153298218"/>
+    <published>2025-01-22T20:56:42+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7461685829425974571</id>

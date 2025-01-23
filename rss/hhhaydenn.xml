@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@hhhaydenn</id>
   <title>hhhaydenn</title>
-  <updated>2025-01-16T19:18:22+00:00</updated>
+  <updated>2025-01-22T23:37:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from hhhaydenn</subtitle>
-  <entry>
-    <id>https://tiktok.com/@hhhaydenn/video/7178191377153461546</id>
-    <title>i got startled! #comedy #lol #funny #comedyvideos #standupcomedy #humor #jokes #humor #fyp #gay #transcomedy #transcomedian</title>
-    <updated>2022-12-17T18:48:49+00:00</updated>
-    <content>i got startled! #comedy #lol #funny #comedyvideos #standupcomedy #humor #jokes #humor #fyp #gay #transcomedy #transcomedian</content>
-    <link href="https://tiktok.com/@hhhaydenn/video/7178191377153461546"/>
-    <published>2022-12-17T18:48:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@hhhaydenn/video/7194947420860550443</id>
     <title>i love being affirmed 🥰 #transcomedian #transfem #standupcomedy #lgbtq #transcomedy #fyp </title>
@@ -259,6 +251,14 @@
     <content>next trans-it girls is in SF 2/1! come find out if we do something even worse! link in my bio! #lgbtq #standupcomedy #sanfrancisco</content>
     <link href="https://tiktok.com/@hhhaydenn/video/7460594805714734367"/>
     <published>2025-01-16T19:18:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@hhhaydenn/video/7462888102219058463</id>
+    <title>this one might be too much and i get it #fyp #lgbtq #trans </title>
+    <updated>2025-01-22T23:37:52+00:00</updated>
+    <content>this one might be too much and i get it #fyp #lgbtq #trans </content>
+    <link href="https://tiktok.com/@hhhaydenn/video/7462888102219058463"/>
+    <published>2025-01-22T23:37:52+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@hhhaydenn/video/7199702500054879534</id>

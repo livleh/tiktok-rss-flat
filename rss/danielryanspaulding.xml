@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@danielryanspaulding</id>
   <title>danielryanspaulding</title>
-  <updated>2025-01-22T20:28:37+00:00</updated>
+  <updated>2025-01-22T20:45:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,38 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from danielryanspaulding</subtitle>
-  <entry>
-    <id>https://tiktok.com/@danielryanspaulding/video/7436194723250883873</id>
-    <title>@StartupCapitalIL Just found the ULTIMATE free startup course 🚀 Israel = Startup Nation 💅 Check it out! #startup #tech #israel </title>
-    <updated>2024-11-12T01:13:58+00:00</updated>
-    <content>@StartupCapitalIL Just found the ULTIMATE free startup course 🚀 Israel = Startup Nation 💅 Check it out! #startup #tech #israel </content>
-    <link href="https://tiktok.com/@danielryanspaulding/video/7436194723250883873"/>
-    <published>2024-11-12T01:13:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@danielryanspaulding/video/7440548825997069590</id>
-    <title>The new left #usa #democrats #election #politics </title>
-    <updated>2024-11-23T18:49:35+00:00</updated>
-    <content>The new left #usa #democrats #election #politics </content>
-    <link href="https://tiktok.com/@danielryanspaulding/video/7440548825997069590"/>
-    <published>2024-11-23T18:49:35+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@danielryanspaulding/video/7440551270777130262</id>
-    <title>Geopolitics 101 #usa #middleeast #westerncivilization #civics #worldissues </title>
-    <updated>2024-11-23T18:59:04+00:00</updated>
-    <content>Geopolitics 101 #usa #middleeast #westerncivilization #civics #worldissues </content>
-    <link href="https://tiktok.com/@danielryanspaulding/video/7440551270777130262"/>
-    <published>2024-11-23T18:59:04+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@danielryanspaulding/video/7440551718372379926</id>
-    <title>Geopolitics 101 #usa #middleeast #westerncivilization #civics #worldissues #israel </title>
-    <updated>2024-11-23T19:00:49+00:00</updated>
-    <content>Geopolitics 101 #usa #middleeast #westerncivilization #civics #worldissues #israel </content>
-    <link href="https://tiktok.com/@danielryanspaulding/video/7440551718372379926"/>
-    <published>2024-11-23T19:00:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@danielryanspaulding/video/7440552337858383126</id>
     <title>Geopolitics 101 #usa #middleeast #westerncivilization #civics #worldissues #israel </title>
@@ -291,5 +259,37 @@
     <content>Social Justice extremism with Josh Weiner #dei #crt #criticalracetheory #socialjustice </content>
     <link href="https://tiktok.com/@danielryanspaulding/video/7462839449357978902"/>
     <published>2025-01-22T20:28:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@danielryanspaulding/video/7462839699342642454</id>
+    <title>Social Justice extremism with Josh Weiner #dei #crt #criticalracetheory #socialjustice </title>
+    <updated>2025-01-22T20:29:35+00:00</updated>
+    <content>Social Justice extremism with Josh Weiner #dei #crt #criticalracetheory #socialjustice </content>
+    <link href="https://tiktok.com/@danielryanspaulding/video/7462839699342642454"/>
+    <published>2025-01-22T20:29:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@danielryanspaulding/video/7462840580448472342</id>
+    <title>Power Gays on Fire Island #powergays #gay #comedy #monologue #fireisland #pines </title>
+    <updated>2025-01-22T20:33:01+00:00</updated>
+    <content>Power Gays on Fire Island #powergays #gay #comedy #monologue #fireisland #pines </content>
+    <link href="https://tiktok.com/@danielryanspaulding/video/7462840580448472342"/>
+    <published>2025-01-22T20:33:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@danielryanspaulding/video/7462842482766728470</id>
+    <title>Hebron 101 #tanehisicoates #hebron #jonstewart #trevornoah #israel </title>
+    <updated>2025-01-22T20:40:23+00:00</updated>
+    <content>Hebron 101 #tanehisicoates #hebron #jonstewart #trevornoah #israel </content>
+    <link href="https://tiktok.com/@danielryanspaulding/video/7462842482766728470"/>
+    <published>2025-01-22T20:40:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@danielryanspaulding/video/7462843779859500310</id>
+    <title>Flannel #gay #bandwagongays #powergays #usa </title>
+    <updated>2025-01-22T20:45:27+00:00</updated>
+    <content>Flannel #gay #bandwagongays #powergays #usa </content>
+    <link href="https://tiktok.com/@danielryanspaulding/video/7462843779859500310"/>
+    <published>2025-01-22T20:45:27+00:00</published>
   </entry>
 </feed>
