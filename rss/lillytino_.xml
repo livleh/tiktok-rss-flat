@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lillytino_</id>
   <title>lillytino_</title>
-  <updated>2025-01-23T15:00:10+00:00</updated>
+  <updated>2025-01-14T14:42:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -107,13 +107,5 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@lillytino_/video/7459781394672176426"/>
     <published>2025-01-14T14:42:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@lillytino_/video/7463125845863976238</id>
-    <title>New face incoming!! 👏</title>
-    <updated>2025-01-23T15:00:10+00:00</updated>
-    <content>New face incoming!! 👏</content>
-    <link href="https://tiktok.com/@lillytino_/video/7463125845863976238"/>
-    <published>2025-01-23T15:00:10+00:00</published>
   </entry>
 </feed>
