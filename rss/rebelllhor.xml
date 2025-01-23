@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rebelllhor</id>
   <title>rebelllhor</title>
-  <updated>2025-01-22T19:52:37+00:00</updated>
+  <updated>2025-01-23T16:12:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rebelllhor</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rebelllhor/video/7428607972286270752</id>
-    <title>Me for @Madomorpho  Makeup @Leana Ardeleanu </title>
-    <updated>2024-10-22T14:33:09+00:00</updated>
-    <content>Me for @Madomorpho  Makeup @Leana Ardeleanu </content>
-    <link href="https://tiktok.com/@rebelllhor/video/7428607972286270752"/>
-    <published>2024-10-22T14:33:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rebelllhor/video/7429442369327549728</id>
     <title>#Newmusic </title>
@@ -291,6 +283,14 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@rebelllhor/video/7462830168034381078"/>
     <published>2025-01-22T19:52:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rebelllhor/video/7463144597879786775</id>
+    <title>No Title</title>
+    <updated>2025-01-23T16:12:44+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@rebelllhor/video/7463144597879786775"/>
+    <published>2025-01-23T16:12:44+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@rebelllhor/video/7321789662287187233</id>
