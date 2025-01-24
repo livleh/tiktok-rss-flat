@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@themermaidscale</id>
   <title>themermaidscale</title>
-  <updated>2023-11-01T01:57:55+00:00</updated>
+  <updated>2025-01-24T15:25:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from themermaidscale</subtitle>
-  <entry>
-    <id>https://tiktok.com/@themermaidscale/video/7226979718640307457</id>
-    <title>Goofy lalala @hauslabs @theraggedpriest @diesel </title>
-    <updated>2023-04-28T06:12:27+00:00</updated>
-    <content>Goofy lalala @hauslabs @theraggedpriest @diesel </content>
-    <link href="https://tiktok.com/@themermaidscale/video/7226979718640307457"/>
-    <published>2023-04-28T06:12:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@themermaidscale/video/7227345999952481537</id>
     <title>:D hey there </title>
@@ -291,5 +283,13 @@
     <content>Yea im floating </content>
     <link href="https://tiktok.com/@themermaidscale/video/7296307059115576583"/>
     <published>2023-11-01T01:57:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@themermaidscale/video/7463503428480781575</id>
+    <title>A professional cook</title>
+    <updated>2025-01-24T15:25:12+00:00</updated>
+    <content>A professional cook</content>
+    <link href="https://tiktok.com/@themermaidscale/video/7463503428480781575"/>
+    <published>2025-01-24T15:25:12+00:00</published>
   </entry>
 </feed>
