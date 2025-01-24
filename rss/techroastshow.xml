@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2025-01-24T16:30:44+00:00</updated>
+  <updated>2025-01-24T19:05:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7455690492538260782</id>
-    <title>911 what is your emergency  #techie #nyc #softwareengineer #programmerlife #roastbattle #darkhumor #techroastshow </title>
-    <updated>2025-01-03T14:07:09+00:00</updated>
-    <content>911 what is your emergency  #techie #nyc #softwareengineer #programmerlife #roastbattle #darkhumor #techroastshow </content>
-    <link href="https://tiktok.com/@techroastshow/video/7455690492538260782"/>
-    <published>2025-01-03T14:07:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7455772911706787118</id>
     <title>chat is this rizz  #techie #softwareengineer #speeddate #dating #techroastshow </title>
@@ -291,6 +283,14 @@
     <content>🧽 #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #techroastshow </content>
     <link href="https://tiktok.com/@techroastshow/video/7463520281466768682"/>
     <published>2025-01-24T16:30:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7463559886438206762</id>
+    <title>Unreliable services have real life consequences… get temporal #techie #softwareengineer #temporalpartner #programmerlife #oncall #techroastshow #ad</title>
+    <updated>2025-01-24T19:05:00+00:00</updated>
+    <content>Unreliable services have real life consequences… get temporal #techie #softwareengineer #temporalpartner #programmerlife #oncall #techroastshow #ad</content>
+    <link href="https://tiktok.com/@techroastshow/video/7463559886438206762"/>
+    <published>2025-01-24T19:05:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
