@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2025-01-24T19:05:00+00:00</updated>
+  <updated>2025-01-25T16:16:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7455772911706787118</id>
-    <title>chat is this rizz  #techie #softwareengineer #speeddate #dating #techroastshow </title>
-    <updated>2025-01-03T19:26:55+00:00</updated>
-    <content>chat is this rizz  #techie #softwareengineer #speeddate #dating #techroastshow </content>
-    <link href="https://tiktok.com/@techroastshow/video/7455772911706787118"/>
-    <published>2025-01-03T19:26:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7456083994971573550</id>
     <title>they asked him to do work 😔 #techie #softwareengineer #nyc #newyork #programmerlife #roastbattle #darkhumor #techroastshow</title>
@@ -291,6 +283,14 @@
     <content>Unreliable services have real life consequences… get temporal #techie #softwareengineer #temporalpartner #programmerlife #oncall #techroastshow #ad</content>
     <link href="https://tiktok.com/@techroastshow/video/7463559886438206762"/>
     <published>2025-01-24T19:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7463887541645659435</id>
+    <title>the government and crypto have inefficient and mostly useless in common 🤝 #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #techroastshow </title>
+    <updated>2025-01-25T16:16:19+00:00</updated>
+    <content>the government and crypto have inefficient and mostly useless in common 🤝 #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #techroastshow </content>
+    <link href="https://tiktok.com/@techroastshow/video/7463887541645659435"/>
+    <published>2025-01-25T16:16:19+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
