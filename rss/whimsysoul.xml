@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2025-01-24T23:32:17+00:00</updated>
+  <updated>2025-01-25T22:56:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7458352184372055338</id>
-    <title>$21k a night! 😱 this iconic hotel room in San Francisco can be found at the @fairmontsanfrancisco and is utterly beautiful.  At 6,000 square feet with 3 bedrooms + baths, a 2-story library (with a secret passageway to the rooftop), a billiards room, sitti</title>
-    <updated>2025-01-10T18:15:48+00:00</updated>
-    <content>$21k a night! 😱 this iconic hotel room in San Francisco can be found at the @fairmontsanfrancisco and is utterly beautiful.  At 6,000 square feet with 3 bedrooms + baths, a 2-story library (with a secret passageway to the rooftop), a billiards room, sitti</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7458352184372055338"/>
-    <published>2025-01-10T18:15:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7458455408907226414</id>
     <title>ABC news is coming to my apartment in 10 mins to interview me about the TikTok ban! 😱 of course today, the one day I didn't make my bed or get properly dressed, they call. But I'm honored to represent this community! Wish me luck! #abcnews #sanfrancisco #</title>
@@ -291,5 +283,13 @@
     <content>Secret treehouse in the California redwoods just 1.5 hours from San Francisco!!  @Redwood Ridge Tree Fort is tucked away in the Santa Cruz mountains and makes for such a fun weekend getaway in the Bay Area.  There's a kitchen, bathroom with a shower, fire</content>
     <link href="https://tiktok.com/@whimsysoul/video/7463628734231334186"/>
     <published>2025-01-24T23:32:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7463990654331505966</id>
+    <title>Name a better place for lunch!! Next time you're in the Santa Cruz area, head to downtown Capitola and grab a sunny table at Zelda's.  It's especially a good stop for happy hour drinks and snacks while overlooking the ocean and those iconic colorful house</title>
+    <updated>2025-01-25T22:56:34+00:00</updated>
+    <content>Name a better place for lunch!! Next time you're in the Santa Cruz area, head to downtown Capitola and grab a sunny table at Zelda's.  It's especially a good stop for happy hour drinks and snacks while overlooking the ocean and those iconic colorful house</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7463990654331505966"/>
+    <published>2025-01-25T22:56:34+00:00</published>
   </entry>
 </feed>
