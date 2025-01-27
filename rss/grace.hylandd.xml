@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2025-01-26T07:51:05+00:00</updated>
+  <updated>2025-01-27T01:59:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7438967229149924628</id>
-    <title>Wifey treatment only.</title>
-    <updated>2024-11-19T12:32:14+00:00</updated>
-    <content>Wifey treatment only.</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7438967229149924628"/>
-    <published>2024-11-19T12:32:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7440055770747653396</id>
     <title>The sunday reset is king</title>
@@ -267,5 +259,13 @@
     <content>💘 @naomibrooks99 </content>
     <link href="https://tiktok.com/@grace.hylandd/video/7464128446537501968"/>
     <published>2025-01-26T07:51:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7464408832073108752</id>
+    <title>I’ve thought about this since I was like 14</title>
+    <updated>2025-01-27T01:59:37+00:00</updated>
+    <content>I’ve thought about this since I was like 14</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7464408832073108752"/>
+    <published>2025-01-27T01:59:37+00:00</published>
   </entry>
 </feed>

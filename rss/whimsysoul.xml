@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2025-01-25T22:56:34+00:00</updated>
+  <updated>2025-01-27T04:31:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7458455408907226414</id>
-    <title>ABC news is coming to my apartment in 10 mins to interview me about the TikTok ban! 😱 of course today, the one day I didn't make my bed or get properly dressed, they call. But I'm honored to represent this community! Wish me luck! #abcnews #sanfrancisco #</title>
-    <updated>2025-01-11T00:56:20+00:00</updated>
-    <content>ABC news is coming to my apartment in 10 mins to interview me about the TikTok ban! 😱 of course today, the one day I didn't make my bed or get properly dressed, they call. But I'm honored to represent this community! Wish me luck! #abcnews #sanfrancisco #</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7458455408907226414"/>
-    <published>2025-01-11T00:56:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7458474968452517166</id>
     <title>How are you feeling about the TikTok ban? Can't believe I got to talk to ABC Channel 7 tonight! #abcnews #tiktokban #sanfrancisco #contentcreator </title>
@@ -291,5 +283,13 @@
     <content>Name a better place for lunch!! Next time you're in the Santa Cruz area, head to downtown Capitola and grab a sunny table at Zelda's.  It's especially a good stop for happy hour drinks and snacks while overlooking the ocean and those iconic colorful house</content>
     <link href="https://tiktok.com/@whimsysoul/video/7463990654331505966"/>
     <published>2025-01-25T22:56:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7464447970642021674</id>
+    <title>the drama?! the music? The costumes?! 💅 who was gonna tell me this is so awesome?! Just went to my first live WWE in San Jose a couple of weeks ago and I'm kinda hooked??? #wwe #wrestling #prowrestling #mondaynightraw #dragbrunch #dragshow #drag #queer #l</title>
+    <updated>2025-01-27T04:31:14+00:00</updated>
+    <content>the drama?! the music? The costumes?! 💅 who was gonna tell me this is so awesome?! Just went to my first live WWE in San Jose a couple of weeks ago and I'm kinda hooked??? #wwe #wrestling #prowrestling #mondaynightraw #dragbrunch #dragshow #drag #queer #l</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7464447970642021674"/>
+    <published>2025-01-27T04:31:14+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@starryribbons</id>
   <title>starryribbons</title>
-  <updated>2025-01-25T20:48:32+00:00</updated>
+  <updated>2025-01-27T04:20:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from starryribbons</subtitle>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7427903955172150561</id>
-    <title>just realized its someone wtv #coquettecore #digitaldiary #femmelesbian #wlw #mentalhealthmatters </title>
-    <updated>2024-10-20T17:01:05+00:00</updated>
-    <content>just realized its someone wtv #coquettecore #digitaldiary #femmelesbian #wlw #mentalhealthmatters </content>
-    <link href="https://tiktok.com/@starryribbons/video/7427903955172150561"/>
-    <published>2024-10-20T17:01:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7428304665290329377</id>
     <title>+ never beating the anything goes lover alligations #coquettecore #digitaldiary #spendthedaywithme #vlog #femmelesbian #taylorswift #kpop #shoujo </title>
@@ -291,6 +283,14 @@
     <content>let’s make all fun of the girl who speaks the truth okay #digitaldiary #wlw #arcane #caitvi #viedit #femmelesbian </content>
     <link href="https://tiktok.com/@starryribbons/video/7463957842853137686"/>
     <published>2025-01-25T20:48:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7464445291454876950</id>
+    <title>cutest thing ever! #AD @martube_official | #digitaldiary #wlw #martube #sanrio #pochacco #femmelesbian </title>
+    <updated>2025-01-27T04:20:46+00:00</updated>
+    <content>cutest thing ever! #AD @martube_official | #digitaldiary #wlw #martube #sanrio #pochacco #femmelesbian </content>
+    <link href="https://tiktok.com/@starryribbons/video/7464445291454876950"/>
+    <published>2025-01-27T04:20:46+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7285761406664854817</id>
