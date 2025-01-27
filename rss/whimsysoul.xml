@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2025-01-27T04:31:14+00:00</updated>
+  <updated>2025-01-27T16:15:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7458474968452517166</id>
-    <title>How are you feeling about the TikTok ban? Can't believe I got to talk to ABC Channel 7 tonight! #abcnews #tiktokban #sanfrancisco #contentcreator </title>
-    <updated>2025-01-11T02:12:14+00:00</updated>
-    <content>How are you feeling about the TikTok ban? Can't believe I got to talk to ABC Channel 7 tonight! #abcnews #tiktokban #sanfrancisco #contentcreator </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7458474968452517166"/>
-    <published>2025-01-11T02:12:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7458479101595176234</id>
     <title>Not on my 2025 bingo card but I'm honored to represent creators and TikToKers for ABC Channel 7 News here in the Bay Area! #abcnews #tiktokban #sanfrancisco #contentcreator #bayarea #reporter #journalism #onlyinsf #influencer </title>
@@ -291,5 +283,13 @@
     <content>the drama?! the music? The costumes?! 💅 who was gonna tell me this is so awesome?! Just went to my first live WWE in San Jose a couple of weeks ago and I'm kinda hooked??? #wwe #wrestling #prowrestling #mondaynightraw #dragbrunch #dragshow #drag #queer #l</content>
     <link href="https://tiktok.com/@whimsysoul/video/7464447970642021674"/>
     <published>2025-01-27T04:31:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7464629486261259566</id>
+    <title>"I'm just a baby" #sutrotower #tattoo #sanfrancisco #bayarea #sanfranciscolife @Hot Gay Nerd </title>
+    <updated>2025-01-27T16:15:56+00:00</updated>
+    <content>"I'm just a baby" #sutrotower #tattoo #sanfrancisco #bayarea #sanfranciscolife @Hot Gay Nerd </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7464629486261259566"/>
+    <published>2025-01-27T16:15:56+00:00</published>
   </entry>
 </feed>

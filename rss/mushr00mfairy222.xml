@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2025-01-26T17:22:55+00:00</updated>
+  <updated>2025-01-27T13:32:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7461637297390374177</id>
-    <title>WHO IS STILL ON TIKTOK #pinkhair </title>
-    <updated>2025-01-19T14:43:41+00:00</updated>
-    <content>WHO IS STILL ON TIKTOK #pinkhair </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7461637297390374177"/>
-    <published>2025-01-19T14:43:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7461663776438308129</id>
     <title>apparently americans might be back monday?? PLEASE </title>
@@ -291,6 +283,14 @@
     <content>the urge to permanently move as far as possible vs wanting to be near family 😭 (draft cause 😭‼️) #england #british #britishhumour </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7464275905435749665"/>
     <published>2025-01-26T17:22:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7464587474124213536</id>
+    <title>TELL MY DOG EVERYTHING FR #yapper #relatable </title>
+    <updated>2025-01-27T13:32:06+00:00</updated>
+    <content>TELL MY DOG EVERYTHING FR #yapper #relatable </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7464587474124213536"/>
+    <published>2025-01-27T13:32:06+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7295791125389004065</id>
