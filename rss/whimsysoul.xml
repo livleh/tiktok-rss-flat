@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2025-01-27T16:15:56+00:00</updated>
+  <updated>2025-01-27T18:04:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7458479101595176234</id>
-    <title>Not on my 2025 bingo card but I'm honored to represent creators and TikToKers for ABC Channel 7 News here in the Bay Area! #abcnews #tiktokban #sanfrancisco #contentcreator #bayarea #reporter #journalism #onlyinsf #influencer </title>
-    <updated>2025-01-11T02:28:19+00:00</updated>
-    <content>Not on my 2025 bingo card but I'm honored to represent creators and TikToKers for ABC Channel 7 News here in the Bay Area! #abcnews #tiktokban #sanfrancisco #contentcreator #bayarea #reporter #journalism #onlyinsf #influencer </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7458479101595176234"/>
-    <published>2025-01-11T02:28:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7458716511625284910</id>
     <title>fellow influencers I KNOW you have brand new clothes, makeup and personal care items! My challenge to you is to donate those to LA Fire victims! Donation centers need NEW (or barely used) items. That's what is most helpful. I know we all have clothes that</title>
@@ -291,5 +283,13 @@
     <content>"I'm just a baby" #sutrotower #tattoo #sanfrancisco #bayarea #sanfranciscolife @Hot Gay Nerd </content>
     <link href="https://tiktok.com/@whimsysoul/video/7464629486261259566"/>
     <published>2025-01-27T16:15:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7464657477062266158</id>
+    <title>Looking for the best burger in California? I found it. Hidden in Felton, an adorable mountain town in the Santa Cruz Mountains, is The Emerald Mallard.  The interior has coolest decor, almost like a trendy hunting lodge with taxidermy, flowers and the bes</title>
+    <updated>2025-01-27T18:04:27+00:00</updated>
+    <content>Looking for the best burger in California? I found it. Hidden in Felton, an adorable mountain town in the Santa Cruz Mountains, is The Emerald Mallard.  The interior has coolest decor, almost like a trendy hunting lodge with taxidermy, flowers and the bes</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7464657477062266158"/>
+    <published>2025-01-27T18:04:27+00:00</published>
   </entry>
 </feed>
