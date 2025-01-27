@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2025-01-27T01:59:37+00:00</updated>
+  <updated>2025-01-27T11:38:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7440055770747653396</id>
-    <title>The sunday reset is king</title>
-    <updated>2024-11-22T10:56:20+00:00</updated>
-    <content>The sunday reset is king</content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7440055770747653396"/>
-    <published>2024-11-22T10:56:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7440081005244943632</id>
     <title>Thats not a husband thats a room mate.</title>
@@ -267,5 +259,13 @@
     <content>I’ve thought about this since I was like 14</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7464408832073108752"/>
     <published>2025-01-27T01:59:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7464558067804343553</id>
+    <title>Vet said she needs real sun exposure!</title>
+    <updated>2025-01-27T11:38:03+00:00</updated>
+    <content>Vet said she needs real sun exposure!</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7464558067804343553"/>
+    <published>2025-01-27T11:38:03+00:00</published>
   </entry>
 </feed>
