@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2025-01-27T22:13:10+00:00</updated>
+  <updated>2025-01-28T16:17:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7458717873897442606</id>
-    <title>PSA for makeup artist who lost everything in the LA fires I have brand new unopened sigma beauty, blush sets, and makeup that has not been expired. I would love to send this directly to you if you need to get back on your feet so you can start your busine</title>
-    <updated>2025-01-11T17:54:51+00:00</updated>
-    <content>PSA for makeup artist who lost everything in the LA fires I have brand new unopened sigma beauty, blush sets, and makeup that has not been expired. I would love to send this directly to you if you need to get back on your feet so you can start your busine</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7458717873897442606"/>
-    <published>2025-01-11T17:54:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7458766177758612778</id>
     <title>They say you build your fyp brick by brick </title>
@@ -291,5 +283,13 @@
     <content>Buddist temple hidden in the California Redwoods?!🌲 Land of Medicine Buddha is serene and makes a fantastic morning hike / stroll while in the Santa Cruz area. There's plenty of Prayer Wheels to visit and turn for anything going on in your life, plus some</content>
     <link href="https://tiktok.com/@whimsysoul/video/7464721665897827626"/>
     <published>2025-01-27T22:13:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7465001091516599594</id>
+    <title>Hiking up to Twin Peaks is always a WORK OUT but the views are amazing. Had so much fun meeting up with my friend @Hot Gay Nerd for this weekday hike.  We stopped by Bernies in Noe Valley afterward for coffee and pastries. If you haven't done this urban h</title>
+    <updated>2025-01-28T16:17:41+00:00</updated>
+    <content>Hiking up to Twin Peaks is always a WORK OUT but the views are amazing. Had so much fun meeting up with my friend @Hot Gay Nerd for this weekday hike.  We stopped by Bernies in Noe Valley afterward for coffee and pastries. If you haven't done this urban h</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7465001091516599594"/>
+    <published>2025-01-28T16:17:41+00:00</published>
   </entry>
 </feed>
