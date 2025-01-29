@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lillytino_</id>
   <title>lillytino_</title>
-  <updated>2025-01-28T07:02:45+00:00</updated>
+  <updated>2025-01-29T14:43:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from lillytino_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@lillytino_/video/7443850381291015470</id>
-    <title>Watch out 😉</title>
-    <updated>2024-12-02T16:21:25+00:00</updated>
-    <content>Watch out 😉</content>
-    <link href="https://tiktok.com/@lillytino_/video/7443850381291015470"/>
-    <published>2024-12-02T16:21:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@lillytino_/video/7445318405101653294</id>
     <title>Did you get them all right? 🤔</title>
@@ -115,5 +107,13 @@
     <content>I grew up in a military family. My father sacrificed for this country. But this is not what he fought for.</content>
     <link href="https://tiktok.com/@lillytino_/video/7464857710920518955"/>
     <published>2025-01-28T07:02:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lillytino_/video/7465347786133769514</id>
+    <title>We shouldn’t have to think like this</title>
+    <updated>2025-01-29T14:43:16+00:00</updated>
+    <content>We shouldn’t have to think like this</content>
+    <link href="https://tiktok.com/@lillytino_/video/7465347786133769514"/>
+    <published>2025-01-29T14:43:16+00:00</published>
   </entry>
 </feed>
