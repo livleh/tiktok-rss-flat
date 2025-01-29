@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@starryribbons</id>
   <title>starryribbons</title>
-  <updated>2025-01-27T04:20:46+00:00</updated>
+  <updated>2025-01-28T16:42:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from starryribbons</subtitle>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7428304665290329377</id>
-    <title>+ never beating the anything goes lover alligations #coquettecore #digitaldiary #spendthedaywithme #vlog #femmelesbian #taylorswift #kpop #shoujo </title>
-    <updated>2024-10-21T18:56:04+00:00</updated>
-    <content>+ never beating the anything goes lover alligations #coquettecore #digitaldiary #spendthedaywithme #vlog #femmelesbian #taylorswift #kpop #shoujo </content>
-    <link href="https://tiktok.com/@starryribbons/video/7428304665290329377"/>
-    <published>2024-10-21T18:56:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7428308246198242592</id>
     <title>never not thinking about butterfly #coquettecore #digitaldiary #bts #bangtanboys #kpop #butterfly #wlw </title>
@@ -291,6 +283,14 @@
     <content>cutest thing ever! #AD @martube_official | #digitaldiary #wlw #martube #sanrio #pochacco #femmelesbian </content>
     <link href="https://tiktok.com/@starryribbons/video/7464445291454876950"/>
     <published>2025-01-27T04:20:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7465007704143056150</id>
+    <title>complicated relationship w religion #digitaldiary #wlw #femmelesbian #arcane #kpop #taylorswift #perfume </title>
+    <updated>2025-01-28T16:42:33+00:00</updated>
+    <content>complicated relationship w religion #digitaldiary #wlw #femmelesbian #arcane #kpop #taylorswift #perfume </content>
+    <link href="https://tiktok.com/@starryribbons/video/7465007704143056150"/>
+    <published>2025-01-28T16:42:33+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7285761406664854817</id>

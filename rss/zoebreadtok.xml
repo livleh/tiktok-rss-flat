@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2025-01-27T18:34:55+00:00</updated>
+  <updated>2025-01-28T18:33:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7441656070172364065</id>
-    <title>britain has some of europes safest roads. but where we’re going we dont need roads </title>
-    <updated>2024-11-26T18:26:20+00:00</updated>
-    <content>britain has some of europes safest roads. but where we’re going we dont need roads </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7441656070172364065"/>
-    <published>2024-11-26T18:26:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7442039278995000608</id>
     <title>my solution to everything #furby </title>
@@ -283,6 +275,14 @@
     <content>happy national bubblewrap day everybody !!!</content>
     <link href="https://tiktok.com/@zoebreadtok/video/7464665529035361568"/>
     <published>2025-01-27T18:34:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7465036159383588128</id>
+    <title>starting tomorrow i only spend money on washing up liquid and AA batteries</title>
+    <updated>2025-01-28T18:33:07+00:00</updated>
+    <content>starting tomorrow i only spend money on washing up liquid and AA batteries</content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7465036159383588128"/>
+    <published>2025-01-28T18:33:07+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7391078276183215392</id>

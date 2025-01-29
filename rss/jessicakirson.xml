@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2025-01-26T22:24:49+00:00</updated>
+  <updated>2025-01-28T23:40:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7448281638766759214</id>
-    <title>Greek And German. Planning my 2025 tour so comment your city below xo</title>
-    <updated>2024-12-14T14:56:55+00:00</updated>
-    <content>Greek And German. Planning my 2025 tour so comment your city below xo</content>
-    <link href="https://tiktok.com/@jessicakirson/video/7448281638766759214"/>
-    <published>2024-12-14T14:56:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7448790505682455839</id>
     <title>My fans know me so well </title>
@@ -283,6 +275,14 @@
     <content>Spirit Airlines Flight Attendant </content>
     <link href="https://tiktok.com/@jessicakirson/video/7464353568481496366"/>
     <published>2025-01-26T22:24:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7465115219853937963</id>
+    <title>PetSmart manager came to the show </title>
+    <updated>2025-01-28T23:40:25+00:00</updated>
+    <content>PetSmart manager came to the show </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7465115219853937963"/>
+    <published>2025-01-28T23:40:25+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7461685829425974571</id>
