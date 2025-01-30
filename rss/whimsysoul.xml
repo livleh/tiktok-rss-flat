@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2025-01-28T16:17:41+00:00</updated>
+  <updated>2025-01-29T23:47:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7458766177758612778</id>
-    <title>They say you build your fyp brick by brick </title>
-    <updated>2025-01-11T21:02:16+00:00</updated>
-    <content>They say you build your fyp brick by brick </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7458766177758612778"/>
-    <published>2025-01-11T21:02:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7459096794430065963</id>
     <title>waking up with perfect hair after 9 hours of sleep is my jam. ✨ @theordinary products for skin cycling @niveausa my fave winter moisturizer  @kiehls avocado eye cream @solawave wand red light  @target acne cream (it's just $6!) @philipshue smart lights fo</title>
@@ -291,5 +283,13 @@
     <content>Hiking up to Twin Peaks is always a WORK OUT but the views are amazing. Had so much fun meeting up with my friend @Hot Gay Nerd for this weekday hike.  We stopped by Bernies in Noe Valley afterward for coffee and pastries. If you haven't done this urban h</content>
     <link href="https://tiktok.com/@whimsysoul/video/7465001091516599594"/>
     <published>2025-01-28T16:17:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7465488034167967022</id>
+    <title>forever in love with puffy princess dresses and the Sutro Tower #sanfrancisco #sutrotower #onlyinsf #photography </title>
+    <updated>2025-01-29T23:47:02+00:00</updated>
+    <content>forever in love with puffy princess dresses and the Sutro Tower #sanfrancisco #sutrotower #onlyinsf #photography </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7465488034167967022"/>
+    <published>2025-01-29T23:47:02+00:00</published>
   </entry>
 </feed>

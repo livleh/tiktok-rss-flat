@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2025-01-28T23:40:25+00:00</updated>
+  <updated>2025-01-29T23:29:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7448790505682455839</id>
-    <title>My fans know me so well </title>
-    <updated>2024-12-15T23:51:42+00:00</updated>
-    <content>My fans know me so well </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7448790505682455839"/>
-    <published>2024-12-15T23:51:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7449165796946922798</id>
     <title>Do you like my hat? </title>
@@ -283,6 +275,14 @@
     <content>PetSmart manager came to the show </content>
     <link href="https://tiktok.com/@jessicakirson/video/7465115219853937963"/>
     <published>2025-01-28T23:40:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7465483409264184622</id>
+    <title>I could tell she was an athlete. New dates on sale now for my Never Ending Tour. Comment your city 👇</title>
+    <updated>2025-01-29T23:29:05+00:00</updated>
+    <content>I could tell she was an athlete. New dates on sale now for my Never Ending Tour. Comment your city 👇</content>
+    <link href="https://tiktok.com/@jessicakirson/video/7465483409264184622"/>
+    <published>2025-01-29T23:29:05+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7461685829425974571</id>

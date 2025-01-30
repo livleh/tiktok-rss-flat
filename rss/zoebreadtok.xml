@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2025-01-28T18:33:07+00:00</updated>
+  <updated>2025-01-29T18:31:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7442039278995000608</id>
-    <title>my solution to everything #furby </title>
-    <updated>2024-11-27T19:13:25+00:00</updated>
-    <content>my solution to everything #furby </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7442039278995000608"/>
-    <published>2024-11-27T19:13:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7442397324443258144</id>
     <title>ive got loads more cards where these came from 😡</title>
@@ -283,6 +275,14 @@
     <content>starting tomorrow i only spend money on washing up liquid and AA batteries</content>
     <link href="https://tiktok.com/@zoebreadtok/video/7465036159383588128"/>
     <published>2025-01-28T18:33:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7465406850675084577</id>
+    <title>i’m still coming to terms with the bill. sorry </title>
+    <updated>2025-01-29T18:31:33+00:00</updated>
+    <content>i’m still coming to terms with the bill. sorry </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7465406850675084577"/>
+    <published>2025-01-29T18:31:33+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7391078276183215392</id>
