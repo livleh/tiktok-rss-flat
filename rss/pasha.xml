@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@pasha</id>
   <title>pasha</title>
-  <updated>2025-01-27T10:41:06+00:00</updated>
+  <updated>2025-01-31T17:04:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pasha</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pasha/video/7424413898775858439</id>
-    <title>all we wanted was to live our Korean drama dream 😢 #comedy #korea </title>
-    <updated>2024-10-11T07:17:51+00:00</updated>
-    <content>all we wanted was to live our Korean drama dream 😢 #comedy #korea </content>
-    <link href="https://tiktok.com/@pasha/video/7424413898775858439"/>
-    <published>2024-10-11T07:17:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7425208421646961938</id>
     <title>every time you travel here, do you feel the same? because I definitely do #japan #japantravel </title>
@@ -291,5 +283,13 @@
     <content>gen z 🤝 healthy work boundaries and using Scribe - your new favourite tool that makes creating how-to-guides and work instruction manuals effortless #genz #comedy #jobs #corporate #relatable #scribe #office</content>
     <link href="https://tiktok.com/@pasha/video/7464543472939240711"/>
     <published>2025-01-27T10:41:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pasha/video/7466126519908273416</id>
+    <title>Powered by hustle, fueled by Anker @AnkerOfficial #corporate #relatable #ankerlaptoppowerbank #ankerlaptopcharger </title>
+    <updated>2025-01-31T17:04:10+00:00</updated>
+    <content>Powered by hustle, fueled by Anker @AnkerOfficial #corporate #relatable #ankerlaptoppowerbank #ankerlaptopcharger </content>
+    <link href="https://tiktok.com/@pasha/video/7466126519908273416"/>
+    <published>2025-01-31T17:04:10+00:00</published>
   </entry>
 </feed>

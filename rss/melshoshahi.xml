@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@melshoshahi</id>
   <title>melshoshahi</title>
-  <updated>2025-01-28T20:02:37+00:00</updated>
+  <updated>2025-01-31T18:21:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from melshoshahi</subtitle>
-  <entry>
-    <id>https://tiktok.com/@melshoshahi/video/7440573573795679519</id>
-    <title>Waxing sesh gone wrong 😅 #hairremoval #waxing #sketchcomedy #tiktokskit </title>
-    <updated>2024-11-23T20:25:50+00:00</updated>
-    <content>Waxing sesh gone wrong 😅 #hairremoval #waxing #sketchcomedy #tiktokskit </content>
-    <link href="https://tiktok.com/@melshoshahi/video/7440573573795679519"/>
-    <published>2024-11-23T20:25:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@melshoshahi/video/7441278378629500191</id>
     <title>#Ad Mercedes would make a phenomenal Housewife…right? @Peacock #Peacock #PeacockPartner</title>
@@ -267,6 +259,14 @@
     <content>Manifest richness so you can live the life you want u niooo 💅🏽  #riktokskit #manifestation #sketchcomedy </content>
     <link href="https://tiktok.com/@melshoshahi/video/7465058998891466026"/>
     <published>2025-01-28T20:02:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@melshoshahi/video/7466146134973631787</id>
+    <title>Best dating advice from Mercedes…💅🏽😅 #tiktokskit #dating #relationship #sketchcomedy </title>
+    <updated>2025-01-31T18:21:11+00:00</updated>
+    <content>Best dating advice from Mercedes…💅🏽😅 #tiktokskit #dating #relationship #sketchcomedy </content>
+    <link href="https://tiktok.com/@melshoshahi/video/7466146134973631787"/>
+    <published>2025-01-31T18:21:11+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@melshoshahi/video/7282846082986462507</id>
