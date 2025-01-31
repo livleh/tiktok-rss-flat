@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@andreasfashiongalaxy</id>
   <title>andreasfashiongalaxy</title>
-  <updated>2025-01-29T18:02:11+00:00</updated>
+  <updated>2025-01-30T21:05:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from andreasfashiongalaxy</subtitle>
-  <entry>
-    <id>https://tiktok.com/@andreasfashiongalaxy/video/7413496795625508129</id>
-    <title>How to style a blanket in multiple ways #letsgetdressed </title>
-    <updated>2024-09-11T21:14:04+00:00</updated>
-    <content>How to style a blanket in multiple ways #letsgetdressed </content>
-    <link href="https://tiktok.com/@andreasfashiongalaxy/video/7413496795625508129"/>
-    <published>2024-09-11T21:14:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@andreasfashiongalaxy/video/7413849066875964704</id>
     <title>How to style this linen midi skirt in three ways #letsgetdressed </title>
@@ -291,5 +283,13 @@
     <content>How to style that vintage wedding dress with a vintage corset #letsgetdressed </content>
     <link href="https://tiktok.com/@andreasfashiongalaxy/video/7465399271202819360"/>
     <published>2025-01-29T18:02:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@andreasfashiongalaxy/video/7465817525490683168</id>
+    <title>How to style this midi skirt as a cape #letsgetdressed </title>
+    <updated>2025-01-30T21:05:15+00:00</updated>
+    <content>How to style this midi skirt as a cape #letsgetdressed </content>
+    <link href="https://tiktok.com/@andreasfashiongalaxy/video/7465817525490683168"/>
+    <published>2025-01-30T21:05:15+00:00</published>
   </entry>
 </feed>

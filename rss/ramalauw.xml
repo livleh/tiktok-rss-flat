@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ramalauw</id>
   <title>ramalauw</title>
-  <updated>2025-01-29T17:03:04+00:00</updated>
+  <updated>2025-01-30T16:55:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ramalauw</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ramalauw/video/7417876888053386528</id>
-    <title>It’s always the loudest when it’s the quietest… 😰</title>
-    <updated>2024-09-23T16:30:57+00:00</updated>
-    <content>It’s always the loudest when it’s the quietest… 😰</content>
-    <link href="https://tiktok.com/@ramalauw/video/7417876888053386528"/>
-    <published>2024-09-23T16:30:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7418972297760902433</id>
     <title>This is what I mean when I say I’m only dating for love 🥰</title>
@@ -291,6 +283,14 @@
     <content>When you’ve been ✨Gasl1t✨ for way too long that you start questioning your own memory 😮‍💨🤪🤸💥🥰 #Free99</content>
     <link href="https://tiktok.com/@ramalauw/video/7465384076426382614"/>
     <published>2025-01-29T17:03:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ramalauw/video/7465753265569860886</id>
+    <title>Or when the plot starts being too unrealistic and I don’t even know what the story is about anymore 🤡 </title>
+    <updated>2025-01-30T16:55:44+00:00</updated>
+    <content>Or when the plot starts being too unrealistic and I don’t even know what the story is about anymore 🤡 </content>
+    <link href="https://tiktok.com/@ramalauw/video/7465753265569860886"/>
+    <published>2025-01-30T16:55:44+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7270903343638187297</id>
