@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2025-01-30T19:06:20+00:00</updated>
+  <updated>2025-01-31T15:11:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7458019714862746926</id>
-    <title>it’s not easy out there  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #techroastshow </title>
-    <updated>2025-01-09T20:45:39+00:00</updated>
-    <content>it’s not easy out there  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #techroastshow </content>
-    <link href="https://tiktok.com/@techroastshow/video/7458019714862746926"/>
-    <published>2025-01-09T20:45:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7458313013867842862</id>
     <title>Copy paste working overtime #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </title>
@@ -291,6 +283,14 @@
     <content>🐎 #techie #softwareengineer #horse #neigh #programmerlife #techroastshow </content>
     <link href="https://tiktok.com/@techroastshow/video/7465786602107931950"/>
     <published>2025-01-30T19:06:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7466097038380371243</id>
+    <title>💄💋 #techie #softwareengineer #vancouver #canada #programmerlife #roastbattle #darkhumor #techroastshow </title>
+    <updated>2025-01-31T15:11:21+00:00</updated>
+    <content>💄💋 #techie #softwareengineer #vancouver #canada #programmerlife #roastbattle #darkhumor #techroastshow </content>
+    <link href="https://tiktok.com/@techroastshow/video/7466097038380371243"/>
+    <published>2025-01-31T15:11:21+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
