@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2025-01-13T00:32:17+00:00</updated>
+  <updated>2025-01-31T05:09:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from loveletterstosf</subtitle>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7422418817793428778</id>
-    <title>💌  #sf #bluebottle #craftsmanandwolves #nopa #hayesvalley #sfhouses </title>
-    <updated>2024-10-05T22:15:56+00:00</updated>
-    <content>💌  #sf #bluebottle #craftsmanandwolves #nopa #hayesvalley #sfhouses </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7422418817793428778"/>
-    <published>2024-10-05T22:15:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7422837857917816110</id>
     <title>Saints Peter and Paul Church in #northbeach lit up last night in the colors of the Italian flag for #ItalianHeritageMonth 🇮🇹 #sf #sflights #sfnight #littleitaly </title>
@@ -283,6 +275,14 @@
     <content>#pier39 #sf #sanfrancisco #sfholidays #sfxmas </content>
     <link href="https://tiktok.com/@loveletterstosf/video/7453615244045241642"/>
     <published>2024-12-28T23:53:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7465942143874420010</id>
+    <title>its almost feb so heres a reminder to celebrate all the types of love in your life including your friendships 🫶  @Photomatica Photo Booth Co. is the perf place to make core memories 📸  #sf #thingstodoinsf #photoboothmuseum #sftok #castrodistrict #vday #ga</title>
+    <updated>2025-01-31T05:09:15+00:00</updated>
+    <content>its almost feb so heres a reminder to celebrate all the types of love in your life including your friendships 🫶  @Photomatica Photo Booth Co. is the perf place to make core memories 📸  #sf #thingstodoinsf #photoboothmuseum #sftok #castrodistrict #vday #ga</content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7465942143874420010"/>
+    <published>2025-01-31T05:09:15+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7459191368628391211</id>
