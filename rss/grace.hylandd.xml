@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@grace.hylandd</id>
   <title>grace.hylandd</title>
-  <updated>2025-01-29T10:35:35+00:00</updated>
+  <updated>2025-02-02T09:03:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from grace.hylandd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grace.hylandd/video/7440766965074906369</id>
-    <title>Don’t let people tell you that you can’t do it! </title>
-    <updated>2024-11-24T08:56:27+00:00</updated>
-    <content>Don’t let people tell you that you can’t do it! </content>
-    <link href="https://tiktok.com/@grace.hylandd/video/7440766965074906369"/>
-    <published>2024-11-24T08:56:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grace.hylandd/video/7441395242777234689</id>
     <title>I don’t even recognise that girl anymore. Back to being a Princess 👑 </title>
@@ -275,5 +267,13 @@
     <content>His Porsche was cool though 🤷🏼‍♀️</content>
     <link href="https://tiktok.com/@grace.hylandd/video/7465284121619713297"/>
     <published>2025-01-29T10:35:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grace.hylandd/video/7466744766730947841</id>
+    <title>I added the music and the moving captions because they make me sound wiser than I actually am ✌️😙</title>
+    <updated>2025-02-02T09:03:41+00:00</updated>
+    <content>I added the music and the moving captions because they make me sound wiser than I actually am ✌️😙</content>
+    <link href="https://tiktok.com/@grace.hylandd/video/7466744766730947841"/>
+    <published>2025-02-02T09:03:41+00:00</published>
   </entry>
 </feed>
