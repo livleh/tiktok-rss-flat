@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2025-02-01T20:18:34+00:00</updated>
+  <updated>2025-02-01T23:29:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7464587474124213536</id>
-    <title>TELL MY DOG EVERYTHING FR #yapper #relatable </title>
-    <updated>2025-01-27T13:32:06+00:00</updated>
-    <content>TELL MY DOG EVERYTHING FR #yapper #relatable </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7464587474124213536"/>
-    <published>2025-01-27T13:32:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7464654635521920289</id>
     <title>NO 1 I HATE IT HERE STAN #swiftie #taylorswift #ttpd </title>
@@ -291,6 +283,14 @@
     <content>average british experience @Bee 💚 #relatable #mentalhealth </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7466547686158667040"/>
     <published>2025-02-01T20:18:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7466596652283858208</id>
+    <title>cause we both know all the lore already 😭‼️ @Bee 💚 #mentalhealth #mh #neurodivergent </title>
+    <updated>2025-02-01T23:29:05+00:00</updated>
+    <content>cause we both know all the lore already 😭‼️ @Bee 💚 #mentalhealth #mh #neurodivergent </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7466596652283858208"/>
+    <published>2025-02-01T23:29:05+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7295791125389004065</id>
