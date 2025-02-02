@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ramalauw</id>
   <title>ramalauw</title>
-  <updated>2025-01-30T16:55:44+00:00</updated>
+  <updated>2025-02-02T17:52:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ramalauw</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ramalauw/video/7418972297760902433</id>
-    <title>This is what I mean when I say I’m only dating for love 🥰</title>
-    <updated>2024-09-26T15:21:42+00:00</updated>
-    <content>This is what I mean when I say I’m only dating for love 🥰</content>
-    <link href="https://tiktok.com/@ramalauw/video/7418972297760902433"/>
-    <published>2024-09-26T15:21:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7420075051354967328</id>
     <title>✨Online Datinf✨: where your self-esteem goes to 💀 🥰 #free99 #dating #datingadvice</title>
@@ -291,6 +283,14 @@
     <content>Or when the plot starts being too unrealistic and I don’t even know what the story is about anymore 🤡 </content>
     <link href="https://tiktok.com/@ramalauw/video/7465753265569860886"/>
     <published>2025-01-30T16:55:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ramalauw/video/7466881201891036438</id>
+    <title>I’ve been craving this so much lately 🥰🥺🫶💃✨ Stitch with @Nara Smith  </title>
+    <updated>2025-02-02T17:52:41+00:00</updated>
+    <content>I’ve been craving this so much lately 🥰🥺🫶💃✨ Stitch with @Nara Smith  </content>
+    <link href="https://tiktok.com/@ramalauw/video/7466881201891036438"/>
+    <published>2025-02-02T17:52:41+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7270903343638187297</id>

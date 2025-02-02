@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@palim_tintin</id>
   <title>palim_tintin</title>
-  <updated>2025-01-31T17:48:28+00:00</updated>
+  <updated>2025-02-02T17:43:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from palim_tintin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@palim_tintin/video/7373379459652586784</id>
-    <title>🧡✨🕯️</title>
-    <updated>2024-05-26T18:38:12+00:00</updated>
-    <content>🧡✨🕯️</content>
-    <link href="https://tiktok.com/@palim_tintin/video/7373379459652586784"/>
-    <published>2024-05-26T18:38:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@palim_tintin/video/7377805285521493280</id>
     <title>💚🌿🥝🫑🐸🐍</title>
@@ -291,6 +283,14 @@
     <content>Habt einen feinen Abend! 🧡☺️</content>
     <link href="https://tiktok.com/@palim_tintin/video/7466137946144394518"/>
     <published>2025-01-31T17:48:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@palim_tintin/video/7466878763351952662</id>
+    <title>2 Jahre in der neuen Butz!🧡✨☺️ #vorhernachher #interior #meinewohnung #solebich #altbauwohnung</title>
+    <updated>2025-02-02T17:43:13+00:00</updated>
+    <content>2 Jahre in der neuen Butz!🧡✨☺️ #vorhernachher #interior #meinewohnung #solebich #altbauwohnung</content>
+    <link href="https://tiktok.com/@palim_tintin/video/7466878763351952662"/>
+    <published>2025-02-02T17:43:13+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@palim_tintin/video/7189301520721005829</id>
