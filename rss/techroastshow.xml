@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2025-02-01T15:34:48+00:00</updated>
+  <updated>2025-02-02T22:12:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7458676235913301294</id>
-    <title>he doesn’t know SpaceX is a company, that’s just what he calls his calendar #tech #softwareengineer #startup #founder #crowdwork #standupcomedy #comedy #startuplife #techroastshow</title>
-    <updated>2025-01-11T15:13:18+00:00</updated>
-    <content>he doesn’t know SpaceX is a company, that’s just what he calls his calendar #tech #softwareengineer #startup #founder #crowdwork #standupcomedy #comedy #startuplife #techroastshow</content>
-    <link href="https://tiktok.com/@techroastshow/video/7458676235913301294"/>
-    <published>2025-01-11T15:13:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7459061402569870634</id>
     <title>abstract maps 🧑‍🎨 #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #techroastshow </title>
@@ -291,6 +283,14 @@
     <content>chat is this rizz  #techie #softwareengineer #vancouver #canada #programmerlife #roastbattle #darkhumor #techroastshow </content>
     <link href="https://tiktok.com/@techroastshow/video/7466474408928922922"/>
     <published>2025-02-01T15:34:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7466947930075958574</id>
+    <title>last bing employee #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </title>
+    <updated>2025-02-02T22:12:23+00:00</updated>
+    <content>last bing employee #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </content>
+    <link href="https://tiktok.com/@techroastshow/video/7466947930075958574"/>
+    <published>2025-02-02T22:12:23+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>
