@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2025-02-02T18:27:50+00:00</updated>
+  <updated>2025-02-03T18:29:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7443883143666486561</id>
-    <title>day 2 of my strange advent calendar </title>
-    <updated>2024-12-02T18:28:40+00:00</updated>
-    <content>day 2 of my strange advent calendar </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7443883143666486561"/>
-    <published>2024-12-02T18:28:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7444253797670489377</id>
     <title>seeing wicked at the cinema</title>
@@ -283,6 +275,14 @@
     <content>it can’t be one rule for george best and another rule for the rest of us. more like george worst if you ask me! </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7466890231791324449"/>
     <published>2025-02-02T18:27:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7467261840783936801</id>
+    <title>it’s gonna be cold out there today! we’ve got six more gruelling weeks of winter folks</title>
+    <updated>2025-02-03T18:29:51+00:00</updated>
+    <content>it’s gonna be cold out there today! we’ve got six more gruelling weeks of winter folks</content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7467261840783936801"/>
+    <published>2025-02-03T18:29:51+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7391078276183215392</id>

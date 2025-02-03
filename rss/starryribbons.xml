@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@starryribbons</id>
   <title>starryribbons</title>
-  <updated>2025-02-01T17:34:08+00:00</updated>
+  <updated>2025-02-03T19:09:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from starryribbons</subtitle>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7430522873720130849</id>
-    <title>chappell roan release this pls #femmelesbian #femme4butch #wlw #digitaldiary #coquetteaesthetic #chappellroan </title>
-    <updated>2024-10-27T18:23:49+00:00</updated>
-    <content>chappell roan release this pls #femmelesbian #femme4butch #wlw #digitaldiary #coquetteaesthetic #chappellroan </content>
-    <link href="https://tiktok.com/@starryribbons/video/7430522873720130849"/>
-    <published>2024-10-27T18:23:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7431630698357771553</id>
     <title>can yoh tell i really like hyyh #digitaldiary #coquette #bts #kpop #hyyh #hyyhedit #bangtanboys #wlw #graduation #growingup </title>
@@ -291,6 +283,14 @@
     <content>my reason 🙏😭 #digitaldiary #wlw #femmelesbian #kpop #straykids #ateez #taylorswift </content>
     <link href="https://tiktok.com/@starryribbons/video/7466505337273666838"/>
     <published>2025-02-01T17:34:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7467272193773276438</id>
+    <title>the vibes I bring to the school building #digitaldiary #wlw #femmelesbian #chappellroan #coquette </title>
+    <updated>2025-02-03T19:09:56+00:00</updated>
+    <content>the vibes I bring to the school building #digitaldiary #wlw #femmelesbian #chappellroan #coquette </content>
+    <link href="https://tiktok.com/@starryribbons/video/7467272193773276438"/>
+    <published>2025-02-03T19:09:56+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7285761406664854817</id>
