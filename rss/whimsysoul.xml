@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2025-02-03T21:57:58+00:00</updated>
+  <updated>2025-02-04T16:06:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7459188986976849198</id>
-    <title>Haven't re-introduced myself in forever. 🫣 and since it's goodbye soon, I wanted to say: Welcome to club Whimsy! So happy to have you here ❤️✨ Please follow me on Instagram, I want to stay connected! #tiktokban  #whimsysoul #sanfrancisco #influencer #cont</title>
-    <updated>2025-01-13T00:23:01+00:00</updated>
-    <content>Haven't re-introduced myself in forever. 🫣 and since it's goodbye soon, I wanted to say: Welcome to club Whimsy! So happy to have you here ❤️✨ Please follow me on Instagram, I want to stay connected! #tiktokban  #whimsysoul #sanfrancisco #influencer #cont</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7459188986976849198"/>
-    <published>2025-01-13T00:23:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7459494199533276462</id>
     <title>Capitalism has made even the most average slog in the machine heartless and doing it all for the bottom line #california #lafires #contentcreator #captalism #consumerism #influencer #marketing #eatonfire #palisadesfire #losangeles #content #influencermark</title>
@@ -291,5 +283,13 @@
     <content>Gay ice cream in the winter 💅 so happy Licked in Oak Park, Sacramento has vegan options for us dairy free girlies!! They're Queer owned and so dang tasty. Make sure to check them out, I'll be back (esp this summer!)  @Ashley @genniferroseblog  #lickedsacr</content>
     <link href="https://tiktok.com/@whimsysoul/video/7467315341207588139"/>
     <published>2025-02-03T21:57:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7467595681553730859</id>
+    <title>i found the coolest hotel in Tahoe for you! Anyone planning a winter ski trip? #laketahoe #southlaketahoe #coolhotels #cabinvibes #winteraesthetic #californiatravel #whimsysoul #laketahoecheck #boutiquehotel #coachmanhotel #visitcalifornia #hotel</title>
+    <updated>2025-02-04T16:06:23+00:00</updated>
+    <content>i found the coolest hotel in Tahoe for you! Anyone planning a winter ski trip? #laketahoe #southlaketahoe #coolhotels #cabinvibes #winteraesthetic #californiatravel #whimsysoul #laketahoecheck #boutiquehotel #coachmanhotel #visitcalifornia #hotel</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7467595681553730859"/>
+    <published>2025-02-04T16:06:23+00:00</published>
   </entry>
 </feed>
