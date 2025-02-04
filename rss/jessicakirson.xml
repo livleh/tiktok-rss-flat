@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2025-02-02T21:50:56+00:00</updated>
+  <updated>2025-02-03T23:12:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7450529978304777518</id>
-    <title>Hiii I have added new dates to the Never Ending Tour. If your city isn’t listed comment it below xoxo </title>
-    <updated>2024-12-20T16:21:37+00:00</updated>
-    <content>Hiii I have added new dates to the Never Ending Tour. If your city isn’t listed comment it below xoxo </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7450529978304777518"/>
-    <published>2024-12-20T16:21:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7450857615011237151</id>
     <title>I Love How They Are So Honest ❤️</title>
@@ -283,6 +275,14 @@
     <content>My show is a safe space </content>
     <link href="https://tiktok.com/@jessicakirson/video/7466942477610569006"/>
     <published>2025-02-02T21:50:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7467334445863865646</id>
+    <title>I offered a hug but…</title>
+    <updated>2025-02-03T23:12:10+00:00</updated>
+    <content>I offered a hug but…</content>
+    <link href="https://tiktok.com/@jessicakirson/video/7467334445863865646"/>
+    <published>2025-02-03T23:12:10+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7461685829425974571</id>

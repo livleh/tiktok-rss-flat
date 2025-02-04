@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2025-02-03T00:54:26+00:00</updated>
+  <updated>2025-02-03T21:57:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7459158995887213870</id>
-    <title>Replying to @brikston.ahuv nothing makes us put aside that NorCal vs SoCal rivalry faster than when our neighbors are in crisis.  I was so floored by how many people turned up for the LA Fires drive in Emeryville today. The team handled it so well, everyt</title>
-    <updated>2025-01-12T22:26:38+00:00</updated>
-    <content>Replying to @brikston.ahuv nothing makes us put aside that NorCal vs SoCal rivalry faster than when our neighbors are in crisis.  I was so floored by how many people turned up for the LA Fires drive in Emeryville today. The team handled it so well, everyt</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7459158995887213870"/>
-    <published>2025-01-12T22:26:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7459188986976849198</id>
     <title>Haven't re-introduced myself in forever. 🫣 and since it's goodbye soon, I wanted to say: Welcome to club Whimsy! So happy to have you here ❤️✨ Please follow me on Instagram, I want to stay connected! #tiktokban  #whimsysoul #sanfrancisco #influencer #cont</title>
@@ -291,5 +283,13 @@
     <content>If you're sick rn you need to buy this magic syrup!! Nin Jiom Pei Pa Koa herbal formula on Amazon. It's worth the buy from Amazon I promise it's magic and the only thing that saved my sore throat this week #peipakoa #coldremedies #fluremedy #coldandflusea</content>
     <link href="https://tiktok.com/@whimsysoul/video/7466989708032183595"/>
     <published>2025-02-03T00:54:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7467315341207588139</id>
+    <title>Gay ice cream in the winter 💅 so happy Licked in Oak Park, Sacramento has vegan options for us dairy free girlies!! They're Queer owned and so dang tasty. Make sure to check them out, I'll be back (esp this summer!)  @Ashley @genniferroseblog  #lickedsacr</title>
+    <updated>2025-02-03T21:57:58+00:00</updated>
+    <content>Gay ice cream in the winter 💅 so happy Licked in Oak Park, Sacramento has vegan options for us dairy free girlies!! They're Queer owned and so dang tasty. Make sure to check them out, I'll be back (esp this summer!)  @Ashley @genniferroseblog  #lickedsacr</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7467315341207588139"/>
+    <published>2025-02-03T21:57:58+00:00</published>
   </entry>
 </feed>
