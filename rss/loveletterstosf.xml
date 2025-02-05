@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2025-02-03T21:27:38+00:00</updated>
+  <updated>2025-02-05T18:59:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from loveletterstosf</subtitle>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7424963075112963371</id>
-    <title>#fleetweek #fleetweeksf #blueangels #sf </title>
-    <updated>2024-10-12T18:48:57+00:00</updated>
-    <content>#fleetweek #fleetweeksf #blueangels #sf </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7424963075112963371"/>
-    <published>2024-10-12T18:48:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7427186939901513002</id>
     <title>almost didnt post but better late than never lol #sftok #sfevents #thingstodoinsf #sfmovienight #downtownsf #sfmusic #blockparty </title>
@@ -275,6 +267,14 @@
     <content>got the cutest sf coloring books by @adel ⟡ ݁₊ ꣑ৎ 🎉  def taking it on solo park dates &amp; adventures around the city 🎨 #sf #vlog #sfcoloringbook #saluhall #foodhall #sffood #sfeats #sftok #thingstodoinsf  #ikea #sfdowntown </content>
     <link href="https://tiktok.com/@loveletterstosf/video/7467307456666864938"/>
     <published>2025-02-03T21:27:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7468011473252519211</id>
+    <title>#saluhall #sfdowntown #saturdayinsf #sfeats #sffoodies #sfcoloringbook #sftok </title>
+    <updated>2025-02-05T18:59:45+00:00</updated>
+    <content>#saluhall #sfdowntown #saturdayinsf #sfeats #sffoodies #sfcoloringbook #sftok </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7468011473252519211"/>
+    <published>2025-02-05T18:59:45+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7459191368628391211</id>
