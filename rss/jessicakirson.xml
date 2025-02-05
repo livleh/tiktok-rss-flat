@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2025-02-03T23:12:10+00:00</updated>
+  <updated>2025-02-05T00:38:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7450857615011237151</id>
-    <title>I Love How They Are So Honest ❤️</title>
-    <updated>2024-12-21T13:33:34+00:00</updated>
-    <content>I Love How They Are So Honest ❤️</content>
-    <link href="https://tiktok.com/@jessicakirson/video/7450857615011237151"/>
-    <published>2024-12-21T13:33:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7451375575408692510</id>
     <title>They Came From Barcelona </title>
@@ -283,6 +275,14 @@
     <content>I offered a hug but…</content>
     <link href="https://tiktok.com/@jessicakirson/video/7467334445863865646"/>
     <published>2025-02-03T23:12:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7467728016282488110</id>
+    <title>Why I Do Comedy</title>
+    <updated>2025-02-05T00:38:52+00:00</updated>
+    <content>Why I Do Comedy</content>
+    <link href="https://tiktok.com/@jessicakirson/video/7467728016282488110"/>
+    <published>2025-02-05T00:38:52+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7461685829425974571</id>
