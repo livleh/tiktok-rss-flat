@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2025-02-04T19:01:18+00:00</updated>
+  <updated>2025-02-06T18:33:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7444625099451403552</id>
-    <title>the elf that may or may not be on the shelf and also may or may not be suing me. thats not very christmassy !!!!!</title>
-    <updated>2024-12-04T18:27:50+00:00</updated>
-    <content>the elf that may or may not be on the shelf and also may or may not be suing me. thats not very christmassy !!!!!</content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7444625099451403552"/>
-    <published>2024-12-04T18:27:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7446485980023901473</id>
     <title>NO MORE ELVES IN THE ADVENT CALENDAR PLEASE 😡</title>
@@ -283,6 +275,14 @@
     <content>they made it too easy for me </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7467641012463193376"/>
     <published>2025-02-04T19:01:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7468376130647543072</id>
+    <title>don’t go messaging anyone, it’s just a bit of fun. also ironically need some scaffolding now to fix the damage caused by the crash. i’m at point nemo if anyone knows a decent local guy? </title>
+    <updated>2025-02-06T18:33:49+00:00</updated>
+    <content>don’t go messaging anyone, it’s just a bit of fun. also ironically need some scaffolding now to fix the damage caused by the crash. i’m at point nemo if anyone knows a decent local guy? </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7468376130647543072"/>
+    <published>2025-02-06T18:33:49+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7391078276183215392</id>

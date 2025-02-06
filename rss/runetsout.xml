@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@runetsout</id>
   <title>runetsout</title>
-  <updated>2025-01-28T22:10:28+00:00</updated>
+  <updated>2025-02-06T18:14:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from runetsout</subtitle>
-  <entry>
-    <id>https://tiktok.com/@runetsout/video/7325531363455634720</id>
-    <title>Don’t come to the UK, they will rip you off 😂 #uk #london #businessideas </title>
-    <updated>2024-01-18T20:03:08+00:00</updated>
-    <content>Don’t come to the UK, they will rip you off 😂 #uk #london #businessideas </content>
-    <link href="https://tiktok.com/@runetsout/video/7325531363455634720"/>
-    <published>2024-01-18T20:03:08+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@runetsout/video/7326661690219613473</id>
-    <title>What is the hardest thing of being an immigrant in Switzerland?  #switzerland🇨🇭 #zurich #immigrant #immigrantstories #spain #barcelona #prices </title>
-    <updated>2024-01-21T21:09:23+00:00</updated>
-    <content>What is the hardest thing of being an immigrant in Switzerland?  #switzerland🇨🇭 #zurich #immigrant #immigrantstories #spain #barcelona #prices </content>
-    <link href="https://tiktok.com/@runetsout/video/7326661690219613473"/>
-    <published>2024-01-21T21:09:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@runetsout/video/7328749936386788641</id>
     <title>We are immigrants in Switzelrand 😅 #immigrant #immigrantstories #switzerland #zurich #swissalps #swissmemes </title>
@@ -283,6 +267,22 @@
     <content>Once I saved 3 euros by choosing the ticket to the French side instead of the Swiss one 🤣 #switzerland #france #germany #funfactstoknow </content>
     <link href="https://tiktok.com/@runetsout/video/7465092193087245590"/>
     <published>2025-01-28T22:10:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@runetsout/video/7468074467063762198</id>
+    <title>I don't think duty-free shops are not interested in better scanners 😂 #airport #switzerland #travel </title>
+    <updated>2025-02-05T23:03:14+00:00</updated>
+    <content>I don't think duty-free shops are not interested in better scanners 😂 #airport #switzerland #travel </content>
+    <link href="https://tiktok.com/@runetsout/video/7468074467063762198"/>
+    <published>2025-02-05T23:03:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@runetsout/video/7468371105460325654</id>
+    <title>It won’t  be enough for 1 night in a luxury hotel #switzerlands #swisstourism </title>
+    <updated>2025-02-06T18:14:15+00:00</updated>
+    <content>It won’t  be enough for 1 night in a luxury hotel #switzerlands #swisstourism </content>
+    <link href="https://tiktok.com/@runetsout/video/7468371105460325654"/>
+    <published>2025-02-06T18:14:15+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@runetsout/video/7174788628042779910</id>
