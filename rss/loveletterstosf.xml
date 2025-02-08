@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@loveletterstosf</id>
   <title>loveletterstosf</title>
-  <updated>2025-02-05T18:59:45+00:00</updated>
+  <updated>2025-02-06T22:31:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from loveletterstosf</subtitle>
-  <entry>
-    <id>https://tiktok.com/@loveletterstosf/video/7427186939901513002</id>
-    <title>almost didnt post but better late than never lol #sftok #sfevents #thingstodoinsf #sfmovienight #downtownsf #sfmusic #blockparty </title>
-    <updated>2024-10-18T18:38:41+00:00</updated>
-    <content>almost didnt post but better late than never lol #sftok #sfevents #thingstodoinsf #sfmovienight #downtownsf #sfmusic #blockparty </content>
-    <link href="https://tiktok.com/@loveletterstosf/video/7427186939901513002"/>
-    <published>2024-10-18T18:38:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7428641839906950442</id>
     <title>if you haven’t already done a #daytrip to #sausalito, here’s your sign to hop on the #sfbayferry and check it out! #sausalitowaterfront #sfbayarea </title>
@@ -275,6 +267,14 @@
     <content>#saluhall #sfdowntown #saturdayinsf #sfeats #sffoodies #sfcoloringbook #sftok </content>
     <link href="https://tiktok.com/@loveletterstosf/video/7468011473252519211"/>
     <published>2025-02-05T18:59:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@loveletterstosf/video/7468437394174332203</id>
+    <title>#sfevents im looking forward to - also doing a giveaway on IG for the NBA All Stars Concert Series 🎵🔥 go enter before 2/10! #sftok #sflocals #sanfrancisco #ferrybuilding #sfconcerts #nbaallstars #downtownsf #chinatown #chinesenewyear </title>
+    <updated>2025-02-06T22:31:37+00:00</updated>
+    <content>#sfevents im looking forward to - also doing a giveaway on IG for the NBA All Stars Concert Series 🎵🔥 go enter before 2/10! #sftok #sflocals #sanfrancisco #ferrybuilding #sfconcerts #nbaallstars #downtownsf #chinatown #chinesenewyear </content>
+    <link href="https://tiktok.com/@loveletterstosf/video/7468437394174332203"/>
+    <published>2025-02-06T22:31:37+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@loveletterstosf/video/7459191368628391211</id>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@pasha</id>
   <title>pasha</title>
-  <updated>2025-01-31T17:04:10+00:00</updated>
+  <updated>2025-02-07T12:04:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pasha</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pasha/video/7425208421646961938</id>
-    <title>every time you travel here, do you feel the same? because I definitely do #japan #japantravel </title>
-    <updated>2024-10-13T10:41:01+00:00</updated>
-    <content>every time you travel here, do you feel the same? because I definitely do #japan #japantravel </content>
-    <link href="https://tiktok.com/@pasha/video/7425208421646961938"/>
-    <published>2024-10-13T10:41:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7425589342694935815</id>
     <title>reviewing Korean ice cream so you don’t have to. also the ending has me 🤣 #korea #conveniencestore #mukbang #koreanconveniencestore #asmr #icecream #asmrmukbang #koreanicecream </title>
@@ -291,5 +283,13 @@
     <content>Powered by hustle, fueled by Anker @AnkerOfficial #corporate #relatable #ankerlaptoppowerbank #ankerlaptopcharger </content>
     <link href="https://tiktok.com/@pasha/video/7466126519908273416"/>
     <published>2025-01-31T17:04:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pasha/video/7468646881892076808</id>
+    <title>people who still use and write in notebooks think they are the most special people in the world 🤣 and you know what…let me tell you, people who take notes (and read) ARE INDEED THE MOST SPECIAL PEOPLE ❤️ but let’s be real - taking notes is more than just </title>
+    <updated>2025-02-07T12:04:25+00:00</updated>
+    <content>people who still use and write in notebooks think they are the most special people in the world 🤣 and you know what…let me tell you, people who take notes (and read) ARE INDEED THE MOST SPECIAL PEOPLE ❤️ but let’s be real - taking notes is more than just </content>
+    <link href="https://tiktok.com/@pasha/video/7468646881892076808"/>
+    <published>2025-02-07T12:04:25+00:00</published>
   </entry>
 </feed>

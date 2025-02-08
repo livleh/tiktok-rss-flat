@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@andreasfashiongalaxy</id>
   <title>andreasfashiongalaxy</title>
-  <updated>2025-01-31T21:14:45+00:00</updated>
+  <updated>2025-02-07T21:00:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from andreasfashiongalaxy</subtitle>
-  <entry>
-    <id>https://tiktok.com/@andreasfashiongalaxy/video/7414220196107324705</id>
-    <title>How to style cute and comfy travel outfits ft sustainable #vivaia boots #letsgetdressed  @VIVAIA </title>
-    <updated>2024-09-13T20:01:08+00:00</updated>
-    <content>How to style cute and comfy travel outfits ft sustainable #vivaia boots #letsgetdressed  @VIVAIA </content>
-    <link href="https://tiktok.com/@andreasfashiongalaxy/video/7414220196107324705"/>
-    <published>2024-09-13T20:01:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@andreasfashiongalaxy/video/7416817557992262944</id>
     <title>How to style a linen skirt as a dress #letsgetdressed </title>
@@ -291,5 +283,13 @@
     <content>How to style this corset the casual way #letsgetdressed </content>
     <link href="https://tiktok.com/@andreasfashiongalaxy/video/7466191068220935456"/>
     <published>2025-01-31T21:14:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@andreasfashiongalaxy/video/7468785067104423200</id>
+    <title>These cute @VIVAIA heels and loafers are so comfy #letsgetdressed  #vivaia </title>
+    <updated>2025-02-07T21:00:42+00:00</updated>
+    <content>These cute @VIVAIA heels and loafers are so comfy #letsgetdressed  #vivaia </content>
+    <link href="https://tiktok.com/@andreasfashiongalaxy/video/7468785067104423200"/>
+    <published>2025-02-07T21:00:42+00:00</published>
   </entry>
 </feed>

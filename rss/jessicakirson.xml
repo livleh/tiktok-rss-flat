@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2025-02-06T00:04:25+00:00</updated>
+  <updated>2025-02-07T15:25:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7451742533333568814</id>
-    <title>He Is Incredible! If you know him please tag him ❤️</title>
-    <updated>2024-12-23T22:46:54+00:00</updated>
-    <content>He Is Incredible! If you know him please tag him ❤️</content>
-    <link href="https://tiktok.com/@jessicakirson/video/7451742533333568814"/>
-    <published>2024-12-23T22:46:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7452110095162363179</id>
-    <title>Glass breaking at the show</title>
-    <updated>2024-12-24T22:33:13+00:00</updated>
-    <content>Glass breaking at the show</content>
-    <link href="https://tiktok.com/@jessicakirson/video/7452110095162363179"/>
-    <published>2024-12-24T22:33:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7452856889035083050</id>
     <title>I could tell it wasn’t going anywhere </title>
@@ -283,6 +267,22 @@
     <content>Made me so hungry </content>
     <link href="https://tiktok.com/@jessicakirson/video/7468090101025803550"/>
     <published>2025-02-06T00:04:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7468457354212937006</id>
+    <title>It was burning </title>
+    <updated>2025-02-06T23:49:08+00:00</updated>
+    <content>It was burning </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7468457354212937006"/>
+    <published>2025-02-06T23:49:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7468698553305533726</id>
+    <title>New York City! My show at the Beacon Theatre is on sale now! It is the largest venue I’ve ever headlined in NYC so like and comment so everyone can see this! Tickets are available on my site xoxo</title>
+    <updated>2025-02-07T15:25:47+00:00</updated>
+    <content>New York City! My show at the Beacon Theatre is on sale now! It is the largest venue I’ve ever headlined in NYC so like and comment so everyone can see this! Tickets are available on my site xoxo</content>
+    <link href="https://tiktok.com/@jessicakirson/video/7468698553305533726"/>
+    <published>2025-02-07T15:25:47+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7461685829425974571</id>
