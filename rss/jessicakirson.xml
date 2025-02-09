@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2025-02-07T15:25:47+00:00</updated>
+  <updated>2025-02-08T14:27:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7452856889035083050</id>
-    <title>I could tell it wasn’t going anywhere </title>
-    <updated>2024-12-26T22:51:12+00:00</updated>
-    <content>I could tell it wasn’t going anywhere </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7452856889035083050"/>
-    <published>2024-12-26T22:51:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7453229581550538015</id>
     <title>Lesbian Bar in Paris </title>
@@ -277,12 +269,12 @@
     <published>2025-02-06T23:49:08+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7468698553305533726</id>
-    <title>New York City! My show at the Beacon Theatre is on sale now! It is the largest venue I’ve ever headlined in NYC so like and comment so everyone can see this! Tickets are available on my site xoxo</title>
-    <updated>2025-02-07T15:25:47+00:00</updated>
-    <content>New York City! My show at the Beacon Theatre is on sale now! It is the largest venue I’ve ever headlined in NYC so like and comment so everyone can see this! Tickets are available on my site xoxo</content>
-    <link href="https://tiktok.com/@jessicakirson/video/7468698553305533726"/>
-    <published>2025-02-07T15:25:47+00:00</published>
+    <id>https://tiktok.com/@jessicakirson/video/7469054537811135786</id>
+    <title>They named a drink after me at this club 😂</title>
+    <updated>2025-02-08T14:27:28+00:00</updated>
+    <content>They named a drink after me at this club 😂</content>
+    <link href="https://tiktok.com/@jessicakirson/video/7469054537811135786"/>
+    <published>2025-02-08T14:27:28+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7461685829425974571</id>
@@ -291,5 +283,13 @@
     <content>Hiii!! Now that tik tok is back I just wanted to make sure you all could see my live dates I have coming up. Tik Tok may stop but The Never Ending Tour continues! If your city isn’t listed please comment it below xoxo </content>
     <link href="https://tiktok.com/@jessicakirson/video/7461685829425974571"/>
     <published>2025-01-19T17:52:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7468698553305533726</id>
+    <title>New York City! My show at the Beacon Theatre is on sale now! It is the largest venue I’ve ever headlined in NYC so like and comment so everyone can see this! Tickets are available on my site xoxo</title>
+    <updated>2025-02-07T15:25:47+00:00</updated>
+    <content>New York City! My show at the Beacon Theatre is on sale now! It is the largest venue I’ve ever headlined in NYC so like and comment so everyone can see this! Tickets are available on my site xoxo</content>
+    <link href="https://tiktok.com/@jessicakirson/video/7468698553305533726"/>
+    <published>2025-02-07T15:25:47+00:00</published>
   </entry>
 </feed>

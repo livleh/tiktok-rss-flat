@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2025-02-08T01:09:15+00:00</updated>
+  <updated>2025-02-08T15:31:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7460957196181081390</id>
-    <title>What do you guys think about this secret treehouse Airbnb in the Santa Cruz mountains - would you stay here? 📍 Redwood Ridge Treefort in Felton  ##airbnb##santacruz##felton##airbnbfinds##california##visitcalifornia##bayarea##sanjose##sanfrancisco##treehou</title>
-    <updated>2025-01-17T18:44:36+00:00</updated>
-    <content>What do you guys think about this secret treehouse Airbnb in the Santa Cruz mountains - would you stay here? 📍 Redwood Ridge Treefort in Felton  ##airbnb##santacruz##felton##airbnbfinds##california##visitcalifornia##bayarea##sanjose##sanfrancisco##treehou</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7460957196181081390"/>
-    <published>2025-01-17T18:44:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7461034223915322670</id>
     <title>Replying to @Robins_roost we listen and don't judge??  That treehouse Airbnb in Santa Cruz was one I will remember forever. We laugh about it now #santacruz #airbnb #felton #california #bayarea #sanjose #welistenanddontjudge #treehouse #whimsysoul </title>
@@ -291,5 +283,13 @@
     <content>ew look at those economy peasants ✈️ #businessclass #amibetterthaneveryone #planes #airport #travel #humor #unitedairlines </content>
     <link href="https://tiktok.com/@whimsysoul/video/7468849012825951534"/>
     <published>2025-02-08T01:09:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7469071185234382123</id>
+    <title>San Francisco happy hour is my favorite weekly tradition.🍷🍟  We meet up at Doppio in Hayes Valley for truffle fries and drinkies - they have $4 off glasses of wine for happy hour and $3 off cocktails.  Also my favorite lately? reading Onyx Storm. Who gues</title>
+    <updated>2025-02-08T15:31:40+00:00</updated>
+    <content>San Francisco happy hour is my favorite weekly tradition.🍷🍟  We meet up at Doppio in Hayes Valley for truffle fries and drinkies - they have $4 off glasses of wine for happy hour and $3 off cocktails.  Also my favorite lately? reading Onyx Storm. Who gues</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7469071185234382123"/>
+    <published>2025-02-08T15:31:40+00:00</published>
   </entry>
 </feed>
