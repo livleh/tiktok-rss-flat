@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@runetsout</id>
   <title>runetsout</title>
-  <updated>2025-02-07T21:11:07+00:00</updated>
+  <updated>2025-02-09T21:51:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from runetsout</subtitle>
-  <entry>
-    <id>https://tiktok.com/@runetsout/video/7329101584879668512</id>
-    <title>We are immigrants in Switzerland [Part 2]  #switzerland #swissalps #immigrants #weareimmigrants #immigrantstories </title>
-    <updated>2024-01-28T10:57:28+00:00</updated>
-    <content>We are immigrants in Switzerland [Part 2]  #switzerland #swissalps #immigrants #weareimmigrants #immigrantstories </content>
-    <link href="https://tiktok.com/@runetsout/video/7329101584879668512"/>
-    <published>2024-01-28T10:57:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@runetsout/video/7333969725392833824</id>
     <title>We are immigrants we live on their taxes😂 (I hope you understand that its sarcasm) #weare #immigrants #immigrantlife #immigrantstories </title>
@@ -283,6 +275,14 @@
     <content>Did you know about it?? #switzerlands #swisstourism #travel #immgrant #toblerone </content>
     <link href="https://tiktok.com/@runetsout/video/7468787765979647254"/>
     <published>2025-02-07T21:11:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@runetsout/video/7469540251837467926</id>
+    <title>You can drink from the same fountain where dogs have bathed😂🇨🇭 #switzerland #immigrants #swissmade #swissmountains </title>
+    <updated>2025-02-09T21:51:10+00:00</updated>
+    <content>You can drink from the same fountain where dogs have bathed😂🇨🇭 #switzerland #immigrants #swissmade #swissmountains </content>
+    <link href="https://tiktok.com/@runetsout/video/7469540251837467926"/>
+    <published>2025-02-09T21:51:10+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@runetsout/video/7174788628042779910</id>
