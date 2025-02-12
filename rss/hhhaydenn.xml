@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@hhhaydenn</id>
   <title>hhhaydenn</title>
-  <updated>2025-02-08T03:55:25+00:00</updated>
+  <updated>2025-02-11T00:04:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from hhhaydenn</subtitle>
-  <entry>
-    <id>https://tiktok.com/@hhhaydenn/video/7194947420860550443</id>
-    <title>i love being affirmed 🥰 #transcomedian #transfem #standupcomedy #lgbtq #transcomedy #fyp </title>
-    <updated>2023-01-31T22:30:45+00:00</updated>
-    <content>i love being affirmed 🥰 #transcomedian #transfem #standupcomedy #lgbtq #transcomedy #fyp </content>
-    <link href="https://tiktok.com/@hhhaydenn/video/7194947420860550443"/>
-    <published>2023-01-31T22:30:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@hhhaydenn/video/7197894291967102254</id>
     <title>WHOSE WITH ME??? #fyp #lgbtq #transcomedy #transfem </title>
@@ -267,6 +259,14 @@
     <content>i can’t believe they’d do this to me #fyp #lgbtq #trans #fypシ </content>
     <link href="https://tiktok.com/@hhhaydenn/video/7468891815916195102"/>
     <published>2025-02-08T03:55:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@hhhaydenn/video/7469945490008804638</id>
+    <title>Replying to @Romeo Charles just so it’s clear what happened! #fyp #lgbtq #trans #fypシ </title>
+    <updated>2025-02-11T00:04:14+00:00</updated>
+    <content>Replying to @Romeo Charles just so it’s clear what happened! #fyp #lgbtq #trans #fypシ </content>
+    <link href="https://tiktok.com/@hhhaydenn/video/7469945490008804638"/>
+    <published>2025-02-11T00:04:14+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@hhhaydenn/video/7199702500054879534</id>

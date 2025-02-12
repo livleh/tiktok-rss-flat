@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@techroastshow</id>
   <title>techroastshow</title>
-  <updated>2025-02-09T15:27:28+00:00</updated>
+  <updated>2025-02-11T14:57:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from techroastshow</subtitle>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7460977980941307182</id>
-    <title>Just coast during on-call with temporal #techie #softwareengineer #temporalpartner #programmerlife #oncall #techroastshow #ad</title>
-    <updated>2025-01-17T20:05:19+00:00</updated>
-    <content>Just coast during on-call with temporal #techie #softwareengineer #temporalpartner #programmerlife #oncall #techroastshow #ad</content>
-    <link href="https://tiktok.com/@techroastshow/video/7460977980941307182"/>
-    <published>2025-01-17T20:05:19+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7461256200315915566</id>
-    <title>brotherly love #techie #softwareengineer #dc #washingtondc #programmerlife #roastbattle #darkhumor #techroastshow </title>
-    <updated>2025-01-18T14:04:57+00:00</updated>
-    <content>brotherly love #techie #softwareengineer #dc #washingtondc #programmerlife #roastbattle #darkhumor #techroastshow </content>
-    <link href="https://tiktok.com/@techroastshow/video/7461256200315915566"/>
-    <published>2025-01-18T14:04:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@techroastshow/video/7461686544957639982</id>
-    <title>we are American idk why we can still post here  . . . . #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </title>
-    <updated>2025-01-19T17:55:22+00:00</updated>
-    <content>we are American idk why we can still post here  . . . . #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </content>
-    <link href="https://tiktok.com/@techroastshow/video/7461686544957639982"/>
-    <published>2025-01-19T17:55:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7461771989418560814</id>
     <title>🏎️ #techie #softwareengineer #programmerlife #founders #whalepond #techroastshow </title>
@@ -291,6 +267,30 @@
     <content>🐟🐠 #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </content>
     <link href="https://tiktok.com/@techroastshow/video/7469441195413048622"/>
     <published>2025-02-09T15:27:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7469829219951103278</id>
+    <title>the sixth sense: cameras  #techie #softwareengineer #vancouver #canada #programmerlife #roastbattle #darkhumor #techroastshow </title>
+    <updated>2025-02-10T16:33:26+00:00</updated>
+    <content>the sixth sense: cameras  #techie #softwareengineer #vancouver #canada #programmerlife #roastbattle #darkhumor #techroastshow </content>
+    <link href="https://tiktok.com/@techroastshow/video/7469829219951103278"/>
+    <published>2025-02-10T16:33:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7469941766205001002</id>
+    <title>he’s 17 probably  #techie #softwareengineer #intern #washingtondc #DOGE #techroastshow </title>
+    <updated>2025-02-10T23:49:48+00:00</updated>
+    <content>he’s 17 probably  #techie #softwareengineer #intern #washingtondc #DOGE #techroastshow </content>
+    <link href="https://tiktok.com/@techroastshow/video/7469941766205001002"/>
+    <published>2025-02-10T23:49:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@techroastshow/video/7470175477614038318</id>
+    <title>everyone loves a dashboard  #techie #softwareengineer #vancouver #canada #programmerlife #roastbattle #darkhumor #techroastshow </title>
+    <updated>2025-02-11T14:57:03+00:00</updated>
+    <content>everyone loves a dashboard  #techie #softwareengineer #vancouver #canada #programmerlife #roastbattle #darkhumor #techroastshow </content>
+    <link href="https://tiktok.com/@techroastshow/video/7470175477614038318"/>
+    <published>2025-02-11T14:57:03+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@techroastshow/video/7063326581816773934</id>

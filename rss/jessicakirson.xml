@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2025-02-08T14:27:28+00:00</updated>
+  <updated>2025-02-11T23:00:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7453229581550538015</id>
-    <title>Lesbian Bar in Paris </title>
-    <updated>2024-12-27T22:57:32+00:00</updated>
-    <content>Lesbian Bar in Paris </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7453229581550538015"/>
-    <published>2024-12-27T22:57:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7453952928743689515</id>
-    <title>I do need a new rabbit </title>
-    <updated>2024-12-29T21:44:22+00:00</updated>
-    <content>I do need a new rabbit </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7453952928743689515"/>
-    <published>2024-12-29T21:44:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7454353152616189227</id>
     <title>Should I go to Ireland? </title>
@@ -275,6 +259,22 @@
     <content>They named a drink after me at this club 😂</content>
     <link href="https://tiktok.com/@jessicakirson/video/7469054537811135786"/>
     <published>2025-02-08T14:27:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7470129109813824814</id>
+    <title>He turned into a 16 year old girl when I asked him this </title>
+    <updated>2025-02-11T11:57:37+00:00</updated>
+    <content>He turned into a 16 year old girl when I asked him this </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7470129109813824814"/>
+    <published>2025-02-11T11:57:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7470300101362322734</id>
+    <title>Hii!! I have been so excited to share this with you all and I finally can! My new special will come out on @hulu on April 25th!!! Thank you all so much for the support that led to this  and I can’t wait for you all to see it XOXO </title>
+    <updated>2025-02-11T23:00:24+00:00</updated>
+    <content>Hii!! I have been so excited to share this with you all and I finally can! My new special will come out on @hulu on April 25th!!! Thank you all so much for the support that led to this  and I can’t wait for you all to see it XOXO </content>
+    <link href="https://tiktok.com/@jessicakirson/video/7470300101362322734"/>
+    <published>2025-02-11T23:00:24+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7461685829425974571</id>

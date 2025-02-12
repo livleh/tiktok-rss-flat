@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tandarok</id>
   <title>tandarok</title>
-  <updated>2025-02-09T19:24:23+00:00</updated>
+  <updated>2025-02-10T13:27:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from tandarok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tandarok/video/7427749026684046624</id>
-    <title>Welche Leserichtung ist richtig? #comics #lesen </title>
-    <updated>2024-10-20T07:00:04+00:00</updated>
-    <content>Welche Leserichtung ist richtig? #comics #lesen </content>
-    <link href="https://tiktok.com/@tandarok/video/7427749026684046624"/>
-    <published>2024-10-20T07:00:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7430914067239292192</id>
     <title>Antwort auf @estell_95  Trotzdem ist und bleibt W.i.t.c.h. einfach ein banger. #witchcomics #magicalgirl </title>
@@ -291,6 +283,14 @@
     <content>Wieso trage ich die nie? #fashion </content>
     <link href="https://tiktok.com/@tandarok/video/7469502423585901846"/>
     <published>2025-02-09T19:24:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tandarok/video/7469781637555883286</id>
+    <title>Aber immer noch besser als Social Media Drama 🫠</title>
+    <updated>2025-02-10T13:27:55+00:00</updated>
+    <content>Aber immer noch besser als Social Media Drama 🫠</content>
+    <link href="https://tiktok.com/@tandarok/video/7469781637555883286"/>
+    <published>2025-02-10T13:27:55+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@tandarok/video/7378607614940220704</id>

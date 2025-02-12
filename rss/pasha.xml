@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@pasha</id>
   <title>pasha</title>
-  <updated>2025-02-08T09:16:50+00:00</updated>
+  <updated>2025-02-10T09:30:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pasha</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pasha/video/7426701352518094088</id>
-    <title>do you ever feel this way? </title>
-    <updated>2024-10-17T11:14:20+00:00</updated>
-    <content>do you ever feel this way? </content>
-    <link href="https://tiktok.com/@pasha/video/7426701352518094088"/>
-    <published>2024-10-17T11:14:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pasha/video/7430763876515335432</id>
     <title>Philippines will do that to you…🥰 🇵🇭 #philippines #manila #filipino #travel #traveltiktok #philippines🇵🇭tiktok #comedy #filipinofood </title>
@@ -291,5 +283,13 @@
     <content>it’s time to chase the sun with @Fiji Airways - your dream getaway is just a flight away! ✈️🌴 #FijiAirways #FlyFijiAirways #FijiAirwaysPartner</content>
     <link href="https://tiktok.com/@pasha/video/7468974774983707911"/>
     <published>2025-02-08T09:16:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pasha/video/7469720521131740434</id>
+    <title>what your favourite LinkedIn phrases ACTUALLY mean: “proud to have led this initiative!” – I sat in two meetings, repeated someone else’s idea, and now I’m pretending to have led this ☺️ “huge congratulations on your new role!” – you left before I could, </title>
+    <updated>2025-02-10T09:30:40+00:00</updated>
+    <content>what your favourite LinkedIn phrases ACTUALLY mean: “proud to have led this initiative!” – I sat in two meetings, repeated someone else’s idea, and now I’m pretending to have led this ☺️ “huge congratulations on your new role!” – you left before I could, </content>
+    <link href="https://tiktok.com/@pasha/video/7469720521131740434"/>
+    <published>2025-02-10T09:30:40+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2025-02-09T18:41:29+00:00</updated>
+  <updated>2025-02-11T18:56:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7446485980023901473</id>
-    <title>NO MORE ELVES IN THE ADVENT CALENDAR PLEASE 😡</title>
-    <updated>2024-12-09T18:48:51+00:00</updated>
-    <content>NO MORE ELVES IN THE ADVENT CALENDAR PLEASE 😡</content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7446485980023901473"/>
-    <published>2024-12-09T18:48:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7447225891861613856</id>
     <title>full tour and back story of new cork city ! </title>
@@ -291,6 +283,14 @@
     <content>point nemo scaffolding services. we cover one area (point nemo) </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7469491347871845664"/>
     <published>2025-02-09T18:41:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7470237500670250272</id>
+    <title>investigative journalism </title>
+    <updated>2025-02-11T18:56:56+00:00</updated>
+    <content>investigative journalism </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7470237500670250272"/>
+    <published>2025-02-11T18:56:56+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7391078276183215392</id>

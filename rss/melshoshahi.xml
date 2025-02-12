@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@melshoshahi</id>
   <title>melshoshahi</title>
-  <updated>2025-02-08T17:00:01+00:00</updated>
+  <updated>2025-02-11T18:49:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from melshoshahi</subtitle>
-  <entry>
-    <id>https://tiktok.com/@melshoshahi/video/7443170086375918878</id>
-    <title>You can’t fool Mercedes with a stain 💅🏽 #customerservice #retail #blackfriday #sketchcomedy </title>
-    <updated>2024-11-30T20:21:36+00:00</updated>
-    <content>You can’t fool Mercedes with a stain 💅🏽 #customerservice #retail #blackfriday #sketchcomedy </content>
-    <link href="https://tiktok.com/@melshoshahi/video/7443170086375918878"/>
-    <published>2024-11-30T20:21:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@melshoshahi/video/7445020444429667627</id>
     <title>What will the future look like for Mercedes? Oh niooo 😅 #sketchcomedy #tiktokskit #retail </title>
@@ -267,6 +259,14 @@
     <content>Who’s turn is it this week to clean the stockroom? 😅 #tiktokskit #work #retail #sketchcomedy </content>
     <link href="https://tiktok.com/@melshoshahi/video/7469093997605063982"/>
     <published>2025-02-08T17:00:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@melshoshahi/video/7470235339660070187</id>
+    <title>Trying to find the stores CEO, he probably has boat u nio 🛥️ #tiktokskit #retail #sketchcomedy </title>
+    <updated>2025-02-11T18:49:19+00:00</updated>
+    <content>Trying to find the stores CEO, he probably has boat u nio 🛥️ #tiktokskit #retail #sketchcomedy </content>
+    <link href="https://tiktok.com/@melshoshahi/video/7470235339660070187"/>
+    <published>2025-02-11T18:49:19+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@melshoshahi/video/7282846082986462507</id>

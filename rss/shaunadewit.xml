@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shaunadewit</id>
   <title>shaunadewit</title>
-  <updated>2025-02-01T13:14:41+00:00</updated>
+  <updated>2025-02-10T13:08:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shaunadewit</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shaunadewit/video/7420794494922067232</id>
-    <title>Imagine that #foryou #humor #goviral #pourtoi #comedy </title>
-    <updated>2024-10-01T13:12:48+00:00</updated>
-    <content>Imagine that #foryou #humor #goviral #pourtoi #comedy </content>
-    <link href="https://tiktok.com/@shaunadewit/video/7420794494922067232"/>
-    <published>2024-10-01T13:12:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/7421541494521154849</id>
     <title>Results of this one are also good #foryou #humor #goviral #pourtoi #comedy </title>
@@ -291,6 +283,14 @@
     <content>I swear it helps so much damn the relief #foryou #goviral #pourtoi #humor #comedy </content>
     <link href="https://tiktok.com/@shaunadewit/video/7466438482357947670"/>
     <published>2025-02-01T13:14:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shaunadewit/video/7469776509989915926</id>
+    <title>this was a draft but my friends begged me to post it #foryou #goviral #pourtoi #humor #comedy </title>
+    <updated>2025-02-10T13:08:01+00:00</updated>
+    <content>this was a draft but my friends begged me to post it #foryou #goviral #pourtoi #humor #comedy </content>
+    <link href="https://tiktok.com/@shaunadewit/video/7469776509989915926"/>
+    <published>2025-02-10T13:08:01+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/6994791135415766278</id>
