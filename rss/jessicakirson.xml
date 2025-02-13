@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jessicakirson</id>
   <title>jessicakirson</title>
-  <updated>2025-02-11T23:00:24+00:00</updated>
+  <updated>2025-02-12T23:28:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessicakirson</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessicakirson/video/7454353152616189227</id>
-    <title>Should I go to Ireland? </title>
-    <updated>2024-12-30T23:37:26+00:00</updated>
-    <content>Should I go to Ireland? </content>
-    <link href="https://tiktok.com/@jessicakirson/video/7454353152616189227"/>
-    <published>2024-12-30T23:37:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7455080110509641006</id>
     <title>She spoons well. I remember </title>
@@ -275,6 +267,14 @@
     <content>Hii!! I have been so excited to share this with you all and I finally can! My new special will come out on @hulu on April 25th!!! Thank you all so much for the support that led to this  and I can’t wait for you all to see it XOXO </content>
     <link href="https://tiktok.com/@jessicakirson/video/7470300101362322734"/>
     <published>2025-02-11T23:00:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessicakirson/video/7470678559116283178</id>
+    <title>Only one family member can be. 😂</title>
+    <updated>2025-02-12T23:28:51+00:00</updated>
+    <content>Only one family member can be. 😂</content>
+    <link href="https://tiktok.com/@jessicakirson/video/7470678559116283178"/>
+    <published>2025-02-12T23:28:51+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jessicakirson/video/7461685829425974571</id>

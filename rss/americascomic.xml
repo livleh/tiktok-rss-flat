@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@americascomic</id>
   <title>americascomic</title>
-  <updated>2025-01-16T19:37:29+00:00</updated>
+  <updated>2025-02-12T20:06:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from americascomic</subtitle>
-  <entry>
-    <id>https://tiktok.com/@americascomic/video/7405234515175591214</id>
-    <title>9/11y vibes #cinemastudies #filmtheory #c  #culturalcriticism  #transfemme  #amberiscuteandfunny </title>
-    <updated>2024-08-20T14:52:11+00:00</updated>
-    <content>9/11y vibes #cinemastudies #filmtheory #c  #culturalcriticism  #transfemme  #amberiscuteandfunny </content>
-    <link href="https://tiktok.com/@americascomic/video/7405234515175591214"/>
-    <published>2024-08-20T14:52:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@americascomic/video/7411168763762150702</id>
     <title>The theodicy of Queer Christianity. I think I want to say that none of my videos I make them to be agreed with, I'd rather someone agree or disagree with me in a way that forces them to look at their core beliefs, then to just buy what I say unquestionabl</title>
@@ -155,6 +147,14 @@
     <content>how to organize  #communityorganizing #ledtism #leftistorganizing #buildingcommunity </content>
     <link href="https://tiktok.com/@americascomic/video/7460599729970367775"/>
     <published>2025-01-16T19:37:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@americascomic/video/7470626604922817823</id>
+    <title>The LGTBQIA+ community has a new member, or we should say C-LGBTQIA+ community. Say 👋 to "The Chaser!". Sometimes a little shy, sometimes a little bold, but always a hero in our eyes! we're letting them on the top, where they belong!. #transfemme #transjo</title>
+    <updated>2025-02-12T20:06:56+00:00</updated>
+    <content>The LGTBQIA+ community has a new member, or we should say C-LGBTQIA+ community. Say 👋 to "The Chaser!". Sometimes a little shy, sometimes a little bold, but always a hero in our eyes! we're letting them on the top, where they belong!. #transfemme #transjo</content>
+    <link href="https://tiktok.com/@americascomic/video/7470626604922817823"/>
+    <published>2025-02-12T20:06:56+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@americascomic/video/7231569804690328878</id>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2025-02-11T18:56:56+00:00</updated>
+  <updated>2025-02-13T18:59:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7447225891861613856</id>
-    <title>full tour and back story of new cork city ! </title>
-    <updated>2024-12-11T18:40:03+00:00</updated>
-    <content>full tour and back story of new cork city ! </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7447225891861613856"/>
-    <published>2024-12-11T18:40:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7447594486886092065</id>
-    <title>christmas caroling or saying merry christmas to people called carol. for brownies. </title>
-    <updated>2024-12-12T18:30:24+00:00</updated>
-    <content>christmas caroling or saying merry christmas to people called carol. for brownies. </content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7447594486886092065"/>
-    <published>2024-12-12T18:30:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7448055294715776288</id>
     <title>(:</title>
@@ -291,6 +275,22 @@
     <content>investigative journalism </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7470237500670250272"/>
     <published>2025-02-11T18:56:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7470604992450186518</id>
+    <title>over 50s tai chi at manchester museum </title>
+    <updated>2025-02-12T18:42:54+00:00</updated>
+    <content>over 50s tai chi at manchester museum </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7470604992450186518"/>
+    <published>2025-02-12T18:42:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7470980376379329814</id>
+    <title>now the duolingo owl is gone we must seek alternatives </title>
+    <updated>2025-02-13T18:59:33+00:00</updated>
+    <content>now the duolingo owl is gone we must seek alternatives </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7470980376379329814"/>
+    <published>2025-02-13T18:59:33+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7391078276183215392</id>

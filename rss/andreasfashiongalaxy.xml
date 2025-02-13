@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@andreasfashiongalaxy</id>
   <title>andreasfashiongalaxy</title>
-  <updated>2025-02-07T21:00:42+00:00</updated>
+  <updated>2025-02-12T21:08:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from andreasfashiongalaxy</subtitle>
-  <entry>
-    <id>https://tiktok.com/@andreasfashiongalaxy/video/7416817557992262944</id>
-    <title>How to style a linen skirt as a dress #letsgetdressed </title>
-    <updated>2024-09-20T20:00:14+00:00</updated>
-    <content>How to style a linen skirt as a dress #letsgetdressed </content>
-    <link href="https://tiktok.com/@andreasfashiongalaxy/video/7416817557992262944"/>
-    <published>2024-09-20T20:00:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@andreasfashiongalaxy/video/7418304122589334816</id>
     <title>That pink dress reveal #letsgetdressed </title>
@@ -291,5 +283,13 @@
     <content>These cute @VIVAIA heels and loafers are so comfy #letsgetdressed  #vivaia </content>
     <link href="https://tiktok.com/@andreasfashiongalaxy/video/7468785067104423200"/>
     <published>2025-02-07T21:00:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@andreasfashiongalaxy/video/7470642572046830850</id>
+    <title>Styling a Valentine’s Day outfit with this cute vintage strappy dress #letsgetdressed </title>
+    <updated>2025-02-12T21:08:44+00:00</updated>
+    <content>Styling a Valentine’s Day outfit with this cute vintage strappy dress #letsgetdressed </content>
+    <link href="https://tiktok.com/@andreasfashiongalaxy/video/7470642572046830850"/>
+    <published>2025-02-12T21:08:44+00:00</published>
   </entry>
 </feed>
