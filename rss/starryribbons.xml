@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@starryribbons</id>
   <title>starryribbons</title>
-  <updated>2025-02-03T19:09:56+00:00</updated>
+  <updated>2025-02-14T20:51:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from starryribbons</subtitle>
-  <entry>
-    <id>https://tiktok.com/@starryribbons/video/7431630698357771553</id>
-    <title>can yoh tell i really like hyyh #digitaldiary #coquette #bts #kpop #hyyh #hyyhedit #bangtanboys #wlw #graduation #growingup </title>
-    <updated>2024-10-30T18:02:49+00:00</updated>
-    <content>can yoh tell i really like hyyh #digitaldiary #coquette #bts #kpop #hyyh #hyyhedit #bangtanboys #wlw #graduation #growingup </content>
-    <link href="https://tiktok.com/@starryribbons/video/7431630698357771553"/>
-    <published>2024-10-30T18:02:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7435764660814482721</id>
     <title>the vibes i bring to the function #digitaldiary #coquette #taylorswift #wlw #thetorturedpoetsdepartment #ttpd #thebolter </title>
@@ -291,6 +283,14 @@
     <content>the vibes I bring to the school building #digitaldiary #wlw #femmelesbian #chappellroan #coquette </content>
     <link href="https://tiktok.com/@starryribbons/video/7467272193773276438"/>
     <published>2025-02-03T19:09:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@starryribbons/video/7471380205618089238</id>
+    <title>you really think I needed all the guards at the hex gates ahh outfit 😞 #digitaldiary #femmelesbian #wlw #arcane #caitlynkiramman #caitvi </title>
+    <updated>2025-02-14T20:51:06+00:00</updated>
+    <content>you really think I needed all the guards at the hex gates ahh outfit 😞 #digitaldiary #femmelesbian #wlw #arcane #caitlynkiramman #caitvi </content>
+    <link href="https://tiktok.com/@starryribbons/video/7471380205618089238"/>
+    <published>2025-02-14T20:51:06+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@starryribbons/video/7285761406664854817</id>

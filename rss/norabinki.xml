@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@norabinki</id>
   <title>norabinki</title>
-  <updated>2025-02-10T16:04:38+00:00</updated>
+  <updated>2025-02-14T16:21:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from norabinki</subtitle>
-  <entry>
-    <id>https://tiktok.com/@norabinki/video/7363318568961740064</id>
-    <title>Zu Besuch im Lauwiner Empire @Bruzzli #fyp #schweiz #CapCut </title>
-    <updated>2024-04-29T15:56:49+00:00</updated>
-    <content>Zu Besuch im Lauwiner Empire @Bruzzli #fyp #schweiz #CapCut </content>
-    <link href="https://tiktok.com/@norabinki/video/7363318568961740064"/>
-    <published>2024-04-29T15:56:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@norabinki/video/7365910014453697824</id>
     <title>Sneakerness 2024 #fyp #schweiz #sneakers </title>
@@ -259,6 +251,14 @@
     <content>Der kleinste Skilift der Welt #schweiz #fyp #ski #skilift #CapCut @Bruzzli </content>
     <link href="https://tiktok.com/@norabinki/video/7469822034294410518"/>
     <published>2025-02-10T16:04:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@norabinki/video/7471310682500140310</id>
+    <title>happy valentine’s day🥸🫶#valentinesday #fyp #schweiz #CapCut </title>
+    <updated>2025-02-14T16:21:19+00:00</updated>
+    <content>happy valentine’s day🥸🫶#valentinesday #fyp #schweiz #CapCut </content>
+    <link href="https://tiktok.com/@norabinki/video/7471310682500140310"/>
+    <published>2025-02-14T16:21:19+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@norabinki/video/7402641317190208801</id>

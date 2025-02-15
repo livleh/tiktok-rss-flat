@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2025-02-13T20:20:39+00:00</updated>
+  <updated>2025-02-15T01:33:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7462516311633956139</id>
-    <title>who was gonna tell me this is a vibe?!  The DRAMA. The MUSIC. THE COSTUMES?!! Robin is a huge WWE fan boy and as a (very) early birthday present I got him tickets to Monday Night Raw last week in San Jose. I got floor tickets but didn't realize they were </title>
-    <updated>2025-01-21T23:35:04+00:00</updated>
-    <content>who was gonna tell me this is a vibe?!  The DRAMA. The MUSIC. THE COSTUMES?!! Robin is a huge WWE fan boy and as a (very) early birthday present I got him tickets to Monday Night Raw last week in San Jose. I got floor tickets but didn't realize they were </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7462516311633956139"/>
-    <published>2025-01-21T23:35:04+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7462800349452078382</id>
-    <title>Posting spoilers without warnings a day after the book comes out is not nice. Remember when we asked people if they finished book 6 before we talked about dumble's demise? Bring that same courtesy here 😭 ##onyxstorm##booktok##spoilers</title>
-    <updated>2025-01-22T17:57:48+00:00</updated>
-    <content>Posting spoilers without warnings a day after the book comes out is not nice. Remember when we asked people if they finished book 6 before we talked about dumble's demise? Bring that same courtesy here 😭 ##onyxstorm##booktok##spoilers</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7462800349452078382"/>
-    <published>2025-01-22T17:57:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7462810588234796334</id>
-    <title>weirdest place in California 😵‍💫 Hidden down in Santa Cruz is the Mystery Spot, a super strange gravitational anomaly that only costs $10 to enter and experience yourself.  You'll stand sideways on walls and at odd angles you should be able to.  WARNING: </title>
-    <updated>2025-01-22T18:37:22+00:00</updated>
-    <content>weirdest place in California 😵‍💫 Hidden down in Santa Cruz is the Mystery Spot, a super strange gravitational anomaly that only costs $10 to enter and experience yourself.  You'll stand sideways on walls and at odd angles you should be able to.  WARNING: </content>
-    <link href="https://tiktok.com/@whimsysoul/video/7462810588234796334"/>
-    <published>2025-01-22T18:37:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7463168846787300654</id>
     <title>Where should I go for a great local traditional Chinese medicine practitioner in San Francisco? Give me your recommendations! #traditionalchinesemedicine #sanfrancisco #bayarea </title>
@@ -285,11 +261,35 @@
     <published>2025-02-13T18:31:00+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7471001240311188779</id>
-    <title>found the BEST place for wine and seafood in NorCal!🍷🌊🦪🌮 Sonoma Coast Vineyards is a winery along HWY 1 in Bodega Bay. The girls and I stopped here on our weekend trip recently and I still can't get over this view of the water right from our tasting table</title>
-    <updated>2025-02-13T20:20:39+00:00</updated>
-    <content>found the BEST place for wine and seafood in NorCal!🍷🌊🦪🌮 Sonoma Coast Vineyards is a winery along HWY 1 in Bodega Bay. The girls and I stopped here on our weekend trip recently and I still can't get over this view of the water right from our tasting table</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7471001240311188779"/>
-    <published>2025-02-13T20:20:39+00:00</published>
+    <id>https://tiktok.com/@whimsysoul/video/7471006309685415214</id>
+    <title>name a better winery view?! 😱 On our Sonoma wine tasting weekend a few weeks ago, the girls and I stopped by @sonomacoastvineyards and quickly fell in love with this gem on Hwy 1 in Bodega Bay! They have tons of outdoor seating with views of the water, ar</title>
+    <updated>2025-02-13T20:40:21+00:00</updated>
+    <content>name a better winery view?! 😱 On our Sonoma wine tasting weekend a few weeks ago, the girls and I stopped by @sonomacoastvineyards and quickly fell in love with this gem on Hwy 1 in Bodega Bay! They have tons of outdoor seating with views of the water, ar</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7471006309685415214"/>
+    <published>2025-02-13T20:40:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7471357498851872046</id>
+    <title>BTS of Gap's fashion show last night in San Francisco! Ok, so @gap invited me to their HQ for a special fashion show/party ahead of NBA All Stars Weekend. They just launched their collab with @harlemfashionrow with tons of basics that are elevated to be b</title>
+    <updated>2025-02-14T19:23:34+00:00</updated>
+    <content>BTS of Gap's fashion show last night in San Francisco! Ok, so @gap invited me to their HQ for a special fashion show/party ahead of NBA All Stars Weekend. They just launched their collab with @harlemfashionrow with tons of basics that are elevated to be b</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7471357498851872046"/>
+    <published>2025-02-14T19:23:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7471368021915913518</id>
+    <title>GAP invited me to their fashion show! 😱 Last night I got to see a preview of the new @gap x Harlem Fashion Row collection that dropped today (2/14)!!! This night was SO fun. The designs are very original and fresh. The dancing was on point, I got to meet </title>
+    <updated>2025-02-14T20:04:22+00:00</updated>
+    <content>GAP invited me to their fashion show! 😱 Last night I got to see a preview of the new @gap x Harlem Fashion Row collection that dropped today (2/14)!!! This night was SO fun. The designs are very original and fresh. The dancing was on point, I got to meet </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7471368021915913518"/>
+    <published>2025-02-14T20:04:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7471452832923880750</id>
+    <title>Ashlee is so very sweet!! My inner teen was screaming with joy last night #ashleesimpson #millennial #90sbaby </title>
+    <updated>2025-02-15T01:33:20+00:00</updated>
+    <content>Ashlee is so very sweet!! My inner teen was screaming with joy last night #ashleesimpson #millennial #90sbaby </content>
+    <link href="https://tiktok.com/@whimsysoul/video/7471452832923880750"/>
+    <published>2025-02-15T01:33:20+00:00</published>
   </entry>
 </feed>

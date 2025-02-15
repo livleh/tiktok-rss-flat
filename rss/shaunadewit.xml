@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shaunadewit</id>
   <title>shaunadewit</title>
-  <updated>2025-02-13T13:42:55+00:00</updated>
+  <updated>2025-02-14T14:05:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shaunadewit</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shaunadewit/video/7423757506830241057</id>
-    <title>Advertising | Summer was too short, I wish it was here again.. with @Amazon Belgium it’s possible #AmazonBelgium #foryou #humor #goviral #pourtoi #comedy </title>
-    <updated>2024-10-09T12:51:00+00:00</updated>
-    <content>Advertising | Summer was too short, I wish it was here again.. with @Amazon Belgium it’s possible #AmazonBelgium #foryou #humor #goviral #pourtoi #comedy </content>
-    <link href="https://tiktok.com/@shaunadewit/video/7423757506830241057"/>
-    <published>2024-10-09T12:51:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/7424138918699879712</id>
     <title>Thats how we start it ! #foryou #humor #goviral #pourtoi #comedy </title>
@@ -291,6 +283,14 @@
     <content>Went from best outfit to worst nightmare 🫠 #foryou #goviral #pourtoi #humor #comedy </content>
     <link href="https://tiktok.com/@shaunadewit/video/7470898770184637718"/>
     <published>2025-02-13T13:42:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shaunadewit/video/7471275589949918466</id>
+    <title>Lots of puke and love 🤍 #foryou #goviral #pourtoi #humor #comedy </title>
+    <updated>2025-02-14T14:05:09+00:00</updated>
+    <content>Lots of puke and love 🤍 #foryou #goviral #pourtoi #humor #comedy </content>
+    <link href="https://tiktok.com/@shaunadewit/video/7471275589949918466"/>
+    <published>2025-02-14T14:05:09+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/6994791135415766278</id>
