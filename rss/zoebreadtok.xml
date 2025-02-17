@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@zoebreadtok</id>
   <title>zoebreadtok</title>
-  <updated>2025-02-13T18:59:33+00:00</updated>
+  <updated>2025-02-15T19:03:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from zoebreadtok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zoebreadtok/video/7448055294715776288</id>
-    <title>(:</title>
-    <updated>2024-12-14T00:18:42+00:00</updated>
-    <content>(:</content>
-    <link href="https://tiktok.com/@zoebreadtok/video/7448055294715776288"/>
-    <published>2024-12-14T00:18:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7448707912400194849</id>
     <title>😡 this is not on</title>
@@ -291,6 +283,14 @@
     <content>now the duolingo owl is gone we must seek alternatives </content>
     <link href="https://tiktok.com/@zoebreadtok/video/7470980376379329814"/>
     <published>2025-02-13T18:59:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zoebreadtok/video/7471723450177015062</id>
+    <title>closet? you’ll love it! </title>
+    <updated>2025-02-15T19:03:03+00:00</updated>
+    <content>closet? you’ll love it! </content>
+    <link href="https://tiktok.com/@zoebreadtok/video/7471723450177015062"/>
+    <published>2025-02-15T19:03:03+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@zoebreadtok/video/7391078276183215392</id>

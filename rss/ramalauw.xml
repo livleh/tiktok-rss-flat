@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ramalauw</id>
   <title>ramalauw</title>
-  <updated>2025-02-12T14:58:50+00:00</updated>
+  <updated>2025-02-16T14:21:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ramalauw</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ramalauw/video/7433802410843327776</id>
-    <title>I’ve been craving this so much lately (my whole life) 🫦 Stitch with @Nara Smith ✨ </title>
-    <updated>2024-11-05T14:30:15+00:00</updated>
-    <content>I’ve been craving this so much lately (my whole life) 🫦 Stitch with @Nara Smith ✨ </content>
-    <link href="https://tiktok.com/@ramalauw/video/7433802410843327776"/>
-    <published>2024-11-05T14:30:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7434973421366283552</id>
     <title>It still baffles me that people who were born in 2007 will turn 18 next year 🤯</title>
@@ -291,6 +283,14 @@
     <content>#onthisday </content>
     <link href="https://tiktok.com/@ramalauw/video/7470547253892025622"/>
     <published>2025-02-12T14:58:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ramalauw/video/7472022085234183446</id>
+    <title>Like these kids were prob still in diapers when Bad Romance came out 😭🤡 #AmIOld #90skids #fyp #foryou #tiktokusa #AmIOld </title>
+    <updated>2025-02-16T14:21:56+00:00</updated>
+    <content>Like these kids were prob still in diapers when Bad Romance came out 😭🤡 #AmIOld #90skids #fyp #foryou #tiktokusa #AmIOld </content>
+    <link href="https://tiktok.com/@ramalauw/video/7472022085234183446"/>
+    <published>2025-02-16T14:21:56+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ramalauw/video/7270903343638187297</id>

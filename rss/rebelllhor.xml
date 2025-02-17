@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rebelllhor</id>
   <title>rebelllhor</title>
-  <updated>2025-02-14T16:37:29+00:00</updated>
+  <updated>2025-02-16T15:00:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rebelllhor</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rebelllhor/video/7441641931693657366</id>
-    <title>No Title</title>
-    <updated>2024-11-26T17:31:25+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@rebelllhor/video/7441641931693657366"/>
-    <published>2024-11-26T17:31:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rebelllhor/video/7442364271331183894</id>
     <title>Ph @Katya Kirtoka style @dialovna hair @SOH </title>
@@ -291,5 +283,13 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@rebelllhor/video/7471314846659906839"/>
     <published>2025-02-14T16:37:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rebelllhor/video/7472032047536540950</id>
+    <title>No Title</title>
+    <updated>2025-02-16T15:00:36+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@rebelllhor/video/7472032047536540950"/>
+    <published>2025-02-16T15:00:36+00:00</published>
   </entry>
 </feed>

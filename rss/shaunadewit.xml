@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shaunadewit</id>
   <title>shaunadewit</title>
-  <updated>2025-02-14T14:05:09+00:00</updated>
+  <updated>2025-02-17T13:45:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shaunadewit</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shaunadewit/video/7424138918699879712</id>
-    <title>Thats how we start it ! #foryou #humor #goviral #pourtoi #comedy </title>
-    <updated>2024-10-10T13:30:51+00:00</updated>
-    <content>Thats how we start it ! #foryou #humor #goviral #pourtoi #comedy </content>
-    <link href="https://tiktok.com/@shaunadewit/video/7424138918699879712"/>
-    <published>2024-10-10T13:30:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/7425244041303903520</id>
     <title>Do what you’re afraid of! #foryou #humor #goviral #pourtoi #comedy </title>
@@ -291,6 +283,14 @@
     <content>Lots of puke and love 🤍 #foryou #goviral #pourtoi #humor #comedy </content>
     <link href="https://tiktok.com/@shaunadewit/video/7471275589949918466"/>
     <published>2025-02-14T14:05:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shaunadewit/video/7472383830310014230</id>
+    <title>Its true live your life #foryou #goviral #comedy #humor #pourtoi </title>
+    <updated>2025-02-17T13:45:44+00:00</updated>
+    <content>Its true live your life #foryou #goviral #comedy #humor #pourtoi </content>
+    <link href="https://tiktok.com/@shaunadewit/video/7472383830310014230"/>
+    <published>2025-02-17T13:45:44+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@shaunadewit/video/6994791135415766278</id>

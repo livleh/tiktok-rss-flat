@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nyaravt</id>
   <title>nyaravt</title>
-  <updated>2025-02-06T14:11:01+00:00</updated>
+  <updated>2025-02-15T17:02:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nyaravt</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nyaravt/video/7450155041106824470</id>
-    <title>got my claws done today #twitch #nails </title>
-    <updated>2024-12-19T16:06:38+00:00</updated>
-    <content>got my claws done today #twitch #nails </content>
-    <link href="https://tiktok.com/@nyaravt/video/7450155041106824470"/>
-    <published>2024-12-19T16:06:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7450267228861172994</id>
     <title>#onthisday working on that voice reel #vtuber </title>
@@ -291,6 +283,14 @@
     <content>Valorant Gamers are always accidental allies #envtuber</content>
     <link href="https://tiktok.com/@nyaravt/video/7468308392126254369"/>
     <published>2025-02-06T14:11:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nyaravt/video/7471691321623792929</id>
+    <title>It's getting incredibly difficult to deny that I'm a sub #VTuber #Twitch</title>
+    <updated>2025-02-15T17:02:30+00:00</updated>
+    <content>It's getting incredibly difficult to deny that I'm a sub #VTuber #Twitch</content>
+    <link href="https://tiktok.com/@nyaravt/video/7471691321623792929"/>
+    <published>2025-02-15T17:02:30+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@nyaravt/video/7419009625602673953</id>
