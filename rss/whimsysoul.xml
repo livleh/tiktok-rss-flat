@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@whimsysoul</id>
   <title>whimsysoul</title>
-  <updated>2025-02-17T01:01:34+00:00</updated>
+  <updated>2025-02-17T20:32:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from whimsysoul</subtitle>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7463628734231334186</id>
-    <title>Secret treehouse in the California redwoods just 1.5 hours from San Francisco!!  @Redwood Ridge Tree Fort is tucked away in the Santa Cruz mountains and makes for such a fun weekend getaway in the Bay Area.  There's a kitchen, bathroom with a shower, fire</title>
-    <updated>2025-01-24T23:32:17+00:00</updated>
-    <content>Secret treehouse in the California redwoods just 1.5 hours from San Francisco!!  @Redwood Ridge Tree Fort is tucked away in the Santa Cruz mountains and makes for such a fun weekend getaway in the Bay Area.  There's a kitchen, bathroom with a shower, fire</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7463628734231334186"/>
-    <published>2025-01-24T23:32:17+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@whimsysoul/video/7463990654331505966</id>
-    <title>Name a better place for lunch!! Next time you're in the Santa Cruz area, head to downtown Capitola and grab a sunny table at Zelda's.  It's especially a good stop for happy hour drinks and snacks while overlooking the ocean and those iconic colorful house</title>
-    <updated>2025-01-25T22:56:34+00:00</updated>
-    <content>Name a better place for lunch!! Next time you're in the Santa Cruz area, head to downtown Capitola and grab a sunny table at Zelda's.  It's especially a good stop for happy hour drinks and snacks while overlooking the ocean and those iconic colorful house</content>
-    <link href="https://tiktok.com/@whimsysoul/video/7463990654331505966"/>
-    <published>2025-01-25T22:56:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@whimsysoul/video/7464447970642021674</id>
     <title>the drama?! the music? The costumes?! 💅 who was gonna tell me this is so awesome?! Just went to my first live WWE in San Jose a couple of weeks ago and I'm kinda hooked??? #wwe #wrestling #prowrestling #mondaynightraw #dragbrunch #dragshow #drag #queer #l</title>
@@ -291,5 +275,21 @@
     <content>I turn into a different animal I swear #curvy #kant #malta #furjacket #leatherpants  #eurovision #eurovision2025 #curvystyle #midsize #anthropologie #outfit #partyoutfit #size14 #curvyqueen </content>
     <link href="https://tiktok.com/@whimsysoul/video/7472186816066637102"/>
     <published>2025-02-17T01:01:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7472468646967758123</id>
+    <title>SAVE THIS! Sonoma wine itinerary ⬇️ Heading to Sonoma for a girls wine weekend? I got you! Me and the girls do a wine tasting trip to Sonoma every ~3 months and have a few itineraries we love.  This one is great for wine trips since it features a cozy sau</title>
+    <updated>2025-02-17T19:15:15+00:00</updated>
+    <content>SAVE THIS! Sonoma wine itinerary ⬇️ Heading to Sonoma for a girls wine weekend? I got you! Me and the girls do a wine tasting trip to Sonoma every ~3 months and have a few itineraries we love.  This one is great for wine trips since it features a cozy sau</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7472468646967758123"/>
+    <published>2025-02-17T19:15:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@whimsysoul/video/7472488494468844846</id>
+    <title>It's happening!! 🇬🇧⬇️ after years of you asking for me to host a group trip, I'm so excited that it's finally happening! ⭐️LINK IN BIO to reserve your spot! ⭐️ Join me and Whimsy Write Tenae (Witch of Lupine Hollow) in England this October for a one-of-a-</title>
+    <updated>2025-02-17T20:32:20+00:00</updated>
+    <content>It's happening!! 🇬🇧⬇️ after years of you asking for me to host a group trip, I'm so excited that it's finally happening! ⭐️LINK IN BIO to reserve your spot! ⭐️ Join me and Whimsy Write Tenae (Witch of Lupine Hollow) in England this October for a one-of-a-</content>
+    <link href="https://tiktok.com/@whimsysoul/video/7472488494468844846"/>
+    <published>2025-02-17T20:32:20+00:00</published>
   </entry>
 </feed>

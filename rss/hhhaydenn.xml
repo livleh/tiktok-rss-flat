@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@hhhaydenn</id>
   <title>hhhaydenn</title>
-  <updated>2025-02-16T04:41:23+00:00</updated>
+  <updated>2025-02-17T20:53:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from hhhaydenn</subtitle>
-  <entry>
-    <id>https://tiktok.com/@hhhaydenn/video/7206045636364340523</id>
-    <title>Me when I go to the midwest or a cat cafe. #transcomedian #transfem #standupcomedy #lgbtq #transcomedy #catcafe #fyp </title>
-    <updated>2023-03-02T20:17:32+00:00</updated>
-    <content>Me when I go to the midwest or a cat cafe. #transcomedian #transfem #standupcomedy #lgbtq #transcomedy #catcafe #fyp </content>
-    <link href="https://tiktok.com/@hhhaydenn/video/7206045636364340523"/>
-    <published>2023-03-02T20:17:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@hhhaydenn/video/7215674248046693674</id>
     <title>Why I’m still an alto!!! #transcomedian #transfem #standupcomedy #lgbtq #transcomedy </title>
@@ -275,6 +267,14 @@
     <content>so there #fypシ #lgbtq #trans #fyp </content>
     <link href="https://tiktok.com/@hhhaydenn/video/7471872351060233503"/>
     <published>2025-02-16T04:41:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@hhhaydenn/video/7472493983793499423</id>
+    <title>i lost the support of my car light  #fyp #lgbtq #trans #fypシ </title>
+    <updated>2025-02-17T20:53:45+00:00</updated>
+    <content>i lost the support of my car light  #fyp #lgbtq #trans #fypシ </content>
+    <link href="https://tiktok.com/@hhhaydenn/video/7472493983793499423"/>
+    <published>2025-02-17T20:53:45+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@hhhaydenn/video/7199702500054879534</id>

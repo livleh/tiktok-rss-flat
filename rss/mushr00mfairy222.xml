@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mushr00mfairy222</id>
   <title>mushr00mfairy222</title>
-  <updated>2025-02-16T21:54:23+00:00</updated>
+  <updated>2025-02-17T19:56:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mushr00mfairy222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7469146440133020960</id>
-    <title>like ur a MAN 😶 go wash your hands or something #wlw </title>
-    <updated>2025-02-08T20:23:03+00:00</updated>
-    <content>like ur a MAN 😶 go wash your hands or something #wlw </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7469146440133020960"/>
-    <published>2025-02-08T20:23:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mushr00mfairy222/video/7469147561664843040</id>
-    <title>RUNNING AWAY IN GAYNESS #lesbian #wlw #lgbt #lgbtq </title>
-    <updated>2025-02-08T20:27:24+00:00</updated>
-    <content>RUNNING AWAY IN GAYNESS #lesbian #wlw #lgbt #lgbtq </content>
-    <link href="https://tiktok.com/@mushr00mfairy222/video/7469147561664843040"/>
-    <published>2025-02-08T20:27:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7469158720505679137</id>
     <title>Replying to @DevilSc4r HELP 😭😭 #dancefail #realmandance #pinkhair </title>
@@ -291,6 +275,22 @@
     <content>like thanks a lot 😶 #mh #mentalhealth #neurodivergent </content>
     <link href="https://tiktok.com/@mushr00mfairy222/video/7472138680795188502"/>
     <published>2025-02-16T21:54:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7472440426075540758</id>
+    <title>PINK 🤝 me #pink #pinkhair #pinklover </title>
+    <updated>2025-02-17T17:25:18+00:00</updated>
+    <content>PINK 🤝 me #pink #pinkhair #pinklover </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7472440426075540758"/>
+    <published>2025-02-17T17:25:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mushr00mfairy222/video/7472479325355330838</id>
+    <title>is this the trend idk😭better late than never ahh video 😭 #minecraft </title>
+    <updated>2025-02-17T19:56:15+00:00</updated>
+    <content>is this the trend idk😭better late than never ahh video 😭 #minecraft </content>
+    <link href="https://tiktok.com/@mushr00mfairy222/video/7472479325355330838"/>
+    <published>2025-02-17T19:56:15+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mushr00mfairy222/video/7295791125389004065</id>

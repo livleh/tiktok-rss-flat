@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@kukombo</id>
   <title>kukombo</title>
-  <updated>2025-01-18T17:10:01+00:00</updated>
+  <updated>2025-02-17T20:00:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://livleh.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from kukombo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kukombo/video/7167402120847674626</id>
-    <title>Nothing is ever what it seems in @Coca-Cola US Dreamworld! Let me know your wildest dreams and it might just come to life in a future video! #cocacola #cocacoladreamworld #cocacolacreations  #cokepartner </title>
-    <updated>2022-11-18T17:01:02+00:00</updated>
-    <content>Nothing is ever what it seems in @Coca-Cola US Dreamworld! Let me know your wildest dreams and it might just come to life in a future video! #cocacola #cocacoladreamworld #cocacolacreations  #cokepartner </content>
-    <link href="https://tiktok.com/@kukombo/video/7167402120847674626"/>
-    <published>2022-11-18T17:01:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kukombo/video/7171926689235193089</id>
     <title>Replying to @pfzes BAHAHAHAHAHAHA #wednesdayaddams #wednesday </title>
@@ -291,6 +283,14 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@kukombo/video/7461303911962479902"/>
     <published>2025-01-18T17:10:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kukombo/video/7472480284093582623</id>
+    <title>just a little glimpse into my daily routine :)</title>
+    <updated>2025-02-17T20:00:42+00:00</updated>
+    <content>just a little glimpse into my daily routine :)</content>
+    <link href="https://tiktok.com/@kukombo/video/7472480284093582623"/>
+    <published>2025-02-17T20:00:42+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@kukombo/video/6985183691433659650</id>
