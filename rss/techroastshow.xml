@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>techroastshow TikTok</title>
+    <title>techroastshow</title>
     <link>https://raw.githubusercontent.com/livleh/tiktok-rss-flat/main/rss/techroastshow.xml</link>
     <description>OK Boomer, all the latest TikToks from techroastshow</description>
     <atom:link href="https://raw.githubusercontent.com/livleh/tiktok-rss-flat/main/rss/techroastshow.xml" rel="self"/>
@@ -9,18 +9,11 @@
     <generator>python-feedgen</generator>
     <image>
       <url>https://raw.githubusercontent.com/livleh/tiktok-rss-flat/main/tiktok-rss.png</url>
-      <title>techroastshow TikTok</title>
+      <title>techroastshow</title>
       <link>https://raw.githubusercontent.com/livleh/tiktok-rss-flat/main/rss/techroastshow.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Mar 2025 21:40:48 +0000</lastBuildDate>
-    <item>
-      <title>switching to teams  #techie #softwareengineer #slack #production #down #intern #techroastshow</title>
-      <link>https://tiktok.com/@techroastshow/video/7475845921989823790</link>
-      <description>&lt;img src="https://raw.githubusercontent.com/livleh/tiktok-rss-flat/main/thumbnails/techroastshow/screenshot_oIQfgCcQMi7fAaGeqLdhesvooRSijIeAQwxmKZ.jpg" / &gt; switching to teams  #techie #softwareengineer #slack #production #down #intern #techroastshow</description>
-      <guid isPermaLink="false">https://tiktok.com/@techroastshow/video/7475845921989823790</guid>
-      <pubDate>Wed, 26 Feb 2025 21:40:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Mar 2025 16:21:52 +0000</lastBuildDate>
     <item>
       <title>maybe the real tools were the friends we made along the way   #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow</title>
       <link>https://tiktok.com/@techroastshow/video/7476131558840356142</link>
@@ -258,6 +251,13 @@
       <description>&lt;img src="https://raw.githubusercontent.com/livleh/tiktok-rss-flat/main/thumbnails/techroastshow/screenshot_og0HzBIxRABZwRAPE9DCAdSh4piVIewihn2dPY.jpg" / &gt; don’t let your workflows fail. use temporal.io  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #temporalpartner #techroastshow #ad </description>
       <guid isPermaLink="false">https://tiktok.com/@techroastshow/video/7485494127962885418</guid>
       <pubDate>Mon, 24 Mar 2025 21:40:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>space farming  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </title>
+      <link>https://tiktok.com/@techroastshow/video/7485782944863292715</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/livleh/tiktok-rss-flat/main/thumbnails/techroastshow/screenshot_osMKfLcyC03eukiRHfJeAsQLepQigJodG1YsIA.jpg" / &gt; space farming  #techie #softwareengineer #siliconvalley #sanfrancisco #programmerlife #roastbattle #darkhumor #techroastshow </description>
+      <guid isPermaLink="false">https://tiktok.com/@techroastshow/video/7485782944863292715</guid>
+      <pubDate>Tue, 25 Mar 2025 16:21:52 +0000</pubDate>
     </item>
     <item>
       <title>FIRE #techbro #techie #softwareengineer #siliconvalley #seattle #sanfrancisco #bayarea #engineeringlife #comedy #character #fyp</title>

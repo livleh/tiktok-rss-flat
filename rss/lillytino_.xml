@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>lillytino_ TikTok</title>
+    <title>lillytino_</title>
     <link>https://raw.githubusercontent.com/livleh/tiktok-rss-flat/main/rss/lillytino_.xml</link>
     <description>OK Boomer, all the latest TikToks from lillytino_</description>
     <atom:link href="https://raw.githubusercontent.com/livleh/tiktok-rss-flat/main/rss/lillytino_.xml" rel="self"/>
@@ -9,7 +9,7 @@
     <generator>python-feedgen</generator>
     <image>
       <url>https://raw.githubusercontent.com/livleh/tiktok-rss-flat/main/tiktok-rss.png</url>
-      <title>lillytino_ TikTok</title>
+      <title>lillytino_</title>
       <link>https://raw.githubusercontent.com/livleh/tiktok-rss-flat/main/rss/lillytino_.xml</link>
     </image>
     <language>en</language>
