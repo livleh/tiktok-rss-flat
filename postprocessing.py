@@ -41,7 +41,7 @@ async def user_videos():
 
             fg = FeedGenerator()
             fg.id('https://www.tiktok.com/@' + user)
-            fg.title(user + ' TikTok')
+            fg.title(user)
             fg.author( {'name':'Conor ONeill','email':'conor@conoroneill.com'} )
             fg.link( href='http://tiktok.com', rel='alternate' )
             fg.logo(ghRawURL + 'tiktok-rss.png')
