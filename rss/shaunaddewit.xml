@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>shaunaddewit TikTok</title>
+    <title>shaunaddewit</title>
     <link>https://raw.githubusercontent.com/livleh/tiktok-rss-flat/main/rss/shaunaddewit.xml</link>
     <description>OK Boomer, all the latest TikToks from shaunaddewit</description>
     <atom:link href="https://raw.githubusercontent.com/livleh/tiktok-rss-flat/main/rss/shaunaddewit.xml" rel="self"/>
@@ -9,7 +9,7 @@
     <generator>python-feedgen</generator>
     <image>
       <url>https://raw.githubusercontent.com/livleh/tiktok-rss-flat/main/tiktok-rss.png</url>
-      <title>shaunaddewit TikTok</title>
+      <title>shaunaddewit</title>
       <link>https://raw.githubusercontent.com/livleh/tiktok-rss-flat/main/rss/shaunaddewit.xml</link>
     </image>
     <language>en</language>
